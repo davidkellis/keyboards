@@ -1,0 +1,30 @@
+# KiCad backups, locks, and local cache
+*-backups/
+.history/
+fp-info-cache
+*.kicad_prl
+*.lck
+~*.lck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+*~
+_autosave-*
+\#auto_saved_files\#
+
+# Checker reports and build logs
+*.rpt
+*.log
+__pycache__/
+*.pyc
+
+# Local secrets and development dependencies
+.env
+.env.*
+!.env.example
+!.env.sample
+.venv/
+venv/
+node_modules/
+.DS_Store
+*.pyo
