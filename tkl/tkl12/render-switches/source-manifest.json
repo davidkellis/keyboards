@@ -1,0 +1,13 @@
+{
+  "assembly.js": "41a33d9a7391492b6a015d98795df72fbfb73abd770953e9d6ec6dcf87dcb8c7",
+  "build.py": "ace3fd5468334e1ab6d9f18b26cf33206d3086e0825263d640a78911f5029faf",
+  "capture.cjs": "147655d6d2cf4db483bc79173654921768f1a718111d5d5249109e1fc133debc",
+  "catalog.json": "9192371c02a2e7cfed5fce1cf5878c6b450b0f008bf5396c953c2e2e8e3b583a",
+  "final-check.cjs": "1c5b4d8ea650fe711a9320b4bdeebecd0829eccd996f64a0a2c0318904800c69",
+  "package-lock.json": "0d6bf38d2bf488468529818599cba2d68b44bf99be593a19f7b66c7bfcfefe47",
+  "package.json": "c2431810b5b85a44055933960975d14cb1dd938230ee9056be9963a00fddb307",
+  "plate_geometry.py": "9cb5b5c7fe87cba545942cd3f605c695592ba31849bbd5a2c6c56064d336687a",
+  "switch-models.js": "deb169c7c381f96a104d919c26e75916b4c42cf922fe0f110995c120c14ae4d9",
+  "template.html": "f80b5b86e22ebaf8d188721a00bae5a01b54f73e9163fb5b65c8dd923e71ae84",
+  "viewer.js": "da07f4f6e9de0d25caf8bc562a8dadaa7f195cbaaed0af77e0ac4b309bb512d3"
+}

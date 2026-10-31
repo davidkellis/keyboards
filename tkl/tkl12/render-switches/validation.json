@@ -1,0 +1,197 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-16T22:02:33.569Z",
+  "browser": "Brave / Playwright",
+  "offline": true,
+  "networkRequests": [],
+  "consoleErrors": [],
+  "combinations": [
+    {
+      "family": "choc-v2",
+      "profile": "xvx-bow",
+      "mount": "mx",
+      "plateTop": 2.2,
+      "travel": 2.8,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v2",
+      "profile": "xvx-wob",
+      "mount": "mx",
+      "plateTop": 2.2,
+      "travel": 2.8,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v2",
+      "profile": "nsa-coast",
+      "mount": "mx",
+      "plateTop": 2.2,
+      "travel": 2.8,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v2",
+      "profile": "lsa-v2",
+      "mount": "mx",
+      "plateTop": 2.2,
+      "travel": 2.8,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v2",
+      "profile": "flat",
+      "mount": "mx",
+      "plateTop": 2.2,
+      "travel": 2.8,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v2",
+      "profile": "glass",
+      "mount": "mx",
+      "plateTop": 2.2,
+      "travel": 2.8,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v1",
+      "profile": "mbk-chili",
+      "mount": "choc",
+      "plateTop": 2.2,
+      "travel": 3,
+      "customCaps": 0
+    },
+    {
+      "family": "choc-v1",
+      "profile": "mbk-glow",
+      "mount": "choc",
+      "plateTop": 2.2,
+      "travel": 3,
+      "customCaps": 6
+    },
+    {
+      "family": "choc-v1",
+      "profile": "cfx-white",
+      "mount": "choc",
+      "plateTop": 2.2,
+      "travel": 3,
+      "customCaps": 2
+    },
+    {
+      "family": "gateron-heron",
+      "profile": "xvx-bow",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.4,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-heron",
+      "profile": "xvx-wob",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.4,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-heron",
+      "profile": "nsa-coast",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.4,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-heron",
+      "profile": "lsa-v2",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.4,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-heron",
+      "profile": "flat",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.4,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-heron",
+      "profile": "glass",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.4,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-silver",
+      "profile": "xvx-bow",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.5,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-silver",
+      "profile": "xvx-wob",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.5,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-silver",
+      "profile": "nsa-coast",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.5,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-silver",
+      "profile": "lsa-v2",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.5,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-silver",
+      "profile": "flat",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.5,
+      "customCaps": 0
+    },
+    {
+      "family": "gateron-silver",
+      "profile": "glass",
+      "mount": "mx",
+      "plateTop": 2.5,
+      "travel": 3.5,
+      "customCaps": 0
+    }
+  ],
+  "assemblyCombinations": 24,
+  "sourceFilesPreserved": 32,
+  "htmlSha256": "8096c46e80774afefaf820ce34b8e9e96368e00d9a4774efa6e60c6ed662639c",
+  "checks": [
+    "family-filtered keycaps",
+    "86 caps and moving stems",
+    "family contact and peg geometry",
+    "installed heights and plate lifts",
+    "full travel per reference",
+    "custom cap width warnings",
+    "all layer visibility",
+    "explosion matrix round trip",
+    "both case editions and four plate treatments",
+    "no detached lighting or fake emissive legends",
+    "PNG download",
+    "selected GLB export",
+    "all camera presets",
+    "mobile layout"
+  ]
+}

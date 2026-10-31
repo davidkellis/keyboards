@@ -1,0 +1,129 @@
+24
+SMT
+24-hour PCB production. Fast Delivery to United States.
+ Coupons
+ Download APP
+USD 
+JLCPCB
+2
+Order Now
+My Account 
+tkl-v12-gerbers 
+Automatically saved, last updated on 16 October, 17:36
+PCB
+Bill of Materials
+Component Placements
+Quote & Order
+°
+3D
+2D
+3D
+Simplify Model
+TopBottom
+Select all bottom parts
+Bottom Designator	JLCPCB Part #	Comment	Footprint
+C1,C2
+	
+C51205
+	
+CL31B475KBHNNNE
+	
+1206
+
+
+D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86
+	
+C54110
+	
+BAT46W
+	
+SOD-123
+
+
+D87
+	
+C3034074
+	
+SS16
+	
+SMA
+
+
+J1
+	
+C131337
+	
+B2B-PH-K-S(LF)(SN)
+	
+JSTPH2.00mmTHTvertical
+
+
+L1
+	
+C167808
+	
+FNR4018S100MT
+	
+4x4x1.8mmshielded
+
+
+LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10
+	
+C575513
+	
+LTW-C230DS
+	
+1206reverse-mount
+
+
+R9,R11
+	
+C22935
+	
+0603WAF1004T5E
+	
+0603
+
+
+R10
+	
+C22775
+	
+0603WAF1000T5E
+	
+0603
+
+
+SW87
+	
+C221841
+	
+PCM12SMTR
+	
+PCM12SMTSPDT
+
+
+U2
+	
+C71045
+	
+TPS61169DCKR
+	
+SC-70-5
+NEXT
+PCB Service
+Support
+Company
+Electronics
+Mechanical
+Order on JLCONE Desktop, Save $1–$20 Every Time
+Windows
+MAC
+Android
+IOS
+CONNECT WITH US
+© 2026 JLCPCB.COM All Rights Reserved.
+Privacy Policy
+Terms & Conditions
+Cookies Policy
+Do Not Sell or Share My Personal Information

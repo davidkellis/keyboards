@@ -1,0 +1,11 @@
+{
+  "numbered_pads": 417,
+  "unique_keys": 86,
+  "circuit_issues": [],
+  "erc_errors": 0,
+  "erc_warnings": 0,
+  "drc_errors": 0,
+  "drc_warnings": 0,
+  "unconnected_items": 0,
+  "schematic_parity_issues": 0
+}

@@ -1,0 +1,119 @@
+#!/usr/bin/python3
+"""Extract fit geometry from the routed PCB. Run with KiCad's system Python."""
+import argparse
+import gc
+import hashlib
+import json
+import re
+import sys
+from pathlib import Path
+
+sys.excepthook = sys.__excepthook__
+gc.disable()
+import pcbnew as k
+
+p = argparse.ArgumentParser()
+p.add_argument('revision', type=Path)
+a = p.parse_args()
+root = a.revision.resolve()
+pcb = root / 'kicad/keyboard.kicad_pcb'
+b = k.LoadBoard(str(pcb))
+catalog = json.loads((root / 'manufacturing/parts.json').read_text())
+config_path=Path(__file__).with_name('fit-config.json')
+config=json.loads(config_path.read_text())
+parts = {r: g for g in catalog['groups'] for r in g['refs']}
+mm = k.ToMM
+edge = [d for d in b.GetDrawings() if d.GetLayer() == k.Edge_Cuts]
+points = [q for d in edge for q in (d.GetStart(), d.GetEnd())]
+x0, x1 = min(mm(q.x) for q in points), max(mm(q.x) for q in points)
+y0, y1 = min(mm(q.y) for q in points), max(mm(q.y) for q in points)
+def xy(q): return [round(mm(q.x)-x0, 6), round(y1-mm(q.y), 6)]
+
+switches, holes, components, pins = [], [], [], []
+for f in sorted(b.GetFootprints(), key=lambda f: f.GetReference()):
+    ref = f.GetReference()
+    pos = xy(f.GetPosition())
+    name = str(f.GetFPID().GetLibItemName())
+    is_key = ref.startswith('SW') and ref != 'SW87'
+    if is_key:
+        match = re.search(r'_([\d.]+)u', name)
+        assert match, name
+        switches.append(dict(ref=ref, xy=pos, units=float(match[1]), rotation=f.GetOrientationDegrees()))
+    for pad in f.Pads():
+        size = pad.GetDrillSize()
+        if not size.x: continue
+        holes.append(dict(ref=ref, pad=pad.GetNumber(), xy=xy(pad.GetPosition()),
+                          size=[mm(size.x), mm(size.y)], angle=pad.GetOrientationDegrees(),
+                          plated=pad.GetAttribute() != k.PAD_ATTRIB_NPTH))
+        # Default assembly model remains Kailh V2: alternate Gateron contacts
+        # are holes only, not a second pair of installed metal switch pins.
+        dx,dy=mm(pad.GetPosition().x-f.GetPosition().x),mm(pad.GetPosition().y-f.GetPosition().y)
+        if is_key and pad.GetNumber() and any(abs(dx-x)<1e-5 and abs(dy-y)<1e-5 for x,y in [(0,-5.9),(5,-3.8)]):
+            pins.append(dict(ref=ref, xy=xy(pad.GetPosition()), diameter=.9, depth=1.7,
+                             collar_diameter=mm(size.x)+.6))
+        if ref in ('J1', 'J5', 'U1'):
+            finish=config['surface_finish']
+            projection=(finish['module_pin_projection_max_mm'] if ref=='U1'
+                        else finish['battery_connector_pin_projection_max_mm'])
+            pins.append(dict(ref=ref, xy=xy(pad.GetPosition()), diameter=.65, depth=projection, top=True,
+                             requires_trimming=ref in ('J1','J5'),
+                             collar_diameter=mm(size.x)+.6))
+    if is_key or f.IsDNP() or parts[ref]['assembly'] not in ('SMT', 'THT-bottom'): continue
+    # Courtyard bounds include pads and installation allowance. These are deliberately
+    # conservative envelopes, not an assertion of exact manufacturer body geometry.
+    layer = k.B_CrtYd if f.GetLayer() == k.B_Cu else k.F_CrtYd
+    graphics = [d for d in f.GraphicalItems() if d.GetLayer() == layer]
+    if not graphics:
+        layer = k.B_Fab if f.GetLayer() == k.B_Cu else k.F_Fab
+        graphics = [d for d in f.GraphicalItems() if d.GetLayer() == layer]
+    boxes = [d.GetBoundingBox() for d in graphics]
+    if boxes:
+        xmin=min(mm(bb.GetLeft()) for bb in boxes)-x0
+        xmax=max(mm(bb.GetRight()) for bb in boxes)-x0
+        ymin=y1-max(mm(bb.GetBottom()) for bb in boxes)
+        ymax=y1-min(mm(bb.GetTop()) for bb in boxes)
+    else:
+        xmin,ymin=pos[0]-1.5,pos[1]-1.5
+        xmax,ymax=pos[0]+1.5,pos[1]+1.5
+    package=parts[ref]['package']
+    height=1.5
+    for token, h in [('0402',.7),('0603',1.0),('SOD-123',1.35),('SOT-23',1.2),('0805',1.45)]:
+        if token in package: height=h
+    if ref.startswith('LED'): height=1.2 if 'reverse' in package.lower() else .65
+    height={'U1':1.0,'U2':1.1,'L1':1.8,'C1':2.0,'C2':2.0,'D87':2.65,'J1':8.0,'J5':8.0,'J3':3.4,'SW87':2.0,
+            'J4':3.5,'X1':.9,'X2':1.0}.get(ref,height)
+    if ref in ('J1','J5'): # mated PH housing; leads need additional bend space
+        xmin,xmax=pos[0]-2.5,pos[0]+4.5
+        ymin,ymax=pos[1]-3.0,pos[1]+2.2
+    components.append(dict(ref=ref,mpn=parts[ref]['mpn'],side='bottom' if f.GetLayer()==k.B_Cu else 'top',
+                           bounds=[round(v,6) for v in (xmin,ymin,xmax,ymax)],height=height,
+                           envelope='conservative courtyard/body allowance; see mechanical README'))
+# Module and purchased cable are user-installed; their envelopes are explicit
+# design limits, not measurements or exact manufacturer solids.
+def extra(ref,bounds,height,z_top=0):
+    x,y,xx,yy=bounds
+    components.append(dict(ref=ref,mpn='FIT ENVELOPE - VERIFY ACTUAL PART',side='bottom',
+        bounds=[x-x0,y1-yy,xx-x0,y1-y],height=height,z_top=z_top,
+        envelope='provisional maximum permitted envelope',user_installed=True))
+m=config['module'];u=config['rear_usb']
+module=next(f for f in b.GetFootprints() if f.GetReference()=='U1')
+assert abs(module.GetOrientationDegrees())<.01
+pads={p.GetNumber():p for p in module.Pads()}
+cx=mm(module.GetPosition().x)
+cy=(mm(pads['28'].GetPosition().y)+mm(pads['12'].GetPosition().y))/2
+length=m['pcb_measured_length_width_mm'][0];width=m['model_width_with_allowance_mm']
+rear=cy-length/2;tip=rear-m['usb_socket_overhang_mm']
+extra('U1',(cx-width/2,rear,cx+width/2,cy+length/2),m['model_total_thickness_limit_mm'],-m['mounting_gap_mm'])
+# Model the protruding socket separately so the case pocket need not open at
+# the full module width. These socket dimensions still require measurement.
+sw,sh=u['socket_body_width_height_mm']
+extra('USB_SOCKET',(cx-sw/2,tip,cx+sw/2,rear),sh,-m['usb_axis_below_carrier_mm']+sh/2)
+pl,pw,ph=u['external_plug_housing_dimensions_mm']
+extra('USB_PLUG_EXTERNAL',(cx-pw/2,tip-pl,cx+pw/2,tip),ph,-m['usb_axis_below_carrier_mm']+ph/2)
+out=root/'case';out.mkdir(exist_ok=True)
+data=dict(source=str(pcb.relative_to(root)),source_sha256=hashlib.sha256(pcb.read_bytes()).hexdigest(),
+          fit_config_sha256=hashlib.sha256(config_path.read_bytes()).hexdigest(),
+          board=dict(width=x1-x0,depth=y1-y0,thickness=mm(b.GetDesignSettings().GetBoardThickness()),
+                     kicad_bounds=[x0,y0,x1,y1]),switches=switches,holes=holes,components=components,pins=pins)
+(out/'board-geometry.json').write_text(json.dumps(data,indent=2)+'\n')
+print(root.name, len(switches),'switches,',len(holes),'drilled pads,',len(components),'component envelopes')

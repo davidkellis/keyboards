@@ -1,0 +1,352 @@
+{
+  "checked": "2026-10-16",
+  "switches": {
+    "choc-v2": {
+      "name": "Kailh Choc V2 · Mini Whale",
+      "family": "Choc V2",
+      "mount": "mx",
+      "body": 15,
+      "lower": 13.95,
+      "plateTop": 2.2,
+      "stemTip": 8.6,
+      "travel": 2.8,
+      "baseColor": "#456ba2",
+      "stemColor": "#82604d",
+      "defaultCap": "xvx-bow",
+      "contacts": [
+        [
+          0,
+          5.9
+        ],
+        [
+          5,
+          3.8
+        ]
+      ],
+      "locators": [
+        [
+          -5,
+          -5.15,
+          1.35
+        ]
+      ],
+      "postDiameter": 4.8,
+      "url": "https://www.kailhswitch.com/uploads/15927/files/CPG1353S01D02-01-data-sheet.pdf",
+      "note": "Our original silent tactile Whale, CPG1353S01D02-01. Original PCB holes and 2.2 mm plate seating are preserved. MX-cross caps still need a skirt, dust-collar and stabilizer fit test."
+    },
+    "choc-v1": {
+      "name": "Kailh Choc V1 · PG1350",
+      "family": "Choc V1",
+      "mount": "choc",
+      "body": 15,
+      "lower": 13.8,
+      "plateTop": 2.2,
+      "stemTip": 8,
+      "travel": 3,
+      "baseColor": "#363b3c",
+      "stemColor": "#9d6747",
+      "defaultCap": "mbk-chili",
+      "contacts": [
+        [
+          0,
+          5.9
+        ],
+        [
+          5,
+          3.8
+        ]
+      ],
+      "locators": [
+        [
+          -5.5,
+          0,
+          1.8
+        ],
+        [
+          5.5,
+          0,
+          1.8
+        ]
+      ],
+      "postDiameter": 3.2,
+      "url": "https://m.kailhswitch.com/Content/upload/pdf/202215927/CPG135001D01-16.pdf?rnd=121",
+      "note": "PG1350 reference CPG135001D01-16: two-slot Choc caps, not MX-cross caps. Uses the original contacts and new side slots. The roughly 8.0 mm installed stem height is a drawing-based appearance estimate. Verify wide-key stabilizers and full travel."
+    },
+    "gateron-heron": {
+      "name": "Gateron LP 3.0 · Grey Heron",
+      "family": "Gateron LP 3.0",
+      "mount": "mx",
+      "body": 14.6,
+      "lower": 14,
+      "plateTop": 2.5,
+      "stemTip": 9.4,
+      "travel": 3.4,
+      "baseColor": "#e0ddd3",
+      "stemColor": "#777c7a",
+      "defaultCap": "nsa-coast",
+      "contacts": [
+        [
+          2.54,
+          5.08
+        ],
+        [
+          -3.81,
+          2.54
+        ]
+      ],
+      "locators": [
+        [
+          -5.08,
+          0,
+          1.5
+        ],
+        [
+          5.08,
+          0,
+          1.5
+        ]
+      ],
+      "postDiameter": 4.6,
+      "url": "https://www.gateron.com/u_file/2505/21/file/GateronKS-33LowProfile30GreyHeronSwitchKS-33BHB10B050NW-KS-33B.pdf",
+      "note": "KS-33BHB10B050NW-G13. The plate preview lifts 0.3 mm to the specified 2.5 mm seating height. Existing case geometry is retained for comparison; this is not a released Gateron-height case. Check clips, cap skirts, stabilizers and travel."
+    },
+    "gateron-silver": {
+      "name": "Gateron LP 3.0 · Silver",
+      "family": "Gateron LP 3.0",
+      "mount": "mx",
+      "body": 14.6,
+      "lower": 14,
+      "plateTop": 2.5,
+      "stemTip": 9.4,
+      "travel": 3.5,
+      "baseColor": "#d6d9d4",
+      "stemColor": "#d6d9d8",
+      "defaultCap": "nsa-coast",
+      "contacts": [
+        [
+          2.54,
+          5.08
+        ],
+        [
+          -3.81,
+          2.54
+        ]
+      ],
+      "locators": [
+        [
+          -5.08,
+          0,
+          1.5
+        ],
+        [
+          5.08,
+          0,
+          1.5
+        ]
+      ],
+      "postDiameter": 4.6,
+      "url": "https://www.gateron.com/u_file/2610/12/file/GATERONKS-33LowProfile30MechanicalSilverSwitchSet.pdf",
+      "note": "KS-33BS10B043NW-Y92B. Same checked V12 contact pattern; 3.5 mm maximum travel. Plate preview lifts 0.3 mm. Case, cap skirts and stabilizers need a separate mechanical fit check. This does not cover every Gateron generation or Silent Red variant."
+    }
+  },
+  "profiles": {
+    "xvx-bow": {
+      "name": "XVX Skyline R2 · BOW",
+      "mount": "mx",
+      "height": 5,
+      "width": 18,
+      "depth": 17,
+      "dish": 0.65,
+      "seat": 3,
+      "shine": true,
+      "legends": true,
+      "palette": [
+        "#e6e5df",
+        "#e6e5df",
+        "#d5d7cf"
+      ],
+      "url": "https://www.xvxchannel.com/products/xvx-skyline-r2",
+      "note": "Black-on-white Skyline-style shine-through caps. Rounded uniform silhouette; 5 mm overall height and socket seating are visual assumptions from the earlier V10 study, not vendor CAD. Check the exact 127-key kit and stabilizer positions."
+    },
+    "xvx-wob": {
+      "name": "XVX Skyline R2 · WOB",
+      "mount": "mx",
+      "height": 5,
+      "width": 18,
+      "depth": 17,
+      "dish": 0.65,
+      "seat": 3,
+      "shine": true,
+      "legends": true,
+      "palette": [
+        "#242a2e",
+        "#242a2e",
+        "#3d4749"
+      ],
+      "url": "https://www.xvxchannel.com/products/xvx-skyline-r2",
+      "note": "White-on-black version of the same approximate Skyline silhouette. Translucent legends do not imply even illumination from our ten interstitial LEDs. Dimensions and seating are appearance assumptions."
+    },
+    "nsa-coast": {
+      "name": "NuPhy nSA · COAST-inspired",
+      "mount": "mx",
+      "height": 4.6,
+      "width": 18,
+      "depth": 18,
+      "dish": 0.85,
+      "seat": 2.8,
+      "shine": false,
+      "legends": true,
+      "palette": [
+        "#9c9a95",
+        "#3e4655",
+        "#61c7b1"
+      ],
+      "url": "https://pay.nuphy.com/products/coast-twilight-nsa",
+      "note": "Broad spherical nSA-style tops and COAST Twilight-inspired colours. Approximate 4.6 mm height; exact underside, seating and colourway are not modeled. MX-cross mount is a candidate interface, not proof of Whale or full TKL kit compatibility. Standard dye-sub PBT legends are opaque.",
+      "keyColors": {
+        "Enter": "#e16c3c",
+        "Space": "#dfb92c",
+        "Esc": "#61c7b1"
+      }
+    },
+    "lsa-v2": {
+      "name": "Keychron LSA V2 · sculpted",
+      "mount": "mx",
+      "height": 5.1,
+      "width": 18,
+      "depth": 17.8,
+      "dish": 0.9,
+      "seat": 2.8,
+      "shine": false,
+      "legends": true,
+      "rowHeights": [
+        5.7,
+        5.7,
+        5.2,
+        4.8,
+        5,
+        5.4
+      ],
+      "rowSlopes": [
+        0.065,
+        0.065,
+        0.035,
+        0,
+        -0.035,
+        -0.055
+      ],
+      "palette": [
+        "#d9dad4",
+        "#525c63",
+        "#7e9c9a"
+      ],
+      "url": "https://www.keychron.com/products/low-profile-double-shot-pbt-lsa-keycap-set-version-2",
+      "note": "A sculpted LSA V2 appearance study, with different row heights and angles. Row dimensions, seating and underside are illustrative rather than measured vendor geometry. The set targets Keychron keyboards; check our MX-cross stem, wide-key stabilizers and case clearance before choosing it."
+    },
+    "flat": {
+      "name": "ScottoCaps Flat MX · FDM",
+      "mount": "mx",
+      "height": 6.7,
+      "width": 18.05,
+      "depth": 18.05,
+      "dish": 0,
+      "seat": 3,
+      "source": "flat",
+      "shine": false,
+      "legends": false,
+      "palette": [
+        "#e1ded4",
+        "#b9bfb6",
+        "#92ac99"
+      ],
+      "url": "https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoCaps/Flat",
+      "note": "Actual Joe Scotto FDM blank meshes. 6.7 mm overall including the stem; not automatically lower than a 5 mm XVX cap. All required widths are included in the mesh library. Socket, dust collar, stabilizers and print tolerances still need a fit test. CC BY-NC-SA 4.0."
+    },
+    "glass": {
+      "name": "ScottoCaps Glass MX · resin",
+      "mount": "mx",
+      "height": 5.7,
+      "width": 18.2,
+      "depth": 18.2,
+      "dish": 0,
+      "seat": 3,
+      "source": "glass",
+      "shine": false,
+      "legends": false,
+      "palette": [
+        "#e3e3da",
+        "#9daeb2",
+        "#e1b474"
+      ],
+      "url": "https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoCaps/Glass",
+      "note": "Actual Joe Scotto resin-print MX blank meshes. 5.7 mm from the central socket opening to the top; wide-key stabilizer bosses extend another 0.9 mm. Follow the designer’s resin process. All widths are modeled; physical fit remains unverified. CC BY-NC-SA 4.0."
+    },
+    "mbk-chili": {
+      "name": "MBK Colors · Chili blanks",
+      "mount": "choc",
+      "height": 3.6,
+      "width": 17.5,
+      "depth": 16.5,
+      "dish": 0.6,
+      "seat": 2.2,
+      "shine": false,
+      "legends": false,
+      "palette": [
+        "#eeeae6",
+        "#7d7c82",
+        "#b94335"
+      ],
+      "url": "https://fkcaps.com/products/mbk-colors-chili",
+      "note": "Two-slot MBK-style spherical blanks. Colors is a 133-cap range intended for broader layouts. The maker advertises full-size coverage, including modifiers and spacebar. The 3.6 mm height, width, dish and engagement here are appearance assumptions; exact stabilizers and fit still need checking."
+    },
+    "mbk-glow": {
+      "name": "MBK Legend Glow · white",
+      "mount": "choc",
+      "height": 3.6,
+      "width": 17.5,
+      "depth": 16.5,
+      "dish": 0.6,
+      "seat": 2.2,
+      "shine": true,
+      "legends": true,
+      "availableUnits": [
+        1,
+        1.5,
+        2
+      ],
+      "palette": [
+        "#e5e5de",
+        "#cacdc8",
+        "#a0b5b1"
+      ],
+      "url": "https://fkcaps.com/collections/mbk",
+      "note": "MBK Glow-style shine-through legends on the Choc two-slot interface. Appearance dimensions are assumed. Existing Glow kits focus on smaller layouts: all widths beyond 1U, 1.5U and 2U are marked as custom/unconfirmed here. Verify kit legends and quantities as well as sizes."
+    },
+    "cfx-white": {
+      "name": "Chocfox CFX · white blanks",
+      "mount": "choc",
+      "height": 3.7,
+      "width": 16.5,
+      "depth": 16.5,
+      "dish": 0.25,
+      "seat": 2.2,
+      "shine": false,
+      "legends": false,
+      "availableUnits": [
+        1,
+        1.25,
+        1.5,
+        1.75,
+        2,
+        2.25
+      ],
+      "palette": [
+        "#e6e7e2",
+        "#d7dad4",
+        "#b0c2bf"
+      ],
+      "url": "https://chosfox.com/products/chocfox-cfx-choc-keycaps",
+      "note": "Chosfox specifies a 16.5 × 16.5 × 3.7 mm 1U cap for Choc V1. Dish, socket engagement and wide shapes are approximate. The listed range stops at 2.25U: this board’s 2.75U Shift and 6.25U spacebar are custom placeholders, highlighted in amber."
+    }
+  }
+}

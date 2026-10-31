@@ -1,0 +1,60 @@
+{
+  "revision": "v12",
+  "parent": "v11",
+  "key_count": 86,
+  "soldered_switches": true,
+  "original_holes_unchanged": true,
+  "gateron_orientation_vs_kailh_deg": 0,
+  "added_contacts": [
+    {
+      "pad": "1",
+      "xy_mm": [
+        2.54,
+        -5.08
+      ],
+      "drill_mm": 1.5,
+      "copper_mm": 2.4
+    },
+    {
+      "pad": "2",
+      "xy_mm": [
+        -3.81,
+        -2.54
+      ],
+      "drill_mm": 1.5,
+      "copper_mm": 2.4
+    }
+  ],
+  "capacitor_relocation": {
+    "ref": "C2",
+    "from_mm": [
+      117.8,
+      31
+    ],
+    "to_mm": [
+      124,
+      34.5
+    ]
+  },
+  "shared_locator_slots": {
+    "centers_xy_mm": [
+      [
+        -5.29,
+        0
+      ],
+      [
+        5.29,
+        0
+      ]
+    ],
+    "size_mm": [
+      2.32,
+      1.9
+    ]
+  },
+  "new_electrical_holes": 172,
+  "new_locator_slots": 172,
+  "clipped_source_segments": 324,
+  "removed_source_vias": 9,
+  "physical_fit_verified": false
+}

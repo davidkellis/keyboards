@@ -1,0 +1,50 @@
+{
+  "revision": "v12",
+  "parent": "v11",
+  "preserved_v11_files": 470,
+  "original_pads_and_drills_preserved": 620,
+  "original_key_patterns_preserved": 86,
+  "added_gateron_contact_holes": 172,
+  "added_shared_locator_slots": 172,
+  "nominal_slot_reference_coverage": [
+    {
+      "family": "Choc V1",
+      "side": -1,
+      "uncovered_nominal_reference_area_mm2": 4.560765093188343e-16
+    },
+    {
+      "family": "Gateron LP 3.0",
+      "side": -1,
+      "uncovered_nominal_reference_area_mm2": 0.0
+    },
+    {
+      "family": "Choc V1",
+      "side": 1,
+      "uncovered_nominal_reference_area_mm2": 2.280382546594235e-16
+    },
+    {
+      "family": "Gateron LP 3.0",
+      "side": 1,
+      "uncovered_nominal_reference_area_mm2": 0.0
+    }
+  ],
+  "minimum_added_hole_to_original_hole_web_mm": 1.304050119839268,
+  "gateron_contact_chirality_matches_official_top_view_and_kicad_mx": true,
+  "capacitor_relocated": "C2: (117.8,31) to (124,34.5) mm in KiCad coordinates",
+  "other_footprint_positions_unchanged": true,
+  "outline_and_mounts_unchanged": true,
+  "factory_bom_unchanged": true,
+  "factory_placements": 106,
+  "assembly_side": "Bottom",
+  "led_count": 10,
+  "bypass_configurations_checked": 386,
+  "boost_switch_loop_unchanged": true,
+  "copper_layers": 2,
+  "finished_thickness_mm": 1.6,
+  "via_count": 331,
+  "minimum_via_drill_to_smt_land_mm": 0.19999999999999432,
+  "physical_switch_fit_verified": false,
+  "physical_optics_verified": false,
+  "hardware_tested": false,
+  "live_quote_obtained": false
+}

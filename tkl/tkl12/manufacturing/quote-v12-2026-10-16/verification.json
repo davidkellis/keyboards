@@ -1,0 +1,22 @@
+{
+  "uploaded_files_current": true,
+  "bom_groups": 10,
+  "placements_per_board": 106,
+  "all_exact_lcsc_matches_selected": true,
+  "all_matched_parts_listed_rohs": true,
+  "all_ten_leds_selected": true,
+  "pcbs": 5,
+  "pcba_qty": 5,
+  "bottom_only": true,
+  "leadfree_hasl": true,
+  "solder_paste": "High temp. SAC305 (Sn96.5/Ag3.0/Cu0.5); explicit lead-free requirement also saved for SMT and THT",
+  "rail_removal": false,
+  "cost_arithmetic_verified": true,
+  "checkout_currency": "USD",
+  "checkout_selected_carrier": "UPS Express Saver (DDP)",
+  "checkout_displayed_total": 180.26,
+  "engineer_review_surcharge_unresolved": true,
+  "prior_cart_drafts_preserved": true,
+  "submitted_order": false,
+  "paid": false
+}

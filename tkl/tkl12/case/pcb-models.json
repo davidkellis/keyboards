@@ -1,0 +1,48 @@
+{
+  "source_sha256": "6e54a80c44cbd8f677e4ebe7f50a5d5de585bf3a99f0f3c2e77402d242e16c21",
+  "production_source_unchanged": true,
+  "print_gauge_holes_enlarged": 731,
+  "extra_diameter_mm": {
+    "plated_pins": 0.4,
+    "plastic_and_mounts": 0.3
+  },
+  "models": {
+    "pcb-bare.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        350.76,
+        129.19,
+        1.53
+      ],
+      "nominal_finished_thickness_mm": 1.6,
+      "native_substrate_export_thickness_mm": 1.53,
+      "volume_mm3": 64554.1171905412,
+      "sha256": "7b4570bcb2fda5aae9b479ce55d9c92cbc404c16796c35c01f5d20ed3d8d2390"
+    },
+    "pcb-fit-check.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        350.76,
+        129.19,
+        1.6000000000000003
+      ],
+      "nominal_finished_thickness_mm": 1.6,
+      "native_substrate_export_thickness_mm": 1.53,
+      "volume_mm3": 66171.85626321775,
+      "sha256": "98ee62b12653922d339cc57d591f041647e48bd7581fe6c6d0088c77d1d9dbfd"
+    },
+    "switch-fit-coupon.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        61.099998474121094,
+        24.0,
+        1.600000023841858
+      ],
+      "nominal_finished_thickness_mm": 1.6,
+      "native_substrate_export_thickness_mm": 1.600000023841858,
+      "volume_mm3": 2132.270849558155,
+      "sha256": "72cd4ba6693ea5dfd5882c38edb39d86296e69674e2b6a192091b6606068d81f"
+    }
+  },
+  "note": "Exact model uses fabrication holes. FIT CHECK model compensates nominal printed-hole shrinkage; never use it for PCB fabrication."
+}

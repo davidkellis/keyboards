@@ -1,0 +1,16 @@
+[
+  {
+    "carrier": "DHL Express (DDP)",
+    "merchandise": 93.39,
+    "shipping": 58.26,
+    "taxes": 40.21,
+    "total": 191.86
+  },
+  {
+    "carrier": "UPS Express Saver (DDP)",
+    "merchandise": 93.39,
+    "shipping": 49.73,
+    "taxes": 37.14,
+    "total": 180.26
+  }
+]

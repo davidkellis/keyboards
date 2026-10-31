@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checkedAt": "2026-10-16T22:02:12.442Z",
+  "htmlSha256": "8096c46e80774afefaf820ce34b8e9e96368e00d9a4774efa6e60c6ed662639c",
+  "checks": [
+    "final offline HTML loaded in Brave",
+    "NuPhy individual key accent colours",
+    "MBK palette",
+    "Gateron height preview",
+    "Choc-only profile filter and custom widths",
+    "mobile layout without horizontal overflow"
+  ],
+  "pageErrors": [],
+  "networkRequests": []
+}

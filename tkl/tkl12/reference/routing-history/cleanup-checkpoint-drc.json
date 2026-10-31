@@ -1,0 +1,2287 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-10-16T16:01:02",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "schematic_parity": [],
+    "source": "keyboard.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW70",
+                    "pos": {
+                        "x": 288.13125,
+                        "y": 119.0625
+                    },
+                    "uuid": "000dd086-36fd-4d4d-8437-87ae4d3e92f5"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW43",
+                    "pos": {
+                        "x": 66.675,
+                        "y": 80.9625
+                    },
+                    "uuid": "0e9fa5a4-e904-4da3-83ae-a49b5dbe7d50"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW3",
+                    "pos": {
+                        "x": 95.25,
+                        "y": 38.1
+                    },
+                    "uuid": "0fa5efd1-2fe7-498c-b570-9363c8a14edb"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW4",
+                    "pos": {
+                        "x": 133.35,
+                        "y": 38.1
+                    },
+                    "uuid": "1328a69e-d2ec-4857-9dd3-776f7eeadca7"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW33",
+                    "pos": {
+                        "x": 366.7125,
+                        "y": 61.9125
+                    },
+                    "uuid": "145a6e60-c4d9-4e61-a7bb-0ca486b01bcb"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW34",
+                    "pos": {
+                        "x": 42.8625,
+                        "y": 80.9625
+                    },
+                    "uuid": "14cdcf93-9faf-4748-ba6a-df9a51594590"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H5",
+                    "pos": {
+                        "x": 62.03,
+                        "y": 91.59
+                    },
+                    "uuid": "15bb7139-b095-48d3-ba1e-41bf20723a58"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW39",
+                    "pos": {
+                        "x": 238.125,
+                        "y": 80.9625
+                    },
+                    "uuid": "1e8741a3-99c6-4be0-a2c5-ca8891d80fbd"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW61",
+                    "pos": {
+                        "x": 185.7375,
+                        "y": 100.0125
+                    },
+                    "uuid": "1ecab659-374a-4301-acc9-d4a420dc3950"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW30",
+                    "pos": {
+                        "x": 247.65,
+                        "y": 61.9125
+                    },
+                    "uuid": "201bf091-4cc3-4090-9c2a-f6145f17c5a0"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H11",
+                    "pos": {
+                        "x": 277.03,
+                        "y": 25.09
+                    },
+                    "uuid": "22c7086f-be5d-4da7-a6c2-5d9a6c384b46"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW18",
+                    "pos": {
+                        "x": 76.2,
+                        "y": 61.9125
+                    },
+                    "uuid": "22f3b599-9c3d-4b80-adcf-c22340078483"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW26",
+                    "pos": {
+                        "x": 95.25,
+                        "y": 61.9125
+                    },
+                    "uuid": "2368c70c-0632-47f0-9602-0486d1ed2f5e"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW29",
+                    "pos": {
+                        "x": 209.55,
+                        "y": 61.9125
+                    },
+                    "uuid": "237e50e3-3e7d-4421-a80d-0b6c145140dd"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW12",
+                    "pos": {
+                        "x": 200.025,
+                        "y": 38.1
+                    },
+                    "uuid": "23a2ef3c-3db5-4254-974b-87c7d57865d7"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW8",
+                    "pos": {
+                        "x": 304.8,
+                        "y": 38.1
+                    },
+                    "uuid": "25f56565-89f1-4424-bf8b-4e846df30626"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW20",
+                    "pos": {
+                        "x": 152.4,
+                        "y": 61.9125
+                    },
+                    "uuid": "27b4c6f5-27c0-4054-a056-a79b56ace69b"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW38",
+                    "pos": {
+                        "x": 200.025,
+                        "y": 80.9625
+                    },
+                    "uuid": "2951a488-185a-4794-aa45-e9f934f67df0"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW40",
+                    "pos": {
+                        "x": 276.225,
+                        "y": 80.9625
+                    },
+                    "uuid": "2adcc92d-5d41-4e3d-8050-3ca968f0e3ee"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW69",
+                    "pos": {
+                        "x": 233.3625,
+                        "y": 119.0625
+                    },
+                    "uuid": "2ae75acd-dcd2-493e-99ac-ffdfbe763c86"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW46",
+                    "pos": {
+                        "x": 180.975,
+                        "y": 80.9625
+                    },
+                    "uuid": "2e570039-6f10-45b9-97e6-df9e6172bb62"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H8",
+                    "pos": {
+                        "x": 358.03,
+                        "y": 99.09
+                    },
+                    "uuid": "2e7baf5a-2828-490e-94ea-00e8ad68c02f"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW58",
+                    "pos": {
+                        "x": 71.4375,
+                        "y": 100.0125
+                    },
+                    "uuid": "2f371728-f9e0-4fe9-8686-fcb31595e887"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW76",
+                    "pos": {
+                        "x": 347.6625,
+                        "y": 119.0625
+                    },
+                    "uuid": "30071f76-f9fa-4598-ae4f-4e02478f86b2"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW59",
+                    "pos": {
+                        "x": 109.5375,
+                        "y": 100.0125
+                    },
+                    "uuid": "31e0db5f-6ff8-4f45-a2e5-487ae262c40f"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H9",
+                    "pos": {
+                        "x": 35.03,
+                        "y": 25.09
+                    },
+                    "uuid": "324a42d6-c9e4-4b13-80dc-cb5681b34356"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H7",
+                    "pos": {
+                        "x": 275.53,
+                        "y": 92.09
+                    },
+                    "uuid": "34ed0206-279b-40cf-b082-627e3f058d54"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW67",
+                    "pos": {
+                        "x": 157.1625,
+                        "y": 119.0625
+                    },
+                    "uuid": "35d9d475-3d23-48d1-a961-d1f0a30163bc"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW31",
+                    "pos": {
+                        "x": 295.275,
+                        "y": 61.9125
+                    },
+                    "uuid": "3951694e-b25d-46f3-989c-dd7b03075552"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW77",
+                    "pos": {
+                        "x": 40.48125,
+                        "y": 138.1125
+                    },
+                    "uuid": "3bfd68a3-41c5-49de-8a58-94d16e81ca05"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW45",
+                    "pos": {
+                        "x": 142.875,
+                        "y": 80.9625
+                    },
+                    "uuid": "3febaf51-293c-4305-83bf-117b7b09a854"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW54",
+                    "pos": {
+                        "x": 166.6875,
+                        "y": 100.0125
+                    },
+                    "uuid": "3ffd20be-78f7-4876-b416-4d9770ac3807"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW60",
+                    "pos": {
+                        "x": 147.6375,
+                        "y": 100.0125
+                    },
+                    "uuid": "43112670-ba47-46e4-b150-c76ca3f5bc0d"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW53",
+                    "pos": {
+                        "x": 128.5875,
+                        "y": 100.0125
+                    },
+                    "uuid": "4383fb7c-66de-44be-8287-058abf6583ff"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW50",
+                    "pos": {
+                        "x": 366.7125,
+                        "y": 80.9625
+                    },
+                    "uuid": "45251779-0f16-4d16-b012-2fb7e150d85c"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW19",
+                    "pos": {
+                        "x": 114.3,
+                        "y": 61.9125
+                    },
+                    "uuid": "4872c8b5-c798-47a8-a968-1422e86b6472"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW44",
+                    "pos": {
+                        "x": 104.775,
+                        "y": 80.9625
+                    },
+                    "uuid": "4def16f7-75ca-4b8f-b3a2-501cd0bb1461"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW75",
+                    "pos": {
+                        "x": 252.4125,
+                        "y": 119.0625
+                    },
+                    "uuid": "4f25a036-2a28-48d0-8970-29bd78c12deb"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW74",
+                    "pos": {
+                        "x": 214.3125,
+                        "y": 119.0625
+                    },
+                    "uuid": "50266c4a-9dee-4b7e-9d3c-41cca08dc0e7"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW10",
+                    "pos": {
+                        "x": 114.3,
+                        "y": 38.1
+                    },
+                    "uuid": "51bf673c-a0c5-4a70-a916-f86166a3e134"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW16",
+                    "pos": {
+                        "x": 366.7125,
+                        "y": 38.1
+                    },
+                    "uuid": "55634f2b-7039-48f9-a56d-f364c97e8e40"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H2",
+                    "pos": {
+                        "x": 139.03,
+                        "y": 128.59
+                    },
+                    "uuid": "59aaad68-7923-460b-ae07-a4269f794b46"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW17",
+                    "pos": {
+                        "x": 38.1,
+                        "y": 61.9125
+                    },
+                    "uuid": "5bbe10ee-2624-49c1-9a95-f9c4bbe94685"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW27",
+                    "pos": {
+                        "x": 133.35,
+                        "y": 61.9125
+                    },
+                    "uuid": "5cbeccb9-3306-4fb4-a750-cf7056265fe4"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW24",
+                    "pos": {
+                        "x": 347.6625,
+                        "y": 61.9125
+                    },
+                    "uuid": "5ff0668d-ccb6-49b8-9f41-cb3cca3376d8"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H4",
+                    "pos": {
+                        "x": 312.03,
+                        "y": 128.09
+                    },
+                    "uuid": "61ccdee5-a8a1-4a93-84c8-9f5595102b32"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW21",
+                    "pos": {
+                        "x": 190.5,
+                        "y": 61.9125
+                    },
+                    "uuid": "6348ab48-646b-4393-a003-9cd75d298631"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H1",
+                    "pos": {
+                        "x": 62.03,
+                        "y": 128.09
+                    },
+                    "uuid": "641df8c1-b4e5-41fd-9628-1212920d2575"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW72",
+                    "pos": {
+                        "x": 138.1125,
+                        "y": 119.0625
+                    },
+                    "uuid": "677eb171-5e0b-497b-933c-301a94f94359"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW52",
+                    "pos": {
+                        "x": 90.4875,
+                        "y": 100.0125
+                    },
+                    "uuid": "6c9c6433-7596-4c5c-bd9b-657fb495abef"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW86",
+                    "pos": {
+                        "x": 366.7125,
+                        "y": 138.1125
+                    },
+                    "uuid": "6d3fe776-0bc1-4d80-b7ff-0fd64dde74c5"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW82",
+                    "pos": {
+                        "x": 347.6625,
+                        "y": 138.1125
+                    },
+                    "uuid": "6f031cc6-b8a1-4d51-bf31-11575f62d500"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW78",
+                    "pos": {
+                        "x": 95.25,
+                        "y": 138.1125
+                    },
+                    "uuid": "72c6b12b-8a3d-4880-81e0-f312a53841ed"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW42",
+                    "pos": {
+                        "x": 347.6625,
+                        "y": 80.9625
+                    },
+                    "uuid": "793a3500-c4c5-4a3e-b594-39d13064ac47"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW66",
+                    "pos": {
+                        "x": 119.0625,
+                        "y": 119.0625
+                    },
+                    "uuid": "7ac60fff-e21c-41d6-ba94-bbe4e3a79d7e"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H3",
+                    "pos": {
+                        "x": 223.53,
+                        "y": 128.59
+                    },
+                    "uuid": "7ad60136-288b-48a6-b408-bc4d3204db30"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW6",
+                    "pos": {
+                        "x": 219.075,
+                        "y": 38.1
+                    },
+                    "uuid": "816f2845-f8c8-4701-a6b0-811f515cae01"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW79",
+                    "pos": {
+                        "x": 169.06875,
+                        "y": 138.1125
+                    },
+                    "uuid": "84d72672-31da-45e1-a610-92611b1bcfaa"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW11",
+                    "pos": {
+                        "x": 161.925,
+                        "y": 38.1
+                    },
+                    "uuid": "8b0b967f-de9a-4de1-a53e-57312cf5bb9d"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW83",
+                    "pos": {
+                        "x": 66.675,
+                        "y": 138.1125
+                    },
+                    "uuid": "8d427761-7638-4327-a5ba-049af2964595"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW9",
+                    "pos": {
+                        "x": 347.6625,
+                        "y": 38.1
+                    },
+                    "uuid": "91360e6c-5651-40f2-9292-bb2374ecf051"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW68",
+                    "pos": {
+                        "x": 195.2625,
+                        "y": 119.0625
+                    },
+                    "uuid": "92b429fb-0880-45c1-a582-9a07b6df948b"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW2",
+                    "pos": {
+                        "x": 76.2,
+                        "y": 38.1
+                    },
+                    "uuid": "969baba0-d8cd-4931-8188-ed38bd45c066"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW48",
+                    "pos": {
+                        "x": 257.175,
+                        "y": 80.9625
+                    },
+                    "uuid": "973a09d7-22f4-4322-a102-8493f2b52cd2"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW35",
+                    "pos": {
+                        "x": 85.725,
+                        "y": 80.9625
+                    },
+                    "uuid": "9a2c580e-b362-4a51-9d75-91db6b5ede52"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW63",
+                    "pos": {
+                        "x": 261.9375,
+                        "y": 100.0125
+                    },
+                    "uuid": "9a3be4c6-10d7-4728-ab0d-8eb17e0f6114"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW84",
+                    "pos": {
+                        "x": 242.8875,
+                        "y": 138.1125
+                    },
+                    "uuid": "9b02fe06-726c-490d-8eeb-aa401d5f6069"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW14",
+                    "pos": {
+                        "x": 285.75,
+                        "y": 38.1
+                    },
+                    "uuid": "9dc1da6c-7fa6-4a38-bebe-04dd0a4239f4"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW73",
+                    "pos": {
+                        "x": 176.2125,
+                        "y": 119.0625
+                    },
+                    "uuid": "9ee24415-4bdb-4f85-a7cd-0fe7a2132e69"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW81",
+                    "pos": {
+                        "x": 300.0375,
+                        "y": 138.1125
+                    },
+                    "uuid": "a0016527-9bae-4cb1-afe7-23f2d2b81d7f"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW64",
+                    "pos": {
+                        "x": 50.00625,
+                        "y": 119.0625
+                    },
+                    "uuid": "a02ffea6-a830-40fe-b50e-e5b9d9493813"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW65",
+                    "pos": {
+                        "x": 80.9625,
+                        "y": 119.0625
+                    },
+                    "uuid": "a031d691-2a5b-4a98-b758-f48976b63295"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW41",
+                    "pos": {
+                        "x": 300.0375,
+                        "y": 80.9625
+                    },
+                    "uuid": "a5b88dd3-b62c-4dae-ab5c-5c820b12c112"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW5",
+                    "pos": {
+                        "x": 180.975,
+                        "y": 38.1
+                    },
+                    "uuid": "a8df2580-340a-4756-b78b-22b1efb1320e"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW7",
+                    "pos": {
+                        "x": 266.7,
+                        "y": 38.1
+                    },
+                    "uuid": "ab13db77-64ca-4fb9-99ea-277e06bc7b2d"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW85",
+                    "pos": {
+                        "x": 328.6125,
+                        "y": 138.1125
+                    },
+                    "uuid": "ab26d34b-e3b9-4fcd-a06a-e6e680d8ac76"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW36",
+                    "pos": {
+                        "x": 123.825,
+                        "y": 80.9625
+                    },
+                    "uuid": "acf4121a-74f3-45ef-abc3-618b1a17d4c8"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW51",
+                    "pos": {
+                        "x": 45.24375,
+                        "y": 100.0125
+                    },
+                    "uuid": "ae5439cf-326b-40f9-bc4d-7ad27ccc1410"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW37",
+                    "pos": {
+                        "x": 161.925,
+                        "y": 80.9625
+                    },
+                    "uuid": "b0bcf29b-d83c-44be-973c-46290bb6f1ac"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW32",
+                    "pos": {
+                        "x": 328.6125,
+                        "y": 61.9125
+                    },
+                    "uuid": "b234ae03-d085-4b94-bede-cc46adc888c9"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW80",
+                    "pos": {
+                        "x": 271.4625,
+                        "y": 138.1125
+                    },
+                    "uuid": "bb105808-1b52-4162-9ad2-a83e0ccb135c"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW62",
+                    "pos": {
+                        "x": 223.8375,
+                        "y": 100.0125
+                    },
+                    "uuid": "bb8d9d9e-f6aa-475d-833d-fb6cb26ebe84"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW49",
+                    "pos": {
+                        "x": 328.6125,
+                        "y": 80.9625
+                    },
+                    "uuid": "bd1f0fec-7ac5-4467-adcc-28ecf8c4cc09"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW47",
+                    "pos": {
+                        "x": 219.075,
+                        "y": 80.9625
+                    },
+                    "uuid": "c180f6af-0f25-476a-a3f2-a1de9a682d9a"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW25",
+                    "pos": {
+                        "x": 57.15,
+                        "y": 61.9125
+                    },
+                    "uuid": "c5a6f816-3b1b-4abc-8aa8-fda7057d499c"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW55",
+                    "pos": {
+                        "x": 204.7875,
+                        "y": 100.0125
+                    },
+                    "uuid": "c833fa1b-6881-4dc4-9785-9c35ed18e970"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H6",
+                    "pos": {
+                        "x": 172.03,
+                        "y": 90.09
+                    },
+                    "uuid": "cc6f4421-d081-44c3-a87f-0ac329a097be"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW13",
+                    "pos": {
+                        "x": 247.65,
+                        "y": 38.1
+                    },
+                    "uuid": "d11e86c3-fc94-4e82-a95d-7439d5468890"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H12",
+                    "pos": {
+                        "x": 367.03,
+                        "y": 25.09
+                    },
+                    "uuid": "d4afc899-8d21-4696-834b-4f6e34db0f28"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW15",
+                    "pos": {
+                        "x": 328.6125,
+                        "y": 38.1
+                    },
+                    "uuid": "e2de4f91-96d7-4d94-836f-62a3e1ff82a3"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW28",
+                    "pos": {
+                        "x": 171.45,
+                        "y": 61.9125
+                    },
+                    "uuid": "e70390b7-d410-4351-a10c-d3ad44f0f2c3"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW23",
+                    "pos": {
+                        "x": 266.7,
+                        "y": 61.9125
+                    },
+                    "uuid": "eb4745c2-5bab-46a8-8d53-c8e6a2706ab0"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW22",
+                    "pos": {
+                        "x": 228.6,
+                        "y": 61.9125
+                    },
+                    "uuid": "efbe4be7-e436-46ac-8805-988981262c0b"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW57",
+                    "pos": {
+                        "x": 292.89375,
+                        "y": 100.0125
+                    },
+                    "uuid": "f20b59a8-6389-4f4a-a158-c543489f6cfe"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW1",
+                    "pos": {
+                        "x": 38.1,
+                        "y": 38.1
+                    },
+                    "uuid": "f5f21667-777a-44ef-8a78-38fa4c30dfb9"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H10",
+                    "pos": {
+                        "x": 167.03,
+                        "y": 25.09
+                    },
+                    "uuid": "fb1a39db-9546-4d01-a430-336a026168c2"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW56",
+                    "pos": {
+                        "x": 242.8875,
+                        "y": 100.0125
+                    },
+                    "uuid": "fe859262-3386-4186-ab37-91de17e02ce9"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V12Switches'",
+            "items": [
+                {
+                    "description": "Footprint SW71",
+                    "pos": {
+                        "x": 100.0125,
+                        "y": 119.0625
+                    },
+                    "uuid": "feb21cb7-8e51-4235-8db4-369975701795"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint R9",
+                    "pos": {
+                        "x": 85.8,
+                        "y": 49.05
+                    },
+                    "uuid": "0403e6bb-45dd-4e1f-a9e4-fa1202aa4de5"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED2",
+                    "pos": {
+                        "x": 327.0,
+                        "y": 117.06
+                    },
+                    "uuid": "0a8d28a6-1de5-4f97-9a6b-58bab8f77f04"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED7",
+                    "pos": {
+                        "x": 128.0,
+                        "y": 71.45
+                    },
+                    "uuid": "18801b5e-ef0e-4122-88fb-bd247f760268"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED6",
+                    "pos": {
+                        "x": 204.79,
+                        "y": 119.06
+                    },
+                    "uuid": "4b4d1e18-b464-4aae-9a8b-db491efd4733"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED5",
+                    "pos": {
+                        "x": 69.7,
+                        "y": 119.06
+                    },
+                    "uuid": "630f8c4c-b572-4730-a10a-814dead43cd9"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED8",
+                    "pos": {
+                        "x": 128.6,
+                        "y": 110.04
+                    },
+                    "uuid": "6763fbaa-23d1-4001-ab5f-63ced2a412c5"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED9",
+                    "pos": {
+                        "x": 343.0,
+                        "y": 71.45
+                    },
+                    "uuid": "690572bc-b1f0-4f89-a02a-84c907fb5d56"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint J1",
+                    "pos": {
+                        "x": 338.0,
+                        "y": 24.0
+                    },
+                    "uuid": "6d8b8032-c62c-45aa-a31d-fd9a4a51e425"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V75'",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 57.15,
+                        "y": 37.49
+                    },
+                    "uuid": "6fb8aa18-76f2-4a21-8462-976765cb6906"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED3",
+                    "pos": {
+                        "x": 54.65,
+                        "y": 74.45
+                    },
+                    "uuid": "842fba27-38ae-46df-bbd8-b36676b8ca24"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED1",
+                    "pos": {
+                        "x": 285.75,
+                        "y": 71.45
+                    },
+                    "uuid": "8eb23832-2fe5-45e8-8d16-ad9d21dd15d5"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED10",
+                    "pos": {
+                        "x": 273.2,
+                        "y": 107.04
+                    },
+                    "uuid": "dc3a80b7-19f1-4ff0-ab34-6f3f0af1a46a"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint SW87",
+                    "pos": {
+                        "x": 327.03,
+                        "y": 22.5
+                    },
+                    "uuid": "e4f53553-491f-4ac5-a19a-eb9c236f2a8f"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'V7'",
+            "items": [
+                {
+                    "description": "Footprint LED4",
+                    "pos": {
+                        "x": 204.79,
+                        "y": 71.45
+                    },
+                    "uuid": "ff28f8de-6077-4c3d-9e56-76e10d7c86f4"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL6] on F.Cu, length 2.9764 mm",
+                    "pos": {
+                        "x": 293.2523,
+                        "y": 75.0625
+                    },
+                    "uuid": "ad657657-f5c6-559c-929c-961405a839a9"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL2] on B.Cu, length 4.0913 mm",
+                    "pos": {
+                        "x": 119.0625,
+                        "y": 103.6375
+                    },
+                    "uuid": "72f3d830-7f3a-5109-b468-55deb57bdfa1"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D3-A)] on B.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 100.33,
+                        "y": 39.45
+                    },
+                    "uuid": "bfc97b15-6b2c-5f26-a0b5-ca2b76a87d9b"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL5] on F.Cu, length 2.8313 mm",
+                    "pos": {
+                        "x": 311.633,
+                        "y": 38.308
+                    },
+                    "uuid": "9545ba65-b775-5fdc-9f6b-844e77e40ef0"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL5] on F.Cu, length 0.0530 mm",
+                    "pos": {
+                        "x": 308.938203,
+                        "y": 35.613203
+                    },
+                    "uuid": "b33f49ba-0958-4754-9803-fe25d1f80cc8"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL5] on F.Cu, length 0.1000 mm",
+                    "pos": {
+                        "x": 308.5,
+                        "y": 35.25
+                    },
+                    "uuid": "d19f541f-e3cd-4fd8-a1a6-0127ff750d94"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL5] on B.Cu, length 0.2000 mm",
+                    "pos": {
+                        "x": 68.2,
+                        "y": 38.0
+                    },
+                    "uuid": "7ff74693-0c6c-4d0a-9634-e803241246a1"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL5] on B.Cu, length 7.5812 mm",
+                    "pos": {
+                        "x": 70.860707,
+                        "y": 35.539293
+                    },
+                    "uuid": "8f4882eb-b456-5588-97dc-ce9b7e746683"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL5] on B.Cu, length 4.0913 mm",
+                    "pos": {
+                        "x": 233.3625,
+                        "y": 103.6375
+                    },
+                    "uuid": "f00f5672-2d4e-5082-9ac1-f543f96e5566"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL4] on F.Cu, length 0.1634 mm",
+                    "pos": {
+                        "x": 140.1,
+                        "y": 38.9
+                    },
+                    "uuid": "8e51b7ae-2ef5-5524-871c-dd0ec685c4b8"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL4] on F.Cu, length 0.5030 mm",
+                    "pos": {
+                        "x": 160.0,
+                        "y": 35.2
+                    },
+                    "uuid": "b66e7c6a-21d7-5014-9450-547dc715f29a"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL7] on F.Cu, length 0.6371 mm",
+                    "pos": {
+                        "x": 326.149508,
+                        "y": 58.650492
+                    },
+                    "uuid": "ce993669-a0e2-58f8-84e0-99012d6df99e"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL7] on B.Cu, length 3.5759 mm",
+                    "pos": {
+                        "x": 326.083961,
+                        "y": 77.591039
+                    },
+                    "uuid": "b1c9bd5e-cb7c-5a65-9752-23df9ce59c76"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D58-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 76.5175,
+                        "y": 96.2925
+                    },
+                    "uuid": "bded647a-7d2e-5058-a85d-8b8d0498026d"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D59-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 114.6175,
+                        "y": 96.2925
+                    },
+                    "uuid": "9abbb243-5485-52a7-9545-a3cd978ce73a"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D77-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 45.5613,
+                        "y": 134.3925
+                    },
+                    "uuid": "f487bea2-815c-583e-ac33-d957f62aeeea"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D53-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 133.6675,
+                        "y": 96.2925
+                    },
+                    "uuid": "eeba14a6-af7d-5157-9a88-53dc5bdf8515"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D86-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 371.7925,
+                        "y": 134.3925
+                    },
+                    "uuid": "01bb375d-e964-5f38-b5e2-72fb0f734eb6"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D82-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 352.7425,
+                        "y": 134.3925
+                    },
+                    "uuid": "abdf5ec0-85c4-531f-9259-4cc9694a10f1"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D78-A)] on B.Cu, length 2.4544 mm",
+                    "pos": {
+                        "x": 100.25,
+                        "y": 134.3125
+                    },
+                    "uuid": "a86d1b06-54a7-570a-b9b2-8efa47803f09"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D79-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 174.1488,
+                        "y": 134.3925
+                    },
+                    "uuid": "b715bce4-e162-51a7-9617-96f3d48035b4"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D83-A)] on B.Cu, length 2.4544 mm",
+                    "pos": {
+                        "x": 71.675,
+                        "y": 134.3125
+                    },
+                    "uuid": "34ea8c09-d934-5b92-ba3f-45a73f1cf1d3"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D81-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 305.1175,
+                        "y": 134.3925
+                    },
+                    "uuid": "f4cffd58-5b5c-58fa-a4f6-f9947a3689cf"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D85-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 333.6925,
+                        "y": 134.3925
+                    },
+                    "uuid": "e57d46a7-5f26-5f66-96a8-b225abc4de6a"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D62-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 228.9175,
+                        "y": 96.2925
+                    },
+                    "uuid": "c5529500-ee64-5f8e-97cc-10db5e328850"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D55-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 209.8675,
+                        "y": 96.2925
+                    },
+                    "uuid": "91ba6bdb-29ef-5ad8-8631-4ccd4b67a084"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [Net-(D57-A)] on B.Cu, length 2.3700 mm",
+                    "pos": {
+                        "x": 297.9738,
+                        "y": 96.2925
+                    },
+                    "uuid": "22f7f879-34f2-5da8-bbbe-34986fd418f2"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 0.0332 mm",
+                    "pos": {
+                        "x": 234.567027,
+                        "y": 136.396027
+                    },
+                    "uuid": "cb093909-6e91-42e9-ba88-dddc2381b9c7"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [BL_EN] on F.Cu, length 1.6025 mm",
+                    "pos": {
+                        "x": 97.6,
+                        "y": 29.9
+                    },
+                    "uuid": "e6f3d9ff-c81a-5fd9-8f24-3aaea4059246"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [GND] on B.Cu, length 0.0250 mm",
+                    "pos": {
+                        "x": 119.3,
+                        "y": 31.0
+                    },
+                    "uuid": "a86b0702-de36-4e22-af34-2d2fcd49fd51"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [LED_FB] on F.Cu, length 0.1414 mm",
+                    "pos": {
+                        "x": 98.9,
+                        "y": 34.8
+                    },
+                    "uuid": "a31efb3d-1a31-4815-8079-f7e479f63604"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [LED_FB] on F.Cu, length 0.1414 mm",
+                    "pos": {
+                        "x": 98.4,
+                        "y": 31.6
+                    },
+                    "uuid": "d95bf702-acff-4b27-a32f-f46cfe77c689"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [LED_FB] on B.Cu, length 3.6096 mm",
+                    "pos": {
+                        "x": 101.8,
+                        "y": 44.5
+                    },
+                    "uuid": "ec30a19a-d23e-4ab0-9ebe-902c8c6159bc"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 3.8564 mm",
+                    "pos": {
+                        "x": 369.7,
+                        "y": 81.2
+                    },
+                    "uuid": "6c7179a8-d775-54bd-897e-53cd4a56b831"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 0.0282 mm",
+                    "pos": {
+                        "x": 369.7,
+                        "y": 79.3
+                    },
+                    "uuid": "b2532a0e-0e86-457e-ba77-6b335743f926"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW10] on B.Cu, length 5.1020 mm",
+                    "pos": {
+                        "x": 270.5517,
+                        "y": 142.9462
+                    },
+                    "uuid": "491c6f10-92a9-5e32-b37f-4f2c4857efe9"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [LED_LINK_6] on B.Cu, length 0.1000 mm",
+                    "pos": {
+                        "x": 210.2,
+                        "y": 118.1
+                    },
+                    "uuid": "ba99a5dc-51ac-41af-9555-8ad731dc9726"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [LED_LINK_6] on B.Cu, length 0.1000 mm",
+                    "pos": {
+                        "x": 210.2,
+                        "y": 118.1
+                    },
+                    "uuid": "f7645e2b-6b8c-43b4-891a-56e78ed9cc56"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        }
+    ]
+}
