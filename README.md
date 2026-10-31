@@ -11,6 +11,7 @@ Each major version has one commit; decimal variants stay with their major versio
 | [v2](tkl/tkl2/) | Early PCB and schematic revision |
 | [v3](tkl/tkl3/) | Early PCB and schematic revision |
 | [v4](tkl/tkl4/) | PCB and case design |
+| [v5](tkl/tkl5/) | PCB and case refinement |
 
 These are design and prototype files. Check each revision's notes for its
 validation status, fit assumptions, and production limitations.
