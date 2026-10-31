@@ -1,0 +1,36 @@
+{
+  "source_sha256": "c65c6059a62fc70cf3a4de8619cececb4723283b4e479518eebff11c9bf9f572",
+  "production_source_unchanged": true,
+  "print_gauge_holes_enlarged": 387,
+  "extra_diameter_mm": {
+    "plated_pins": 0.4,
+    "plastic_and_mounts": 0.3
+  },
+  "models": {
+    "pcb-bare.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        350.76,
+        129.19,
+        1.53
+      ],
+      "nominal_finished_thickness_mm": 1.6,
+      "native_substrate_export_thickness_mm": 1.53,
+      "volume_mm3": 65961.81201564934,
+      "sha256": "4d36cedf154ea9b156370fb0da9d12ca475efb2495dc4b839d0c6154c3a9ca00"
+    },
+    "pcb-fit-check.stl": {
+      "watertight": true,
+      "bounds_mm": [
+        350.76,
+        129.19,
+        1.6000000000000003
+      ],
+      "nominal_finished_thickness_mm": 1.6,
+      "native_substrate_export_thickness_mm": 1.53,
+      "volume_mm3": 68190.32829699271,
+      "sha256": "0cff81e31986ec5f5b4f50f854478326cca974156f16410de526d70629d57ca1"
+    }
+  },
+  "note": "Exact model uses fabrication holes. FIT CHECK model compensates nominal printed-hole shrinkage; never use it for PCB fabrication."
+}

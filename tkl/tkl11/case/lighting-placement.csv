@@ -1,0 +1,11 @@
+LED,Row,X from left mm,Y from front mm,KiCad X mm,KiCad Y mm,Retained in six-source mode
+LED1,upper,258.72,77.74,285.75,71.45,True
+LED2,lower,299.97,32.13,327.0,117.06,True
+LED3,upper,27.62,74.74,54.65,74.45,True
+LED4,upper,177.76,77.74,204.79,71.45,True
+LED5,lower,42.67,30.13,69.7,119.06,True
+LED6,lower,177.76,30.13,204.79,119.06,True
+LED7,upper,100.97,77.74,128.0,71.45,False
+LED8,lower,101.57,39.15,128.6,110.04,False
+LED9,upper,315.97,77.74,343.0,71.45,False
+LED10,lower,246.17,42.15,273.2,107.04,False

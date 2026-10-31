@@ -1,0 +1,91 @@
+{
+  "revision": "v11",
+  "parent": "v10",
+  "preserved_v10_files": 520,
+  "unchanged_keys_and_matrix_diodes": 86,
+  "unchanged_m2_holes": 12,
+  "unchanged_module_and_usb": true,
+  "unchanged_original_led_positions": 1,
+  "led1_relocated_left_mm": 28.25,
+  "led1_kicad_xy_mm": [
+    285.75,
+    71.45
+  ],
+  "all_non_led_footprint_geometry_unchanged": true,
+  "copper_layers": 2,
+  "thickness_mm": 1.6,
+  "layout": "Two staggered interior rows of five",
+  "led_positions_mm": {
+    "LED1": [
+      285.75,
+      71.45
+    ],
+    "LED2": [
+      327,
+      117.06
+    ],
+    "LED3": [
+      54.65,
+      74.45
+    ],
+    "LED4": [
+      204.79,
+      71.45
+    ],
+    "LED5": [
+      69.7,
+      119.06
+    ],
+    "LED6": [
+      204.79,
+      119.06
+    ],
+    "LED7": [
+      128,
+      71.45
+    ],
+    "LED8": [
+      128.6,
+      110.04
+    ],
+    "LED9": [
+      343,
+      71.45
+    ],
+    "LED10": [
+      273.2,
+      107.04
+    ]
+  },
+  "led_count": 10,
+  "series_order_from_pcb": [
+    "LED7",
+    "LED4",
+    "LED1",
+    "LED9",
+    "LED2",
+    "LED10",
+    "LED6",
+    "LED8",
+    "LED5",
+    "LED3"
+  ],
+  "bypass_configurations_checked": 386,
+  "six_led_conversion": [
+    "Remove LED7..LED10",
+    "Wire across each removed LED footprint pads 1 and 2; LED1 remains in its relocated position"
+  ],
+  "nominal_max_current_ma": 2.04,
+  "current_sense_never_bridge": "R10",
+  "factory_placements": 106,
+  "factory_bom_groups": 10,
+  "assembly_side": "Bottom",
+  "boost_switch_node_vias": 0,
+  "boost_switch_node_length_mm": 8.1125,
+  "via_count": 251,
+  "minimum_via_drill_to_smt_land_mm": 0.19999999999999432,
+  "filled_or_capped_vias": false,
+  "physical_optics_verified": false,
+  "hardware_tested": false,
+  "live_quote_obtained": false
+}

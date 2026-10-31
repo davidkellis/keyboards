@@ -1,0 +1,21 @@
+{
+  "uploaded_files_current": true,
+  "bom_groups": 10,
+  "placements_per_board": 106,
+  "all_exact_lcsc_matches_selected": true,
+  "all_matched_parts_listed_rohs": true,
+  "saved_cart_bom_has_no_unselected_parts": true,
+  "pcbs": 5,
+  "pcba_qty": 5,
+  "bottom_only": true,
+  "leadfree_hasl": true,
+  "solder_paste": "High temp.; explicit lead-free requirement for SMT and THT in saved assembly remark",
+  "rail_removal": false,
+  "cost_arithmetic_verified": true,
+  "checkout_currencies": "USD",
+  "checkout_lowest_carrier": "UPS Express Saver DDP",
+  "checkout_lowest_displayed_total": 179.8,
+  "engineer_review_surcharge_unresolved": true,
+  "submitted_order": false,
+  "paid": false
+}

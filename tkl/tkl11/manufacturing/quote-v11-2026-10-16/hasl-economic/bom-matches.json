@@ -1,0 +1,42 @@
+[
+  {
+    "text": "C1,C2\n\t\nCL31B475KBHNNNE\n\t\n1206\n\t\nCL31B475KBHNNNE\nC51205\n4.7uF 50V X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS\n\t\n18\n\t\nJLCPCB\n\t\nExtended\n\t\n$1.5624\n\t",
+    "selected": true
+  },
+  {
+    "text": "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86\n\t\nBAT46W\n\t\nSOD-123\n\t\nBAT46W\nC54110\n1 Independent 100V 150mA 1V@250mA 2uA@75V 750mA SOD-123 Schottky Diodes ROHS\n\t\n438\n\t\nJLCPCB\n\t\nExtended\n\t\n$10.6872\n\t",
+    "selected": true
+  },
+  {
+    "text": "D87\n\t\nSS16\n\t\nSMA\n\t\nSS16\nC3034074\n-55℃~+175℃ 1 Independent 1A 30A 50uA@60V 60V 700mV@1A SMA Schottky Diodes ROHS\n\t\n15\n\t\nJLCPCB\n\t\nExtended\n\t\n$0.3660\n\t",
+    "selected": true
+  },
+  {
+    "text": "J1\n\t\nB2B-PH-K-S(LF)(SN)\n\t\nJSTPH2.00mmTHTvertical\n\t\nB2B-PH-K-S(LF)(SN)\nC131337\n-25℃~+85℃ 1 100V 1x2P 2 2A 2P 2mm 4.5mm 5.9mm 6mm Brass K Pin PA66 PH Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS\n\t\n6\n\t\nJLCPCB\n\t\nExtended\n\t\n$0.2130\n\t",
+    "selected": true
+  },
+  {
+    "text": "L1\n\t\nFNR4018S100MT\n\t\n4x4x1.8mmshielded\n\t\nFNR4018S100MT\nC167808\n1.2A 1.6A 10uH 234mΩ Magnetic Shielded Inductor ±20% SMD,4x4mm Power Inductors ROHS\n\t\n9\n\t\nJLCPCB\n\t\nExtended\n\t\n$0.4176\n\t",
+    "selected": true
+  },
+  {
+    "text": "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10\n\t\nLTW-C230DS\n\t\n1206reverse-mount\n\t\nLTW-C230DS\nC575513 \n-30℃~+85℃ 130° 20mA 3.2V 315mcd 72mW Discrete Diode Reverse Mount White Yellow Lens 1206 LED Indication - Discrete ROHS\n\t\n52\n\t\nJLCPCB\n\t\nExtended\n\t\n$4.2380\n\t",
+    "selected": true
+  },
+  {
+    "text": "R9,R11\n\t\n0603WAF1004T5E\n\t\n0603\n\t\n0603WAF1004T5E\nC22935\n-55℃~+155℃ 100mW 1MΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS\n\t\n10\n\t\nJLCPCB\n\t\nBasic\n\t\n$0.0210\n\t",
+    "selected": true
+  },
+  {
+    "text": "R10\n\t\n0603WAF1000T5E\n\t\n0603\n\t\n0603WAF1000T5E\nC22775\n-55℃~+155℃ 100mW 100Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS\n\t\n5\n\t\nJLCPCB\n\t\nBasic\n\t\n$0.0125\n\t",
+    "selected": true
+  },
+  {
+    "text": "SW87\n\t\nPCM12SMTR\n\t\nPCM12SMTSPDT\n\t\nPCM12SMTR\nC221841\n-20℃~+85℃ 6V PC Pin Rectangular Columnar SPDT Surface Mount,Vertical SMD Slide Switches ROHS\n\t\n5\n\t\nJLCPCB\n\t\nExtended\n\t\n$6.3300\n\t",
+    "selected": true
+  },
+  {
+    "text": "U2\n\t\nTPS61169DCKR\n\t\nSC-70-5\n\t\nTPS61169DCKR\nC71045\n-40℃~+125℃ 1 1.2MHz 1.8A 2.7V~38V 2.7V~5.5V Boost Built-in DC-DC PWM Short Circuit Protection、Over Voltage Protection、Over-Temperature Protection (OTP)、LED open-circuit protection、Built-in soft-start SC-70-5 LED Drivers ROHS\n\t\n5\n\t\nJLCPCB\n\t\nExtended\n\t\n$1.6070\n\t",
+    "selected": true
+  }
+]

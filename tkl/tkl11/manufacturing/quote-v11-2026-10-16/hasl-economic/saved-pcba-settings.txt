@@ -1,0 +1,30 @@
+Product Detail
+PCBA Parameters
+Bill of Material
+Part Placement
+PCBA Type	Economic
+Assembly Side	Bottom Side
+PCBA Qty	5
+Tooling holes	Added by JLCPCB
+Confirm Parts Placement	Yes
+Bake Components	No
+Photo Confirmation	No
+Board Cleaning	No
+Conformal Coating (cleaning included)	No
+Packaging	Antistatic bubble film
+Special stencil	No
+Depanel boards & edge rail before delivery	No
+Solder Paste	High temp.
+Flying Probe Test	No
+Nitrogen reflow soldering	Yes (for Economic)
+Function test	No
+Assembly remark	Yes
+Remark: Lead-free solder required for all SMT and J1 through-hole joints; RoHS parts. Populate all 106 bottom-side placements per BOM/CPL. LED1-LED10 are LTW-C230DS reverse-mount LEDs: emit through unplated PCB slots toward top; pad 1 cathode, pad 2 anode. Quote any required fixture/handling charge before production. No paid rail removal; ship tooling rails attached. Controller and key switches fitted by customer.
+
+File provided as	Complete File, just proceed with my own files
+Panel Format	1 * 1
+Build Time	2 - 3 days
+Stencil Storage	No
+Fixture Storage	No
+Gross Weight	0.04 kg
+Product Description	Office Appliance and Accessories/Keyboard - HS Code 847330

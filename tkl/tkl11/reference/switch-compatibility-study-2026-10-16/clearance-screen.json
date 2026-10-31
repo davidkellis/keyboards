@@ -1,0 +1,5347 @@
+{
+  "method": "Conservative 2D clearance screen, not DRC or a routed proposal. Existing pad bounding boxes are conservative; zones excluded. No CAD changed.",
+  "cases": {
+    "choc_v1_add_two_alignment_holes": {
+      "new_holes_per_board": 172,
+      "switch_sites_with_existing_copper_conflicts": 86,
+      "unique_items": 157,
+      "foreign_pad_refs": [],
+      "sites": [
+        {
+          "switch": "SW70",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D70-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW43",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D43-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW3",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D3-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW4",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D4-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW33",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D33-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW5",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW34",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D34-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW39",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D39-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW61",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D61-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW30",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D30-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW18",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D18-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW26",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D26-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW29",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D29-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW12",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D12-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW8",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D8-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW20",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D20-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW38",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D38-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW40",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D40-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW69",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D69-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW46",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D46-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW58",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D58-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW76",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D76-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW59",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL1",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D59-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW67",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D67-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW31",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D31-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW77",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D77-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW10",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW45",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D45-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW54",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D54-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW60",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D60-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW53",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D53-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW50",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D50-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW19",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D19-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW44",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D44-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW75",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D75-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW74",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D74-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW10",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D10-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW16",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D16-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW17",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D17-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW27",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "LED_HV",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D27-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW24",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D24-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW21",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D21-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW72",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D72-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW52",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D52-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW86",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D86-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW82",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D82-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW78",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D78-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW42",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D42-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW66",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D66-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW6",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D6-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW79",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D79-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW11",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D11-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW83",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D83-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW9",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D9-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW68",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D68-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW2",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D2-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW48",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D48-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW35",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D35-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW63",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D63-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW84",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D84-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW14",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D14-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW73",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D73-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW81",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D81-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW64",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D64-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW65",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D65-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW41",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D41-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW5",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D5-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW7",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D7-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW85",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D85-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW36",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D36-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW51",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D51-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW37",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D37-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW32",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D32-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW80",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW10",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D80-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW62",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D62-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW49",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D49-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW47",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D47-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW25",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW6",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D25-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW55",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D55-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW13",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D13-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW15",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW28",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D28-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW23",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D23-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW22",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D22-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW57",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL6",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D57-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW1",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D1-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW56",
+          "holes": [
+            {
+              "local_xy": [
+                -5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D56-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW71",
+          "holes": [
+            {
+              "local_xy": [
+                5.5,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D71-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mx_pattern_add_two_contacts": {
+      "new_holes_per_board": 172,
+      "switch_sites_with_existing_copper_conflicts": 32,
+      "unique_items": 172,
+      "foreign_pad_refs": [
+        "U2"
+      ],
+      "sites": [
+        {
+          "switch": "SW3",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "BL_EN",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_FB",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW33",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW34",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW18",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW5",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "ROW5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW5",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW26",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL1",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL1",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW8",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL7",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW38",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW69",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW58",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW76",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW45",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW50",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW44",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL1",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL1",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW10",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "via",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "pad_bbox",
+                  "net": "BAT_SW",
+                  "ref": "U2"
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "BAT_SW",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW17",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW21",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW42",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW6",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW11",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW9",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL8",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW68",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_7",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW2",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW48",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW14",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL6",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW64",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW10",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW65",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_8",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_8",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW41",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW5",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW32",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW6",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW25",
+          "holes": [
+            {
+              "local_xy": [
+                -2.54,
+                -5.08
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW10",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW3",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "ROW10",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW10",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW23",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL6",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW1",
+          "holes": [
+            {
+              "local_xy": [
+                3.81,
+                -2.54
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "mx_pattern_add_two_alignment_holes": {
+      "new_holes_per_board": 172,
+      "switch_sites_with_existing_copper_conflicts": 86,
+      "unique_items": 142,
+      "foreign_pad_refs": [],
+      "sites": [
+        {
+          "switch": "SW70",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D70-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW43",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW9",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW7",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D43-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW3",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D3-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW4",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D4-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW33",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D33-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW34",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D34-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW4",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW39",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D39-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW61",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D61-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW30",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D30-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW18",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D18-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW26",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D26-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW29",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D29-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW12",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D12-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW8",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D8-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "COL7",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW20",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D20-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW38",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D38-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW40",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D40-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW69",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D69-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW46",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D46-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW58",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D58-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW76",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D76-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW59",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL1",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D59-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW67",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D67-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW31",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D31-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW77",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D77-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW45",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D45-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW54",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D54-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW60",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D60-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW53",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D53-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW50",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D50-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW19",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D19-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW44",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D44-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW75",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D75-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW74",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_LINK_6",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D74-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW10",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D10-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW16",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D16-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW17",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D17-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW27",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL2",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "LED_HV",
+                  "ref": null
+                },
+                {
+                  "kind": "via",
+                  "net": "LED_HV",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D27-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW24",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D24-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW21",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D21-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW72",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D72-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW52",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D52-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW86",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D86-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW82",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D82-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW78",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D78-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW42",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D42-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW66",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D66-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW6",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D6-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW79",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D79-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW11",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D11-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW83",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D83-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW9",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D9-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW68",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D68-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW2",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D2-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "GND",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW48",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D48-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW35",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D35-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW63",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D63-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW84",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW11",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D84-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW14",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D14-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW73",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL3",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D73-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW81",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D81-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW64",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL0",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D64-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW65",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D65-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW41",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D41-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW5",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D5-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW7",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D7-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW85",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D85-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW36",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D36-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW51",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D51-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW37",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D37-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW32",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D32-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW80",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "ROW10",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D80-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW62",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL4",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D62-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW49",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D49-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW47",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D47-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW25",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D25-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW3",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "ROW3",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW55",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D55-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW13",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D13-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW15",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                },
+                {
+                  "kind": "track",
+                  "net": "Net-(D15-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW28",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D28-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW23",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D23-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW22",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D22-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW57",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL6",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D57-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW1",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D1-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW56",
+          "holes": [
+            {
+              "local_xy": [
+                -5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "COL5",
+                  "ref": null
+                }
+              ]
+            },
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D56-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "switch": "SW71",
+          "holes": [
+            {
+              "local_xy": [
+                5.08,
+                0
+              ],
+              "hits": [
+                {
+                  "kind": "track",
+                  "net": "Net-(D71-A)",
+                  "ref": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

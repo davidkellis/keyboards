@@ -1,0 +1,223 @@
+{
+  "source_url": null,
+  "date": "2026-10-15",
+  "interpretation": [
+    "Two staggered interior rows of five, distributed across left, alpha and navigation areas",
+    "Place optical entries beneath connected solid acrylic between switch openings, away from peripheral dead ends",
+    "Keep reverse-mounted LEDs and bottom-only assembly; preserve the requested LED1 location below Backspace"
+  ],
+  "rows": {
+    "upper": [
+      "LED3",
+      "LED7",
+      "LED4",
+      "LED1",
+      "LED9"
+    ],
+    "lower": [
+      "LED5",
+      "LED8",
+      "LED6",
+      "LED10",
+      "LED2"
+    ]
+  },
+  "series_order": [
+    "LED7",
+    "LED4",
+    "LED1",
+    "LED9",
+    "LED2",
+    "LED10",
+    "LED6",
+    "LED8",
+    "LED5",
+    "LED3"
+  ],
+  "placement_method": "Grid candidates near five lighting zones per row; rank local acrylic area and slot-edge clearance; reject component, mount and expanded case collisions",
+  "optical_validation": "Geometry-based prototype placement only; no ray tracing or measured brightness/uniformity",
+  "original_pcb_sha256": "4456e89d6501651aeac43d2a2409291676b8e4946681f2e03b937c7b9388e4d9",
+  "placements": [
+    {
+      "ref": "LED3",
+      "previous_kicad_xy": [
+        85.72,
+        71.45
+      ],
+      "kicad_xy": [
+        54.65,
+        74.45
+      ],
+      "board_xy": [
+        27.62,
+        74.74
+      ],
+      "row": "upper",
+      "acrylic_slot_rect_edge_clearance_mm": 3.662500000000001,
+      "local_acrylic_area_within_12mm_radius_mm2": 251.9724914000062
+    },
+    {
+      "ref": "LED7",
+      "previous_kicad_xy": [
+        128.0,
+        51.8
+      ],
+      "kicad_xy": [
+        128.0,
+        71.45
+      ],
+      "board_xy": [
+        100.97,
+        77.74
+      ],
+      "row": "upper",
+      "acrylic_slot_rect_edge_clearance_mm": 1.03749999999998,
+      "local_acrylic_area_within_12mm_radius_mm2": 199.70610631530042
+    },
+    {
+      "ref": "LED4",
+      "previous_kicad_xy": [
+        180.97,
+        71.45
+      ],
+      "kicad_xy": [
+        204.79,
+        71.45
+      ],
+      "board_xy": [
+        177.76,
+        77.74
+      ],
+      "row": "upper",
+      "acrylic_slot_rect_edge_clearance_mm": 1.03749999999998,
+      "local_acrylic_area_within_12mm_radius_mm2": 199.44064392937307
+    },
+    {
+      "ref": "LED1",
+      "previous_kicad_xy": [
+        285.75,
+        71.45
+      ],
+      "kicad_xy": [
+        285.75,
+        71.45
+      ],
+      "board_xy": [
+        258.72,
+        77.74
+      ],
+      "row": "upper",
+      "acrylic_slot_rect_edge_clearance_mm": 1.7425286941683498,
+      "local_acrylic_area_within_12mm_radius_mm2": 250.20324843554118
+    },
+    {
+      "ref": "LED9",
+      "previous_kicad_xy": [
+        350.0,
+        51.8
+      ],
+      "kicad_xy": [
+        343.0,
+        71.45
+      ],
+      "board_xy": [
+        315.97,
+        77.74
+      ],
+      "row": "upper",
+      "acrylic_slot_rect_edge_clearance_mm": 1.03749999999998,
+      "local_acrylic_area_within_12mm_radius_mm2": 198.99521762722023
+    },
+    {
+      "ref": "LED5",
+      "previous_kicad_xy": [
+        90.49,
+        119.06
+      ],
+      "kicad_xy": [
+        69.7,
+        119.06
+      ],
+      "board_xy": [
+        42.67,
+        30.13
+      ],
+      "row": "lower",
+      "acrylic_slot_rect_edge_clearance_mm": 2.4937500000000057,
+      "local_acrylic_area_within_12mm_radius_mm2": 261.002499862371
+    },
+    {
+      "ref": "LED8",
+      "previous_kicad_xy": [
+        243.0,
+        51.8
+      ],
+      "kicad_xy": [
+        128.6,
+        110.04
+      ],
+      "board_xy": [
+        101.57,
+        39.15
+      ],
+      "row": "lower",
+      "acrylic_slot_rect_edge_clearance_mm": 1.4916140586626128,
+      "local_acrylic_area_within_12mm_radius_mm2": 203.67681039895675
+    },
+    {
+      "ref": "LED6",
+      "previous_kicad_xy": [
+        204.79,
+        119.06
+      ],
+      "kicad_xy": [
+        204.79,
+        119.06
+      ],
+      "board_xy": [
+        177.76,
+        30.13
+      ],
+      "row": "lower",
+      "acrylic_slot_rect_edge_clearance_mm": 1.397500000000008,
+      "local_acrylic_area_within_12mm_radius_mm2": 202.5276584860836
+    },
+    {
+      "ref": "LED10",
+      "previous_kicad_xy": [
+        350.0,
+        128.585
+      ],
+      "kicad_xy": [
+        273.2,
+        107.04
+      ],
+      "board_xy": [
+        246.17,
+        42.15
+      ],
+      "row": "lower",
+      "acrylic_slot_rect_edge_clearance_mm": 3.137499999999988,
+      "local_acrylic_area_within_12mm_radius_mm2": 281.2919716606039
+    },
+    {
+      "ref": "LED2",
+      "previous_kicad_xy": [
+        313.9,
+        119.06
+      ],
+      "kicad_xy": [
+        327.0,
+        117.06
+      ],
+      "board_xy": [
+        299.97,
+        32.13
+      ],
+      "row": "lower",
+      "acrylic_slot_rect_edge_clearance_mm": 12.537499999999966,
+      "local_acrylic_area_within_12mm_radius_mm2": 451.6629826386154
+    }
+  ],
+  "case_adjustment": "LED10 shifted to (273.2,107.04) to avoid the existing bottom-case support while remaining in the lower right-center zone"
+}

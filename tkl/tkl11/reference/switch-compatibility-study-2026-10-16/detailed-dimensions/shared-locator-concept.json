@@ -1,0 +1,79 @@
+{
+  "status": "Geometric concept only; not a fabrication specification or physical fit approval",
+  "conclusion": "Shared side locator slots are geometrically possible without changing or joining existing Choc V2 holes. Previous exclusion of Choc V1 solely because separate round holes overlap was too restrictive.",
+  "candidate_nominal_slot_mm": {
+    "width": 1.9,
+    "length": 2.32,
+    "right_centerline_endpoints": [
+      [
+        5.08,
+        0
+      ],
+      [
+        5.5,
+        0
+      ]
+    ],
+    "left_centerline_endpoints": [
+      [
+        -5.5,
+        0
+      ],
+      [
+        -5.08,
+        0
+      ]
+    ]
+  },
+  "reference_hole_coverage": [
+    {
+      "family": "Choc V1",
+      "side": -1,
+      "hole_center_xy_mm": [
+        -5.5,
+        0
+      ],
+      "diameter_mm": 1.9,
+      "uncovered_area_mm2": 1.8123062281026318e-16
+    },
+    {
+      "family": "Choc V1",
+      "side": 1,
+      "hole_center_xy_mm": [
+        5.5,
+        0
+      ],
+      "diameter_mm": 1.9,
+      "uncovered_area_mm2": 1.651650940526249e-16
+    },
+    {
+      "family": "Gateron 3.0",
+      "side": -1,
+      "hole_center_xy_mm": [
+        -5.08,
+        0
+      ],
+      "diameter_mm": 1.7,
+      "uncovered_area_mm2": 0.0
+    },
+    {
+      "family": "Gateron 3.0",
+      "side": 1,
+      "hole_center_xy_mm": [
+        5.08,
+        0
+      ],
+      "diameter_mm": 1.7,
+      "uncovered_area_mm2": 0.0
+    }
+  ],
+  "minimum_separation_from_current_choc_v2_drills_mm": 1.605,
+  "limits": [
+    "Check actual molded pegs, hole tolerances and plate retention before choosing final slot size",
+    "Additional Gateron electrical contacts and PCB rerouting remain necessary",
+    "Gateron contact orientation and switch plate height remain separate considerations",
+    "Current Kailh center/contact/corner support holes can stay intact",
+    "Hot-swap sockets are not covered by this soldered-footprint concept"
+  ],
+  "production_files_changed": false
+}

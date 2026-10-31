@@ -1,0 +1,18 @@
+{
+  "status": "2D optical/fit trial, not production plate or complete hidden-mount case upper",
+  "dimensions_mm": [
+    350.76,
+    129.19
+  ],
+  "nominal_stock_thickness_mm": 1.5,
+  "switch_opening_mm": 14.15,
+  "layers": {
+    "CUT": "Perimeter and diagnostic switch/stabilizer loops only; no LED holes",
+    "POCKET_0_6MM_UNDERSIDE": "0.6 mm blind pockets under module/connector tails, preserving 0.9 mm roof in 1.5 mm stock",
+    "ETCH_OPTIONAL_UNDERSIDE": "Experimental optical entry areas; no through cuts, not a finished extraction or coupler pattern",
+    "M2_REFERENCE_NOT_CUT": "Existing PCB mounting coordinates; acrylic retention still needs a chosen case interface"
+  },
+  "tool_compensation_applied": false,
+  "corner_dogbones_applied": false,
+  "physical_switch_clip_fit_verified": false
+}

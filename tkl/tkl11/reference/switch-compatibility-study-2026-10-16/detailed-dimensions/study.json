@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-16",
+  "purpose": "Expanded dimensional research; production V11 unchanged",
+  "board_sha256_unchanged": "c65c6059a62fc70cf3a4de8619cececb4723283b4e479518eebff11c9bf9f572",
+  "row_count": 10,
+  "dimensions": [
+    {
+      "family": "Kailh Choc V2 Red/Brown/Blue",
+      "exact_part": "CPG135301D01 / D02 / D03",
+      "body_xy_mm": "15 x 15",
+      "installed_stem_height_mm": "8.6 nominal",
+      "travel_mm": "3.2 +/-0.25",
+      "plate_top_above_pcb_mm": "2.2",
+      "center_hole_mm": "5.0 recommended; V11 has 5.05",
+      "contact_xy_v11_axes_mm": "(0,-5.9); (5,-3.8)",
+      "extra_locators_mm": "Auxiliary corner support at (-5,5.15), already in V11",
+      "evidence": "Exact manufacturer drawings checked",
+      "v11_status": "PCB compatible; verify additional 0.4 mm travel against caps/case",
+      "kailh_preservation": "No PCB change",
+      "source": "https://www.kailh.net/products/kailh-choc-v2-low-profile-switch-set"
+    },
+    {
+      "family": "Kailh Choc V2 silent linear reference",
+      "exact_part": "CPG1353S01D01-01",
+      "body_xy_mm": "15 x 15",
+      "installed_stem_height_mm": "8.6 nominal",
+      "travel_mm": "2.8 +/-0.25",
+      "plate_top_above_pcb_mm": "2.2",
+      "center_hole_mm": "5.0 recommended; V11 has 5.05",
+      "contact_xy_v11_axes_mm": "(0,-5.9); (5,-3.8)",
+      "extra_locators_mm": "Auxiliary corner support at (-5,5.15), already in V11",
+      "evidence": "Exact -01 manufacturer drawing checked; do not equate every Island/Pink retail suffix with -01",
+      "v11_status": "PCB and nominal height/travel compatible",
+      "kailh_preservation": "No PCB change",
+      "source": "https://www.kailhswitch.com/uploads/15927/files/CPG1353S01D01-01-data-sheet.pdf"
+    },
+    {
+      "family": "Kailh full-POM PG1353D reference",
+      "exact_part": "CPG1353D01D01-16",
+      "body_xy_mm": "15 x 15; plate interface 13.95 +/-0.05",
+      "installed_stem_height_mm": "8.6 nominal = 6.4 + 2.2",
+      "travel_mm": "2.8 +/-0.25",
+      "plate_top_above_pcb_mm": "2.2",
+      "center_hole_mm": "5.0 recommended; V11 has 5.05",
+      "contact_xy_v11_axes_mm": "(0,-5.9); (5,-3.8)",
+      "extra_locators_mm": "Auxiliary corner support at (-5,5.15), already in V11",
+      "evidence": "Exact manufacturer drawing checked. Retail brand mapping not established; drawing describes 40 gf linear, not the 50 gf retail Ghost. Page 2 shows connector/hot-swap clearance holes, not mandatory solder drill size.",
+      "v11_status": "Drawing matches relevant V11 switch mounting dimensions; plastic panel only note in manufacturer drawing",
+      "kailh_preservation": "No PCB change identified",
+      "source": "https://www.kailhswitch.com/uploads/15927/files/CPG1353D01D01-16-data-sheet.pdf"
+    },
+    {
+      "family": "Lofree Ghost / Phantom / Specter / Hades / Cloud Pulse, Surfer, Void",
+      "exact_part": "Retail model SKUs not mapped to exact factory drawing",
+      "body_xy_mm": "Not independently dimensioned per retail model",
+      "installed_stem_height_mm": "Not independently dimensioned per retail model",
+      "travel_mm": "2.8 nominal for reviewed models",
+      "plate_top_above_pcb_mm": "Not independently dimensioned per retail model",
+      "center_hole_mm": "Expected Choc V2 ecosystem; exact dimensions not published on reviewed retail pages",
+      "contact_xy_v11_axes_mm": "Expected existing Choc V2 pattern, inferred from Lofree Flow/Flow Lite interchangeability and Kailh PG1353D reference; not exact SKU verification",
+      "extra_locators_mm": "Exact sample or engineering drawing still needed",
+      "evidence": "Manufacturer platform compatibility and product specifications; inference, not exact dimensional certification",
+      "v11_status": "Strong no-change candidates; do not alter V11 holes to accommodate an unmeasured model",
+      "kailh_preservation": "Retain existing V11 geometry; sample-test new switches",
+      "source": "https://www.lofree.co/products/lofree-ghost-switches | https://www.lofree.co/products/lofree-phantom-switches | https://www.lofree.co/products/pulse-low-profile-pom-switches | https://www.lofree.co/products/void-low-profile-pom-switches"
+    },
+    {
+      "family": "Kailh Choc V1 / LowproKB Sunset / Ambients",
+      "exact_part": "CPG135001D01-16 reference for mechanical footprint; exact designer variants not separately dimensioned",
+      "body_xy_mm": "15 x 15",
+      "installed_stem_height_mm": "Approximately 8.0",
+      "travel_mm": "3.0 nominal; variant dependent",
+      "plate_top_above_pcb_mm": "2.2 nominal",
+      "center_hole_mm": "3.4 recommended; existing larger 5.05 can remain with two alignment pegs and plate retention",
+      "contact_xy_v11_axes_mm": "(0,-5.9); (5,-3.8)",
+      "extra_locators_mm": "Two 1.9 mm NPTH at (+/-5.5,0)",
+      "evidence": "Manufacturer reference drawing; LowproKB identifies Choc V1 family",
+      "v11_status": "Small footprint addition: two holes per switch plus repeated local copper reroutes. Requires two-slot Choc keycaps and stabilizer/case review. Existing XVX caps incompatible.",
+      "kailh_preservation": "Can retain all original Choc V2 holes, support and plate seating datum",
+      "source": "https://m.kailhswitch.com/Content/upload/pdf/202215927/CPG135001D01-16.pdf?rnd=121 | https://lowprokb.ca/products/sunset-tactile-choc-switches | https://lowprokb.ca/products/ambients-silent-choc-switches"
+    },
+    {
+      "family": "Gateron Low Profile 2.0 regular Red/Brown reference",
+      "exact_part": "KS-33H10B050NN-Y24 / KS-33E10B055NN-Y24",
+      "body_xy_mm": "15 x 15 top; lower mounting width 14.00 +/-0.05",
+      "installed_stem_height_mm": "Red 8.95 derived from 12.20-(5.75-2.50)",
+      "travel_mm": "3.0 +/-0.2",
+      "plate_top_above_pcb_mm": "2.5",
+      "center_hole_mm": "5.2 recommended",
+      "contact_xy_v11_axes_mm": "(-2.6,-5.75); (4.4,-4.70) before alternate rotation",
+      "extra_locators_mm": "Checked regular 3-pin drawing has no side alignment pegs",
+      "evidence": "Exact manufacturer Red/Brown reference drawings; do not equate every Keychron/NuPhy SKU with this exact geometry",
+      "v11_status": "Not a clean minor universal addition: one candidate contact drill overlaps an existing Kailh drill at LED-aligned orientation. Quarter-turn changes LED window/latches; side-facing options need component relocation/rerouting.",
+      "kailh_preservation": "Avoid shared drill slots that deform the original Kailh contact holes. Center hole needs +0.15 mm if following drawing.",
+      "source": "https://gateron.com/u_file/2311/10/file/GATERONKS-33LowProfile20RedSwitchBlackBottomHousing-KS-33H10B050NN-Y24.pdf | https://www.gateron.com/u_file/2311/10/file/GATERONKS-33LowProfile20BrownSwitchBlackBottomHousingKS-33E10B055NN-Y24.pdf"
+    },
+    {
+      "family": "Gateron Low Profile Silent 2.0",
+      "exact_part": "KS-33FJH10B045NW-X5",
+      "body_xy_mm": "14.6 x 14.6; mounting width 14.00 +/-0.05",
+      "installed_stem_height_mm": "See exact drawing; not equated with regular 2.0",
+      "travel_mm": "3.0 +/-0.2",
+      "plate_top_above_pcb_mm": "2.0 per checked drawing (different from regular 2.0)",
+      "center_hole_mm": "5.25 recommended",
+      "contact_xy_v11_axes_mm": "(-2.6,-5.75); (4.4,-4.70) before alternate rotation",
+      "extra_locators_mm": "Two positioning pegs at +/-5.08",
+      "evidence": "Exact manufacturer drawing; demonstrates generations/marketing names do not establish identical mounting geometry",
+      "v11_status": "Different contact pattern and extra pegs; not approved as minor compatibility addition",
+      "kailh_preservation": "Would require alternate orientation plus center enlargement and more mechanical work; not recommended for current revision",
+      "source": "https://www.gateron.com/u_file/2505/21/file/GateronKS-33LowProfileRedSilent20MechanicalSwitchKS-33FJH10B045NW-X5.pdf"
+    },
+    {
+      "family": "Gateron Low Profile 3.0 Grey Heron / Silver / Silent Red",
+      "exact_part": "KS-33BHB10B050NW-G13; KS-33BS10B043NW-Y92B; KS-33GJH10B045NW-X5B",
+      "body_xy_mm": "14.6 x 14.6; mounting width 14.00 +/-0.05",
+      "installed_stem_height_mm": "Grey Heron/Silver 9.40 derived; Silent Red differs and must use its own drawing",
+      "travel_mm": "Heron 3.4 max; Silver 3.5 max; Silent Red 3.2 +/-0.2",
+      "plate_top_above_pcb_mm": "2.5",
+      "center_hole_mm": "5.0 +/-0.10 recommended; existing V11 5.05 can remain",
+      "contact_xy_v11_axes_mm": "(-2.54,-5.08); (3.81,-2.54), with 180-degree alternative tested",
+      "extra_locators_mm": "Two 1.7 mm NPTH at (+/-5.08,0)",
+      "evidence": "Three exact manufacturer drawings checked; NuPhy Nano MX-pattern claims are platform evidence, not independent exact SKU approval",
+      "v11_status": "Best broader MX-stem candidate. Add two contacts and two locator holes per switch; repeated local routing; alternate plate height and optical/case validation.",
+      "kailh_preservation": "Retain original center/contact/support holes. 180-degree alternate pattern has >=1.3041 mm web to existing switch drills in this screen and no foreign component pad conflicts.",
+      "source": "https://www.gateron.com/u_file/2505/21/file/GateronKS-33LowProfile30GreyHeronSwitchKS-33BHB10B050NW-KS-33B.pdf | https://www.gateron.com/u_file/2610/12/file/GATERONKS-33LowProfile30MechanicalSilverSwitchSet.pdf | https://www.gateron.com/u_file/2610/12/file/GATERONKS-33LowProfileSilent30MechanicalRedSwitchKS-33GJH10B045NW-X5B.pdf"
+    },
+    {
+      "family": "TTC Mini White / Purple mechanical",
+      "exact_part": "Exact factory part drawing not publicly located",
+      "body_xy_mm": "Not published in reviewed primary source",
+      "installed_stem_height_mm": "9.0 published by manufacturer",
+      "travel_mm": "3.5 -0.3",
+      "plate_top_above_pcb_mm": "Not published in reviewed primary source",
+      "center_hole_mm": "Not published in reviewed primary source",
+      "contact_xy_v11_axes_mm": "Manufacturer claims shared normal-profile socket; exact dimensions not supplied",
+      "extra_locators_mm": "Not independently verified",
+      "evidence": "Manufacturer height/travel/socket compatibility only; no exact mounting drawing obtained",
+      "v11_status": "Potential MX-pattern beneficiary, not approved drop-in",
+      "kailh_preservation": "Do not modify V11 to unverified TTC dimensions",
+      "source": "https://en.ttc9.com/productdetails/6.html | https://en.ttc9.com/productdetails/7.html"
+    },
+    {
+      "family": "Cherry MX Low Profile original; Cherry LP2.0 separate qualification",
+      "exact_part": "MX1B-L2NA original; MX2B-L2NA current",
+      "body_xy_mm": "Current published body 15 x 15",
+      "installed_stem_height_mm": "Manufacturer total height 11.9 uses different datum; do not compare directly to installed stem heights",
+      "travel_mm": "3.2 +/-0.25",
+      "plate_top_above_pcb_mm": "Exact current engineering datum not established",
+      "center_hole_mm": "Original Keebio CAD footprint uses 6.25 versus V11 5.05",
+      "contact_xy_v11_axes_mm": "Original Keebio pattern normalized: (0,-6.05); (-4.13,-3.3)",
+      "extra_locators_mm": "Original Keebio CAD uses 2.3 mm offset hole at (0,-3.7)",
+      "evidence": "Original footprint designer CAD is primary design evidence, not manufacturer engineering approval for current MX2B; manufacturer current marketing datasheet lacks full mounting dimensions",
+      "v11_status": "Reject original pattern for minimal-change shared footprint: +1.20 mm center enlargement gives up original Kailh center-post fit. Current LP2.0 remains unapproved.",
+      "kailh_preservation": "Keep original Kailh center hole; do not import generic Cherry/Choc universal footprint",
+      "source": "https://github.com/keebio/Keebio-Parts.pretty/blob/master/Cherry-MX-Low-Profile.kicad_mod | https://pim.cherry-world.net/datasheet/26396?locale=en_GB"
+    }
+  ],
+  "primary_recommendation": "Preserve exact Kailh V2 geometry. First validate no-change Kailh/Lofree-family samples. If adding one broader MX-stem family, use a separate Choc V2 + MX-pattern solder footprint study and alternate Gateron plate-height variant; no generic universal enlarged-center footprint.",
+  "smallest_pcb_addition": "Two Choc V1 positioning holes per key, preserving original center and contacts, but current XVX caps do not fit. Repeated local trace reroutes still needed.",
+  "feasible_mx_expansion": "Four added holes per key at selected MX-pattern orientation; keep all existing Kailh drills. Rotation 180 has no foreign pad collisions in conservative screen and 1.3041 mm minimum web to current switch drills. Copper still conflicts at 86 key sites. Not a completed routed design.",
+  "do_not_claim": [
+    "Kailh CPG1353D01D01-16 is the exact 50 gf Lofree Ghost SKU; this was not established",
+    "All switches sold as Gateron 2.0 or 3.0 share identical geometry",
+    "Marketing support for MX caps certifies whole V11 case or stabilizer fit",
+    "A clear LED window proves improved brightness with the ten-LED acrylic guide",
+    "This study is KiCad DRC, fabrication approval, physical test, or firmware validation"
+  ],
+  "datum": "Installed stem heights refer to PCB top to switch stem tip at rest and exclude below-board pins/posts. Numbers explicitly labeled derived were calculated from manufacturer dimension chains. Retail total-height numbers use differing datums.",
+  "original_report_preserved": true,
+  "artifact_validation": {
+    "csv_rows": 10,
+    "json_parsed": true,
+    "svg_xml_parsed": true,
+    "diagram_rendered_and_visually_inspected": true
+  },
+  "cross_option_constraint": "Choc V1 side pegs at +/-5.5 mm and MX side pegs at +/-5.08 mm are only 0.42 mm apart. Their separate 1.9 and 1.7 mm holes overlap; these are alternative expansion options, not holes to add together without a separate slot/retention study.",
+  "shared_locator_followup": {
+    "file": "shared-locator-concept.json",
+    "conclusion": "Different locating post spacing does not make Choc V1 and selected Gateron 3.0 switches mutually impossible on a shared PCB. A common shaped side opening can geometrically accommodate both reference patterns while preserving the original Choc V2 holes.",
+    "qualification": "Nominal geometric coverage checked only. Final peg fit, tolerances, plate variants, alternate electrical holes, routing and manufacturing rules still need validation.",
+    "correction_to_previous_recommendation": "Excluding Choc V1 solely because its separate round locator holes overlap Gateron 3.0 locator holes was too restrictive."
+  },
+  "gateron_1_0_followup": {
+    "part": "KS-27H10B050NN-X5",
+    "source": "https://cdn.shopify.com/s/files/1/0565/8070/2297/files/SPEC-KS-27H10B050NN-X5-Low_Profile_Red_Switch.pdf",
+    "electrical_contacts_v11_axes_mm": [
+      [
+        -2.6,
+        -5.75
+      ],
+      [
+        4.4,
+        -4.7
+      ]
+    ],
+    "recommended_center_hole_mm": 5.3,
+    "note": "Original Gateron low-profile reference shares the older KS-33 contact locations, but differs in center hole recommendation; generation name alone is insufficient for mechanical fit."
+  }
+}

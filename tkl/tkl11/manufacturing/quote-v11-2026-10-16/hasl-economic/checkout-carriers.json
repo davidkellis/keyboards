@@ -1,0 +1,26 @@
+[
+  {
+    "carrier": "FedEx Express DDP",
+    "merchandise": 93.05,
+    "shipping": 77.01,
+    "duties_taxes": 50.31,
+    "total": 220.37,
+    "summary": "SUMMARY\n2 items >\nMerchandise Total\n$93.05\nShipping Estimate\n$77.01\nCustoms duties & taxes\n$50.31\nGrand Total\n$220.37\nContinue\n\nNeed some help? Explore our help pages or contact us\n\n© 2026 JLCPCB.COM All Rights Reserved. Privacy Policy Terms & Conditions"
+  },
+  {
+    "carrier": "DHL Express DDP",
+    "merchandise": 93.05,
+    "shipping": 58.25,
+    "duties_taxes": 40.09,
+    "total": 191.39,
+    "summary": "SUMMARY\n2 items >\nMerchandise Total\n$93.05\nShipping Estimate\n$58.25\nCustoms duties & taxes\n$40.09\nGrand Total\n$191.39\nContinue\n\nNeed some help? Explore our help pages or contact us\n\n© 2026 JLCPCB.COM All Rights Reserved. Privacy Policy Terms & Conditions"
+  },
+  {
+    "carrier": "UPS Express Saver DDP",
+    "merchandise": 93.05,
+    "shipping": 49.73,
+    "duties_taxes": 37.02,
+    "total": 179.8,
+    "summary": "SUMMARY\n2 items >\nMerchandise Total\n$93.05\nShipping Estimate\n$49.73\nCustoms duties & taxes\n$37.02\nGrand Total\n$179.80\nContinue\n\nNeed some help? Explore our help pages or contact us\n\n© 2026 JLCPCB.COM All Rights Reserved. Privacy Policy Terms & Conditions"
+  }
+]

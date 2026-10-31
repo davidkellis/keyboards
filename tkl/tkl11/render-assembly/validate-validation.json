@@ -1,0 +1,747 @@
+{
+  "stage": "validate",
+  "passed": true,
+  "checked_at": "2026-10-16T14:43:20.582Z",
+  "browser": "Brave / Playwright / offline file",
+  "checks": [
+    "120 case/profile/treatment/separation combinations",
+    "assembly matrices restored exactly at zero separation",
+    "ten real V11 LED locations and ten optical entry models",
+    "seven independent layer visibilities and hardware control",
+    "case transparency",
+    "86 caps and 2.8 mm key travel",
+    "socket engagement",
+    "lighting and reflector controls",
+    "no light transfer to detached plate",
+    "no luminous legends",
+    "animated assembly buttons",
+    "layer labels",
+    "auto-rotation",
+    "ten-source field normalization"
+  ],
+  "combinations": [
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "treatment": "etched",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "original",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "original",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "original",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "clear",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "clear",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "clear",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "frosted",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "frosted",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "frosted",
+      "amount": 1
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "etched",
+      "amount": 0
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "etched",
+      "amount": 0.45
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "treatment": "etched",
+      "amount": 1
+    }
+  ],
+  "errors": [],
+  "network": [],
+  "source_files_unchanged": true
+}

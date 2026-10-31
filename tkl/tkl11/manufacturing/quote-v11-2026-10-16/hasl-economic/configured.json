@@ -1,0 +1,86 @@
+{
+  "url": "https://cart.jlcpcb.com/quote",
+  "selected": [
+    "FR-4",
+    "2",
+    "Industrial/Consumer electronics",
+    "1",
+    "Single PCB",
+    "1.6mm",
+    "Green",
+    "White",
+    "FR4 TG135",
+    "LeadFree HASL",
+    "1 oz",
+    "Tented",
+    "Not Specified",
+    "0.3mm/(0.4/0.45mm)",
+    "±0.2mm(Regular)",
+    "Yes",
+    "Remove Mark",
+    "Flying Probe Fully Test",
+    "No",
+    "No",
+    "No",
+    "No",
+    "No",
+    "No",
+    "Economic",
+    "Bottom Side",
+    "5",
+    "Yes",
+    "No",
+    "No",
+    "By Customer (Self-Service)"
+  ],
+  "services": [
+    {
+      "label": "Bake Components",
+      "value": "No"
+    },
+    {
+      "label": "Photo Confirmation",
+      "value": "No"
+    },
+    {
+      "label": "Board Cleaning",
+      "value": "No"
+    },
+    {
+      "label": "Conformal Coating (cleaning included)",
+      "value": "No"
+    },
+    {
+      "label": "Packaging",
+      "value": "Antistatic bubble film"
+    },
+    {
+      "label": "Special stencil",
+      "value": "No"
+    },
+    {
+      "label": "Depanel boards & edge rail before delivery",
+      "value": "No"
+    },
+    {
+      "label": "Solder Paste",
+      "value": "High temp."
+    },
+    {
+      "label": "Flying Probe Test",
+      "value": "No"
+    },
+    {
+      "label": "Nitrogen reflow soldering",
+      "value": "Yes (for Economic)"
+    },
+    {
+      "label": "Function test",
+      "value": "No"
+    },
+    {
+      "label": "Assembly remark",
+      "value": "Yes"
+    }
+  ]
+}

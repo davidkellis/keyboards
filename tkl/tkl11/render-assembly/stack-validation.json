@@ -1,0 +1,16 @@
+{
+  "stage": "stack",
+  "passed": true,
+  "checked_at": "2026-10-16T14:41:07.186Z",
+  "browser": "Brave / Playwright / offline file",
+  "checks": [
+    "final exploded stack framing",
+    "intermediate layer spacing",
+    "assembled zero-separation appearance",
+    "mobile exploded layout"
+  ],
+  "combinations": [],
+  "errors": [],
+  "network": [],
+  "source_files_unchanged": true
+}

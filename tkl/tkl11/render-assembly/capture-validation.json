@@ -1,0 +1,18 @@
+{
+  "stage": "capture",
+  "passed": true,
+  "checked_at": "2026-10-16T14:46:28.446Z",
+  "browser": "Brave / Playwright / offline file",
+  "checks": [
+    "nine assembled viewpoints",
+    "exploded and intermediate stack captures",
+    "isolated actual PCB capture",
+    "ScottoCaps and XVX comparison captures",
+    "day and dim lighting",
+    "390px mobile layout"
+  ],
+  "combinations": [],
+  "errors": [],
+  "network": [],
+  "source_files_unchanged": true
+}

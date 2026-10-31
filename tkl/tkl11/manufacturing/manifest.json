@@ -1,0 +1,32 @@
+{
+  "revision": "v11",
+  "parent": "v10",
+  "copper_layers": 2,
+  "finish": "lead-free HASL",
+  "solder": "lead-free",
+  "status": "Prototype; exact clone, cable, battery/charging, RF and mechanical verification pending",
+  "source_sha256": {
+    "kicad/keyboard.kicad_pcb": "c65c6059a62fc70cf3a4de8619cececb4723283b4e479518eebff11c9bf9f572",
+    "kicad/keyboard.kicad_sch": "2b2bd1dba54887fbf3e471681526b205af199b6a994f592f37917e24056f9b1b",
+    "kicad/matrix.kicad_sch": "bf2feabe779e2dd2629e320a98c54387481cd079fe1ccf8e2df5092c64271ab1",
+    "kicad/power.kicad_sch": "1124ce39871a972feab5899f209cc391dd38db0b7d1e1edd74ff907c40752856",
+    "kicad/keyboard.kicad_pro": "93f49e5363da04587006da67427d239a5a6afb29891c8e173f11abfcc1e0d2d7",
+    "kicad/keyboard.kicad_dru": "90bc46c6c4f53a8128cb38ce93a641f1db4f16843fa7e41040c90e7855beecb4",
+    "manufacturing/parts.json": "820477e78a5ed8c66150f8776e7c18cb77c4c34c59eb7ac9fa6d28fc018c1e00",
+    "reference/lighting-design.json": "04ac1e62899da81d66fc4c86be3afbc983e7edc165cc8c3fdfd51e22b0c6e6a8",
+    "reference/staggered-led-placement.json": "440a10af097e0385b5c816c6dd2f837311082edbe2b5ad158e2b83e15e55c56f"
+  },
+  "validation": {
+    "numbered_pads": 417,
+    "unique_keys": 86,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "jlc_bom_groups": 10,
+  "jlc_placements": 106
+}

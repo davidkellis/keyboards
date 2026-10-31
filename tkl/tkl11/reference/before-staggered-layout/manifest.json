@@ -1,0 +1,10 @@
+{
+  "kicad/keyboard.kicad_pcb": "4456e89d6501651aeac43d2a2409291676b8e4946681f2e03b937c7b9388e4d9",
+  "kicad/keyboard.kicad_sch": "2b2bd1dba54887fbf3e471681526b205af199b6a994f592f37917e24056f9b1b",
+  "kicad/matrix.kicad_sch": "bf2feabe779e2dd2629e320a98c54387481cd079fe1ccf8e2df5092c64271ab1",
+  "kicad/power.kicad_sch": "20567160a448500fd2f8e617bfbf12f80f9d7ca4607e4ead534847c9e22ed190",
+  "reference/lighting-design.json": "935a8aaad5120d7e7070df74a5878b068dfd73a6f3a71affea49edffa209aa63",
+  "manufacturing/parts.json": "4fcd714647582bed8b0c64ccf99da9f86fe54a92cc431f39cf441af9613b2f48",
+  "manufacturing/tkl-v11-prototype-handoff.zip": "bb19085529ec0aac9001983f22e59007b5de900d8a67037f1b70288aaf7be41d",
+  "case/acrylic-plate-trial.dxf": "9e0f91e5228b343a3e1cdc31ef14ae190ea1b7d62b3eb84c40635d3f1fa876cd"
+}

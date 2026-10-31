@@ -1,0 +1,19 @@
+{
+  "stage": "exports",
+  "passed": true,
+  "checked_at": "2026-10-16T14:43:24.935Z",
+  "browser": "Brave / Playwright / offline file",
+  "checks": [
+    "free orbit",
+    "wheel zoom",
+    "high-resolution PNG downloads",
+    "assembled and exploded GLB downloads",
+    "exported layer transforms",
+    "ten LED packages exported",
+    "only selected case edition exported"
+  ],
+  "combinations": [],
+  "errors": [],
+  "network": [],
+  "source_files_unchanged": true
+}

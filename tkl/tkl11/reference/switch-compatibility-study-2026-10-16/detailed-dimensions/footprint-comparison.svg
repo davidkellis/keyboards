@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="1100" viewBox="0 0 1260 1100">
+<rect width="100%" height="100%" fill="#f6f8fb"/>
+<style>text{font-family:Arial,sans-serif;fill:#17253a}.title{font-size:25px;font-weight:700}.label{font-size:18px;font-weight:700}.note{font-size:14px}.fine{font-size:12px}</style>
+<text x="30" y="38" class="title">V11 switch footprint comparison — research only</text>
+<text x="30" y="65" class="note">Top view, coordinates in mm. Gray = existing Kailh holes; green = additions; orange/red = conflicts or enlargement.</text>
+<rect x="25" y="95" width="400" height="455" rx="12" fill="white" stroke="#d7dde5"/>
+<text x="39" y="123" class="label">Existing Kailh Choc V2</text>
+<rect x="118.875" y="208.875" width="212.25" height="212.25" fill="none" stroke="#aeb7c4" stroke-dasharray="5 4"/>
+<circle cx="225.0" cy="315.0" r="37.875" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="225.0" cy="226.5" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="225.0" cy="226.5" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="300.0" cy="258.0" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="300.0" cy="258.0" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="150.0" cy="392.25" r="19.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="150.0" cy="392.25" r="12.0" fill="white" stroke="#627187" stroke-width="2"/>
+<text x="39" y="480" class="note">Center 5.05; contacts 1.20; support 1.60.</text>
+<text x="39" y="504" class="note">All compatibility options must retain this pattern.</text>
+<rect x="440" y="95" width="400" height="455" rx="12" fill="white" stroke="#d7dde5"/>
+<text x="454" y="123" class="label">Choc V1 positioning holes</text>
+<rect x="533.875" y="208.875" width="212.25" height="212.25" fill="none" stroke="#aeb7c4" stroke-dasharray="5 4"/>
+<circle cx="640.0" cy="315.0" r="37.875" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="640.0" cy="226.5" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="640.0" cy="226.5" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="715.0" cy="258.0" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="715.0" cy="258.0" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="565.0" cy="392.25" r="19.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="565.0" cy="392.25" r="12.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="557.5" cy="315.0" r="14.25" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="569.5" y="307.0" class="fine">1.9</text>
+<circle cx="722.5" cy="315.0" r="14.25" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="734.5" y="307.0" class="fine">1.9</text>
+<text x="454" y="480" class="note">Two new NPTH holes. Contacts already align.</text>
+<text x="454" y="504" class="note">Kailh V2 geometry stays intact; different caps needed.</text>
+<rect x="855" y="95" width="400" height="455" rx="12" fill="white" stroke="#d7dde5"/>
+<text x="869" y="123" class="label">Gateron 3.0 — original orientation</text>
+<rect x="948.875" y="208.875" width="212.25" height="212.25" fill="none" stroke="#aeb7c4" stroke-dasharray="5 4"/>
+<circle cx="1055.0" cy="315.0" r="37.875" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="1055.0" cy="226.5" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="1055.0" cy="226.5" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="1130.0" cy="258.0" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="1130.0" cy="258.0" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="980.0" cy="392.25" r="19.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="980.0" cy="392.25" r="12.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="1016.9" cy="238.8" r="18.0" fill="none" stroke="#008a6e" stroke-width="1"/>
+<circle cx="1016.9" cy="238.8" r="11.25" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="1028.9" y="230.8" class="fine">1.5</text>
+<circle cx="1112.15" cy="276.9" r="18.0" fill="none" stroke="#008a6e" stroke-width="1"/>
+<circle cx="1112.15" cy="276.9" r="11.25" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="1124.15" y="268.9" class="fine">1.5</text>
+<circle cx="978.8" cy="315.0" r="12.75" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="990.8" y="307.0" class="fine">1.7</text>
+<circle cx="1131.2" cy="315.0" r="12.75" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="1143.2" y="307.0" class="fine">1.7</text>
+<text x="869" y="480" class="note">Four extra holes; closest drill web is 0.383 mm.</text>
+<text x="869" y="504" class="note">Preliminary screen also encounters U2 copper.</text>
+<rect x="25" y="570" width="400" height="455" rx="12" fill="white" stroke="#d7dde5"/>
+<text x="39" y="598" class="label">Gateron 3.0 — rotated 180 degrees</text>
+<rect x="118.875" y="683.875" width="212.25" height="212.25" fill="none" stroke="#aeb7c4" stroke-dasharray="5 4"/>
+<circle cx="225.0" cy="790.0" r="37.875" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="225.0" cy="701.5" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="225.0" cy="701.5" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="300.0" cy="733.0" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="300.0" cy="733.0" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="150.0" cy="867.25" r="19.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="150.0" cy="867.25" r="12.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="263.1" cy="866.2" r="18.0" fill="none" stroke="#008a6e" stroke-width="1"/>
+<circle cx="263.1" cy="866.2" r="11.25" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="275.1" y="858.2" class="fine">1.5</text>
+<circle cx="167.85" cy="828.1" r="18.0" fill="none" stroke="#008a6e" stroke-width="1"/>
+<circle cx="167.85" cy="828.1" r="11.25" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="179.85" y="820.1" class="fine">1.5</text>
+<circle cx="301.2" cy="790.0" r="12.75" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="313.2" y="782.0" class="fine">1.7</text>
+<circle cx="148.8" cy="790.0" r="12.75" fill="none" stroke="#008a6e" stroke-width="3"/>
+<text x="160.8" y="782.0" class="fine">1.7</text>
+<text x="39" y="955" class="note">Four extra holes; closest drill web is 1.304 mm.</text>
+<text x="39" y="979" class="note">No foreign component pads hit in this screen.</text>
+<rect x="440" y="570" width="400" height="455" rx="12" fill="white" stroke="#d7dde5"/>
+<text x="454" y="598" class="label">Older Gateron 2.0 — original orientation</text>
+<rect x="533.875" y="683.875" width="212.25" height="212.25" fill="none" stroke="#aeb7c4" stroke-dasharray="5 4"/>
+<circle cx="640.0" cy="790.0" r="37.875" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="640.0" cy="701.5" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="640.0" cy="701.5" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="715.0" cy="733.0" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="715.0" cy="733.0" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="565.0" cy="867.25" r="19.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="565.0" cy="867.25" r="12.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="640" cy="790" r="39.0" fill="none" stroke="#d46a17" stroke-width="3" stroke-dasharray="6 3"/>
+<circle cx="601.0" cy="703.75" r="18.0" fill="none" stroke="#d46a17" stroke-width="1"/>
+<circle cx="601.0" cy="703.75" r="11.25" fill="none" stroke="#d46a17" stroke-width="3"/>
+<text x="613.0" y="695.75" class="fine">1.5</text>
+<circle cx="706.0" cy="719.5" r="18.0" fill="none" stroke="#d46a17" stroke-width="1"/>
+<circle cx="706.0" cy="719.5" r="11.25" fill="none" stroke="#d46a17" stroke-width="3"/>
+<text x="718.0" y="711.5" class="fine">1.5</text>
+<text x="454" y="955" class="note">Provisional solder drill overlaps existing Kailh hole.</text>
+<text x="454" y="979" class="note">Center also needs enlargement; not recommended.</text>
+<rect x="855" y="570" width="400" height="455" rx="12" fill="white" stroke="#d7dde5"/>
+<text x="869" y="598" class="label">Original Cherry MX low-profile pattern</text>
+<rect x="948.875" y="683.875" width="212.25" height="212.25" fill="none" stroke="#aeb7c4" stroke-dasharray="5 4"/>
+<circle cx="1055.0" cy="790.0" r="37.875" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="1055.0" cy="701.5" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="1055.0" cy="701.5" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="1130.0" cy="733.0" r="16.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="1130.0" cy="733.0" r="9.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="980.0" cy="867.25" r="19.5" fill="#e2e7ed" stroke="#8995a5"/>
+<circle cx="980.0" cy="867.25" r="12.0" fill="white" stroke="#627187" stroke-width="2"/>
+<circle cx="1055" cy="790" r="46.875" fill="none" stroke="#d46a17" stroke-width="3" stroke-dasharray="6 3"/>
+<circle cx="1055.0" cy="699.25" r="16.875" fill="none" stroke="#d46a17" stroke-width="1"/>
+<circle cx="1055.0" cy="699.25" r="11.025" fill="none" stroke="#d46a17" stroke-width="3"/>
+<text x="1067.0" y="691.25" class="fine">1.47</text>
+<circle cx="993.05" cy="740.5" r="16.875" fill="none" stroke="#d46a17" stroke-width="1"/>
+<circle cx="993.05" cy="740.5" r="11.025" fill="none" stroke="#d46a17" stroke-width="3"/>
+<text x="1005.05" y="732.5" class="fine">1.47</text>
+<circle cx="1055.0" cy="734.5" r="17.25" fill="none" stroke="#d46a17" stroke-width="3"/>
+<text x="1067.0" y="726.5" class="fine">2.3</text>
+<text x="869" y="955" class="note">Legacy designer CAD; not current MX2B approval.</text>
+<text x="869" y="979" class="note">Larger center hole compromises Kailh locating fit.</text>
+<text x="30" y="1070" class="note">Hole spacing screen only. Existing routing needs changes for additions. Plate retention, keycaps, full travel and light-guide fit require validation.</text>
+</svg>

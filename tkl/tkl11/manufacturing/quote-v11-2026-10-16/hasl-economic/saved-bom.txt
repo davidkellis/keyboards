@@ -1,0 +1,99 @@
+Product Detail
+PCBA Parameters
+Bill of Material
+Part Placement
+Selected Parts(10 items) 
+Download Selected Parts List
+Part Detail	Selected by	Bottom Designator	Qty	Source	Ext. Price
+
+BAT46W
+Extended C54110
+	System	
+D1,D2,D3,D4,D5,...
+	438	
+JLCPCB
+$10.6872
+
+
+0603WAF1000T5E
+Basic C22775
+	System	
+R10
+	5	
+JLCPCB
+$0.0125
+
+
+PCM12SMTR
+Extended C221841
+	System	
+SW87
+	5	
+JLCPCB
+$6.3300
+
+
+0603WAF1004T5E
+Basic C22935
+	System	
+R9,R11
+	10	
+JLCPCB
+$0.0210
+
+
+CL31B475KBHNNNE
+Extended C51205
+	System	
+C1,C2
+	18	
+JLCPCB
+$1.5624
+
+
+LTW-C230DS
+Extended C575513
+	System	
+LED1,LED2,LED3,...
+	52	
+JLCPCB
+$4.2380
+
+
+B2B-PH-K-S(LF)(SN)
+Extended C131337
+	System	
+J1
+	6	
+JLCPCB
+$0.2130
+
+
+SS16
+Extended C3034074
+	System	
+D87
+	15	
+JLCPCB
+$0.3660
+
+
+FNR4018S100MT
+Extended C167808
+	System	
+L1
+	9	
+JLCPCB
+$0.4176
+
+
+TPS61169DCKR
+Extended C71045
+	System	
+U2
+	5	
+JLCPCB
+$1.6070
+Unselected Parts
+Designator	Comment	Footprint	Reason	Qty
+No data

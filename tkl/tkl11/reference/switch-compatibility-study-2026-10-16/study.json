@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-16",
+  "purpose": "Research only; no PCB, case, manufacturing package, firmware, or quote changed",
+  "board": "tkl/tkl11/kicad/keyboard.kicad_pcb",
+  "board_sha256": "c65c6059a62fc70cf3a4de8619cececb4723283b4e479518eebff11c9bf9f572",
+  "switch_count": 86,
+  "v11_geometry_mm": {
+    "plate_aperture": [
+      14.15,
+      14.15
+    ],
+    "plate_nominal_thickness": 1.5,
+    "plate_seating_above_pcb": 2.2,
+    "center_npth_diameter": 5.05,
+    "electrical_pads": [
+      {
+        "xy": [
+          0,
+          -5.9
+        ],
+        "drill": 1.2
+      },
+      {
+        "xy": [
+          5,
+          -3.8
+        ],
+        "drill": 1.2
+      }
+    ],
+    "auxiliary_mechanical_pth": {
+      "xy": [
+        -5,
+        5.15
+      ],
+      "drill": 1.6
+    }
+  },
+  "comparison": [
+    {
+      "family": "Kailh Choc V2 Red / Brown / Blue",
+      "current_v11": "PCB drawing compatible; complete assembly not physically validated",
+      "pcb_change": "None identified in manufacturer drawings",
+      "mechanical_change": "3.2 mm travel versus Whale 2.8 mm; verify keycap bottom-out and raised deck",
+      "keycaps": "MX cross stem; test exact XVX cap seating",
+      "lighting": "SMD LED support; acrylic-guide performance not measured",
+      "assessment": "Best verified PCB alternatives",
+      "source": "https://www.kailh.net/products/kailh-choc-v2-low-profile-switch-set"
+    },
+    {
+      "family": "Kailh Deep Sea Mini Island/Pink CPG1353S01D01-01",
+      "current_v11": "PCB drawing compatible; exact -01 variant checked",
+      "pcb_change": "None identified in manufacturer drawing",
+      "mechanical_change": "Same nominal 2.8 mm travel and 8.6 mm installed stem height as Whale; sample retention check remains",
+      "keycaps": "MX cross stem; test exact XVX cap seating",
+      "lighting": "Light transmission through exact housing unmeasured",
+      "assessment": "Closest documented alternative if silent linear feel is acceptable; do not generalize to every SKU suffix",
+      "source": "https://www.kailhswitch.com/uploads/15927/files/CPG1353S01D01-01-data-sheet.pdf"
+    },
+    {
+      "family": "Lofree x Kailh Cloud: Pulse / Surfer / Void",
+      "current_v11": "Promising sample candidates; V11 pin and latch dimensions not verified",
+      "pcb_change": "Undetermined until drawing or sample measurements; possible unchanged PCB",
+      "mechanical_change": "Published travel 2.8 mm; no complete engineering drawing obtained",
+      "keycaps": "Verify exact XVX fit and installed height on samples",
+      "lighting": "Product images show clear LED window; no measured advantage with V11 acrylic guide",
+      "assessment": "First new-family samples to investigate: tactile Pulse or silent-linear Void",
+      "source": "https://www.lofree.co/pages/flow-2-switch-type | https://www.lofree.co/products/pulse-low-profile-pom-switches | https://www.lofree.co/products/void-low-profile-pom-switches"
+    },
+    {
+      "family": "Kailh Choc V1 / LowproKB Sunset / Ambients",
+      "current_v11": "Not drop-in as manufactured",
+      "pcb_change": "Two alignment holes per key for standard Choc V1; nominal electrical pin locations align after orientation",
+      "mechanical_change": "Different stem, slightly lower installed height, new keycap and stabilizer review",
+      "keycaps": "Two-slot Choc V1 caps; existing MX-stem XVX caps do not fit",
+      "lighting": "Depends on exact variant and housing",
+      "assessment": "Poor match for preserving the current keycap system",
+      "source": "https://m.kailhswitch.com/Content/upload/pdf/202215927/CPG135001D01-16.pdf?rnd=121 | https://lowprokb.ca/products/sunset-tactile-choc-switches | https://lowprokb.ca/products/ambients-silent-choc-switches"
+    },
+    {
+      "family": "Gateron KS-33 Low Profile 2.0 and older Gateron-pattern ecosystem",
+      "current_v11": "Not drop-in",
+      "pcb_change": "Different contact pattern; exact checked Red recommends 5.2 mm center hole versus V11 5.05 mm",
+      "mechanical_change": "Checked Red plate seating plane 2.5 mm above PCB versus V11 2.2 mm; full clip and cap review needed",
+      "keycaps": "MX cross stem does not imply PCB compatibility",
+      "lighting": "Checked drawing has LED window; test guide coupling",
+      "assessment": "Bespoke alternate footprint; less attractive than MX-pattern 3.0 for broad compatibility",
+      "source": "https://gateron.com/u_file/2311/10/file/GATERONKS-33LowProfile20RedSwitchBlackBottomHousing-KS-33H10B050NN-Y24.pdf | https://www.keychron.com/products/keychron-milk-pom-switch"
+    },
+    {
+      "family": "Gateron Low Profile 3.0 / NuPhy Nano MX-pattern variants",
+      "current_v11": "Not drop-in; exact Grey Heron engineering drawing checked",
+      "pcb_change": "Two alternate MX-position electrical contacts per key; five-pin variants also need two alignment holes",
+      "mechanical_change": "Checked Grey Heron plate seating plane 2.5 mm; installed stem height derived as 9.40 mm versus Whale 8.6 mm; recheck travel, caps, and stabilizers",
+      "keycaps": "MX cross stem; exact variant and full key travel must be checked",
+      "lighting": "LED window present in checked drawing; exact geometry and acrylic coupling need validation",
+      "assessment": "Best future alternate footprint to investigate; exact SKU matters, not all 3.0-labeled switches identical",
+      "source": "https://www.gateron.com/u_file/2506/10/file/GATERONKS-33LowProfile30GreyHeronSwitch-KS-33BHB10B050NW-G13.pdf | https://nuphy.com/blogs/journal/nos75-the-dawn-of-transformation"
+    },
+    {
+      "family": "TTC Mini White / Mini family",
+      "current_v11": "Not approved; manufacturer describes shared normal-profile socket",
+      "pcb_change": "MX contact pattern candidate; exact footprint drawing still needed",
+      "mechanical_change": "Published installed switch height 9.0 mm, travel 3.5 mm; plate/latch/LED fit not verified",
+      "keycaps": "Manufacturer states normal-profile MX cap compatibility; test low-profile XVX caps",
+      "lighting": "Window and light-guide performance not verified",
+      "assessment": "Secondary candidate if adding an MX-pattern option later",
+      "source": "https://en.ttc9.com/productdetails/6.html"
+    },
+    {
+      "family": "Cherry MX Low Profile 2.0 Red",
+      "current_v11": "Unverified; no complete PCB and latch engineering drawing obtained",
+      "pcb_change": "Do not approve or reuse footprint from overall 15 x 15 mm body size alone",
+      "mechanical_change": "Published travel 3.2 mm; full mechanical stack not established",
+      "keycaps": "MX-style cap interface alone is insufficient to certify this assembly",
+      "lighting": "Manufacturer specifies transparent housing and SMD LED compatibility",
+      "assessment": "Not a first choice under the minimal-change constraint",
+      "source": "https://www.cherry.de/en-gb/product/mx-low-profile-2-0-red | https://pim.cherry-world.net/datasheet/26396?locale=en_GB"
+    }
+  ],
+  "clearance_screen_limits": [
+    "One candidate orientation, not an optimized multi-footprint design",
+    "Conservative pad bounding boxes; filled zones excluded",
+    "Provisional alternate contact pads 2.4 mm diameter with 0.2 mm copper clearance",
+    "NPTH clearances screened using drill radius plus 0.25 mm",
+    "This is not KiCad DRC, fabrication approval, or a physical fit validation"
+  ],
+  "validation_needed": [
+    "Measure selected switch sample pin locations and post diameters",
+    "Test seating and retention in exact acrylic plate thickness",
+    "Fit XVX cap and check full travel against raised case deck",
+    "Test a stabilized wide key as well as a 1u key",
+    "Compare actual acrylic-guide light output; an LED window alone does not establish improvement"
+  ],
+  "installed_height_method": "Derived from exact dimensioned drawing, subtracting below-PCB center-post projection from overall height; datum differs from advertised total height.",
+  "future_revision_implication": "Alternate solder footprints can preserve matrix, controller and single-sided factory assembly in principle, but require copper rerouting and mechanical validation; no cost delta quoted."
+}

@@ -1,0 +1,167 @@
+{
+  "revision": "v11",
+  "parent": "v10",
+  "series_order": [
+    "LED7",
+    "LED4",
+    "LED8",
+    "LED1",
+    "LED9",
+    "LED10",
+    "LED2",
+    "LED6",
+    "LED5",
+    "LED3"
+  ],
+  "nominal_max_led_current_ma": 2.04,
+  "current_sense_ref": "R10",
+  "current_sense_ohm": 100,
+  "pwm_frequency_hz": 20000,
+  "leds": [
+    {
+      "ref": "LED1",
+      "kicad_xy": [
+        285.75,
+        71.45
+      ],
+      "board_xy": [
+        258.72,
+        77.74
+      ],
+      "added": false,
+      "relocated": true
+    },
+    {
+      "ref": "LED2",
+      "kicad_xy": [
+        313.9,
+        119.06
+      ],
+      "board_xy": [
+        286.87,
+        30.129999999999995
+      ],
+      "added": false
+    },
+    {
+      "ref": "LED3",
+      "kicad_xy": [
+        85.72,
+        71.45
+      ],
+      "board_xy": [
+        58.69,
+        77.74
+      ],
+      "added": false
+    },
+    {
+      "ref": "LED4",
+      "kicad_xy": [
+        180.97,
+        71.45
+      ],
+      "board_xy": [
+        153.94,
+        77.74
+      ],
+      "added": false
+    },
+    {
+      "ref": "LED5",
+      "kicad_xy": [
+        90.49,
+        119.06
+      ],
+      "board_xy": [
+        63.459999999999994,
+        30.129999999999995
+      ],
+      "added": false
+    },
+    {
+      "ref": "LED6",
+      "kicad_xy": [
+        204.79,
+        119.06
+      ],
+      "board_xy": [
+        177.76,
+        30.129999999999995
+      ],
+      "added": false
+    },
+    {
+      "ref": "LED7",
+      "kicad_xy": [
+        128.0,
+        51.8
+      ],
+      "board_xy": [
+        100.97,
+        97.39
+      ],
+      "added": true
+    },
+    {
+      "ref": "LED8",
+      "kicad_xy": [
+        243.0,
+        51.8
+      ],
+      "board_xy": [
+        215.97,
+        97.39
+      ],
+      "added": true
+    },
+    {
+      "ref": "LED9",
+      "kicad_xy": [
+        350.0,
+        51.8
+      ],
+      "board_xy": [
+        322.97,
+        97.39
+      ],
+      "added": true
+    },
+    {
+      "ref": "LED10",
+      "kicad_xy": [
+        350.0,
+        128.585
+      ],
+      "board_xy": [
+        322.97,
+        20.60499999999999
+      ],
+      "added": true
+    }
+  ],
+  "optical_plate": "User trial: acrylic switch plate above PCB; reverse LEDs illuminate plate underside through ten local PCB slots",
+  "input_supply": "BAT_SW",
+  "all_factory_parts_on_bottom": true,
+  "brightness_validated": false,
+  "hardware_tested": false,
+  "optional_for_six_led_mode": [
+    "LED7",
+    "LED8",
+    "LED9",
+    "LED10"
+  ],
+  "led1_relocation": {
+    "from_kicad_xy": [
+      314.0,
+      71.45
+    ],
+    "to_kicad_xy": [
+      285.75,
+      71.45
+    ],
+    "left_mm": 28.25,
+    "target": "Below Backspace (SW31), between the upper corners of right bracket (SW40) and backslash/pipe (SW41)",
+    "pre_move_pcb_sha256": "189b94f675aabdd3c71cb489f13fc211241bd8f713344140ce7296c9cdecefc3"
+  }
+}

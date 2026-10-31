@@ -1,0 +1,248 @@
+24
+SMT
+24-hour PCB production. Fast Delivery to United States.
+ Coupons
+ Download APP
+USD 
+JLCPCB
+1
+Order Now
+My Account 
+tkl-v11-gerbers 
+Automatically saved, last updated on 16 October, 10:56
+PCB
+Bill of Materials
+Component Placements
+Quote & Order
+Bottom Side
+Total  
+10
+  parts detected
+ 
+11
+  Parts confirmed
+Complete File
+ Upload BOM/CPL
+Uploaded BOM Data	Review Matched Parts	
+Bottom Designator	Comment	Footprint	Matched Part Detail	Qty	Source	Lib Type	Total Cost	
+ Select 
+	
+C1,C2
+	
+CL31B475KBHNNNE
+	
+1206
+	
+CL31B475KBHNNNE
+C51205
+4.7uF 50V X7R ±10% 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+	
+18
+	
+JLCPCB
+	
+Extended
+	
+$1.5624
+	
+
+
+D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86
+	
+BAT46W
+	
+SOD-123
+	
+BAT46W
+C54110
+1 Independent 100V 150mA 1V@250mA 2uA@75V 750mA SOD-123 Schottky Diodes ROHS
+	
+438
+	
+JLCPCB
+	
+Extended
+	
+$10.6872
+	
+
+
+D87
+	
+SS16
+	
+SMA
+	
+SS16
+C3034074
+-55℃~+175℃ 1 Independent 1A 30A 50uA@60V 60V 700mV@1A SMA Schottky Diodes ROHS
+	
+15
+	
+JLCPCB
+	
+Extended
+	
+$0.3660
+	
+
+
+J1
+	
+B2B-PH-K-S(LF)(SN)
+	
+JSTPH2.00mmTHTvertical
+	
+B2B-PH-K-S(LF)(SN)
+C131337
+-25℃~+85℃ 1 100V 1x2P 2 2A 2P 2mm 4.5mm 5.9mm 6mm Brass K Pin PA66 PH Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS
+	
+6
+	
+JLCPCB
+	
+Extended
+	
+$0.2130
+	
+
+
+L1
+	
+FNR4018S100MT
+	
+4x4x1.8mmshielded
+	
+FNR4018S100MT
+C167808
+1.2A 1.6A 10uH 234mΩ Magnetic Shielded Inductor ±20% SMD,4x4mm Power Inductors ROHS
+	
+9
+	
+JLCPCB
+	
+Extended
+	
+$0.4176
+	
+
+
+LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10
+	
+LTW-C230DS
+	
+1206reverse-mount
+	
+LTW-C230DS
+C575513 
+-30℃~+85℃ 130° 20mA 3.2V 315mcd 72mW Discrete Diode Reverse Mount White Yellow Lens 1206 LED Indication - Discrete ROHS
+	
+52
+	
+JLCPCB
+	
+Extended
+	
+$4.2380
+	
+
+
+R9,R11
+	
+0603WAF1004T5E
+	
+0603
+	
+0603WAF1004T5E
+C22935
+-55℃~+155℃ 100mW 1MΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS
+	
+10
+	
+JLCPCB
+	
+Basic
+	
+$0.0210
+	
+
+
+R10
+	
+0603WAF1000T5E
+	
+0603
+	
+0603WAF1000T5E
+C22775
+-55℃~+155℃ 100mW 100Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS
+	
+5
+	
+JLCPCB
+	
+Basic
+	
+$0.0125
+	
+
+
+SW87
+	
+PCM12SMTR
+	
+PCM12SMTSPDT
+	
+PCM12SMTR
+C221841
+-20℃~+85℃ 6V PC Pin Rectangular Columnar SPDT Surface Mount,Vertical SMD Slide Switches ROHS
+	
+5
+	
+JLCPCB
+	
+Extended
+	
+$6.3300
+	
+
+
+U2
+	
+TPS61169DCKR
+	
+SC-70-5
+	
+TPS61169DCKR
+C71045
+-40℃~+125℃ 1 1.2MHz 1.8A 2.7V~38V 2.7V~5.5V Boost Built-in DC-DC PWM Short Circuit Protection、Over Voltage Protection、Over-Temperature Protection (OTP)、LED open-circuit protection、Built-in soft-start SC-70-5 LED Drivers ROHS
+	
+5
+	
+JLCPCB
+	
+Extended
+	
+$1.6070
+	
++ Add Part
+
+Please carefully check the packages of selected parts before proceeding.
+
+NEXT
+PCB Service
+Support
+Company
+Electronics
+Mechanical
+Order on JLCONE Desktop, Save $1–$20 Every Time
+Windows
+MAC
+Android
+IOS
+CONNECT WITH US
+© 2026 JLCPCB.COM All Rights Reserved.
+Privacy Policy
+Terms & Conditions
+Cookies Policy
+Do Not Sell or Share My Personal Information

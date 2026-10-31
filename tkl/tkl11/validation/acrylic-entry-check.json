@@ -1,0 +1,97 @@
+{
+  "passed": true,
+  "scope": "All ten optical slot projections lie within solid acrylic in the 2D trial plate",
+  "outputs": [
+    {
+      "ref": "LED1",
+      "board_xy_mm": [
+        258.72,
+        77.74
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 1.7425286941683498
+    },
+    {
+      "ref": "LED2",
+      "board_xy_mm": [
+        299.97,
+        32.13
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 12.537499999999966
+    },
+    {
+      "ref": "LED3",
+      "board_xy_mm": [
+        27.62,
+        74.74
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 3.662500000000001
+    },
+    {
+      "ref": "LED4",
+      "board_xy_mm": [
+        177.76,
+        77.74
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 1.03749999999998
+    },
+    {
+      "ref": "LED5",
+      "board_xy_mm": [
+        42.67,
+        30.13
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 2.4937500000000057
+    },
+    {
+      "ref": "LED6",
+      "board_xy_mm": [
+        177.76,
+        30.13
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 1.397500000000008
+    },
+    {
+      "ref": "LED7",
+      "board_xy_mm": [
+        100.97,
+        77.74
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 1.03749999999998
+    },
+    {
+      "ref": "LED8",
+      "board_xy_mm": [
+        101.57,
+        39.15
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 1.4916140586626312
+    },
+    {
+      "ref": "LED9",
+      "board_xy_mm": [
+        315.97,
+        77.74
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 1.03749999999998
+    },
+    {
+      "ref": "LED10",
+      "board_xy_mm": [
+        246.17,
+        42.15
+      ],
+      "aperture_outside_acrylic_area_mm2": 0.0,
+      "acrylic_edge_clearance_mm": 3.1374999999999886
+    }
+  ],
+  "physical_optics_verified": false
+}
