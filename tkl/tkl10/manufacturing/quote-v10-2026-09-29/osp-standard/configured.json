@@ -1,0 +1,250 @@
+[
+  {
+    "label": "Base Material",
+    "selected": [
+      "FR-4"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Layers",
+    "selected": [
+      "2"
+    ],
+    "inputs": [
+      "More"
+    ]
+  },
+  {
+    "label": "Dimensions",
+    "selected": [],
+    "inputs": [
+      "350.76",
+      "139.19",
+      "mm"
+    ]
+  },
+  {
+    "label": "PCB Qty",
+    "selected": [
+      "5"
+    ],
+    "inputs": [
+      ""
+    ]
+  },
+  {
+    "label": "Product Type",
+    "selected": [
+      "Industrial/Consumer electronics"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Different Design",
+    "selected": [
+      "1"
+    ],
+    "inputs": [
+      ""
+    ]
+  },
+  {
+    "label": "Delivery Format",
+    "selected": [
+      "Single PCB"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCB Thickness",
+    "selected": [
+      "1.6mm"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCB Color",
+    "selected": [
+      "Green"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Silkscreen",
+    "selected": [
+      "White"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Material Type",
+    "selected": [
+      "FR4 TG135"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Surface Finish",
+    "selected": [
+      "OSP\nNew"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Outer Copper Weight",
+    "selected": [
+      "1 oz"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Via Covering",
+    "selected": [
+      "Tented"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Via Plating Method",
+    "selected": [
+      "Not Specified"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Min via hole size/diameter",
+    "selected": [
+      "0.3mm/(0.4/0.45mm)"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Board Outline Tolerance",
+    "selected": [
+      "±0.2mm(Regular)"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Confirm Production file",
+    "selected": [
+      "Yes"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Mark on PCB",
+    "selected": [
+      "Remove Mark"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Electrical Test",
+    "selected": [
+      "Flying Probe Fully Test"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Gold Fingers",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Castellated Holes",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Edge Plating",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Blind Slots",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "UL Marking",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Humidity Indicator Card",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCBA Type",
+    "selected": [
+      "Standard"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Assembly Side",
+    "selected": [
+      "Bottom Side"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCBA Qty",
+    "selected": [
+      "5"
+    ],
+    "inputs": [
+      ""
+    ]
+  },
+  {
+    "label": "Edge Rails/Fiducials",
+    "selected": [
+      "Added by JLCPCB"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Confirm Parts Placement",
+    "selected": [
+      "Yes"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Stencil Storage",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Fixture Storage",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Parts Selection",
+    "selected": [
+      "By Customer (Self-Service)"
+    ],
+    "inputs": []
+  }
+]

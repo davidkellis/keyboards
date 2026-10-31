@@ -1,0 +1,56 @@
+{
+  "preserved_files": 2614,
+  "same_mounting_hardware": true,
+  "moved_mounts": [
+    "H9",
+    "H12"
+  ],
+  "switch_count": 86,
+  "clone_between_esc_f1": true,
+  "restored_keys": [
+    "SW9",
+    "SW15",
+    "SW16"
+  ],
+  "case_dimensions_mm": [
+    355.56,
+    133.35221193128154,
+    20.6
+  ],
+  "battery": {
+    "candidate": "5044147 1S LiPo, advertised 147 x 44 x 5 mm / 5000 mAh",
+    "purchased_or_approved": false,
+    "pack_max_dimensions_mm": [
+      149,
+      46,
+      5.5
+    ],
+    "reserved_dimensions_mm": [
+      155,
+      50,
+      6.3
+    ],
+    "origin_xy_case_mm": [
+      83,
+      80.5
+    ],
+    "padding_below_mm": 0.5,
+    "datasheet": null,
+    "capacity_mah": 5000,
+    "capacity_verified": false,
+    "nominal_dimensions_mm": [
+      147,
+      44,
+      5
+    ],
+    "source": "User listing image; https://www.aliexpress.us/item/3256812009235243.html",
+    "position_xyz_case_mm": [
+      83,
+      80.5,
+      1.7
+    ],
+    "minimum_reserved_volume_clearance_mm": 0.6925575370822179,
+    "nearest_reference": "LED4"
+  },
+  "physical_fit_verified": false
+}

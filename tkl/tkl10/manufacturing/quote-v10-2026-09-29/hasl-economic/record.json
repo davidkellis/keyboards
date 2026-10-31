@@ -1,0 +1,60 @@
+{
+  "date": "2026-09-29",
+  "revision": "v10",
+  "currency": "USD",
+  "status": "Live checkout quote; unsubmitted; factory review charges pending",
+  "quote_url": "https://cart.jlcpcb.com/smt-order/?pcbFileNo=REDACTED",
+  "pcb_reference": "Y12-5054573A",
+  "pcba_reference": "SMT026092962803-5054573A",
+  "pcb_quantity": 5,
+  "assembly_quantity": 5,
+  "layers": 2,
+  "finish": "LeadFree HASL",
+  "assembly_service": "Economic",
+  "assembly_side": "bottom",
+  "bom_groups": 7,
+  "placements_per_board": 102,
+  "stock_shortfalls_shown": 0,
+  "matched_component_descriptions_all_rohs": true,
+  "lead_free_solder_requested": "SMT plus J1 through-hole solder",
+  "rail_removal": false,
+  "pcb_usd": 29.05,
+  "pcba_usd": 51.75,
+  "components_usd": 22.61,
+  "assembly_other_usd": 29.14,
+  "merchandise_usd": 80.8,
+  "pcba_breakdown_usd": {
+    "setup": 8.24,
+    "stencil": 1.55,
+    "components": 22.61,
+    "extended_components": 12.36,
+    "smt_assembly": 1.82,
+    "placement_confirmation": 0.45,
+    "hand_soldering_labor": 3.61,
+    "manual_assembly": 0.2,
+    "nitrogen_reflow": 0.91
+  },
+  "checkout": {
+    "method": "UPS Express Saver (DDP)",
+    "shipping_usd": 50.25,
+    "customs_duties_and_taxes_usd": 32.78,
+    "grand_total_usd": 163.83,
+    "per_board_usd": 32.766,
+    "destination": "User saved address; not stored here",
+    "coupon_applied": false,
+    "carriers_usd": {
+      "UPS Express Saver (DDP)": 163.83,
+      "DHL Express (DDP)": 165.93,
+      "FedEx Express (DDP)": 208.5
+    }
+  },
+  "pending": "Assembly remark remains Quote after review, including any reverse-mount LED handling/fixture charge. Such fees and any resulting tax adjustment are not included.",
+  "order_submitted": false,
+  "payment_made": false,
+  "files": {
+    "tkl-v10-gerbers.zip": "20fffa79172aa34a7118dda27dea9a49d2b8a82e9e17d5a3ec6f9dbc5184d07c",
+    "jlcpcb-bom.csv": "993ab18287c3a06dcb8be6da4bd30b60c4d5f31af6d9e6f0c4d1ba0606668bbc",
+    "jlcpcb-cpl.csv": "f485acbb6c0593a24180ca2ddc77e13067840ad998e16bde4cbcd21cbb8d6a09"
+  },
+  "cart_status": "Only retained cart order; selected"
+}

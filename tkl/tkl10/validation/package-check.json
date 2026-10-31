@@ -1,0 +1,29 @@
+{
+  "source_pcb_sha256": "70a3f9093fc9c34e1522c4c72051f9260559c124a9981142039c11f975bbd449",
+  "archives": [
+    {
+      "file": "case/tkl-v10-print-kit.zip",
+      "verified_members": 50,
+      "sha256": "d948ea77779fe984719d76e3c12eab79831ee1aa7a584fb15a34674387a6dd08"
+    },
+    {
+      "file": "case/tkl-v10-fit-coupons.zip",
+      "verified_members": 29,
+      "sha256": "9248060732c00b3c60478be66daeb2080acc31d60905e9315c2e7509b132b382"
+    },
+    {
+      "file": "case/print-fit/tkl-v10-easy-fit.zip",
+      "verified_members": 16,
+      "sha256": "94632838fa5836c2ce24f605b585243e2b5138aa2c5c155df4bff40552b81065"
+    },
+    {
+      "file": "manufacturing/tkl-v10-gerbers.zip",
+      "sha256": "20fffa79172aa34a7118dda27dea9a49d2b8a82e9e17d5a3ec6f9dbc5184d07c"
+    },
+    {
+      "file": "manufacturing/tkl-v10-prototype-handoff.zip",
+      "sha256": "8b31346925de0a7bb7c49582ed1d6adf7673794ec4604d5dbf743eeaf7dfefe2"
+    }
+  ],
+  "preserved_files_checked": 2614
+}

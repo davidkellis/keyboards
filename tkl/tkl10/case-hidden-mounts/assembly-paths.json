@@ -1,0 +1,201 @@
+{
+  "checks": [
+    {
+      "carrier": "M1",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M1",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M1",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M1",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M2",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M2",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M2",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M2",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M3",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M3",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M3",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M3",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M4",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M4",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M4",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M4",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M5",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M5",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M5",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M5",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M6",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M6",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M6",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M6",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M7",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M7",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M7",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M7",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "carrier": "M8",
+      "inward_mm": 0.4,
+      "hits": []
+    },
+    {
+      "carrier": "M8",
+      "inward_mm": 0.8,
+      "hits": []
+    },
+    {
+      "carrier": "M8",
+      "inward_mm": 1.2,
+      "hits": []
+    },
+    {
+      "carrier": "M8",
+      "inward_mm": 1.5,
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 0.2,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 0.5,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 1,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 2,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 4,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 8,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    },
+    {
+      "USB_insert_withdrawal_mm": 15,
+      "direction": "normal to PCB, down and slightly rearward",
+      "hits": []
+    }
+  ],
+  "passed": true,
+  "physical_fit_verified": false
+}

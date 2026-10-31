@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-02",
+  "status": "No replacement qualified for purchase and mechanical fit",
+  "requirement": {
+    "capacity_mAh_min": 5000,
+    "thickness_mm_less_than": 5,
+    "nominal_voltage_V": 3.7,
+    "charge_voltage_V": 4.2,
+    "no_increase_in_case_outer_dimensions": true
+  },
+  "existing": {
+    "cell_model": "5044147",
+    "advertised_dimensions_length_width_thickness_mm": [
+      147,
+      44,
+      5
+    ],
+    "complete_pack_max_design_allowance_mm": [
+      149,
+      46,
+      5.5
+    ],
+    "case_reserved_volume_mm": [
+      155,
+      50,
+      6.3
+    ]
+  },
+  "sources": [
+    {
+      "name": "PiJuice PIS-1131",
+      "url": "https://www.digikey.com/en/products/detail/maker-emporium-ltd/PIS-1131/13283430",
+      "rated_capacity_mAh": 5000,
+      "listed_dimensions_mm": [
+        125,
+        80,
+        4
+      ],
+      "listed_price_USD": 40.2,
+      "listed_stock_seen": 44,
+      "notes": [
+        "Retail listing with ground shipping; shipping/tariff total not checked.",
+        "Too wide for current bay; nominal rectangular pack at the screened location already violates PCB pin clearance before adding allowance.",
+        "Full CAD support/port collision test not performed."
+      ]
+    },
+    {
+      "name": "Whale 4547154",
+      "url": "https://www.whalebattery.com/products/3-7v-lipo-battery-4mm",
+      "listed_capacity_mAh": 5160,
+      "inferred_cell_dimensions_mm": [
+        154,
+        47,
+        4.5
+      ],
+      "notes": [
+        "Model code encodes bare cell dimensions per manufacturer.",
+        "Finished pack adds PCM and wrapping; max dimensions, stock, minimum order and retail price unconfirmed.",
+        "No confirmed single-cell retail source found. GPD Pocket retail replacements with a similar code are 2S high-voltage packs and do not qualify."
+      ]
+    },
+    {
+      "name": "Whale 4058126",
+      "url": "https://www.whalebattery.com/products/3-7v-lipo-battery-4mm",
+      "listed_capacity_mAh": 5050,
+      "inferred_cell_dimensions_mm": [
+        126,
+        58,
+        4
+      ],
+      "notes": [
+        "Too wide for current bay but nominal cell clears the screened electronic envelopes at current outer size.",
+        "Complete pack dimensions, minimum capacity, stock, minimum order and retail price unconfirmed.",
+        "Supports, ribs and retention require a CAD redesign and collision test."
+      ]
+    },
+    {
+      "name": "Faomic 4059134",
+      "url": "https://www.faomic.com/product-page/bater%C3%ADa-lipo-37v-5000mah-4059134",
+      "advertised_capacity_mAh": 5000,
+      "advertised_dimensions_mm": [
+        134,
+        59,
+        4
+      ],
+      "notes": [
+        "Earlier page fetch showed conflicting 1000 mAh body text and 4.25 V charging text; later direct fetches timed out.",
+        "Not qualified: complete dimensions, true rating and shipping availability remain unconfirmed."
+      ]
+    }
+  ],
+  "screening": {
+    "method": "case-slim-study/source/study.py required_origin; dimensions are rectangular horizontal envelopes with fixed rear y=130.5 and x=83",
+    "assumptions": [
+      "0.4 mm electronics clearance and battery bottom z=1.7.",
+      "Illustrative reserves add 8 mm length, 6 mm width and 1.3 mm thickness to nominal cells, matching existing bare-cell-to-reserve differences; these are not manufacturer tolerances.",
+      "The mathematical constraint checks electronics and pins only; it does not establish full case fit.",
+      "No changes to battery, PCB or printable case dimensions made."
+    ],
+    "rows": [
+      {
+        "label": "PiJuice PIS-1131 nominal pack",
+        "dimensions_length_width_thickness_mm": [
+          125,
+          80,
+          4
+        ],
+        "origin_xy_mm": [
+          83,
+          50.5
+        ],
+        "required_pcb_origin_z_mm": 2.623254023459056,
+        "current_pcb_origin_z_mm": 2.1125750051177867,
+        "required_elevation_change_mm": 0.510679018341269,
+        "limiting_envelope": "SW62 pin / battery"
+      },
+      {
+        "label": "Whale 4547154 nominal cell",
+        "dimensions_length_width_thickness_mm": [
+          154,
+          47,
+          4.5
+        ],
+        "origin_xy_mm": [
+          83,
+          83.5
+        ],
+        "required_pcb_origin_z_mm": 2.0766427305175847,
+        "current_pcb_origin_z_mm": 2.1125750051177867,
+        "required_elevation_change_mm": -0.035932274600201985,
+        "limiting_envelope": "D86 / floor"
+      },
+      {
+        "label": "Whale 4547154 illustrative reserve",
+        "dimensions_length_width_thickness_mm": [
+          162,
+          53,
+          5.8
+        ],
+        "origin_xy_mm": [
+          83,
+          77.5
+        ],
+        "required_pcb_origin_z_mm": 2.0766427305175847,
+        "current_pcb_origin_z_mm": 2.1125750051177867,
+        "required_elevation_change_mm": -0.035932274600201985,
+        "limiting_envelope": "D86 / floor"
+      },
+      {
+        "label": "Whale 4058126 nominal cell",
+        "dimensions_length_width_thickness_mm": [
+          126,
+          58,
+          4
+        ],
+        "origin_xy_mm": [
+          83,
+          72.5
+        ],
+        "required_pcb_origin_z_mm": 2.0766427305175847,
+        "current_pcb_origin_z_mm": 2.1125750051177867,
+        "required_elevation_change_mm": -0.035932274600201985,
+        "limiting_envelope": "D86 / floor"
+      },
+      {
+        "label": "Whale 4058126 illustrative reserve",
+        "dimensions_length_width_thickness_mm": [
+          134,
+          64,
+          5.3
+        ],
+        "origin_xy_mm": [
+          83,
+          66.5
+        ],
+        "required_pcb_origin_z_mm": 2.3636279672488545,
+        "current_pcb_origin_z_mm": 2.1125750051177867,
+        "required_elevation_change_mm": 0.25105296213106776,
+        "limiting_envelope": "D47 / battery"
+      }
+    ]
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "status": "Mechanical prototype; physical fit and optics unverified",
+  "edition": "V10 Edition 2 \u2014 raised key wells",
+  "target_keycaps": "XVX Skyline R2, nominal 5 mm profile",
+  "raised_by_mm": 3.2499999999999987,
+  "top_board_local_z_mm": 7.049999999999999,
+  "skirt_rest_board_local_z_mm": 7.199999999999999,
+  "rest_shadow_gap_mm": 0.15000000000000036,
+  "nominal_top_plane_front_rear_mm": [
+    8.958186170409482,
+    22.258186170409484
+  ],
+  "original_top_plane_front_rear_mm": [
+    5.692061895360501,
+    18.992061895360504
+  ],
+  "footprint_mm": [
+    355.56,
+    133.35221193128154
+  ],
+  "keycap_clearance_each_side_mm": 0.6,
+  "full_travel_mm": 2.8,
+  "minimum_cap_to_original_plate_at_full_travel_mm": 0.49999999999999956,
+  "pcb_changed": false,
+  "pcb_and_battery_moved": false,
+  "top_screw_holes": false,
+  "grouped_key_wells": 8,
+  "thin_typing_row_separators": false,
+  "added_material_checks": [
+    {
+      "part": "bottom",
+      "added_material_intersection_mm3": 0.0
+    },
+    {
+      "part": "bezel",
+      "added_material_intersection_mm3": 0.0
+    },
+    {
+      "part": "PCB",
+      "added_material_intersection_mm3": 0.0
+    },
+    {
+      "part": "battery-reserve",
+      "added_material_intersection_mm3": 0.0
+    }
+  ],
+  "travel_checks": [
+    {
+      "key": "SW1",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW10",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW11",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW12",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW13",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW14",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW15",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW16",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW17",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW18",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW19",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW2",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW20",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW21",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW22",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW23",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW24",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW25",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW26",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW27",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW28",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW29",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW3",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW30",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW31",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW32",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW33",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW34",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW35",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW36",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW37",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW38",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW39",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW4",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW40",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW41",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW42",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW43",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW44",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW45",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW46",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW47",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW48",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW49",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW5",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW50",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW51",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW52",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW53",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW54",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW55",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW56",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW57",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW58",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW59",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW6",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW60",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW61",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW62",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW63",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW64",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW65",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW66",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW67",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW68",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW69",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW7",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW70",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW71",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW72",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW73",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW74",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW75",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW76",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW77",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW78",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW79",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW8",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW80",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW81",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW82",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW83",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW84",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW85",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW86",
+      "swept_cap_case_intersection_mm3": 0.0
+    },
+    {
+      "key": "SW9",
+      "swept_cap_case_intersection_mm3": 0.0
+    }
+  ],
+  "exports": [
+    {
+      "file": "reference/upper-assembly.stl",
+      "triangles": 54010,
+      "volume_mm3": 98968.9125500345,
+      "bounds_mm": [
+        355.55999755859375,
+        133.3522186279297,
+        22.019500732421875
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    },
+    {
+      "file": "prints/plate-upper.stl",
+      "triangles": 54022,
+      "volume_mm3": 98968.900095821,
+      "bounds_mm": [
+        355.55999755859375,
+        134.66456604003906,
+        22.148303476763033
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 5.088326702207269e-07
+    },
+    {
+      "file": "reference/upper-navigation-assembly.stl",
+      "triangles": 54768,
+      "volume_mm3": 98751.04718951488,
+      "bounds_mm": [
+        355.55999755859375,
+        133.3522186279297,
+        22.019500732421875
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    },
+    {
+      "file": "prints/plate-upper-navigation.stl",
+      "triangles": 54766,
+      "volume_mm3": 98751.0377348131,
+      "bounds_mm": [
+        355.55999755859375,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    },
+    {
+      "file": "reference/navigation-guide-assembly.stl",
+      "triangles": 472,
+      "volume_mm3": 181.27815879140672,
+      "bounds_mm": [
+        48.17999267578125,
+        19.30057144165039,
+        6.663783550262451
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 7.287221431732178
+    },
+    {
+      "file": "prints/plate-upper-left.stl",
+      "triangles": 22738,
+      "volume_mm3": 46291.34054347062,
+      "bounds_mm": [
+        186.82000732421875,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    },
+    {
+      "file": "prints/plate-upper-right.stl",
+      "triangles": 32560,
+      "volume_mm3": 52491.24961201987,
+      "bounds_mm": [
+        186.82749938964844,
+        134.66456604003906,
+        22.148303476763033
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 5.088326702207269e-07
+    },
+    {
+      "file": "prints/plate-upper-navigation-left.stl",
+      "triangles": 22704,
+      "volume_mm3": 46274.35284018889,
+      "bounds_mm": [
+        186.82000732421875,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    },
+    {
+      "file": "prints/plate-upper-navigation-right.stl",
+      "triangles": 33358,
+      "volume_mm3": 52282.24099095202,
+      "bounds_mm": [
+        186.82749938964844,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    },
+    {
+      "file": "prints/front-fit-coupon.stl",
+      "triangles": 3070,
+      "volume_mm3": 3764.685869082581,
+      "bounds_mm": [
+        46.0,
+        45.107337951660156,
+        13.28067587812568
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 9.935844147435091e-09
+    },
+    {
+      "file": "prints/usb-fit-coupon-upper.stl",
+      "triangles": 5770,
+      "volume_mm3": 5968.197487038282,
+      "bounds_mm": [
+        41.0,
+        43.80275344848633,
+        22.148300170898438
+      ],
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0
+    }
+  ],
+  "source_sha256": {
+    "case-hidden-mounts/reference/upper-assembly.stl": "4dfef3122d8d2bd82a04acd1f6385e9beaffc166a97088d40f356384cf4dcbfb",
+    "case-hidden-mounts/reference/bottom-assembly.stl": "7a41e5de650498ebe662311bc117c6e11da8d0dcc45b7f43a612cc25a2313c3e",
+    "case-hidden-mounts/reference/bezel-assembly.stl": "28d2416caaa7e4bd62783bd906bde60a08583d972f00222f944205dcec704ccb",
+    "case-hidden-mounts/reference/board-assembly.stl": "82bf667c96007289bae373f14ead75b3e25e6c28f5b4e69f05d17de625c16bda",
+    "case-hidden-mounts/reference/battery-assembly.stl": "9842f992afa7568b9b28d71ce889f46584b5f34cb1344c2c1e0694f4e2d475dc",
+    "render-keycaps-lighting/assets.json": "7d5098bb046b7c9200508cfcbb76898af8bd6fb6da94a324c7ec107b79ef458e",
+    "case/board-geometry.json": "e814d66ce6c6bd61ce3eeca530e8911bd9a9f9a576d1f02b2a49f1e13f6734d4",
+    "case/fit-config.json": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+    "case/fit-report.json": "370d7f13917cfee4a9d426ddd4c27a5f3bfab83b76eda1024f1d4c1ea5b6cb62",
+    "case-hidden-mounts/reference/M1-carrier-assembly.stl": "7d1de794fabae4ee5bdd6e6bd379d75e466f3226bcd855d159a548a8dfc40441",
+    "case-hidden-mounts/reference/M1-screw-assembly.stl": "90be08e8bfeb2e67068d31de355e02ec647a268b0c7cab3ce1faa932e097201c",
+    "case-hidden-mounts/reference/M1-nut-assembly.stl": "eaad1cc29281b08f28a441cdc29d6743d568b59d774dafa3eb024b1847c22b37",
+    "case-hidden-mounts/reference/M2-carrier-assembly.stl": "01ce75f85f955a971eb9f819b71592bed32be362c6b301af106346396f013222",
+    "case-hidden-mounts/reference/M2-screw-assembly.stl": "50d71b003a95b7c1a2bbbd1e186ee9423dbd845fc66d3d7eb4abb39ef0f88240",
+    "case-hidden-mounts/reference/M2-nut-assembly.stl": "7f6cab9aa8b8a3a51a362ba4fd84c380a4cffd2c73dd9ad1ddb76ab8498d7c5a",
+    "case-hidden-mounts/reference/M3-carrier-assembly.stl": "a69552b34f3c5eef652b50cdd74acb982dc3154095df81f66c399710aab9769e",
+    "case-hidden-mounts/reference/M3-screw-assembly.stl": "576075e091092272dd262de33d33a4a41593ca6ec7a7d6cb0282509b64a5da99",
+    "case-hidden-mounts/reference/M3-nut-assembly.stl": "f0077b0224d52dbbd2f7a897f3db08cba309ebffbab0bc9bca6fe2b82d8c2e73",
+    "case-hidden-mounts/reference/M4-carrier-assembly.stl": "72e57c7efce5928f8c84c8813b56807b22a176c2efee2e397f53e52d20a5414d",
+    "case-hidden-mounts/reference/M4-screw-assembly.stl": "b94abbad7dda9552e118acba2c0fd198cbb177cb3a07981bd22477df75bbc651",
+    "case-hidden-mounts/reference/M4-nut-assembly.stl": "d84c59d9836ae7552c29542b8c71d7672b146b05a19c3f278670375e43f8915b",
+    "case-hidden-mounts/reference/M5-carrier-assembly.stl": "ece887600440150ba56d94e395409ba83e3cf9b419a6bc7d8b58e578b510b4f2",
+    "case-hidden-mounts/reference/M5-screw-assembly.stl": "2897c1557979cd6ac224eaf93230b1aa29a532db90db9d2cd95b1ea3e99236b1",
+    "case-hidden-mounts/reference/M5-nut-assembly.stl": "4f6afecd199710cbec807e877859e068ec6960259ea2a1d4b62a4c7b6dc5ee90",
+    "case-hidden-mounts/reference/M6-carrier-assembly.stl": "61eb1f1b49d27a34d1e28696f1116552d4cf9ab1e0837e70eb4c0a3aa8924f01",
+    "case-hidden-mounts/reference/M6-screw-assembly.stl": "2f1725feb0d7499d068cb87287f8e4a8950b65d05918b1bdb778b084fd8b309a",
+    "case-hidden-mounts/reference/M6-nut-assembly.stl": "1a2cd25851e3fbbdd2f0d2ba81aaad7ca0fb3b247700dbb39340a93fe1905d8b",
+    "case-hidden-mounts/reference/M7-carrier-assembly.stl": "9412690f715f54cfebd8f31ec15ffe7e9db7710aab9c5c882c280767a8a2fd19",
+    "case-hidden-mounts/reference/M7-screw-assembly.stl": "903a6c652cf049481f69b0d507aeee6d63411b7ac9d21a25fdece099b5a4265a",
+    "case-hidden-mounts/reference/M7-nut-assembly.stl": "26503993c66f7822f9ba512d7205382feea81d2f5943e7597f49208972fdc80a",
+    "case-hidden-mounts/reference/M8-carrier-assembly.stl": "e82b95b152be4c4e04aa148fb40cc917dfb336285e479f327630fd6753e7b3bf",
+    "case-hidden-mounts/reference/M8-screw-assembly.stl": "07e3a0c85cb3325f431f4e4d85d5504340714d4f473d5e35a3d948329517120d",
+    "case-hidden-mounts/reference/M8-nut-assembly.stl": "f81fcbcc31d436ee0bd72cf3d423e9fd283877a6591e46c6dccfa7b203bf8b39",
+    "case-hidden-mounts/case-bottom.stl": "3d350016a96fb49c67010f7337ee79455a6763540c01ad010ec995ffc0d6e4ce",
+    "case-hidden-mounts/case-bottom-left.stl": "8d918c7bc0470dc3f9022e5004fb9bc7b447bca9a77088b59521f83b96ce1d17",
+    "case-hidden-mounts/case-bottom-right.stl": "28363c40341470852deb4eca07935beecc8b268f6f9c93eab4529a487585753b",
+    "case-hidden-mounts/nut-carrier.stl": "d2e9e156898a2e4a8f2c9547697e0af4c28d62b1a2af2bf233271632f1ecbd28",
+    "case-hidden-mounts/usb-bezel.stl": "203c3c81a798a7be84a0b2e7bd5cc7f748e8a37666a192f540b8ff39b95a6599",
+    "case-hidden-mounts/led-diffuser.stl": "7e43503705d8462d4cdbb2791951463bd2f022b43bf0162dde1c671125abc7c3",
+    "case-hidden-mounts/usb-coupon-bottom.stl": "e1306767f52a723e5024a5e08ea4c154af8030fbbc8d4c3bc06e6fadc606e25c",
+    "case-hidden-mounts/usb-coupon-pcb.stl": "a1c5c9c90e5af5aa3733e4d72252c66e3b945039b84ea749759e919b93bfc3b9"
+  },
+  "physical_fit_verified": false,
+  "discarded_numerical_slivers": [
+    {
+      "part": "plate-upper-left",
+      "volume_mm3": 1.3611462983555908e-06,
+      "count": 9
+    },
+    {
+      "part": "plate-upper-right",
+      "volume_mm3": 1.8536733766337506e-06,
+      "count": 9
+    },
+    {
+      "part": "plate-upper-navigation-left",
+      "volume_mm3": 3.3953349569078056e-07,
+      "count": 12
+    },
+    {
+      "part": "plate-upper-navigation-right",
+      "volume_mm3": 5.12003486833994e-07,
+      "count": 13
+    }
+  ],
+  "stl_surface_simplification_budget_mm": 0.002,
+  "limits": [
+    "XVX geometry and 3 mm engagement remain nominal assumptions, not measured underside CAD.",
+    "The flat top targets the XVX skirt; alternate caps remain selectable but will not all sit flush.",
+    "Grouped key wells conceal the switches from outside; gaps between keys remain open for travel.",
+    "The switch seating plate remains 1.5 mm; do not press switches into the raised cosmetic openings.",
+    "Raised top / skirt height does not raise the PCB, battery, switches or keycap tops.",
+    "The light bar needs a longer terminal light pipe; brightness requires a physical test.",
+    "Split shells require bonding and finishing; no top-to-body perimeter seam is introduced."
+  ]
+}

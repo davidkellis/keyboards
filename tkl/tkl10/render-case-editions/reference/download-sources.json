@@ -1,0 +1,88 @@
+{
+  "commit": "066112d0d31848695b32c05eb8aa6362257929dc",
+  "author": "Joe Scotto",
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "files": [
+    {
+      "file": "flat-1.00u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/1.00u.3mf",
+      "bytes": 338715
+    },
+    {
+      "file": "glass-1.00u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%201.00u.stl",
+      "bytes": 79484
+    },
+    {
+      "file": "flat-1.25u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/1.25u.3mf",
+      "bytes": 340710
+    },
+    {
+      "file": "glass-1.25u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%201.25u.stl",
+      "bytes": 79484
+    },
+    {
+      "file": "flat-1.50u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/1.50u.3mf",
+      "bytes": 339556
+    },
+    {
+      "file": "glass-1.50u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%201.50u.stl",
+      "bytes": 79484
+    },
+    {
+      "file": "flat-1.75u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/1.75u.3mf",
+      "bytes": 339474
+    },
+    {
+      "file": "glass-1.75u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%201.75u.stl",
+      "bytes": 79484
+    },
+    {
+      "file": "flat-2.00u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/2.00u.3mf",
+      "bytes": 372032
+    },
+    {
+      "file": "glass-2.00u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%202.00u.stl",
+      "bytes": 185884
+    },
+    {
+      "file": "flat-2.25u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/2.25u.3mf",
+      "bytes": 371292
+    },
+    {
+      "file": "glass-2.25u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%202.25u.stl",
+      "bytes": 185884
+    },
+    {
+      "file": "flat-2.75u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/2.75u.3mf",
+      "bytes": 371025
+    },
+    {
+      "file": "glass-2.75u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%202.75u.stl",
+      "bytes": 185884
+    },
+    {
+      "file": "flat-6.25u.3mf",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Flat/Blanks/6.25u.3mf",
+      "bytes": 370767
+    },
+    {
+      "file": "glass-6.25u.stl",
+      "url": "https://raw.githubusercontent.com/joe-scotto/scottokeebs/066112d0d31848695b32c05eb8aa6362257929dc/Extras/ScottoCaps/Glass/MX/ScottoCaps%20(Glass)%20-%206.25u.stl",
+      "bytes": 185884
+    }
+  ]
+}

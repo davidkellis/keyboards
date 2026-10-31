@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-28",
+  "revision": "v10",
+  "currency": "USD",
+  "status": "Historical-quote projection; NOT a live v10 quote",
+  "pcb_quantity": 5,
+  "assembly_quantity": 5,
+  "bom_groups": 7,
+  "placements_per_board": 102,
+  "configuration": {
+    "layers": 2,
+    "thickness_mm": 1.6,
+    "finish": "Lead-free HASL",
+    "solder": "Lead-free SMT and through-hole solder requested",
+    "components": "Lead-free finishes / RoHS compliance to be confirmed for matched parts",
+    "assembly": "Economic bottom only",
+    "paid_rail_removal": false
+  },
+  "baseline_date": "2026-09-26",
+  "baseline_revision": "v9",
+  "baseline_usd": {
+    "pcb": 29.05,
+    "components": 22.2,
+    "assembly_other": 29.09,
+    "merchandise": 80.34,
+    "shipping": 50.24,
+    "checkout_duties_taxes": 32.62,
+    "checkout_total_excluding_rail_removal": 163.2
+  },
+  "delta": {
+    "extra_diodes_batch": 15,
+    "extra_parts_at_saved_unit_price_usd": 0.363,
+    "extra_smt_joints": 30,
+    "extra_assembly_at_public_rate_usd": 0.048
+  },
+  "projected_merchandise_usd": 80.751,
+  "delivered_planning_estimate_rounded_usd": 165,
+  "per_board_planning_estimate_usd": 33,
+  "assumptions": [
+    "Unchanged fabrication/setup/feeder prices and Economic eligibility",
+    "Comparable shipping and checkout taxes to v9; not requoted",
+    "Same absolute diode overage and price tier; not a purchasing guarantee"
+  ],
+  "unpriced": [
+    "Reverse-mount LED fixture or handling, previously Quote after review",
+    "Any newly required factory processing"
+  ],
+  "excludes": [
+    "Customer-installed clone modules",
+    "86 switches per board",
+    "Battery",
+    "Printed case and plate",
+    "Keycaps and stabilizers",
+    "Screws, nuts and mounting supplies"
+  ],
+  "live_browser_available": false,
+  "order_submitted": false,
+  "cart_modified": false,
+  "files": {
+    "tkl-v10-gerbers.zip": "20fffa79172aa34a7118dda27dea9a49d2b8a82e9e17d5a3ec6f9dbc5184d07c",
+    "jlcpcb-bom.csv": "993ab18287c3a06dcb8be6da4bd30b60c4d5f31af6d9e6f0c4d1ba0606668bbc",
+    "jlcpcb-cpl.csv": "f485acbb6c0593a24180ca2ddc77e13067840ad998e16bde4cbcd21cbb8d6a09"
+  },
+  "sources": [
+    "../../../tkl9/manufacturing/quote-v9-2026-09-26/hasl-economic/record.json",
+    "https://jlcpcb.com/help/article/pcb-assembly-price",
+    "https://jlcpcb.com/capabilities/pcb-assembly-capabilities"
+  ]
+}

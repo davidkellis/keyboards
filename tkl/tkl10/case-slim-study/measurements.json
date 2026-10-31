@@ -1,0 +1,201 @@
+{
+  "status": "analytic envelope screening; not fitted printable CAD",
+  "source_sha256": {
+    "case/board-geometry.json": "e814d66ce6c6bd61ce3eeca530e8911bd9a9f9a576d1f02b2a49f1e13f6734d4",
+    "case/fit-config.json": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+    "case/fit-report.json": "370d7f13917cfee4a9d426ddd4c27a5f3bfab83b76eda1024f1d4c1ea5b6cb62"
+  },
+  "current": {
+    "front_plate_plane_mm": 5.692061895360501,
+    "rear_plate_plane_mm": 18.992061895360504,
+    "rounded_case_max_height_mm": 18.730319010740356,
+    "width_depth_mm": [
+      355.56,
+      133.35221193128154
+    ],
+    "tilt_deg": 5.695609528003503,
+    "front_relief_floor_mm": 0.8359322746002019,
+    "front_diode_clearance_mm": 0.4,
+    "key_pitch_mm": 19.05
+  },
+  "constant_front_existing_electronics_bound": {
+    "angle_deg": 5.485665797745078,
+    "front_plate_plane_mm": 5.692061895360501,
+    "rear_plate_plane_mm": 18.50317791313843,
+    "depth_mm": 133.39832863760046,
+    "constraint": "LED4 / battery",
+    "extra_vertical_study_margin_mm": 0.0
+  },
+  "scenarios": [
+    {
+      "scenario": "Existing battery reserve and electronics",
+      "battery_reserve_mm": 6.3,
+      "connector_below_pcb_mm": 8.0,
+      "module_below_pcb_mm": 6.0,
+      "examples": [
+        {
+          "angle_deg": 4.0,
+          "front_plate_plane_mm": 7.9831011289532725,
+          "rear_plate_plane_mm": 17.33058866928567,
+          "depth_mm": 133.6752996530667,
+          "constraint": "LED4 / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 3.0000000000000004,
+          "front_plate_plane_mm": 9.393476364150757,
+          "rear_plate_plane_mm": 16.406315891735268,
+          "depth_mm": 133.8129495949434,
+          "constraint": "D30 / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 2.0,
+          "front_plate_plane_mm": 10.87032146359801,
+          "rear_plate_plane_mm": 15.5466071361545,
+          "depth_mm": 133.911300942597,
+          "constraint": "SW30 pin / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 0.0,
+          "front_plate_plane_mm": 14.099999999999998,
+          "rear_plate_plane_mm": 14.099999999999998,
+          "depth_mm": 133.99,
+          "constraint": "SW6 pin / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        }
+      ]
+    },
+    {
+      "scenario": "Thinner pouch reserve, current electronics",
+      "battery_reserve_mm": 4.3,
+      "connector_below_pcb_mm": 8.0,
+      "module_below_pcb_mm": 6.0,
+      "examples": [
+        {
+          "angle_deg": 4.0,
+          "front_plate_plane_mm": 6.162292637727219,
+          "rear_plate_plane_mm": 15.509780178059618,
+          "depth_mm": 133.6752996530667,
+          "constraint": "SW86 pin / floor",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 3.0000000000000004,
+          "front_plate_plane_mm": 7.393476364150757,
+          "rear_plate_plane_mm": 14.40631589173527,
+          "depth_mm": 133.8129495949434,
+          "constraint": "D30 / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 2.0,
+          "front_plate_plane_mm": 9.2492635356295,
+          "rear_plate_plane_mm": 13.925549208185991,
+          "depth_mm": 133.911300942597,
+          "constraint": "J1 / floor",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 0.0,
+          "front_plate_plane_mm": 13.599999999999998,
+          "rear_plate_plane_mm": 13.599999999999998,
+          "depth_mm": 133.99,
+          "constraint": "J1 / floor",
+          "extra_vertical_study_margin_mm": 0.2
+        }
+      ]
+    },
+    {
+      "scenario": "Thinner pouch + low connector envelope",
+      "battery_reserve_mm": 4.3,
+      "connector_below_pcb_mm": 3.0,
+      "module_below_pcb_mm": 6.0,
+      "examples": [
+        {
+          "angle_deg": 4.0,
+          "front_plate_plane_mm": 6.162292637727219,
+          "rear_plate_plane_mm": 15.509780178059618,
+          "depth_mm": 133.6752996530667,
+          "constraint": "SW86 pin / floor",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 3.0000000000000004,
+          "front_plate_plane_mm": 7.393476364150757,
+          "rear_plate_plane_mm": 14.40631589173527,
+          "depth_mm": 133.8129495949434,
+          "constraint": "D30 / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 2.0,
+          "front_plate_plane_mm": 8.87032146359801,
+          "rear_plate_plane_mm": 13.5466071361545,
+          "depth_mm": 133.911300942597,
+          "constraint": "SW30 pin / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 0.0,
+          "front_plate_plane_mm": 12.099999999999998,
+          "rear_plate_plane_mm": 12.099999999999998,
+          "depth_mm": 133.99,
+          "constraint": "SW6 pin / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        }
+      ]
+    },
+    {
+      "scenario": "Thinner pouch + low connector + recessed module",
+      "battery_reserve_mm": 4.3,
+      "connector_below_pcb_mm": 3.0,
+      "module_below_pcb_mm": 4.5,
+      "examples": [
+        {
+          "angle_deg": 4.0,
+          "front_plate_plane_mm": 6.162292637727219,
+          "rear_plate_plane_mm": 15.509780178059618,
+          "depth_mm": 133.6752996530667,
+          "constraint": "SW86 pin / floor",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 3.0000000000000004,
+          "front_plate_plane_mm": 7.393476364150757,
+          "rear_plate_plane_mm": 14.40631589173527,
+          "depth_mm": 133.8129495949434,
+          "constraint": "D30 / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 2.0,
+          "front_plate_plane_mm": 8.87032146359801,
+          "rear_plate_plane_mm": 13.5466071361545,
+          "depth_mm": 133.911300942597,
+          "constraint": "SW30 pin / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        },
+        {
+          "angle_deg": 0.0,
+          "front_plate_plane_mm": 12.099999999999998,
+          "rear_plate_plane_mm": 12.099999999999998,
+          "depth_mm": 133.99,
+          "constraint": "SW6 pin / battery",
+          "extra_vertical_study_margin_mm": 0.2
+        }
+      ]
+    }
+  ],
+  "assumptions": [
+    "Fixed battery plan reserve 155 x 50 at x=83,y=80.5; battery bottom z=1.7.",
+    "Thinner battery reserve 4.3 mm is a design target, not a sourced pack or a capacity guarantee.",
+    "A 3 mm connector envelope and 4.5 mm module depth are hypothetical redesigned targets.",
+    "Minimum floor 0.8 mm at front reliefs and 1.2 mm elsewhere; vertical gap 0.4 mm.",
+    "Table examples add 0.2 mm to the required PCB elevation as a study margin.",
+    "Case depth follows the PCB projection with the same 2.4 mm end margins.",
+    "Switches/keycaps/feet are excluded from quoted plate heights.",
+    "Supports, hidden nut carriers, ports, structure, battery leads and physical dimensions require a new CAD fit audit."
+  ]
+}

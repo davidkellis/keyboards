@@ -1,0 +1,122 @@
+[
+  {
+    "id": "orbit-00",
+    "label": "Front",
+    "kind": "orbit",
+    "index": 0,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-01",
+    "label": "Front-right",
+    "kind": "orbit",
+    "index": 1,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-02",
+    "label": "Right-front",
+    "kind": "orbit",
+    "index": 2,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-03",
+    "label": "Right",
+    "kind": "orbit",
+    "index": 3,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-04",
+    "label": "Right-rear",
+    "kind": "orbit",
+    "index": 4,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-05",
+    "label": "Rear-right",
+    "kind": "orbit",
+    "index": 5,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-06",
+    "label": "Rear",
+    "kind": "orbit",
+    "index": 6,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-07",
+    "label": "Rear-left",
+    "kind": "orbit",
+    "index": 7,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-08",
+    "label": "Left-rear",
+    "kind": "orbit",
+    "index": 8,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-09",
+    "label": "Left",
+    "kind": "orbit",
+    "index": 9,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-10",
+    "label": "Left-front",
+    "kind": "orbit",
+    "index": 10,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "orbit-11",
+    "label": "Front-left",
+    "kind": "orbit",
+    "index": 11,
+    "caption": "Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative."
+  },
+  {
+    "id": "front",
+    "label": "Front straight on",
+    "kind": "fixed",
+    "caption": "Low front edge with a broad 2.5 mm round. No top screw heads."
+  },
+  {
+    "id": "right",
+    "label": "Right side",
+    "kind": "fixed",
+    "caption": "The plate slopes upward toward the rear. The side wall continues into the top."
+  },
+  {
+    "id": "rear",
+    "label": "Rear straight on",
+    "kind": "fixed",
+    "caption": "Direct USB-C opening and power switch. Small local insert joints remain at the rear."
+  },
+  {
+    "id": "left",
+    "label": "Left side",
+    "kind": "fixed",
+    "caption": "Flush sloping plate with 3 mm vertical corner radii."
+  },
+  {
+    "id": "top",
+    "label": "Top",
+    "kind": "fixed",
+    "caption": "Full key layout with illustrative blank keycaps. No raised rim around the plate."
+  },
+  {
+    "id": "bottom",
+    "label": "Underneath",
+    "kind": "fixed",
+    "caption": "Inset removable bottom and eight recessed screw heads. Optional rubber feet are not modeled."
+  }
+]

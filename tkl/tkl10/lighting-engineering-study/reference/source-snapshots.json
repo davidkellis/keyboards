@@ -1,0 +1,26 @@
+{
+  "repository": "https://github.com/zmkfirmware/zmk",
+  "commit": "4dd95d7840eb3d5a3f59bb29fbf1ab054715ef85",
+  "files": [
+    {
+      "file": "zmk-power-estimate.js",
+      "url": "https://raw.githubusercontent.com/zmkfirmware/zmk/4dd95d7840eb3d5a3f59bb29fbf1ab054715ef85/docs/src/components/power-estimate.js",
+      "sha256": "5bd90103b866cbab9e9f122e4cb5ec66597dc67a9f4d523a8854a8dd297875c8"
+    },
+    {
+      "file": "zmk-power-data.js",
+      "url": "https://raw.githubusercontent.com/zmkfirmware/zmk/4dd95d7840eb3d5a3f59bb29fbf1ab054715ef85/docs/src/data/power.js",
+      "sha256": "aeb7d249218391a5f7ce0b51bcb317d13cee2596d5311ac893df3b3cdf4f1153"
+    },
+    {
+      "file": "zmk-power-profiler.js",
+      "url": "https://raw.githubusercontent.com/zmkfirmware/zmk/4dd95d7840eb3d5a3f59bb29fbf1ab054715ef85/docs/src/pages/power-profiler.js",
+      "sha256": "4060b0d0786345a242df17c67157624c4d98173185ea652cffdb53ddbd59772d"
+    },
+    {
+      "file": "ZMK-LICENSE",
+      "url": "https://raw.githubusercontent.com/zmkfirmware/zmk/4dd95d7840eb3d5a3f59bb29fbf1ab054715ef85/LICENSE",
+      "sha256": "05e785a4c222b9213b452f1a2cd8b3f8ce95a56c1b77a7ca8525d0f7eb7f77b1"
+    }
+  ]
+}

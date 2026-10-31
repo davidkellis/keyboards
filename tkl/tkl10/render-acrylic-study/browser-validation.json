@@ -1,0 +1,1997 @@
+{
+  "checked_at": "2026-10-15T20:05:41.551Z",
+  "browser": "Brave / Playwright / standalone offline file",
+  "passed": true,
+  "errors": [],
+  "network_requests": [],
+  "combinations": [
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [],
+      "originalVisible": true,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [],
+      "originalVisible": true,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [],
+      "originalVisible": true,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [],
+      "originalVisible": true,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "original",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [],
+      "originalVisible": true,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "clear",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "frosted",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "etched",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "current"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "clear",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "frosted",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "etched",
+      "seat": 3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "original",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "clear",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "frosted",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "etched",
+      "seat": 2.3,
+      "travel": 0,
+      "backing": true,
+      "capsVisible": true,
+      "keys": 86,
+      "visibleAcrylic": [
+        "raised"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false,
+      "emittingLegends": 0,
+      "sources": [
+        [
+          286.97,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          286.8699995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          58.69,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          153.94,
+          77.74000000000001,
+          4.05
+        ],
+        [
+          63.459999499999995,
+          30.130000000000003,
+          4.05
+        ],
+        [
+          177.76,
+          30.130000000000003,
+          4.05
+        ]
+      ],
+      "collectors": 6
+    }
+  ],
+  "fields": {
+    "clear": {
+      "peak": 0.03261565789580345,
+      "integratedKernelWeight": 18.84955592153876,
+      "clippedFieldSum": 301.0845616887096,
+      "extractionNormalization": 1
+    },
+    "frosted": {
+      "peak": 0.004853440914303064,
+      "integratedKernelWeight": 18.84955592153876,
+      "clippedFieldSum": 296.4758424737061,
+      "extractionNormalization": 1
+    },
+    "etched": {
+      "peak": 0.008116494864225388,
+      "integratedKernelWeight": 18.84955592153876,
+      "clippedFieldSum": 282.12345787102606,
+      "extractionNormalization": 1.6669709289485701
+    }
+  },
+  "glb_bytes": 23405848,
+  "source_files_unchanged": true,
+  "checks": [
+    "40 edition / material / cap combinations",
+    "six fixed LED positions and collectors",
+    "equal initial source-kernel weights; wider fields have lower peaks",
+    "no emitting keycap legends",
+    "lights off and brightness control",
+    "white backing on/off",
+    "86 identical key positions and 2.8 mm travel",
+    "caps-on and caps-off comparisons",
+    "nine cameras, orbit, zoom and auto-rotation",
+    "day/dim lighting",
+    "PNG export",
+    "selected GLB with optical textures and transmission",
+    "390px mobile layout",
+    "unchanged source CAD hashes"
+  ]
+}

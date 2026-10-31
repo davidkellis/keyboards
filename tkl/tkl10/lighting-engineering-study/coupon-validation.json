@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "artwork_page_mm": [
+    83.15,
+    45.05
+  ],
+  "guide_outline_mm": [
+    82.15,
+    44.05
+  ],
+  "outputs": 8,
+  "extraction_checks": [
+    {
+      "file": "guide-sparse-ETCH.svg",
+      "output_dots": 280,
+      "all_within_mask_windows": true
+    },
+    {
+      "file": "guide-medium-ETCH.svg",
+      "output_dots": 220,
+      "all_within_mask_windows": true
+    },
+    {
+      "file": "guide-dense-ETCH.svg",
+      "output_dots": 200,
+      "all_within_mask_windows": true
+    }
+  ],
+  "cnc_tool_compensation_applied": false,
+  "physical_fit_verified": false
+}

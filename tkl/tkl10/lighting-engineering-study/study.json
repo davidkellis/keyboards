@@ -1,0 +1,1005 @@
+{
+  "checked_date": "2026-10-15",
+  "status": "Engineering proposal and bench optical coupons; not production PCB or validated optics",
+  "source_sha256": {
+    "case/board-geometry.json": "e814d66ce6c6bd61ce3eeca530e8911bd9a9f9a576d1f02b2a49f1e13f6734d4",
+    "case/fit-config.json": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+    "case/fit-report.json": "370d7f13917cfee4a9d426ddd4c27a5f3bfab83b76eda1024f1d4c1ea5b6cb62",
+    "manufacturing/jlcpcb-bom.csv": "993ab18287c3a06dcb8be6da4bd30b60c4d5f31af6d9e6f0c4d1ba0606668bbc",
+    "manufacturing/assembly-notes.csv": "612040996083bc6406f7b8c985c794793fd7ecf06174cd23389e99a2dfade648",
+    "kicad/keyboard.kicad_pcb": "70a3f9093fc9c34e1522c4c72051f9260559c124a9981142039c11f975bbd449",
+    "kicad/power.kicad_sch": "dd8fa2a09f13fd0fa099f80d495a0a5780bb032c29a83140b8f5b7f41ab9a52d"
+  },
+  "source_files_unchanged": true,
+  "pcb_modified": false,
+  "board": {
+    "width": 350.76,
+    "depth": 129.19,
+    "thickness": 1.6,
+    "kicad_bounds": [
+      27.03,
+      20.0,
+      377.79,
+      149.19
+    ]
+  },
+  "switches": [
+    {
+      "ref": "SW1",
+      "xy": [
+        11.07,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW10",
+      "xy": [
+        87.27,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW11",
+      "xy": [
+        134.895,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW12",
+      "xy": [
+        172.995,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW13",
+      "xy": [
+        220.62,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW14",
+      "xy": [
+        258.72,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW15",
+      "xy": [
+        301.5825,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW16",
+      "xy": [
+        339.6825,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW17",
+      "xy": [
+        11.07,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW18",
+      "xy": [
+        49.17,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW19",
+      "xy": [
+        87.27,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW2",
+      "xy": [
+        49.17,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW20",
+      "xy": [
+        125.37,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW21",
+      "xy": [
+        163.47,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW22",
+      "xy": [
+        201.57,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW23",
+      "xy": [
+        239.67,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW24",
+      "xy": [
+        320.6325,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW25",
+      "xy": [
+        30.12,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW26",
+      "xy": [
+        68.22,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW27",
+      "xy": [
+        106.32,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW28",
+      "xy": [
+        144.42,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW29",
+      "xy": [
+        182.52,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW3",
+      "xy": [
+        68.22,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW30",
+      "xy": [
+        220.62,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW31",
+      "xy": [
+        268.245,
+        87.2775
+      ],
+      "units": 2.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW32",
+      "xy": [
+        301.5825,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW33",
+      "xy": [
+        339.6825,
+        87.2775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW34",
+      "xy": [
+        15.8325,
+        68.2275
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW35",
+      "xy": [
+        58.695,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW36",
+      "xy": [
+        96.795,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW37",
+      "xy": [
+        134.895,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW38",
+      "xy": [
+        172.995,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW39",
+      "xy": [
+        211.095,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW4",
+      "xy": [
+        106.32,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW40",
+      "xy": [
+        249.195,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW41",
+      "xy": [
+        273.0075,
+        68.2275
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW42",
+      "xy": [
+        320.6325,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW43",
+      "xy": [
+        39.645,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW44",
+      "xy": [
+        77.745,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW45",
+      "xy": [
+        115.845,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW46",
+      "xy": [
+        153.945,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW47",
+      "xy": [
+        192.045,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW48",
+      "xy": [
+        230.145,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW49",
+      "xy": [
+        301.5825,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW5",
+      "xy": [
+        153.945,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW50",
+      "xy": [
+        339.6825,
+        68.2275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW51",
+      "xy": [
+        18.21375,
+        49.1775
+      ],
+      "units": 1.75,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW52",
+      "xy": [
+        63.4575,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW53",
+      "xy": [
+        101.5575,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW54",
+      "xy": [
+        139.6575,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW55",
+      "xy": [
+        177.7575,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW56",
+      "xy": [
+        215.8575,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW57",
+      "xy": [
+        265.86375,
+        49.1775
+      ],
+      "units": 2.25,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW58",
+      "xy": [
+        44.4075,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW59",
+      "xy": [
+        82.5075,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW6",
+      "xy": [
+        192.045,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW60",
+      "xy": [
+        120.6075,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW61",
+      "xy": [
+        158.7075,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW62",
+      "xy": [
+        196.8075,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW63",
+      "xy": [
+        234.9075,
+        49.1775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW64",
+      "xy": [
+        22.97625,
+        30.1275
+      ],
+      "units": 2.25,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW65",
+      "xy": [
+        53.9325,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW66",
+      "xy": [
+        92.0325,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW67",
+      "xy": [
+        130.1325,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW68",
+      "xy": [
+        168.2325,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW69",
+      "xy": [
+        206.3325,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW7",
+      "xy": [
+        239.67,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW70",
+      "xy": [
+        261.10125,
+        30.1275
+      ],
+      "units": 2.75,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW71",
+      "xy": [
+        72.9825,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW72",
+      "xy": [
+        111.0825,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW73",
+      "xy": [
+        149.1825,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW74",
+      "xy": [
+        187.2825,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW75",
+      "xy": [
+        225.3825,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW76",
+      "xy": [
+        320.6325,
+        30.1275
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW77",
+      "xy": [
+        13.45125,
+        11.0775
+      ],
+      "units": 1.25,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW78",
+      "xy": [
+        68.22,
+        11.0775
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW79",
+      "xy": [
+        142.03875,
+        11.0775
+      ],
+      "units": 6.25,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW8",
+      "xy": [
+        277.77,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW80",
+      "xy": [
+        244.4325,
+        11.0775
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW81",
+      "xy": [
+        273.0075,
+        11.0775
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW82",
+      "xy": [
+        320.6325,
+        11.0775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW83",
+      "xy": [
+        39.645,
+        11.0775
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW84",
+      "xy": [
+        215.8575,
+        11.0775
+      ],
+      "units": 1.5,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW85",
+      "xy": [
+        301.5825,
+        11.0775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW86",
+      "xy": [
+        339.6825,
+        11.0775
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    },
+    {
+      "ref": "SW9",
+      "xy": [
+        320.6325,
+        111.09
+      ],
+      "units": 1.0,
+      "rotation": 0.0
+    }
+  ],
+  "previous_leds": [
+    {
+      "ref": "LED1",
+      "mpn": "LTW-C230DS",
+      "side": "bottom",
+      "bounds": [
+        284.095,
+        76.015,
+        289.845,
+        79.465
+      ],
+      "height": 1.2,
+      "envelope": "conservative courtyard/body allowance; see mechanical README"
+    },
+    {
+      "ref": "LED2",
+      "mpn": "LTW-C230DS",
+      "side": "bottom",
+      "bounds": [
+        283.994999,
+        28.405,
+        289.745,
+        31.855
+      ],
+      "height": 1.2,
+      "envelope": "conservative courtyard/body allowance; see mechanical README"
+    },
+    {
+      "ref": "LED3",
+      "mpn": "LTW-C230DS",
+      "side": "bottom",
+      "bounds": [
+        55.815,
+        76.015,
+        61.565,
+        79.465
+      ],
+      "height": 1.2,
+      "envelope": "conservative courtyard/body allowance; see mechanical README"
+    },
+    {
+      "ref": "LED4",
+      "mpn": "LTW-C230DS",
+      "side": "bottom",
+      "bounds": [
+        151.065,
+        76.015,
+        156.815,
+        79.465
+      ],
+      "height": 1.2,
+      "envelope": "conservative courtyard/body allowance; see mechanical README"
+    },
+    {
+      "ref": "LED5",
+      "mpn": "LTW-C230DS",
+      "side": "bottom",
+      "bounds": [
+        60.585,
+        28.405,
+        66.334999,
+        31.855
+      ],
+      "height": 1.2,
+      "envelope": "conservative courtyard/body allowance; see mechanical README"
+    },
+    {
+      "ref": "LED6",
+      "mpn": "LTW-C230DS",
+      "side": "bottom",
+      "bounds": [
+        174.885,
+        28.405,
+        180.635,
+        31.855
+      ],
+      "height": 1.2,
+      "envelope": "conservative courtyard/body allowance; see mechanical README"
+    }
+  ],
+  "runtime_scenarios": [
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.1,
+      "lit_hours_per_day": 6,
+      "lighting_battery_mw": 36.423529411764704,
+      "lighting_battery_ma": 9.844197138314785,
+      "daily_mah": 70.0651828298887,
+      "days": 57.089696172085965,
+      "continuous_hours": 372.00545588287844
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.1,
+      "lit_hours_per_day": 12,
+      "lighting_battery_mw": 36.423529411764704,
+      "lighting_battery_ma": 9.844197138314785,
+      "daily_mah": 132.73036565977742,
+      "days": 30.136284038070418,
+      "continuous_hours": 372.00545588287844
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.2,
+      "lit_hours_per_day": 6,
+      "lighting_battery_mw": 72.84705882352941,
+      "lighting_battery_ma": 19.68839427662957,
+      "daily_mah": 129.1303656597774,
+      "days": 30.976447557957727,
+      "continuous_hours": 194.20560759686646
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.2,
+      "lit_hours_per_day": 12,
+      "lighting_battery_mw": 72.84705882352941,
+      "lighting_battery_ma": 19.68839427662957,
+      "daily_mah": 250.86073131955482,
+      "days": 15.945102204556145,
+      "continuous_hours": 194.20560759686646
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.5,
+      "lit_hours_per_day": 6,
+      "lighting_battery_mw": 182.11764705882354,
+      "lighting_battery_ma": 49.22098569157393,
+      "daily_mah": 306.3259141494436,
+      "days": 13.057987637469573,
+      "continuous_hours": 79.79362332874618
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.5,
+      "lit_hours_per_day": 12,
+      "lighting_battery_mw": 182.11764705882354,
+      "lighting_battery_ma": 49.22098569157393,
+      "daily_mah": 605.2518282988872,
+      "days": 6.608819359112632,
+      "continuous_hours": 79.79362332874618
+    }
+  ],
+  "zmk_screenshot": {
+    "led_ma_awake": 5.999999999999979,
+    "average_battery_ma": 3.4028722222222116,
+    "days": 52.039371968451654,
+    "notes": "Fixed 3.2 V LED drop; 100 ohm branches; 50% sleep; genuine nice!nano v2 profile. No optical model."
+  },
+  "assumptions": {
+    "capacity_mah": 5000,
+    "usable_fraction": 0.8,
+    "average_battery_voltage": 3.7,
+    "lighting_rail_voltage": 3.6,
+    "conversion_efficiency": 0.85,
+    "active_base_ma": 0.7,
+    "sleep_base_ma": 0.1,
+    "self_discharge_pct_month": 3,
+    "brightness_or_uniformity_measured": false
+  },
+  "coupon": {
+    "size_mm": [
+      83.15,
+      45.05
+    ],
+    "outside_cut_mm": [
+      82.15,
+      44.05
+    ],
+    "key_pitch_mm": 19.05,
+    "outputs": 8,
+    "output_window_mm": [
+      2.1,
+      2.8
+    ],
+    "proposed_north_led_offset_mm": 4.93,
+    "pin_reliefs": 32,
+    "guide_thickness_trials_mm": [
+      0.8,
+      1,
+      1.5
+    ],
+    "patterns": [
+      {
+        "pattern": "sparse",
+        "dots": 280,
+        "min_diameter_mm": 0.14203321362832616,
+        "max_diameter_mm": 0.1934726141956309
+      },
+      {
+        "pattern": "medium",
+        "dots": 220,
+        "min_diameter_mm": 0.19843985635399142,
+        "max_diameter_mm": 0.26016713703475713
+      },
+      {
+        "pattern": "dense",
+        "dots": 200,
+        "min_diameter_mm": 0.2512531418053219,
+        "max_diameter_mm": 0.33355618271300946
+      }
+    ],
+    "status": "Loose bench guide, not a load-bearing switch plate or V10 drop-in. Native-window orientation must be checked. No machine kerf/tool compensation applied."
+  }
+}

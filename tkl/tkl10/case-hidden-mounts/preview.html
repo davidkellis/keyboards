@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>v10 — concealed case mounts</title>
+<style>
+  *{box-sizing:border-box}body{margin:0;background:#edf1f4;color:#20364b;font:16px/1.6 system-ui,sans-serif}
+  main{max-width:1250px;margin:auto;padding:35px 22px 60px}h1{font-size:clamp(26px,4vw,42px);line-height:1.15;margin:0 0 12px}
+  .eyebrow{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#5d7789;margin-bottom:12px}
+  p{max-width:850px}.views{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px}
+  button{border:1px solid #b9c8d2;border-radius:6px;background:white;color:#20364b;padding:10px 15px;cursor:pointer;font:inherit}
+  button[aria-pressed=true]{background:#20364b;color:white;border-color:#20364b}
+  figure{margin:0;background:#f5f7fa;border:1px solid #d5dee5;border-radius:10px;overflow:hidden}img{display:block;width:100%;height:auto}
+  figcaption{padding:12px 20px;border-top:1px solid #dde5eb;font-size:14px;color:#456174}
+  .facts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:22px 0}.fact{background:white;border:1px solid #d5dee5;border-radius:8px;padding:18px}
+  .fact b{display:block;font-size:22px}.fact span{font-size:14px;color:#526a7b}a{color:#176080}.downloads{display:flex;gap:20px;flex-wrap:wrap}
+  .note{border-left:3px solid #ac793d;padding-left:15px;font-size:14px}footer{margin-top:30px;color:#526a7b;font-size:13px}
+  @media(max-width:600px){.facts{grid-template-columns:1fr}.fact{padding:12px}}
+</style>
+<main>
+  <div class="eyebrow">v10 · alternate mechanical prototype</div>
+  <h1>A flush top with softly rounded edges.</h1>
+  <p><a href="completed-keyboard.html">View the completed keyboard from every side →</a></p>
+  <p>The plate flows into the side walls through a broader 2.5 mm top-edge radius, with 3 mm vertical corner radii. The top stays flush, with no raised lip or upper assembly seam. Eight concealed mounts retain the inset removable bottom.</p>
+  <nav class="views" aria-label="Preview views">
+    <button data-image="with-keycaps-preview.png" data-caption="Actual enclosure geometry with illustrative keycap envelopes. Keycaps are not a verified manufacturer model." aria-pressed="false">With keycaps</button>
+    <button data-image="assembled-preview.png" data-caption="Keys omitted to show the flush plate and rounded perimeter. No raised lip or top screw openings." aria-pressed="true">Plate surface</button>
+    <button data-image="rounded-edge-detail.png" data-caption="Front-left corner of the actual model: 2.5 mm top roll-over and 3 mm vertical corner radius, increased from 0.8 mm." aria-pressed="false">Rounded edge</button>
+    <button data-image="top-preview.png" data-caption="Top view. Switch and stabilizer apertures and the six LED windows remain." aria-pressed="false">Top view</button>
+    <button data-image="underside-preview.png" data-caption="Eight recessed M2 × 4 screw heads. The bottom panel fits inside the outer skirt." aria-pressed="false">Underneath</button>
+    <button data-image="exploded-preview.png" data-caption="Parts separated for illustration. The orange mounting carriers are installed after the PCB. The USB insert slides down and slightly rearward when the bottom is off." aria-pressed="false">Exploded</button>
+    <button data-image="mount-detail.png" data-caption="Sectioned mount: the carrier tongue engages an internal wall pocket, and bottom locating pins prevent withdrawal when closed." aria-pressed="false">Mount detail</button>
+    <button data-image="shell-section.png" data-caption="Actual front cross-section: the plate and exterior wall are continuous material, with a flush top and rounded outside edge. The bottom panel's joint is underneath." aria-pressed="false">Seam location</button>
+  </nav>
+  <figure>
+    <img id="view" src="assembled-preview.png" alt="v10 alternate case with flush plate and rounded outer edges">
+    <figcaption id="caption">Keys omitted to show the flush plate and rounded perimeter. No raised lip or top screw openings.</figcaption>
+  </figure>
+  <div class="facts">
+    <div class="fact"><b>2.5 / 3 mm radii</b><span>Broader top roll-over and vertical corners</span></div>
+    <div class="fact"><b>8 × M2 × 4</b><span>Underside screws with standard M2 nuts</span></div>
+    <div class="fact"><b>Original v10 PCB</b><span>No changes to fabrication or assembly files</span></div>
+  </div>
+  <p class="downloads"><a href="v10-hidden-mount-print-files.zip">Print files and coupons ZIP</a><a href="edge-coupon-upper.stl">Small corner test print</a><a href="assembly.step">CAD assembly STEP</a><a href="README.md">Printing and assembly instructions</a></p>
+  <p class="note">Print the mount and USB coupons first. CAD clearance checks do not prove printed strength or real component fit. Split versions fit a 256 mm bed; their bonded seams need finishing to match the full-size render.</p>
+  <footer>This alternate lives in its own directory. The previous case, PCB and JLCPCB manufacturing files are preserved.</footer>
+</main>
+<script>
+  document.querySelectorAll('button[data-image]').forEach(button=>button.addEventListener('click',()=>{
+    document.querySelectorAll('button[data-image]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
+    document.querySelector('#view').src=button.dataset.image;
+    document.querySelector('#view').alt=button.dataset.caption;
+    document.querySelector('#caption').textContent=button.dataset.caption;
+  }));
+</script>
+</html>

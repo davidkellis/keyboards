@@ -1,0 +1,92 @@
+{
+  "status": "dimensioned envelope study; not a print-ready enclosure",
+  "source_sha256": {
+    "case/fit-config.json": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+    "case/fit-report.json": "370d7f13917cfee4a9d426ddd4c27a5f3bfab83b76eda1024f1d4c1ea5b6cb62",
+    "case/board-geometry.json": "e814d66ce6c6bd61ce3eeca530e8911bd9a9f9a576d1f02b2a49f1e13f6734d4",
+    "case-hidden-mounts/validation.json": "4c80989eb0372093ddbe15c917bb0bedecda3a4546e10b486f71c886a5a2bf4b"
+  },
+  "cell_reference": "https://www.molicel.com/product/inr-18650-m35a/",
+  "bare_cell_max_diameter_length_mm": [
+    18.6,
+    65.2
+  ],
+  "assumptions": {
+    "radial_allowance_mm": 0.5,
+    "pod_wall_mm": 1.5,
+    "pod_outer_diameter_mm": 22.6,
+    "pod_axial_length_mm": 73.2,
+    "pod_axial_extra_for_tabs_insulation_endwalls_mm": 8.0,
+    "pod_x_intervals_mm": [
+      [
+        75.0,
+        148.2
+      ],
+      [
+        205.0,
+        278.2
+      ]
+    ],
+    "pin_envelope_below_pcb_mm": 1.7,
+    "pin_to_housing_clearance_mm": 0.4,
+    "rubber_feet_and_keycaps_included": false,
+    "protected_button_top_cells_or_spring_holders_included": false,
+    "pack_protection_and_lead_routing_resolved": false
+  },
+  "current_case": {
+    "width_depth_mm": [
+      355.56,
+      133.35221193128154
+    ],
+    "front_plate_plane_height_mm": 5.692061895360501,
+    "rear_plate_plane_height_mm": 18.992061895360504,
+    "actual_rounded_shell_max_height_mm": 18.730319010740356,
+    "tilt_deg": 5.695609528003503,
+    "battery_reserve_mm": [
+      155,
+      50,
+      6.3
+    ],
+    "pcb_under_plane_at_proposed_pod_centre_mm": 13.99632553115089
+  },
+  "under_pcb_same_footprint": {
+    "width_depth_mm": [
+      355.56,
+      133.35221193128154
+    ],
+    "cell_centre_yz_mm": [
+      121.55221193128155,
+      11.3
+    ],
+    "tilt_deg": 10.767651595022983,
+    "front_plate_plane_height_mm": 5.692061895360501,
+    "rear_plate_plane_height_mm": 31.05233667004343,
+    "housing_clearance_to_continuous_pin_envelope_mm": 0.3999999999999997,
+    "components_overlapping_pod_plan_envelope": [],
+    "deepest_overlapping_component_mm": 0.0,
+    "continuous_floor_spacers_fasteners_ports_and_structure_rebuild_required": true
+  },
+  "behind_pcb_same_tilt": {
+    "width_depth_mm": [
+      355.56,
+      156.75221193128158
+    ],
+    "cell_centre_yz_mm": [
+      145.45221193128157,
+      11.3
+    ],
+    "added_depth_mm": 23.400000000000034,
+    "pod_max_height_mm": 22.6,
+    "tilt_deg": 5.695609528003503,
+    "pod_to_current_rear_wall_plan_gap_mm": 0.8,
+    "structural_bridges_endcaps_and_wiring_unresolved": true
+  },
+  "slimmer_deck": {
+    "plate_top_to_nominal_bottom_normal_mm": 7.1000000000000005,
+    "exclusions": "front transition, stiffening, fasteners, controller, battery connector and other local details",
+    "front_existing_floor_min_mm": 0.8359322746002019,
+    "front_existing_diode_clearance_mm": 0.4,
+    "meaning": "An undercut can reduce the depth of the visible main body, not the desk-to-key height."
+  },
+  "validation_scope": "Analytic circle/plane clearance and component envelope screening only; not full CAD collision, electrical or structural validation."
+}

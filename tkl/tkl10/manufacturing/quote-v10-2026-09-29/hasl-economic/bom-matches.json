@@ -1,0 +1,233 @@
+[
+  {
+    "cells": [
+      "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86",
+      "BAT46W",
+      "SOD-123",
+      "BAT46W\nC54110\n1 Independent 100V 150mA 1V@250mA 2uA@75V 750mA SOD-123 Schottky Diodes ROHS",
+      "438",
+      "5",
+      "86",
+      "0",
+      "/",
+      "430",
+      "JLCPCB",
+      "Extended",
+      "$10.6434",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "86",
+      "0",
+      "/",
+      "430"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "J1",
+      "B2B-PH-K-S(LF)(SN)",
+      "JSTPH2.00mmTHTvertical",
+      "B2B-PH-K-S(LF)(SN)\nC131337\n-25℃~+85℃ 1 100V 1x2P 2 2A 2P 2mm 4.5mm 5.9mm 6mm Brass K Pin PA66 PH Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS",
+      "6",
+      "5",
+      "1",
+      "0",
+      "/",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$0.2118",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "1",
+      "0",
+      "/",
+      "5"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "LED1,LED2,LED3,LED4,LED5,LED6",
+      "LTW-C230DS",
+      "1206reverse-mount",
+      "LTW-C230DS\nC575513 \n-30℃~+85℃ 130° 20mA 3.2V 315mcd 72mW Discrete Diode Reverse Mount White Yellow Lens 1206 LED Indication - Discrete ROHS",
+      "32",
+      "5",
+      "6",
+      "0",
+      "/",
+      "30",
+      "JLCPCB",
+      "Extended",
+      "$2.1536",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "6",
+      "0",
+      "/",
+      "30"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "Q1",
+      "DMN2056U-7",
+      "SOT-23",
+      "DMN2056U-7\nC332302\n-55℃~+150℃ 1 N-channel 1V 20V 339pF 34pF 4.3nC@4.5V 45mΩ@2.5V 47pF 4A 940mW N-Channel SOT-23 MOSFETs ROHS",
+      "9",
+      "5",
+      "1",
+      "0",
+      "/",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$0.6003",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "1",
+      "0",
+      "/",
+      "5"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "R1,R2,R3,R4,R5,R6",
+      "0603WAF1001T5E",
+      "0603",
+      "0603WAF1001T5E\nC21190\n-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "30",
+      "5",
+      "6",
+      "0",
+      "/",
+      "30",
+      "JLCPCB",
+      "Basic",
+      "$0.0780",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "6",
+      "0",
+      "/",
+      "30"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "R9",
+      "0603WAF1003T5E",
+      "0603",
+      "0603WAF1003T5E\nC25803\n-55℃~+155℃ 100kΩ 100mW 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "5",
+      "5",
+      "1",
+      "0",
+      "/",
+      "5",
+      "JLCPCB",
+      "Basic",
+      "$0.0155",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "1",
+      "0",
+      "/",
+      "5"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "SW87",
+      "PCM12SMTR",
+      "PCM12SMTSPDT",
+      "PCM12SMTR\nC221841\n-20℃~+85℃ 6V PC Pin Rectangular Columnar SPDT Surface Mount,Vertical SMD Slide Switches ROHS",
+      "5",
+      "5",
+      "1",
+      "0",
+      "/",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$8.9100",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [],
+    "selected": false
+  },
+  {
+    "cells": [
+      "5",
+      "1",
+      "0",
+      "/",
+      "5"
+    ],
+    "selected": false
+  }
+]

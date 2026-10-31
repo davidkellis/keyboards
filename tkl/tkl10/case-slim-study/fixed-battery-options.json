@@ -1,0 +1,104 @@
+{
+  "battery_constraint": "Purchased 5044147 battery and capacity retained; no thinner substitute.",
+  "current_reserved_dimensions_mm": [
+    155,
+    50,
+    6.3
+  ],
+  "nominal_battery_dimensions_mm": [
+    147,
+    44,
+    5
+  ],
+  "complete_pack_dimensions_measured": false,
+  "source_sha256": {
+    "case/board-geometry.json": "e814d66ce6c6bd61ce3eeca530e8911bd9a9f9a576d1f02b2a49f1e13f6734d4",
+    "case/fit-config.json": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+    "case/fit-report.json": "370d7f13917cfee4a9d426ddd4c27a5f3bfab83b76eda1024f1d4c1ea5b6cb62"
+  },
+  "constant_front_bound": {
+    "angle_deg": 5.485665797745078,
+    "front_plate_plane_mm": 5.692061895360501,
+    "rear_plate_plane_mm": 18.50317791313843,
+    "depth_mm": 133.39832863760046,
+    "constraint": "LED4 / battery",
+    "extra_vertical_study_margin_mm": 0.0
+  },
+  "fixed_battery_examples": [
+    {
+      "current_electronics": {
+        "angle_deg": 4.0,
+        "front_plate_plane_mm": 7.9831011289532725,
+        "rear_plate_plane_mm": 17.33058866928567,
+        "depth_mm": 133.6752996530667,
+        "constraint": "LED4 / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      },
+      "hypothetical_lower_connector_and_recessed_module": {
+        "angle_deg": 4.0,
+        "front_plate_plane_mm": 7.9831011289532725,
+        "rear_plate_plane_mm": 17.33058866928567,
+        "depth_mm": 133.6752996530667,
+        "constraint": "LED4 / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      }
+    },
+    {
+      "current_electronics": {
+        "angle_deg": 3.0000000000000004,
+        "front_plate_plane_mm": 9.393476364150757,
+        "rear_plate_plane_mm": 16.406315891735268,
+        "depth_mm": 133.8129495949434,
+        "constraint": "D30 / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      },
+      "hypothetical_lower_connector_and_recessed_module": {
+        "angle_deg": 3.0000000000000004,
+        "front_plate_plane_mm": 9.393476364150757,
+        "rear_plate_plane_mm": 16.406315891735268,
+        "depth_mm": 133.8129495949434,
+        "constraint": "D30 / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      }
+    },
+    {
+      "current_electronics": {
+        "angle_deg": 2.0,
+        "front_plate_plane_mm": 10.87032146359801,
+        "rear_plate_plane_mm": 15.5466071361545,
+        "depth_mm": 133.911300942597,
+        "constraint": "SW30 pin / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      },
+      "hypothetical_lower_connector_and_recessed_module": {
+        "angle_deg": 2.0,
+        "front_plate_plane_mm": 10.87032146359801,
+        "rear_plate_plane_mm": 15.5466071361545,
+        "depth_mm": 133.911300942597,
+        "constraint": "SW30 pin / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      }
+    },
+    {
+      "current_electronics": {
+        "angle_deg": 0.0,
+        "front_plate_plane_mm": 14.099999999999998,
+        "rear_plate_plane_mm": 14.099999999999998,
+        "depth_mm": 133.99,
+        "constraint": "SW6 pin / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      },
+      "hypothetical_lower_connector_and_recessed_module": {
+        "angle_deg": 0.0,
+        "front_plate_plane_mm": 14.099999999999998,
+        "rear_plate_plane_mm": 14.099999999999998,
+        "depth_mm": 133.99,
+        "constraint": "SW6 pin / battery",
+        "extra_vertical_study_margin_mm": 0.2
+      }
+    }
+  ],
+  "finding": "Lowering the connector and module alone does not reduce the required plate height in these fixed-battery examples; the battery and switch-pin/component envelopes govern.",
+  "next_layout_work": "Investigate placing underside SMD components outside the battery projection and measuring/trimming safe switch-pin protrusion; PCB layout and actual switch plastic/solder geometry need checking.",
+  "validation_scope": "Analytic component envelopes only; no new fitted case or production board."
+}

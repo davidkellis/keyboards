@@ -1,0 +1,280 @@
+{
+  "passed": true,
+  "print_meshes": [
+    {
+      "file": "case-bottom-left.stl",
+      "sha256": "8d918c7bc0470dc3f9022e5004fb9bc7b447bca9a77088b59521f83b96ce1d17",
+      "triangles": 15264,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 33729.66279031377,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        178.97999572753906,
+        131.25221252441406,
+        14.953789710998535
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "case-bottom-right.stl",
+      "sha256": "28363c40341470852deb4eca07935beecc8b268f6f9c93eab4529a487585753b",
+      "triangles": 15594,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 35301.90119956839,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        178.97999572753906,
+        131.65220642089844,
+        14.953789710998535
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "case-bottom.stl",
+      "sha256": "3d350016a96fb49c67010f7337ee79455a6763540c01ad010ec995ffc0d6e4ce",
+      "triangles": 30722,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 69222.30503508012,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        352.1600036621094,
+        131.65220642089844,
+        14.953789710998535
+      ],
+      "fits_256_bed": false
+    },
+    {
+      "file": "front-fit-coupon.stl",
+      "sha256": "9fd47e9ef08903bbfbb6e4cec6706cf78d7ada4127b5812c3fb3e3f9f13cdf69",
+      "triangles": 3070,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 3764.685869083687,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 9.935844147435091e-09,
+      "dimensions_mm": [
+        46.0,
+        45.107337951660156,
+        13.280675888061523
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "led-diffuser.stl",
+      "sha256": "7e43503705d8462d4cdbb2791951463bd2f022b43bf0162dde1c671125abc7c3",
+      "triangles": 668,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 8.818861043474023,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        3.4000000953674316,
+        3.4000000953674316,
+        1.899999976158142
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "nut-carrier.stl",
+      "sha256": "d2e9e156898a2e4a8f2c9547697e0af4c28d62b1a2af2bf233271632f1ecbd28",
+      "triangles": 1720,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 311.1345877815791,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        9.949999809265137,
+        11.600000381469727,
+        3.200000047683716
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "plate-upper-left.stl",
+      "sha256": "a8d1e86dc8fd5ced56b167e02e2534491ee64544bc388c335072b8f5f9c2ee5e",
+      "triangles": 22738,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 46291.34054402952,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        186.82000732421875,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "plate-upper-navigation-left.stl",
+      "sha256": "875bccde3c7cd11037d8c8a27c70609a8dc4929a79f91a13329c517af24ffee0",
+      "triangles": 22704,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 46274.35284018889,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        186.82000732421875,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "plate-upper-navigation-right.stl",
+      "sha256": "4dd30e45157b22d8bd0ae60071acdb1a2cb266162f5d7507aea27f41afdddc58",
+      "triangles": 33358,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 52282.24099095202,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        186.82749938964844,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "plate-upper-navigation.stl",
+      "sha256": "163e97965def979f3ed51000cb64b80353129c063edb4218b866dd4377f56915",
+      "triangles": 54766,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 98751.0377348131,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        355.55999755859375,
+        134.66456604003906,
+        22.14830207824707
+      ],
+      "fits_256_bed": false
+    },
+    {
+      "file": "plate-upper-right.stl",
+      "sha256": "420a80953ca46f0e88849974122c7158e2a982ed722c485a128f2ff7f15b4972",
+      "triangles": 32560,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 52491.24961201987,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 5.088326702207269e-07,
+      "dimensions_mm": [
+        186.82749938964844,
+        134.66456604003906,
+        22.148303985595703
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "plate-upper.stl",
+      "sha256": "f30c177d6a4650ce1876fc5f6e5d8b3caf6050a4978d9b9dcf55b3fd2f770839",
+      "triangles": 54022,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 98968.900095821,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 5.088326702207269e-07,
+      "dimensions_mm": [
+        355.55999755859375,
+        134.66456604003906,
+        22.148303985595703
+      ],
+      "fits_256_bed": false
+    },
+    {
+      "file": "usb-bezel.stl",
+      "sha256": "203c3c81a798a7be84a0b2e7bd5cc7f748e8a37666a192f540b8ff39b95a6599",
+      "triangles": 1576,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 603.8450274766707,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 8.881784197001252e-16,
+      "dimensions_mm": [
+        28.399999618530273,
+        3.700000047683716,
+        12.0145263671875
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-coupon-bottom.stl",
+      "sha256": "e1306767f52a723e5024a5e08ea4c154af8030fbbc8d4c3bc06e6fadc606e25c",
+      "triangles": 948,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 2324.971833770798,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        41.0,
+        42.952213287353516,
+        14.953789710998535
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-coupon-pcb.stl",
+      "sha256": "a1c5c9c90e5af5aa3733e4d72252c66e3b945039b84ea749759e919b93bfc3b9",
+      "triangles": 16932,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 2494.3870629149533,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 6.896400802042322e-15,
+      "dimensions_mm": [
+        41.0,
+        41.15538787841797,
+        1.600000023841858
+      ],
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-fit-coupon-upper.stl",
+      "sha256": "7f149c7d893a9e5c66000457beab4cd522a0d61083eb3955968616c9814a766b",
+      "triangles": 5770,
+      "watertight": true,
+      "zero_area_facets": 0,
+      "volume_mm3": 5968.197487038282,
+      "connected_components": 1,
+      "manifold_status": "Error.NoError",
+      "minimum_z_mm": 0.0,
+      "dimensions_mm": [
+        41.0,
+        43.80275344848633,
+        22.148300170898438
+      ],
+      "fits_256_bed": true
+    }
+  ],
+  "original_source_files_preserved": 343,
+  "physical_fit_verified": false,
+  "note": "Mesh topology and nominal fit are checked; print strength and real keycap seating are not certified."
+}

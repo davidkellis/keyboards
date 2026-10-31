@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "source_hashes_unchanged": true,
+  "maximum_led_count": 12,
+  "actual_keyboard_keys": 86,
+  "coupon_outputs": 18,
+  "coupon_reliefs": 72,
+  "extraction_patterns": [
+    {
+      "name": "sparse",
+      "dots": 630
+    },
+    {
+      "name": "medium",
+      "dots": 490
+    },
+    {
+      "name": "dense",
+      "dots": 450
+    }
+  ],
+  "physical_optics_validated": false,
+  "case_fit_validated": false,
+  "production_pcb_modified": false
+}

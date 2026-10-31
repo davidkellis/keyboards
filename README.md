@@ -16,6 +16,7 @@ Each major version has one commit; decimal variants stay with their major versio
 | [v7](tkl/tkl7/README.md) | Integrated nRF52840 design and v7.x alternatives |
 | [v8](tkl/tkl8/README.md) | Top-mounted LED design |
 | [v9](tkl/tkl9/README.md) | Direct rear USB module and v9.x case revisions |
+| [v10](tkl/tkl10/README.md) | Esc/F1 controller position, case variants, and lighting studies |
 
 v7 alternatives: [v7.3](tkl/tkl7.3/README.md), [v7.4](tkl/tkl7.4/README.md),
 and [v7.5](tkl/tkl7.5/README.md).

@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-29",
+  "revision": "v10",
+  "status": "Live checkout quote completed; only v10 HASL/Economic retained and selected in cart; not submitted or paid",
+  "quantity_pcb": 5,
+  "quantity_pcba": 5,
+  "hasl_economic_delivered_usd": 163.83,
+  "osp_standard_delivered_usd": 191.87,
+  "hasl_savings_usd": 28.04,
+  "carrier": "UPS Express Saver (DDP)",
+  "assembly_remark_review_fee": "Unknown; excluded from displayed totals",
+  "rail_removal_requested": false,
+  "lead_free_solder_requested": true,
+  "all_7_matched_part_descriptions_rohs": true,
+  "order_submitted": false,
+  "payment_made": false,
+  "cart_retained": "Y12-5054573A",
+  "cart_removed_at_user_request": [
+    "Y13-5054573A",
+    "Y11-5054573A"
+  ],
+  "cart_group_count": 1
+}

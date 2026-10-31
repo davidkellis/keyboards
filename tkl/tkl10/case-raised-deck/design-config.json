@@ -1,0 +1,14 @@
+{
+  "edition": "V10 Edition 2 — raised key wells",
+  "target_keycaps": "XVX Skyline R2, nominal 5 mm profile",
+  "switch_tip_above_pcb_top_mm": 8.6,
+  "socket_engagement_mm": 3.0,
+  "rest_skirt_shadow_gap_mm": 0.15,
+  "total_switch_travel_mm": 2.8,
+  "keycap_xy_clearance_each_side_mm": 0.6,
+  "top_edge_roll_radius_mm": 2.5,
+  "outer_corner_radius_mm": 3.0,
+  "well_corner_radius_mm": 0.65,
+  "well_top_chamfer_mm": 0.35,
+  "physical_fit_verified": false
+}

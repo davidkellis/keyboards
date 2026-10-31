@@ -1,0 +1,6 @@
+{
+  "cad_source_pcb_sha256": "071f18b262ed3c749d31770b2a4378e882afc9549a7a6274951fcb85c842cdd0",
+  "routed_source_pcb_sha256": "70a3f9093fc9c34e1522c4c72051f9260559c124a9981142039c11f975bbd449",
+  "all_extracted_geometry_identical": true,
+  "method": "Exact JSON comparison excluding PCB file hash; copper is not part of these mechanical meshes."
+}

@@ -1,0 +1,26 @@
+{
+  "mesh_sha256": {
+    "plate.stl": "8d7452342efcd37fe6c2a9424d5fbe04f7d5488a12ac0dfa1f873eaf7d3f9f51",
+    "led-diffuser.stl": "7e43503705d8462d4cdbb2791951463bd2f022b43bf0162dde1c671125abc7c3",
+    "fit-coupon-upper.stl": "5f33c966d5b6f42a6bd03d969910b02cbd4c7b11022995d9be937d3d369c0e25"
+  },
+  "top_skin_sections": [
+    {
+      "z_board_mm": 2.9899999999999998,
+      "uncovered_pin_region_mm2": 0.0
+    },
+    {
+      "z_board_mm": 3.35,
+      "uncovered_pin_region_mm2": 0.0
+    },
+    {
+      "z_board_mm": 3.7100000000000004,
+      "uncovered_pin_region_mm2": 0.0
+    }
+  ],
+  "blind_pin_pockets_clear": true,
+  "complete_top_pin_envelope_limit_mm": 1.0,
+  "diffuser_count": 6,
+  "diffuser_top_flush": true,
+  "physical_fit_and_optics_verified": false
+}

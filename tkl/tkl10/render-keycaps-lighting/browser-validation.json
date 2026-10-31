@@ -1,0 +1,516 @@
+{
+  "checked_at": "2026-10-15T17:28:05.943Z",
+  "browser": "Brave / Playwright; standalone file URL",
+  "offline_http_requests": [],
+  "errors": [],
+  "keys": 86,
+  "caseTriangles": [
+    {
+      "name": "upper",
+      "triangles": 15516
+    },
+    {
+      "name": "bottom",
+      "triangles": 25122
+    },
+    {
+      "name": "bezel",
+      "triangles": 1284
+    }
+  ],
+  "drawCalls": 669,
+  "triangles": 356044,
+  "camera": [
+    276.4776222322323,
+    424.2571168607318,
+    691.1940555805808
+  ],
+  "target": [
+    0,
+    14,
+    0
+  ],
+  "zoom": 1,
+  "combinations": [
+    {
+      "profile": "xvx-bow",
+      "design": "original",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "xvx-bow",
+      "design": "pills",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-bow",
+      "design": "nav",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-bow",
+      "design": "deck",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-bow",
+      "design": "halo",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-bow",
+      "design": "perkey",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 86,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "xvx-wob",
+      "design": "original",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "xvx-wob",
+      "design": "pills",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-wob",
+      "design": "nav",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-wob",
+      "design": "deck",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-wob",
+      "design": "halo",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "xvx-wob",
+      "design": "perkey",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 86,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "flat",
+      "design": "original",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "flat",
+      "design": "pills",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "flat",
+      "design": "nav",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "flat",
+      "design": "deck",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "flat",
+      "design": "halo",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "flat",
+      "design": "perkey",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "glass",
+      "design": "original",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "glass",
+      "design": "pills",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "glass",
+      "design": "nav",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "glass",
+      "design": "deck",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "glass",
+      "design": "halo",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "glass",
+      "design": "perkey",
+      "seat": 3,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "slim",
+      "design": "original",
+      "seat": 2.3,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    },
+    {
+      "profile": "slim",
+      "design": "pills",
+      "seat": 2.3,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "slim",
+      "design": "nav",
+      "seat": 2.3,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "slim",
+      "design": "deck",
+      "seat": 2.3,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "slim",
+      "design": "halo",
+      "seat": 2.3,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "profile": "slim",
+      "design": "perkey",
+      "seat": 2.3,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "originalVisible": true
+    }
+  ],
+  "glb_bytes": 18093032,
+  "scotto_glb_bytes": 15050812,
+  "source_files_unchanged": true,
+  "checks": [
+    "all 30 profile / lighting combinations",
+    "aligned cap tops across all unit sizes",
+    "blank versus luminous legends",
+    "correct concept meshes visible and exported",
+    "all eight views",
+    "free orbit / zoom / auto-rotation",
+    "finish and cap colours",
+    "socket engagement adjustment",
+    "lights off and brightness adjustment",
+    "PNG download",
+    "selected GLB download",
+    "Scotto GLB attribution",
+    "390px mobile controls",
+    "source CAD and reference hashes"
+  ],
+  "passed": true
+}

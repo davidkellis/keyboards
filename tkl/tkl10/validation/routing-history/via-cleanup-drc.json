@@ -1,0 +1,142 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-28T21:29:16",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "schematic_parity": [],
+    "source": "keyboard.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL2] on F.Cu, length 0.2828 mm",
+                    "pos": {
+                        "x": 330.9,
+                        "y": 45.0
+                    },
+                    "uuid": "8d052a11-bd63-436d-a413-631e8ab17a01"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [VCC] on B.Cu, length 2.1213 mm",
+                    "pos": {
+                        "x": 329.0,
+                        "y": 72.5
+                    },
+                    "uuid": "84fce6ec-3c30-4ef3-9d0b-74c616c81531"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [BL_EN] on F.Cu, length 4.6000 mm",
+                    "pos": {
+                        "x": 320.1,
+                        "y": 34.0
+                    },
+                    "uuid": "756053a6-ae06-4eac-9e89-13aedfe7e406"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW0] on F.Cu, length 8.3000 mm",
+                    "pos": {
+                        "x": 339.4,
+                        "y": 41.2
+                    },
+                    "uuid": "bd4857d8-49ba-4de5-9a43-860018b9411e"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW7] on B.Cu, length 0.1000 mm",
+                    "pos": {
+                        "x": 332.9,
+                        "y": 39.7
+                    },
+                    "uuid": "f27c22d0-afca-430a-8dac-4c57a9e54119"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW5] on B.Cu, length 5.5286 mm",
+                    "pos": {
+                        "x": 373.4893,
+                        "y": 54.4308
+                    },
+                    "uuid": "235fd73e-e234-4b21-8633-625649869b3f"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW5] on B.Cu, length 7.4600 mm",
+                    "pos": {
+                        "x": 346.305,
+                        "y": 46.655
+                    },
+                    "uuid": "259fee5d-940b-486f-984e-50ea95ed0a0d"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        }
+    ]
+}

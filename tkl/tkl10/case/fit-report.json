@@ -1,0 +1,844 @@
+{
+  "split_joints": {
+    "base": {
+      "type": "bonded half-lap",
+      "overlap_width_mm": 6,
+      "glue_gap_mm": 0.2,
+      "missing_joint_volume_mm3": 206.4181522896106,
+      "requires_bonding": true,
+      "halves": [
+        {
+          "side": "left",
+          "bounds_mm": [
+            180.68,
+            133.35221203128154,
+            20.600000000000005
+          ]
+        },
+        {
+          "side": "right",
+          "bounds_mm": [
+            180.68,
+            133.35221193128157,
+            20.600000000000005
+          ]
+        }
+      ]
+    },
+    "upper": {
+      "type": "bonded half-lap",
+      "overlap_width_mm": 4,
+      "glue_gap_mm": 0.2,
+      "missing_joint_volume_mm3": 189.40782042447245,
+      "requires_bonding": true,
+      "halves": [
+        {
+          "side": "left",
+          "bounds_mm": [
+            184.42,
+            128.89,
+            2.2000000000000006
+          ]
+        },
+        {
+          "side": "right",
+          "bounds_mm": [
+            184.42749999999998,
+            128.89,
+            2.2000000000000006
+          ]
+        }
+      ]
+    },
+    "note": "Bond both seams before installing components. The continuous FR4 and distributed screws bridge the joined plastic halves; printed PCB halves do not."
+  },
+  "mounts": [
+    {
+      "ref": "H1",
+      "xy": [
+        35.0,
+        21.1
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H2",
+      "xy": [
+        112.0,
+        20.6
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H3",
+      "xy": [
+        196.5,
+        20.6
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H4",
+      "xy": [
+        285.0,
+        21.1
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H5",
+      "xy": [
+        35.0,
+        57.6
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H6",
+      "xy": [
+        145.0,
+        59.1
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H7",
+      "xy": [
+        248.5,
+        57.1
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H8",
+      "xy": [
+        331.0,
+        50.1
+      ],
+      "support": "floor post",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H9",
+      "xy": [
+        8,
+        124.1
+      ],
+      "support": "rear-wall bracket",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H10",
+      "xy": [
+        140.0,
+        124.1
+      ],
+      "support": "rear-wall bracket",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H11",
+      "xy": [
+        250.0,
+        124.1
+      ],
+      "support": "rear-wall bracket",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    },
+    {
+      "ref": "H12",
+      "xy": [
+        340,
+        124.1
+      ],
+      "support": "rear-wall bracket",
+      "nut_roof_thickness_mm": 1.0,
+      "nut_entry": "from +X before PCB installation",
+      "screw_tip_board_z_mm": -2.6,
+      "nominal_nut_thread_engagement_mm": 1.6
+    }
+  ],
+  "source_sha256": "70a3f9093fc9c34e1522c4c72051f9260559c124a9981142039c11f975bbd449",
+  "units": "mm",
+  "pcb_size": [
+    350.76,
+    129.19,
+    1.6
+  ],
+  "case_size": [
+    355.56,
+    133.35221193128154,
+    20.6
+  ],
+  "surface_finish": {
+    "blind_pin_pocket_roof_z_mm": 2.9,
+    "minimum_roof_thickness_mm": 0.9,
+    "pin_clearance_mm": 0.3,
+    "module_pin_projection_max_mm": 1.0,
+    "battery_connector_pin_projection_max_mm": 1.0,
+    "led_hole_diameter_mm": 2.3,
+    "diffuser_stem_diameter_mm": 2.1,
+    "diffuser_flange_diameter_mm": 3.4,
+    "diffuser_flange_thickness_mm": 0.4,
+    "diffuser_material": "Clear or translucent printable polymer; tack the flange to the plate underside with a compatible adhesive. Optical performance needs a physical trial.",
+    "physical_fit_verified": false,
+    "blind_pockets_bounds_mm": [
+      [
+        36.440000000000005,
+        96.15,
+        39.04,
+        129.23000000000002
+      ],
+      [
+        21.2,
+        96.15,
+        23.8,
+        129.23000000000002
+      ],
+      [
+        28.82,
+        99.25,
+        36.5,
+        101.85
+      ],
+      [
+        309.87,
+        124.09,
+        314.07000000000005,
+        126.28999999999999
+      ]
+    ],
+    "actual_roof_thickness_mm": 0.9000000000000004,
+    "actual_pin_clearance_mm": 0.2999999999999998,
+    "led_centers": [
+      {
+        "ref": "LED1",
+        "xy": [
+          286.97,
+          77.74000000000001
+        ]
+      },
+      {
+        "ref": "LED2",
+        "xy": [
+          286.8699995,
+          30.130000000000003
+        ]
+      },
+      {
+        "ref": "LED3",
+        "xy": [
+          58.69,
+          77.74000000000001
+        ]
+      },
+      {
+        "ref": "LED4",
+        "xy": [
+          153.94,
+          77.74000000000001
+        ]
+      },
+      {
+        "ref": "LED5",
+        "xy": [
+          63.459999499999995,
+          30.130000000000003
+        ]
+      },
+      {
+        "ref": "LED6",
+        "xy": [
+          177.76,
+          30.130000000000003
+        ]
+      }
+    ],
+    "diffuser_count": 6,
+    "controller_installation": "Solder controller and trim connector tails before installing plate/switches."
+  },
+  "recessed_plate": {
+    "front_edge_inset_mm": 0.3,
+    "rim_top_above_plate_mm": 1.6,
+    "construction": "Continuous base rim with separate plain plate, existing twelve M2 clamps. No separate or integrated top cover.",
+    "physical_fit_verified": false,
+    "minimum_horizontal_clearances_mm": {
+      "front": 0.32139365277717147,
+      "rear": 0.6282600503284357,
+      "left": 0.3999999999999999,
+      "right": 0.3999999999999999
+    },
+    "insertion_checks": [
+      {
+        "part": "plate",
+        "lift_mm": 0.5,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "PCB",
+        "lift_mm": 0.5,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "plate",
+        "lift_mm": 1.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "PCB",
+        "lift_mm": 1.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "plate",
+        "lift_mm": 2.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "PCB",
+        "lift_mm": 2.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "plate",
+        "lift_mm": 5.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "PCB",
+        "lift_mm": 5.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "plate",
+        "lift_mm": 20.0,
+        "case_overlap_mm3": 0.0
+      },
+      {
+        "part": "PCB",
+        "lift_mm": 20.0,
+        "case_overlap_mm3": 0.0
+      }
+    ],
+    "has_top_cover": false,
+    "inside_bezel_insertion_relief_mm3": 4.760465363095964
+  },
+  "front_lip": 7.3,
+  "rear_lip": 20.6,
+  "tilt_degrees": 5.695609528003503,
+  "pcb_underside_front_origin_z": 2.1125750051177867,
+  "support_count": 16,
+  "support_xy_board": [
+    [
+      57,
+      9
+    ],
+    [
+      102,
+      9
+    ],
+    [
+      192,
+      9
+    ],
+    [
+      12,
+      34
+    ],
+    [
+      102,
+      34
+    ],
+    [
+      237,
+      34
+    ],
+    [
+      342,
+      34
+    ],
+    [
+      12,
+      59
+    ],
+    [
+      57,
+      59
+    ],
+    [
+      192,
+      59
+    ],
+    [
+      282,
+      59
+    ],
+    [
+      342,
+      59
+    ],
+    [
+      282,
+      84
+    ],
+    [
+      57,
+      124
+    ],
+    [
+      282,
+      124
+    ],
+    [
+      327,
+      124
+    ]
+  ],
+  "rear_notches": [
+    {
+      "ref": "SW87",
+      "x": 302.4,
+      "width": 9.0,
+      "bottom_z": 11.630183744555813
+    },
+    {
+      "ref": "DIRECT_MODULE_USB",
+      "x": 32.519999999999996,
+      "center_z": 11.534486206621256,
+      "width": 10.1,
+      "height": 3.8000000000000003,
+      "socket_recession_mm": 1.2167946802047709,
+      "socket_axis_measured": false,
+      "frame": "recessed aperture aligned to tilted module"
+    }
+  ],
+  "cover_support_count": 0,
+  "min_floor_clearance": {
+    "mm": 0.4,
+    "reference": "D77"
+  },
+  "min_unrelieved_floor_clearance": {
+    "mm": 0.035932274600201985,
+    "reference": "D77"
+  },
+  "floor_relief_pockets": [
+    {
+      "ref": "D77",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D78",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D79",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D80",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D81",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D82",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D83",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D84",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D85",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D86",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    }
+  ],
+  "collisions": [],
+  "pcb_case_overlap_mm3": 0.0,
+  "seam_xy_board": [
+    [
+      178.948125,
+      0
+    ],
+    [
+      178.948125,
+      20.6025
+    ],
+    [
+      177.7575,
+      20.6025
+    ],
+    [
+      177.7575,
+      39.6525
+    ],
+    [
+      168.23250000000002,
+      39.6525
+    ],
+    [
+      168.23250000000002,
+      58.7025
+    ],
+    [
+      182.51999999999998,
+      58.7025
+    ],
+    [
+      182.51999999999998,
+      77.7525
+    ],
+    [
+      172.995,
+      77.7525
+    ],
+    [
+      172.995,
+      99.18375
+    ],
+    [
+      182.51999999999998,
+      99.18375
+    ],
+    [
+      182.51999999999998,
+      129.19
+    ]
+  ],
+  "battery": {
+    "candidate": "5044147 1S LiPo, advertised 147 x 44 x 5 mm / 5000 mAh",
+    "purchased_or_approved": false,
+    "pack_max_dimensions_mm": [
+      149,
+      46,
+      5.5
+    ],
+    "reserved_dimensions_mm": [
+      155,
+      50,
+      6.3
+    ],
+    "origin_xy_case_mm": [
+      83,
+      80.5
+    ],
+    "padding_below_mm": 0.5,
+    "datasheet": null,
+    "capacity_mah": 5000,
+    "capacity_verified": false,
+    "nominal_dimensions_mm": [
+      147,
+      44,
+      5
+    ],
+    "source": "User listing image; https://www.aliexpress.us/item/3256812009235243.html",
+    "position_xyz_case_mm": [
+      83,
+      80.5,
+      1.7
+    ],
+    "minimum_reserved_volume_clearance_mm": 0.6925575370822179,
+    "nearest_reference": "LED4"
+  },
+  "requested_battery_fit": null,
+  "stack": {
+    "pcb_top_z": 1.6,
+    "plate_bottom_z": 2.3000000000000003,
+    "plate_top_z": 3.8000000000000003,
+    "plate_support_xy": [
+      [
+        57,
+        9
+      ],
+      [
+        102,
+        9
+      ],
+      [
+        102,
+        34
+      ],
+      [
+        237,
+        34
+      ],
+      [
+        342,
+        34
+      ],
+      [
+        12,
+        59
+      ],
+      [
+        57,
+        59
+      ],
+      [
+        192,
+        59
+      ],
+      [
+        282,
+        59
+      ],
+      [
+        342,
+        59
+      ],
+      [
+        57,
+        124
+      ],
+      [
+        282,
+        124
+      ],
+      [
+        327,
+        124
+      ]
+    ],
+    "rim_top_z": 5.4,
+    "switch_stem_top_z": 10.2
+  },
+  "stabilizers": [
+    {
+      "reference": "SW31",
+      "xy": [
+        268.245,
+        87.2775
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW57",
+      "xy": [
+        265.86375,
+        49.1775
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW64",
+      "xy": [
+        22.97625,
+        30.1275
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW70",
+      "xy": [
+        261.10125,
+        30.1275
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW79",
+      "xy": [
+        142.03875,
+        11.0775
+      ],
+      "nominal_span_mm": 100.0,
+      "verified": false
+    }
+  ],
+  "keycaps": {
+    "target": "XVX Skyline R2 low profile",
+    "advertised_height_mm": 5.0,
+    "assumed_1u_footprint_mm": [
+      18.0,
+      17.0
+    ],
+    "assumed_socket_insertion_mm": 3.0,
+    "underside_measured": false,
+    "source": "User-supplied product screenshots, 2026-09-24",
+    "assumed_unpressed_bottom_z": 7.199999999999999,
+    "travel_checked": false
+  },
+  "fit_config_sha256": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+  "case_mounted_components": [],
+  "measured_inputs": {
+    "module": {
+      "pcb_measured_length_width_mm": [
+        33.0,
+        18.0
+      ],
+      "listing_width_mm": 17.8,
+      "listing_end_pad_spacing_mm": 30.5,
+      "usb_socket_overhang_mm": 0.84,
+      "maximum_total_thickness_mm": null,
+      "model_total_thickness_limit_mm": 5.0,
+      "model_width_with_allowance_mm": 19.0,
+      "mounting_gap_mm": 1.0,
+      "usb_axis_below_carrier_mm": 3.5,
+      "body_registration": "Centered on the 13-position edge pin rows; equal end margins assumed from listing drawing",
+      "source": "User measurements and TENSTAR drawing, 2026-09-25",
+      "placement_kicad_mm": [
+        57.15,
+        37.49
+      ],
+      "rotation_degrees": 0,
+      "antenna_keepout_kicad_bounds_mm": [
+        52.15,
+        50.14,
+        62.15,
+        54.7
+      ],
+      "keepout_note": "Two-sided copper/pad/via exclusion over the antenna tip and forward to y=54.7 mm, before SW25 pin 1. Shorter forward RF clearance than v9; range must be tested with the actual clone and assembled case.",
+      "envelope_note": "Under the Esc/F1 gap, direct rear USB; 5 mm module envelope and 3.5 mm socket axis remain provisional."
+    },
+    "rear_usb": {
+      "external_plug_housing_dimensions_mm": [
+        17.0,
+        11.5,
+        6.6
+      ],
+      "opening_clearance_each_side_mm": 0.5,
+      "socket_body_width_height_mm": [
+        9.5,
+        3.2
+      ],
+      "socket_body_dimensions_measured": false,
+      "socket_clearance_each_side_mm": 0.3,
+      "socket_slot_corner_radius_mm": 0.8,
+      "bezel_web_thickness_mm": 0.6,
+      "bezel_margin_mm": 2.0,
+      "socket_projection_past_bezel_mm": 0.1,
+      "recess_corner_radius_mm": 1.0,
+      "recess_flare_each_side_mm": 1.0,
+      "recess_flare_depth_mm": 2.0,
+      "external_plug_is_gauge": true,
+      "socket_axis_measured": false,
+      "note": "Direct module USB-C with an integral recessed bezel. A rounded 10.1 x 3.8 mm aperture surrounds the provisional 9.5 x 3.2 mm socket, which projects 0.1 mm past the bezel. A flared exterior pocket clears the 11.5 x 6.6 mm cable housing. The 0.6 mm web and 0.14 mm modeled module-body clearance require a physical corner-coupon trial."
+    }
+  },
+  "direct_usb": {
+    "extension_cable_required": false,
+    "external_plug_gauge_dimensions_mm": [
+      17.0,
+      11.5,
+      6.6
+    ],
+    "socket_recession_mm": 1.2167946802047709,
+    "socket_axis_measured": false,
+    "surround": {
+      "type": "integral recessed bezel with rounded socket aperture",
+      "aperture_width_height_mm": [
+        10.1,
+        3.8000000000000003
+      ],
+      "aperture_corner_radius_mm": 0.8,
+      "housing_recess_width_height_at_bezel_mm": [
+        12.5,
+        7.6
+      ],
+      "recess_flare_each_side_mm": 1.0,
+      "recess_flare_depth_mm": 2.0,
+      "bezel_web_thickness_mm": 0.6,
+      "bezel_face_y_board_mm": 129.93,
+      "socket_projection_past_bezel_mm": 0.1,
+      "bezel_to_module_body_clearance_mm": 0.14000000000001478,
+      "socket_clearance_each_side_mm": 0.3,
+      "housing_insertion_sweep_collision_mm3": 0.0,
+      "dimensions_physically_verified": false
+    },
+    "module_floor_clearance_mm": 4.488428217457407
+  },
+  "module_fit": {
+    "module_body_dimensions_mm": [
+      33.0,
+      19.0,
+      5.0
+    ],
+    "mounting_gap_mm": 1.0,
+    "actual_dimensions_measured": false
+  },
+  "limitations": [
+    "Clone PCB length/width and socket overhang are user measurements; 5 mm total height and 3.5 mm socket axis below carrier remain assumptions.",
+    "Recessed USB bezel has a 0.6 mm web and provisional socket-sized aperture; test actual socket, cable insertion and print strength using the coupon.",
+    "Module is soldered on short pins at 1 mm gap; no tall sockets. Auxiliary pad registration and solder access require a real-module trial.",
+    "Antenna copper exclusion ends ahead of SW25; closer number-row hardware requires RF range tests.",
+    "Plate uses generic stabilizer slots; actual stabilizer travel remains unverified.",
+    "Keycap underside, socket insertion and travel remain unmeasured.",
+    "5044147 battery nominal dimensions supplied; wrapped maximum dimensions, protection and charging remain unverified.",
+    "Component envelopes are approximations, not manufacturer CAD.",
+    "Fit coupons are partial mating geometry for hand-held assembly checks, not a standalone keyboard case."
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Bake Components",
+    "value": "No"
+  },
+  {
+    "label": "Photo Confirmation",
+    "value": "No"
+  },
+  {
+    "label": "Board Cleaning",
+    "value": "No"
+  },
+  {
+    "label": "Conformal Coating (cleaning included)",
+    "value": "No"
+  },
+  {
+    "label": "Special stencil",
+    "value": "No"
+  },
+  {
+    "label": "Packaging",
+    "value": "Antistatic bubble film"
+  },
+  {
+    "label": "Depanel boards & edge rail before delivery",
+    "value": "No"
+  },
+  {
+    "label": "Solder Paste",
+    "value": "High temp."
+  },
+  {
+    "label": "Flying Probe Test",
+    "value": "No"
+  },
+  {
+    "label": "Nitrogen reflow soldering",
+    "value": "Yes (for Economic)"
+  },
+  {
+    "label": "Function test",
+    "value": "No"
+  },
+  {
+    "label": "Assembly remark",
+    "value": "Yes"
+  }
+]

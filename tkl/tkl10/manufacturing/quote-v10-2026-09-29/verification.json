@@ -1,0 +1,16 @@
+[
+  {
+    "configuration": "hasl-economic",
+    "matched_bom_groups": 7,
+    "placements": 102,
+    "source_hashes_match": true,
+    "displayed_checkout_usd": 163.83
+  },
+  {
+    "configuration": "osp-standard",
+    "matched_bom_groups": 7,
+    "placements": 102,
+    "source_hashes_match": true,
+    "displayed_checkout_usd": 191.87
+  }
+]

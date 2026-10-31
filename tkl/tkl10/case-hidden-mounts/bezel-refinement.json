@@ -1,0 +1,13 @@
+{
+  "description": "Open the removable U channel above the socket centerline to avoid a narrowed exit at rounded aperture corners. This same cut is in source/build.py.",
+  "removed_volume_mm3": 0.07791981854154528,
+  "added_volume_mm3": 0.0,
+  "valid_single_solid": true,
+  "seated_clearance_preserved_by_material_removal": true,
+  "new_bezel_brep_sha256": "88cf0afb63303a52ead46082ecf3911f90f6dd37a99d450cd4206dc5cdbd7cd8",
+  "rebuild_geometry_comparison": {
+    "added_volume_mm3": 0.0,
+    "removed_volume_mm3": 0.0,
+    "compared_to": "../case-hidden-mounts-history/raised-rim-2026-09-29.tar.gz"
+  }
+}

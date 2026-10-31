@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "offline": true,
+  "sourceCounts": [
+    6,
+    8,
+    10,
+    12
+  ],
+  "fixedPowerRuntimeCountIndependent": true,
+  "mobileNoHorizontalOverflow": true,
+  "pageErrors": []
+}

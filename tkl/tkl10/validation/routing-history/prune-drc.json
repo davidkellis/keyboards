@@ -1,0 +1,303 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-28T21:27:12",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "schematic_parity": [],
+    "source": "keyboard.kicad_pcb",
+    "unconnected_items": [
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Via [ROW0] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 335.25,
+                        "y": 41.2
+                    },
+                    "uuid": "5846fb5b-6cbf-4d52-84c0-16a778e996d0"
+                },
+                {
+                    "description": "Track [ROW0] on F.Cu, length 0.1414 mm",
+                    "pos": {
+                        "x": 331.1,
+                        "y": 41.2
+                    },
+                    "uuid": "09dd848c-fd8d-4770-98ee-7f3a0318b94d"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW5] on B.Cu, length 27.3450 mm",
+                    "pos": {
+                        "x": 341.03,
+                        "y": 51.93
+                    },
+                    "uuid": "c0ed9f47-3d1b-4554-9fd9-de9326d76404"
+                },
+                {
+                    "description": "Track [ROW5] on F.Cu, length 0.0334 mm",
+                    "pos": {
+                        "x": 343.7,
+                        "y": 49.3
+                    },
+                    "uuid": "20ecea66-8497-4485-b870-d0b9795042c1"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW5] on B.Cu, length 30.4849 mm",
+                    "pos": {
+                        "x": 373.4893,
+                        "y": 84.9157
+                    },
+                    "uuid": "387a4c4c-3d86-4c96-a192-1a8591fe79b8"
+                },
+                {
+                    "description": "Track [ROW5] on F.Cu, length 0.0421 mm",
+                    "pos": {
+                        "x": 371.53465,
+                        "y": 52.47615
+                    },
+                    "uuid": "c9ce30d0-e7a9-4697-abf5-2d0adae3c567"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        }
+    ],
+    "violations": [
+        {
+            "description": "Drilled hole too close to other hole (board setup constraints min 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Via [GND] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 94.3,
+                        "y": 43.6
+                    },
+                    "uuid": "0c2db6cf-366d-4d2d-a32b-8aea051ef19d"
+                },
+                {
+                    "description": "Via [GND] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 94.40335,
+                        "y": 43.709149
+                    },
+                    "uuid": "bd8b6282-c4ac-4fbf-b9ed-d25f8dac80fc"
+                }
+            ],
+            "severity": "warning",
+            "type": "hole_to_hole"
+        },
+        {
+            "description": "Drilled hole too close to other hole (board setup constraints min 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Via [ROW7] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 326.045,
+                        "y": 46.655
+                    },
+                    "uuid": "1cfef152-db75-4d8a-9f38-f99be8fe4a05"
+                },
+                {
+                    "description": "Via [ROW7] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 326.0,
+                        "y": 46.7
+                    },
+                    "uuid": "8acdc47f-0aee-49a1-a0fd-8e8f1458c33b"
+                }
+            ],
+            "severity": "warning",
+            "type": "hole_to_hole"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL2] on F.Cu, length 0.1414 mm",
+                    "pos": {
+                        "x": 330.7,
+                        "y": 45.1
+                    },
+                    "uuid": "94aad175-ffcb-45b2-84d8-e70427cd0d67"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [VCC] on B.Cu, length 0.3000 mm",
+                    "pos": {
+                        "x": 329.3,
+                        "y": 71.2
+                    },
+                    "uuid": "e152af7c-f460-4f23-8ec1-c0427d68b4b4"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [BL_EN] on F.Cu, length 4.6000 mm",
+                    "pos": {
+                        "x": 320.1,
+                        "y": 34.0
+                    },
+                    "uuid": "756053a6-ae06-4eac-9e89-13aedfe7e406"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW0] on F.Cu, length 0.1414 mm",
+                    "pos": {
+                        "x": 331.1,
+                        "y": 41.2
+                    },
+                    "uuid": "09dd848c-fd8d-4770-98ee-7f3a0318b94d"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [ROW0] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 335.25,
+                        "y": 41.2
+                    },
+                    "uuid": "5846fb5b-6cbf-4d52-84c0-16a778e996d0"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW7] on B.Cu, length 0.1000 mm",
+                    "pos": {
+                        "x": 329.0,
+                        "y": 43.6
+                    },
+                    "uuid": "26894764-9792-40d7-be4b-4b32bdf32761"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [ROW5] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 343.6675,
+                        "y": 49.2925
+                    },
+                    "uuid": "66f93396-f202-432f-9f65-1caa8bb094b6"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Via is not connected or connected on only one layer",
+            "items": [
+                {
+                    "description": "Via [ROW5] on F.Cu - B.Cu",
+                    "pos": {
+                        "x": 371.53465,
+                        "y": 52.47615
+                    },
+                    "uuid": "68bb6c6a-10e6-44de-ad12-574a686658fb"
+                }
+            ],
+            "severity": "warning",
+            "type": "via_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW5] on B.Cu, length 30.4849 mm",
+                    "pos": {
+                        "x": 373.4893,
+                        "y": 84.9157
+                    },
+                    "uuid": "387a4c4c-3d86-4c96-a192-1a8591fe79b8"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW5] on B.Cu, length 27.3450 mm",
+                    "pos": {
+                        "x": 341.03,
+                        "y": 51.93
+                    },
+                    "uuid": "c0ed9f47-3d1b-4554-9fd9-de9326d76404"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        }
+    ]
+}

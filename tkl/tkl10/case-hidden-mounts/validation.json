@@ -1,0 +1,161 @@
+{
+  "prototype": true,
+  "physical_fit_verified": false,
+  "pcb_changed": false,
+  "external_dimensions_mm": [
+    355.56,
+    133.35221193128154
+  ],
+  "front_rear_heights_mm": [
+    3.428998302982216,
+    16.230318910740372
+  ],
+  "surface": {
+    "raised_rim_mm": 0,
+    "top_edge_radius_mm": 2.5,
+    "vertical_corner_radius_mm": 3.0,
+    "rounded_edge_count": 12,
+    "rounded_top_edge_count": 8,
+    "rounded_vertical_edge_count": 4,
+    "top_local_z_mm": 3.8000000000000003,
+    "bottom_skirt_corner_diagonal_thickness_mm": 0.8786796564403574,
+    "nominal_plate_plane_front_rear_mm": [
+      5.692061895360501,
+      18.992061895360504
+    ],
+    "outer_wall_top_front_rear_mm": [
+      3.428998302982216,
+      16.230318910740372
+    ],
+    "overall_height_mm": 18.730319010740356,
+    "previous_rim_above_plate_mm": 1.6
+  },
+  "plate_thickness_mm": 1.5,
+  "mounts": [
+    {
+      "id": "M1",
+      "side": "left",
+      "position_mm": 52.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M2",
+      "side": "right",
+      "position_mm": 52.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M3",
+      "side": "left",
+      "position_mm": 84.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M4",
+      "side": "right",
+      "position_mm": 84.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M5",
+      "side": "left",
+      "position_mm": 116.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M6",
+      "side": "right",
+      "position_mm": 116.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M7",
+      "side": "rear",
+      "position_mm": 64.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    },
+    {
+      "id": "M8",
+      "side": "rear",
+      "position_mm": 272.0,
+      "screw": "M2 x 4 button head",
+      "nut": "DIN 934 M2, 4 mm AF x 1.6 mm"
+    }
+  ],
+  "hardware_count": {
+    "M2x4_button_screws": 8,
+    "DIN934_M2_nuts": 8,
+    "printed_nut_carriers": 8
+  },
+  "nut_nominal_engagement_mm": 1.6,
+  "battery_reserve_mm": [
+    155,
+    50,
+    6.3
+  ],
+  "collisions": [],
+  "insertion_collisions": [],
+  "exports": {
+    "plate-upper": {
+      "translation_for_print_mm": [
+        2.4000001,
+        131.71916061044294,
+        3.800000100000022
+      ],
+      "bounds_mm": [
+        355.7534141980798,
+        134.42055708809056,
+        19.002345829194052
+      ],
+      "volume_mm3": 61836.58159633901
+    },
+    "case-bottom": {
+      "translation_for_print_mm": [
+        -1.6999999999999886,
+        -1.6999999999999886,
+        -0.0
+      ],
+      "bounds_mm": [
+        352.16000020000024,
+        131.65221213128177,
+        14.954752434863918
+      ],
+      "volume_mm3": 69223.87499688103
+    },
+    "nut-carrier": {
+      "translation_for_print_mm": [
+        0.95,
+        5.8,
+        -2.8
+      ],
+      "bounds_mm": [
+        9.950000200000002,
+        11.600000200000002,
+        3.2011191192912447
+      ],
+      "volume_mm3": 311.12723818993726
+    },
+    "usb-bezel": {
+      "translation_for_print_mm": [
+        -18.319999999999997,
+        -129.65221193127996,
+        -1.3999999999999986
+      ],
+      "bounds_mm": [
+        28.400000200000008,
+        3.7076348795502594,
+        12.014862470683054
+      ],
+      "volume_mm3": 603.8362952825199
+    }
+  },
+  "tilt_degrees": 5.695609528003503,
+  "pcb_origin_z": 2.1125750051177867
+}

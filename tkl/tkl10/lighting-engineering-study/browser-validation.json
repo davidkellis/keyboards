@@ -1,0 +1,82 @@
+{
+  "passed": true,
+  "errors": [],
+  "network_requests": [],
+  "source_files_unchanged": true,
+  "zmk_reproduced_days": 52.039371968451654,
+  "runtime_scenarios": [
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.1,
+      "lit_hours_per_day": 6,
+      "lighting_battery_mw": 36.423529411764704,
+      "lighting_battery_ma": 9.844197138314785,
+      "daily_mah": 70.0651828298887,
+      "days": 57.089696172085965,
+      "continuous_hours": 372.00545588287844
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.1,
+      "lit_hours_per_day": 12,
+      "lighting_battery_mw": 36.423529411764704,
+      "lighting_battery_ma": 9.844197138314785,
+      "daily_mah": 132.73036565977742,
+      "days": 30.136284038070418,
+      "continuous_hours": 372.00545588287844
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.2,
+      "lit_hours_per_day": 6,
+      "lighting_battery_mw": 72.84705882352941,
+      "lighting_battery_ma": 19.68839427662957,
+      "daily_mah": 129.1303656597774,
+      "days": 30.976447557957727,
+      "continuous_hours": 194.20560759686646
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.2,
+      "lit_hours_per_day": 12,
+      "lighting_battery_mw": 72.84705882352941,
+      "lighting_battery_ma": 19.68839427662957,
+      "daily_mah": 250.86073131955482,
+      "days": 15.945102204556145,
+      "continuous_hours": 194.20560759686646
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.5,
+      "lit_hours_per_day": 6,
+      "lighting_battery_mw": 182.11764705882354,
+      "lighting_battery_ma": 49.22098569157393,
+      "daily_mah": 306.3259141494436,
+      "days": 13.057987637469573,
+      "continuous_hours": 79.79362332874618
+    },
+    {
+      "led_count": 86,
+      "average_led_current_ma": 0.5,
+      "lit_hours_per_day": 12,
+      "lighting_battery_mw": 182.11764705882354,
+      "lighting_battery_ma": 49.22098569157393,
+      "daily_mah": 605.2518282988872,
+      "days": 6.608819359112632,
+      "continuous_hours": 79.79362332874618
+    }
+  ],
+  "checks": [
+    "calculator matches independent energy calculations",
+    "source-count switch retains electrical power",
+    "6 / 24 / 86 source diagrams",
+    "0 / 6 / 12 / 24 hour boundary cases",
+    "battery budget presets",
+    "all local reference/coupon links",
+    "390px responsive layout",
+    "original V10 source hashes"
+  ],
+  "physical_photometry_verified": false,
+  "production_pcb_released": false,
+  "firmware_compiled": false
+}

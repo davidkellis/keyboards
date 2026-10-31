@@ -1,0 +1,7 @@
+{
+  "removed_redundant_vias": [
+    "0c2db6cf-366d-4d2d-a32b-8aea051ef19d",
+    "1cfef152-db75-4d8a-9f38-f99be8fe4a05"
+  ],
+  "connectivity_preserved": true
+}

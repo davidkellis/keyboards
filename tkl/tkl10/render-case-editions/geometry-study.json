@@ -1,0 +1,353 @@
+{
+  "status": "Visual concepts, not manufacturing releases or optical simulations",
+  "source_sha256": {
+    "render-keycaps-lighting/reference/flat-1.00u.3mf": "7e4aed949e4c639206fd25a8152416c6a777d86e765073bbd5169dede2dfb9c4",
+    "render-keycaps-lighting/reference/flat-1.25u.3mf": "65026216d34f9c08321e1d29daa2582ef7e35a8ec3db4a6311544c39d369360a",
+    "render-keycaps-lighting/reference/flat-1.50u.3mf": "b2ad9db2b22eeeb8ac5578e8c038a5f010343fdfaadd19cd7a31ddb46c95c972",
+    "render-keycaps-lighting/reference/flat-1.75u.3mf": "fa489315d75b4d8a83d17ec6ed420770f61a93ea1adfa4e0587dd459138adf38",
+    "render-keycaps-lighting/reference/flat-2.00u.3mf": "cd967fb4293661899ba91f1d59d0e40a84f45705c6145151c04e009f5d6b1079",
+    "render-keycaps-lighting/reference/flat-2.25u.3mf": "018dd86012f2788a142c0df2f3900e31a0b2cbbb60729a6584827a9c3f356b31",
+    "render-keycaps-lighting/reference/flat-2.75u.3mf": "5d2205e079d2b5637662c358bcbeb66e227f7034c553fadf3698c25a402701da",
+    "render-keycaps-lighting/reference/flat-6.25u.3mf": "f922dfce5677e5d8141483e855f3d6acb936310b325429838f06d16badadf8ee",
+    "render-keycaps-lighting/reference/glass-1.00u.stl": "64b63d439fcb92f3472d4a1038a5a2d93cc7292c0e4d520abfc055a4935ce6a5",
+    "render-keycaps-lighting/reference/glass-1.25u.stl": "cd367c21ba459de3b5b6229b183d1771158889eccb3074f724abc978ca04ab44",
+    "render-keycaps-lighting/reference/glass-1.50u.stl": "3618e2e1628de5eb186f4facab95eac176dcf938866a91efb6262c499ec4c065",
+    "render-keycaps-lighting/reference/glass-1.75u.stl": "c1d4ecbb9775c8dbc4496098c2340279f846607585ede3443af06632e00df7f7",
+    "render-keycaps-lighting/reference/glass-2.00u.stl": "9d88cd8ffcecdbc42438c090dcf5872b025616209e8bc9457c412b833c963157",
+    "render-keycaps-lighting/reference/glass-2.25u.stl": "8d2ef1ca2dd95e24253cec377f7b0d4a2b8548ff6cb792b1f380774bc106b9f7",
+    "render-keycaps-lighting/reference/glass-2.75u.stl": "d5e78aaf3f5cc5eaa08a08d87476b88ced6693eb2b74f3887c33519886da42cb",
+    "render-keycaps-lighting/reference/glass-6.25u.stl": "5595a0bcbbe5c2f33833d9579250330b36f9f4794aaac7070eb746859ecf9be6",
+    "case-hidden-mounts/reference/upper-assembly.stl": "4dfef3122d8d2bd82a04acd1f6385e9beaffc166a97088d40f356384cf4dcbfb"
+  },
+  "scotto_keycaps": [
+    {
+      "profile": "flat",
+      "units": 1.0,
+      "source_bounds_mm": [
+        18.219687,
+        18.21966400000001,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 22554,
+      "viewer_triangles": 948,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 1.25,
+      "source_bounds_mm": [
+        22.981903000000003,
+        18.271608,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 22608,
+      "viewer_triangles": 946,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 1.5,
+      "source_bounds_mm": [
+        27.744112,
+        18.323784000000018,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 22528,
+      "viewer_triangles": 960,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 1.75,
+      "source_bounds_mm": [
+        32.506328,
+        18.375743999999997,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 22540,
+      "viewer_triangles": 980,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 2.0,
+      "source_bounds_mm": [
+        37.100012,
+        18.049983999999995,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 25138,
+      "viewer_triangles": 1602,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 2.25,
+      "source_bounds_mm": [
+        41.862511999999995,
+        18.049983999999995,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 25112,
+      "viewer_triangles": 1598,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 2.75,
+      "source_bounds_mm": [
+        51.38751,
+        18.049983999999995,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 25112,
+      "viewer_triangles": 1610,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "flat",
+      "units": 6.25,
+      "source_bounds_mm": [
+        118.06250800000001,
+        18.049983999999995,
+        6.7
+      ],
+      "central_socket_to_top_mm": 5.7,
+      "source_triangles": 25106,
+      "viewer_triangles": 1654,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 1.0,
+      "source_bounds_mm": [
+        18.200000762939453,
+        18.200000762939453,
+        5.699999809265138
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 1588,
+      "viewer_triangles": 316,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 1.25,
+      "source_bounds_mm": [
+        22.962499618530273,
+        18.200000762939453,
+        5.699999809265138
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 1588,
+      "viewer_triangles": 316,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 1.5,
+      "source_bounds_mm": [
+        27.725000381469727,
+        18.200000762939453,
+        5.699999809265138
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 1588,
+      "viewer_triangles": 316,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 1.75,
+      "source_bounds_mm": [
+        32.48749923706055,
+        18.200000762939453,
+        5.699999809265138
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 1588,
+      "viewer_triangles": 316,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 2.0,
+      "source_bounds_mm": [
+        37.25,
+        18.200000762939453,
+        6.599999904632569
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 3716,
+      "viewer_triangles": 780,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 2.25,
+      "source_bounds_mm": [
+        42.01250076293945,
+        18.200000762939453,
+        6.599999904632569
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 3716,
+      "viewer_triangles": 772,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 2.75,
+      "source_bounds_mm": [
+        51.537498474121094,
+        18.200000762939453,
+        6.599999904632569
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 3716,
+      "viewer_triangles": 788,
+      "maximum_surface_simplification_mm": 0.025
+    },
+    {
+      "profile": "glass",
+      "units": 6.25,
+      "source_bounds_mm": [
+        118.2125015258789,
+        18.200000762939453,
+        6.599999904632569
+      ],
+      "central_socket_to_top_mm": 5.699999809265138,
+      "source_triangles": 3716,
+      "viewer_triangles": 760,
+      "maximum_surface_simplification_mm": 0.025
+    }
+  ],
+  "pill_windows": [
+    {
+      "ref": "LED1",
+      "source_xy_mm": [
+        286.97,
+        77.74000000000001
+      ],
+      "outlet_xy_mm": [
+        286.97,
+        77.74000000000001
+      ],
+      "outlet_length_width_mm": [
+        11,
+        0.65
+      ],
+      "vertical": false
+    },
+    {
+      "ref": "LED2",
+      "source_xy_mm": [
+        286.8699995,
+        30.130000000000003
+      ],
+      "outlet_xy_mm": [
+        289.1199995,
+        30.130000000000003
+      ],
+      "outlet_length_width_mm": [
+        11,
+        0.65
+      ],
+      "vertical": true
+    },
+    {
+      "ref": "LED3",
+      "source_xy_mm": [
+        58.69,
+        77.74000000000001
+      ],
+      "outlet_xy_mm": [
+        58.69,
+        77.74000000000001
+      ],
+      "outlet_length_width_mm": [
+        11,
+        0.65
+      ],
+      "vertical": false
+    },
+    {
+      "ref": "LED4",
+      "source_xy_mm": [
+        153.94,
+        77.74000000000001
+      ],
+      "outlet_xy_mm": [
+        153.94,
+        77.74000000000001
+      ],
+      "outlet_length_width_mm": [
+        11,
+        0.65
+      ],
+      "vertical": false
+    },
+    {
+      "ref": "LED5",
+      "source_xy_mm": [
+        63.459999499999995,
+        30.130000000000003
+      ],
+      "outlet_xy_mm": [
+        63.459999499999995,
+        30.130000000000003
+      ],
+      "outlet_length_width_mm": [
+        11,
+        0.65
+      ],
+      "vertical": true
+    },
+    {
+      "ref": "LED6",
+      "source_xy_mm": [
+        177.76,
+        30.130000000000003
+      ],
+      "outlet_xy_mm": [
+        177.76,
+        30.130000000000003
+      ],
+      "outlet_length_width_mm": [
+        11,
+        0.65
+      ],
+      "vertical": true
+    }
+  ],
+  "switch": {
+    "part": "CPG1353S01D02-01 / Deep Sea Silent MINI tactile family",
+    "source": "https://www.kailhswitch.com/uploads/15927/files/CPG1353S01D02-01-data-sheet.pdf",
+    "total_travel_mm": 2.8,
+    "exposed_cross_stem_mm": 3.1,
+    "flange_to_stem_top_mm": 6.4,
+    "pcb_to_flange_mm": 2.2,
+    "led_offset_after_rotation_board_xy_mm": [
+      0,
+      -4.93
+    ],
+    "physical_sample_verified": false
+  },
+  "limits": [
+    "No switch/keycap seating or full-travel clearance is certified.",
+    "Scotto Flat is 6.7 mm overall; Glass MX is 5.7 mm from central socket opening to top. Wide Glass stabilizer bosses extend another 0.9 mm. Neither is claimed lower than a nominal 5 mm XVX cap.",
+    "Pills collect the six existing LED positions; LED2 outlet shifts 2.25 mm to clear the right Shift edge.",
+    "Frosted key deck retains six light pools; uniform illumination is not assumed.",
+    "Navigation lightbar routes LED2 to a 28 x 1.2 mm outlet at local x=320,y=48. An optical coupon must establish whether the current LED provides useful brightness after this approximately 38 mm route.",
+    "Lower halo needs new light sources or a proven redirection system; current LEDs emit upward through PCB slots.",
+    "Per-key illuminated legends need new LEDs, routing and power/firmware design.",
+    "No PCB or printable production case files have been revised."
+  ]
+}

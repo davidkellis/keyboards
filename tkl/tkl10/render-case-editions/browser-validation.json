@@ -1,0 +1,1178 @@
+{
+  "checked_at": "2026-10-15T19:04:49.771Z",
+  "browser": "Brave / Playwright; standalone file URL",
+  "offline_http_requests": [],
+  "errors": [],
+  "keys": 86,
+  "caseTriangles": [
+    {
+      "name": "upper",
+      "triangles": 15516
+    },
+    {
+      "name": "bottom",
+      "triangles": 25122
+    },
+    {
+      "name": "bezel",
+      "triangles": 1284
+    }
+  ],
+  "drawCalls": 669,
+  "triangles": 398556,
+  "camera": [
+    276.4776222322323,
+    424.2571168607318,
+    691.1940555805808
+  ],
+  "target": [
+    0,
+    14,
+    0
+  ],
+  "zoom": 1,
+  "combinations": [
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-bow",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 86,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "xvx-wob",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 86,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "flat",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "glass",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "original",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "pills",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "pills"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "nav",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "nav"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "deck",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "deck"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "halo",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [
+        "halo"
+      ],
+      "visibleRaised": [],
+      "originalVisible": false
+    },
+    {
+      "edition": "current",
+      "profile": "slim",
+      "design": "perkey",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [],
+      "originalVisible": true
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-bow",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 86,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "perkey"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "xvx-wob",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5,
+        5
+      ],
+      "legendsVisible": true,
+      "emittingLegends": 86,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "perkey"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "flat",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.675528049468994,
+        5.675528049468994
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "perkey"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "original",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "pills",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "nav",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "deck",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "halo",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "glass",
+      "design": "perkey",
+      "seat": 3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        5.699999809265137,
+        5.699999809265137
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "perkey"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "original",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "original"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "pills",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "pills"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "nav",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "nav"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "deck",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "deck"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "halo",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "halo"
+      ],
+      "originalVisible": false
+    },
+    {
+      "edition": "raised",
+      "profile": "slim",
+      "design": "perkey",
+      "seat": 2.3,
+      "travel": 0,
+      "keys": 86,
+      "topRange": [
+        3.5,
+        3.5
+      ],
+      "legendsVisible": false,
+      "emittingLegends": 0,
+      "visibleVariants": [],
+      "visibleRaised": [
+        "perkey"
+      ],
+      "originalVisible": false
+    }
+  ],
+  "glb_bytes": 21158408,
+  "scotto_glb_bytes": 18113952,
+  "source_files_unchanged": true,
+  "checks": [
+    "all 60 edition / profile / lighting combinations",
+    "case switching leaves all key positions unchanged",
+    "86 key travel positions move down 2.8 mm",
+    "aligned cap tops across all unit sizes",
+    "blank versus luminous legends",
+    "correct edition / concept meshes visible and exported",
+    "all eight views",
+    "free orbit / zoom / auto-rotation",
+    "finish and cap colours",
+    "socket engagement adjustment",
+    "lights off and brightness adjustment",
+    "PNG download",
+    "selected GLB download",
+    "Scotto GLB attribution",
+    "390px mobile controls",
+    "source CAD and reference hashes"
+  ],
+  "passed": true
+}

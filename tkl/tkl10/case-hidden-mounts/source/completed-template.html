@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>v10 completed keyboard · all around</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#edf1f4;color:#20364b;font:16px/1.55 system-ui,sans-serif}
+main{max-width:1400px;margin:auto;padding:28px 24px}h1{font-size:clamp(25px,4vw,40px);margin:0}p{max-width:1000px}
+.controls,.views{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0}button,a{font:inherit;color:#20364b}
+button{cursor:pointer;padding:9px 15px;background:white;border:1px solid #bacbd6;border-radius:6px}
+button[aria-pressed=true]{background:#20364b;color:white}figure{margin:0;border-radius:10px;border:1px solid #d4dfe7;background:#f5f7fa;overflow:hidden}
+img{width:100%;display:block;cursor:grab;touch-action:pan-y;user-select:none}img:active{cursor:grabbing}
+figcaption{padding:12px 18px;border-top:1px solid #d4dfe7;min-height:54px}input[type=range]{flex:1;min-width:150px;max-width:500px;accent-color:#365c76}
+.fine{color:#526a7b;font-size:14px}.controls{align-items:center}.controls span{min-width:105px}
+</style>
+<main>
+<h1>The assembled keyboard, from every side.</h1>
+<p>Flush top, a broad 2.5 mm edge radius and 3 mm vertical corners. Drag the picture or use the slider to rotate; the buttons show straight-on views.</p>
+<div class="views" aria-label="Viewing direction">
+<button data-orbit="1" aria-pressed="true">Front angle</button><button data-orbit="7" aria-pressed="false">Rear angle</button>
+<button data-fixed="front" aria-pressed="false">Front</button><button data-fixed="rear" aria-pressed="false">Rear</button>
+<button data-fixed="left" aria-pressed="false">Left</button><button data-fixed="right" aria-pressed="false">Right</button>
+<button data-fixed="top" aria-pressed="false">Top</button><button data-fixed="bottom" aria-pressed="false">Underneath</button>
+</div>
+<figure><img id="view" src="__INITIAL_IMAGE__" alt="Completed keyboard from the front right" draggable="false">
+<figcaption id="caption" aria-live="polite">Assembled view. The shell is actual CAD; keycaps, colours and port hardware are illustrative.</figcaption></figure>
+<div class="controls"><button id="prev" aria-label="Rotate left">←</button><input id="angle" type="range" min="0" max="11" value="1" aria-label="Rotate keyboard"><button id="next" aria-label="Rotate right">→</button><button id="play" aria-pressed="false">Auto-rotate</button><span id="direction">Front-right</span></div>
+<p class="fine">The enclosure, openings and mounts come from the latest CAD. Keycap shape and colours, USB socket details and switch appearance are illustrative. No cable or optional rubber feet are shown. A shell printed in halves needs bonding and finishing to match the continuous appearance shown here. This is a design preview, not a photograph or verified physical assembly.</p>
+</main>
+<script>
+const views=__VIEW_DATA__;
+const orbit=views.filter(v=>v.kind==='orbit');
+const img=document.querySelector('#view'),slider=document.querySelector('#angle');
+let index=1,timer=null;
+function stop(){clearInterval(timer);timer=null;document.querySelector('#play').textContent='Auto-rotate';document.querySelector('#play').setAttribute('aria-pressed','false')}
+function show(v){img.src=v.src;img.alt='v10 assembled keyboard — '+v.label;document.querySelector('#caption').textContent=v.caption;document.querySelector('#direction').textContent=v.label;
+ document.querySelectorAll('.views button').forEach(b=>b.setAttribute('aria-pressed',String(v.kind==='orbit'?b.dataset.orbit===String(v.index):b.dataset.fixed===v.id)));
+ if(v.kind==='orbit'){index=v.index;slider.value=index}}
+function rotate(n){show(orbit[(n+12)%12])}
+document.querySelectorAll('[data-orbit]').forEach(b=>b.onclick=()=>{stop();rotate(+b.dataset.orbit)});
+document.querySelectorAll('[data-fixed]').forEach(b=>b.onclick=()=>{stop();show(views.find(v=>v.id===b.dataset.fixed))});
+slider.oninput=()=>{stop();rotate(+slider.value)};
+document.querySelector('#prev').onclick=()=>{stop();rotate(index-1)};document.querySelector('#next').onclick=()=>{stop();rotate(index+1)};
+document.querySelector('#play').onclick=()=>{if(timer){stop();return}rotate(index);timer=setInterval(()=>rotate(index+1),700);document.querySelector('#play').textContent='Pause';document.querySelector('#play').setAttribute('aria-pressed','true')};
+let start=null,startIndex=1;
+img.onpointerdown=e=>{stop();start=e.clientX;startIndex=index;img.setPointerCapture(e.pointerId)};
+img.onpointermove=e=>{if(start!==null)rotate(startIndex+Math.round((e.clientX-start)/Math.max(30,img.clientWidth/12)))};
+img.onpointerup=img.onpointercancel=()=>{start=null};
+document.addEventListener('keydown',e=>{if(e.target===slider)return;if(e.key==='ArrowLeft'){stop();rotate(index-1)}if(e.key==='ArrowRight'){stop();rotate(index+1)}});
+document.addEventListener('visibilitychange',()=>{if(document.hidden)stop()});
+</script></html>

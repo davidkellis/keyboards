@@ -1,0 +1,17 @@
+{
+  "date": "2026-09-29T14:57:52.607Z",
+  "cart_url": "https://cart.jlcpcb.com/shopcart/cart",
+  "group_count": 1,
+  "retained": "Y12-5054573A",
+  "assembly": "SMT026092962803-5054573A",
+  "quantity_pcb": 5,
+  "quantity_pcba": 5,
+  "selected": true,
+  "removed": [
+    "Y13-5054573A",
+    "Y11-5054573A"
+  ],
+  "merchandise_usd": 80.8,
+  "order_submitted": false,
+  "payment_made": false
+}

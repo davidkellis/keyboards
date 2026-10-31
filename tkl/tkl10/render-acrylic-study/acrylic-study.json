@@ -1,0 +1,79 @@
+{
+  "status": "Appearance study, not optical simulation or manufacturing release",
+  "source_sha256": {
+    "case-hidden-mounts/reference/upper-assembly.stl": "4dfef3122d8d2bd82a04acd1f6385e9beaffc166a97088d40f356384cf4dcbfb",
+    "case-raised-deck/viewer-assets.json": "f5bb58b09f5a3cc2ed5be19b08546e770969851e48d927f6828d732559b35510",
+    "case/board-geometry.json": "e814d66ce6c6bd61ce3eeca530e8911bd9a9f9a576d1f02b2a49f1e13f6734d4",
+    "case/fit-config.json": "9d97f5556b8f82a20112192c16bfe337b2d5de74bc5d90a0f214b447fc390f2e",
+    "case/fit-report.json": "370d7f13917cfee4a9d426ddd4c27a5f3bfab83b76eda1024f1d4c1ea5b6cb62"
+  },
+  "pcb_changed": false,
+  "led_count": 6,
+  "led_positions_board_xy_mm": [
+    [
+      286.97,
+      77.74000000000001
+    ],
+    [
+      286.8699995,
+      30.130000000000003
+    ],
+    [
+      58.69,
+      77.74000000000001
+    ],
+    [
+      153.94,
+      77.74000000000001
+    ],
+    [
+      63.459999499999995,
+      30.130000000000003
+    ],
+    [
+      177.76,
+      30.130000000000003
+    ]
+  ],
+  "series_resistors_ohm": 1000,
+  "visual_plate_thickness_mm": 1.5,
+  "reflector_thickness_mm": 0.06,
+  "editions": [
+    {
+      "edition": "current",
+      "original_upper_volume_mm3": 61834.037321159565,
+      "frame_volume_mm3": 22016.318542099016,
+      "plate_volume_mm3": 39855.05281043793,
+      "plate_stack_local_z_mm": [
+        2.3000000000000003,
+        3.8000000000000003
+      ],
+      "visual_boolean_overlap_mm": 0.002,
+      "source_count": 6,
+      "note": "Visual partition; new mechanical retention and actual material thickness are not released."
+    },
+    {
+      "edition": "raised",
+      "original_upper_volume_mm3": 98968.85142264712,
+      "frame_volume_mm3": 59151.131514259156,
+      "plate_volume_mm3": 39855.05353185039,
+      "plate_stack_local_z_mm": [
+        2.3000000000000003,
+        3.8000000000000003
+      ],
+      "visual_boolean_overlap_mm": 0.002,
+      "source_count": 6,
+      "note": "Visual partition; new mechanical retention and actual material thickness are not released."
+    }
+  ],
+  "physical_fit_verified": false,
+  "limits": [
+    "The existing 1.5 mm CAD envelope is retained for visual comparison only; Kailh drawing references 1.2 mm aluminum. Test clips before specifying acrylic thickness.",
+    "Plain clear acrylic does not automatically spread upward LED light uniformly. Entry coupling, surface extraction and holes matter.",
+    "Scattering fields are normalized appearance proxies, not measured optical properties, lux values or an efficiency forecast.",
+    "All acrylic options use the same six source locations and the same initial input budget. Wider modeled spread reduces peak brightness.",
+    "White backing hides the PCB while leaving the six input windows open; its modeled gain is illustrative.",
+    "No acrylic option adds LEDs or makes every legend emit light.",
+    "Actual acrylic support, attachment, pin reliefs, switch clips and full-travel fit need a mechanical prototype."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "upper_valid": true,
+  "upper_solid_count": 1,
+  "upper_brep_sha256": "121ea1dbf0830e7c02243f7d9a75bd5e4ab34ec20aad9dc4e36f1e4210512fe7",
+  "section_plane_x_mm": 100,
+  "section_sources": {
+    "upper": {
+      "sha256": "4dfef3122d8d2bd82a04acd1f6385e9beaffc166a97088d40f356384cf4dcbfb",
+      "closed_section_loops": 4
+    },
+    "bottom": {
+      "sha256": "7a41e5de650498ebe662311bc117c6e11da8d0dcc45b7f43a612cc25a2313c3e",
+      "closed_section_loops": 1
+    }
+  },
+  "surface": {
+    "raised_rim_mm": 0,
+    "top_edge_radius_mm": 2.5,
+    "vertical_corner_radius_mm": 3.0,
+    "rounded_edge_count": 12,
+    "rounded_top_edge_count": 8,
+    "rounded_vertical_edge_count": 4,
+    "top_local_z_mm": 3.8000000000000003,
+    "bottom_skirt_corner_diagonal_thickness_mm": 0.8786796564403574,
+    "nominal_plate_plane_front_rear_mm": [
+      5.692061895360501,
+      18.992061895360504
+    ],
+    "outer_wall_top_front_rear_mm": [
+      3.428998302982216,
+      16.230318910740372
+    ],
+    "overall_height_mm": 18.730319010740356,
+    "previous_rim_above_plate_mm": 1.6
+  },
+  "notes": [
+    "Plate and perimeter walls are fused into the upper solid.",
+    "Raised lip removed; 2.5 mm outer top roll-over and 3 mm vertical corners.",
+    "Bottom panel is removable; its perimeter is inset behind the outer skirt.",
+    "Split-print bond and rear port inserts remain separate joints."
+  ]
+}

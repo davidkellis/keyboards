@@ -1,0 +1,370 @@
+{
+  "solid_collision_checks_pass": true,
+  "insertion_checks_pass": true,
+  "removable_part_paths_pass": true,
+  "measured_front_rear_heights_mm": [
+    3.42899830298222,
+    16.2303189107404
+  ],
+  "surface": {
+    "raised_rim_mm": 0,
+    "top_edge_radius_mm": 2.5,
+    "vertical_corner_radius_mm": 3.0,
+    "rounded_edge_count": 12,
+    "rounded_top_edge_count": 8,
+    "rounded_vertical_edge_count": 4,
+    "top_local_z_mm": 3.8000000000000003,
+    "bottom_skirt_corner_diagonal_thickness_mm": 0.8786796564403574,
+    "nominal_plate_plane_front_rear_mm": [
+      5.692061895360501,
+      18.992061895360504
+    ],
+    "outer_wall_top_front_rear_mm": [
+      3.428998302982216,
+      16.230318910740372
+    ],
+    "overall_height_mm": 18.730319010740356,
+    "previous_rim_above_plate_mm": 1.6
+  },
+  "corner_section_checks": [
+    {
+      "corner": "front-left",
+      "skirt_diagonal_at_z_0p6_mm": 0.8786796564403576,
+      "roof_vertical_at_xy_inset_2p2_mm": 1.4597483925571737
+    },
+    {
+      "corner": "front-right",
+      "skirt_diagonal_at_z_0p6_mm": 0.8786796564403692,
+      "roof_vertical_at_xy_inset_2p2_mm": 1.4597483925573194
+    },
+    {
+      "corner": "rear-left",
+      "skirt_diagonal_at_z_0p6_mm": 0.8786796564403492,
+      "roof_vertical_at_xy_inset_2p2_mm": 1.3744424198419054
+    },
+    {
+      "corner": "rear-right",
+      "skirt_diagonal_at_z_0p6_mm": 0.8786796564403616,
+      "roof_vertical_at_xy_inset_2p2_mm": 1.3744424198420262
+    }
+  ],
+  "measured_footprint_mm": [
+    355.56000020000016,
+    133.3522121312816
+  ],
+  "original_files_checked": 343,
+  "changed_original_files": [],
+  "old_top_mount_closure_checks": [
+    {
+      "old_mount": "H1",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H2",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H3",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H4",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H5",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H6",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H7",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H8",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H9",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H10",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H11",
+      "missing_top_material_mm3": 0.0
+    },
+    {
+      "old_mount": "H12",
+      "missing_top_material_mm3": 0.0
+    }
+  ],
+  "print_meshes": [
+    {
+      "file": "plate-upper.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        355.5599974585937,
+        134.31686250335042,
+        18.89830197824707
+      ],
+      "min_z": 1.0000000116860974e-07,
+      "fits_256_bed": false
+    },
+    {
+      "file": "plate-upper-left.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        186.82000722421876,
+        134.31686250335042,
+        18.89830197824712
+      ],
+      "min_z": 9.999995143061824e-08,
+      "fits_256_bed": true
+    },
+    {
+      "file": "plate-upper-right.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        186.82749928964844,
+        134.31672110437648,
+        18.898301978247126
+      ],
+      "min_z": 9.999994432519088e-08,
+      "fits_256_bed": true
+    },
+    {
+      "file": "case-bottom.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        352.1600036621094,
+        131.65220642089844,
+        14.953789710998535
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": false
+    },
+    {
+      "file": "case-bottom-left.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        178.97999572753906,
+        131.25221252441406,
+        14.953789710998535
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "case-bottom-right.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        178.97999572753906,
+        131.652206420898,
+        14.953789710998535
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "nut-carrier.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        9.949999809265137,
+        11.600000381469727,
+        3.200000047683716
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-bezel.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        28.399999618530273,
+        3.7000000476836874,
+        12.0145263671875
+      ],
+      "min_z": 8.881784197001252e-16,
+      "fits_256_bed": true
+    },
+    {
+      "file": "led-diffuser.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        3.400000095367443,
+        3.400000095367429,
+        1.899999976158142
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "mount-coupon-upper.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        18.0,
+        17.07979965209961,
+        11.618571281433105
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "mount-coupon-bottom.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        16.299999237060536,
+        15.999999999999986,
+        7.857361793518066
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "mount-coupon-pcb.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        15.600000381469727,
+        16.23895835876465,
+        1.600000023841858
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-coupon-upper.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        40.9999999,
+        43.45504991179769,
+        18.898301978247154
+      ],
+      "min_z": 9.999991590348145e-08,
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-coupon-bottom.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        41.0,
+        42.952213287353516,
+        14.953789710998535
+      ],
+      "min_z": 0.0,
+      "fits_256_bed": true
+    },
+    {
+      "file": "usb-coupon-pcb.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        40.999999999998685,
+        41.1553878784179,
+        1.600000023841851
+      ],
+      "min_z": 6.896400802042322e-15,
+      "fits_256_bed": true
+    },
+    {
+      "file": "edge-coupon-upper.stl",
+      "watertight": true,
+      "positive_volume": true,
+      "connected_shells": 1,
+      "bounds_mm": [
+        39.9999999,
+        28.703817267553703,
+        8.442779441015624
+      ],
+      "min_z": 1.0000000116860974e-07,
+      "fits_256_bed": true
+    }
+  ],
+  "split_joints": {
+    "upper": {
+      "type": "bonded half-lap",
+      "overlap_width_mm": 4,
+      "glue_gap_mm": 0.2,
+      "missing_joint_volume_mm3": 200.89663602484507,
+      "requires_bonding": true,
+      "halves": [
+        {
+          "side": "left",
+          "bounds_mm": [
+            186.82000019999998,
+            134.31697167482335,
+            18.89830166129269
+          ]
+        },
+        {
+          "side": "right",
+          "bounds_mm": [
+            186.82750020000015,
+            134.31697167482338,
+            18.898301661292685
+          ]
+        }
+      ]
+    },
+    "bottom": {
+      "type": "bonded half-lap",
+      "overlap_width_mm": 6,
+      "glue_gap_mm": 0.2,
+      "missing_joint_volume_mm3": 190.73628922263742,
+      "requires_bonding": true,
+      "halves": [
+        {
+          "side": "left",
+          "bounds_mm": [
+            178.98000000000002,
+            131.25221193128155,
+            14.953789964256101
+          ]
+        },
+        {
+          "side": "right",
+          "bounds_mm": [
+            178.98000000000002,
+            131.65221193128198,
+            14.953789964256101
+          ]
+        }
+      ]
+    }
+  },
+  "physical_fit_verified": false
+}

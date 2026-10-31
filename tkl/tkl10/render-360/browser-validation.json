@@ -1,0 +1,51 @@
+{
+  "checked_at": "2026-10-15T16:52:20.249Z",
+  "browser": "Brave / Playwright; local file URL",
+  "offline_http_requests": [],
+  "errors": [],
+  "keys": 86,
+  "caseTriangles": [
+    {
+      "name": "upper",
+      "triangles": 15516
+    },
+    {
+      "name": "bottom",
+      "triangles": 25122
+    },
+    {
+      "name": "bezel",
+      "triangles": 1284
+    }
+  ],
+  "drawCalls": 409,
+  "triangles": 262434,
+  "camera": [
+    276.4776222322323,
+    424.2571168607318,
+    691.1940555805808
+  ],
+  "target": [
+    0,
+    14,
+    0
+  ],
+  "zoom": 1,
+  "glb_bytes": 15127324,
+  "passed": true,
+  "checks": [
+    "offline load",
+    "all eight camera views",
+    "free mouse orbit",
+    "wheel zoom",
+    "auto-rotation",
+    "three finish presets",
+    "keycap colours",
+    "legend visibility",
+    "raking light",
+    "LED appearance",
+    "PNG image download",
+    "binary glTF export",
+    "390px mobile layout"
+  ]
+}
