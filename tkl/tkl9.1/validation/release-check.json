@@ -1,0 +1,38 @@
+{
+  "revision": "v9.1",
+  "source_pcb_sha256": "65e2174e98ead5943edefd6495f585c8cfae72e7c583e97b4ddd4e4b0e03fe74",
+  "electrical": {
+    "numbered_pads": 395,
+    "unique_keys": 83,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "mounting_holes": 12,
+  "stl_meshes_checked": 36,
+  "modeled_collisions": 0,
+  "pcb_case_overlap_mm3": 0.0,
+  "old_v9_files_unchanged": 423,
+  "archives": [
+    {
+      "file": "case/tkl-v9.1-fit-coupons.zip",
+      "sha256": "5ae4c420f9b18c92130df339de5058d33918258e5ae844d85d6e808bfa0fc37c",
+      "members_checked": 20
+    },
+    {
+      "file": "case/tkl-v9.1-print-kit.zip",
+      "sha256": "8c4164c81f3aa383011267a639c99f99ea256eef88bea507f3495971f85f1242",
+      "members_checked": 44
+    },
+    {
+      "file": "case/print-fit/tkl-v9.1-easy-fit.zip",
+      "sha256": "88081648f4e5a0903fa7e50aa387f4b36110a5044caaeb9ebeace6b6a0f37d57",
+      "members_checked": 13
+    }
+  ],
+  "hardware_tested": false
+}

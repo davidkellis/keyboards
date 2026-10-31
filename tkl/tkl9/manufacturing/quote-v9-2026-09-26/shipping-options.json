@@ -1,0 +1,79 @@
+[
+  {
+    "text": "United States Of America\n\tShipping Method\tCosts \tDelivery Time\tRating\tRestriction\t\n\t\nUPS Express Saver(DDP)\n\t\n$46.48\n\t\n2-4 business days\n\t\n--\n\t\n\u226410000kg\n\u2264270cm\n\n\n\t\nDHL Express (DDP)\n\t\n$45.75\n\t\n2-4 business days\n\t\n--\n\t\n\u226410000kg\n\u2264295x195cm\n\n\n\t\nDHL Express\n\t\n$45.75\n\t\n2-4 business days\n\t\nDetails >\n\t\n\u226410000kg\n\u2264295x195cm\n\n\n\t\nFedEx Express \uff08DDP)\n\t\n$75.92\n\t\n2-5 business days\n\t\n--\n\t\n\u226410000kg\n\u2264270cm\n\n\n\t\nMy DHL Account\n\t\n$2.00\n\t\n\t\nDetails >\n\t\n\u226410000kg\n\u2264295x195cm\n\n\n\t\nMy UPS Account\n\t\n$2.00\n\t\n\t\nDetails >\n\t\n\u226410000kg\n\u2264270cm\n\n\n\t\nMy FedEx Account\n\t\n$2.00\n\t\n\t\nDetails >\n\t\n\u226410000kg\n\u2264270cm\n\n\n\t\nGlobal Standard Direct Line\n\t\n\u2014\n\t\n\u2014\n\t\nDetails >\n\t\n\u22641.5kg\n\u2264$59\n\u226455x40cm\n\n\n\t\nSea Shipment\n\t\n\u2014\n\t\n\u2014\n\t\nDetails >\n\t\n100-10000kg",
+    "rows": [
+      [
+        "",
+        "UPS Express Saver(DDP)",
+        "$46.48",
+        "2-4 business days",
+        "--",
+        "\u226410000kg\n\u2264270cm"
+      ],
+      [
+        "",
+        "DHL Express (DDP)",
+        "$45.75",
+        "2-4 business days",
+        "--",
+        "\u226410000kg\n\u2264295x195cm"
+      ],
+      [
+        "",
+        "DHL Express",
+        "$45.75",
+        "2-4 business days",
+        "Details >",
+        "\u226410000kg\n\u2264295x195cm"
+      ],
+      [
+        "",
+        "FedEx Express \uff08DDP)",
+        "$75.92",
+        "2-5 business days",
+        "--",
+        "\u226410000kg\n\u2264270cm"
+      ],
+      [
+        "",
+        "My DHL Account",
+        "$2.00",
+        "",
+        "Details >",
+        "\u226410000kg\n\u2264295x195cm"
+      ],
+      [
+        "",
+        "My UPS Account",
+        "$2.00",
+        "",
+        "Details >",
+        "\u226410000kg\n\u2264270cm"
+      ],
+      [
+        "",
+        "My FedEx Account",
+        "$2.00",
+        "",
+        "Details >",
+        "\u226410000kg\n\u2264270cm"
+      ],
+      [
+        "",
+        "Global Standard Direct Line",
+        "\u2014",
+        "\u2014",
+        "Details >",
+        "\u22641.5kg\n\u2264$59\n\u226455x40cm"
+      ],
+      [
+        "",
+        "Sea Shipment",
+        "\u2014",
+        "\u2014",
+        "Details >",
+        "100-10000kg"
+      ]
+    ]
+  }
+]

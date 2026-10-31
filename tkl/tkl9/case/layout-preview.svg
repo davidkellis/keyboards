@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="960" viewBox="0 0 760 960">
+<rect width="760" height="960" fill="#f8fafc"/>
+<g font-family="sans-serif" fill="#18212f">
+<text x="32" y="30" font-size="25" text-anchor="start" fill="#18212f">v9 · direct rear USB-C</text>
+<text x="32" y="54" font-size="15" text-anchor="start" fill="#18212f">Module underneath PCB · rear is at the top</text>
+<rect x="40" y="247.29000000000002" width="573.8399999999999" height="631.71" rx="3" fill="#e3efe6" stroke="#386950" stroke-width="1.8"/>
+<rect x="89.34249999999963" y="333.68999999999994" width="163.8000000000004" height="153.0" rx="3" fill="none" stroke="#b28cc6" stroke-width="1.8" stroke-dasharray="6 4"/>
+<rect x="432.24249999999984" y="333.68999999999994" width="163.8000000000004" height="153.0" rx="3" fill="none" stroke="#b28cc6" stroke-width="1.8" stroke-dasharray="6 4"/>
+<rect x="260.79249999999973" y="333.68999999999994" width="163.8000000000004" height="153.0" rx="3" fill="none" stroke="#b28cc6" stroke-width="1.8" stroke-dasharray="6 4"/>
+<rect x="279.69249999999994" y="561.5024999999999" width="126.0" height="126.0" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.8"/>
+<text x="342.69249999999994" y="629.5024999999999" font-size="15" text-anchor="middle" fill="#18212f">Home</text>
+<rect x="108.24249999999984" y="561.5024999999999" width="126.0" height="126.0" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.8"/>
+<text x="171.24249999999984" y="629.5024999999999" font-size="15" text-anchor="middle" fill="#18212f">Insert</text>
+<rect x="451.14250000000004" y="561.5024999999999" width="126.0" height="126.0" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.8"/>
+<text x="514.1425" y="629.5024999999999" font-size="15" text-anchor="middle" fill="#18212f">PgUp</text>
+<rect x="279.69249999999994" y="732.9525" width="126.0" height="126.0" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.8"/>
+<text x="342.69249999999994" y="800.9525" font-size="15" text-anchor="middle" fill="#18212f">End</text>
+<rect x="108.24249999999984" y="732.9525" width="126.0" height="126.0" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.8"/>
+<text x="171.24249999999984" y="800.9525" font-size="15" text-anchor="middle" fill="#18212f">Delete</text>
+<rect x="451.14250000000004" y="732.9525" width="126.0" height="126.0" rx="3" fill="#ffffff" stroke="#64748b" stroke-width="1.8"/>
+<text x="514.1425" y="800.9525" font-size="15" text-anchor="middle" fill="#18212f">PgDn</text>
+<rect x="359.23000000000025" y="247.29000000000002" width="171.0" height="297.0" rx="3" fill="#e7a14b" stroke="#64748b" stroke-width="1.8"/>
+<text x="444.73000000000025" y="400.79" font-size="14" text-anchor="middle" fill="#18212f">nRF52840</text>
+<rect x="401.98000000000025" y="239.73" width="85.5" height="7.560000000000031" rx="3" fill="#86bfff" stroke="#64748b" stroke-width="1.8"/>
+<rect x="392.98000000000025" y="86.72999999999999" width="103.5" height="153.0" rx="3" fill="#f6d878" stroke="#64748b" stroke-width="1.8"/>
+<text x="444.73000000000025" y="168.23" font-size="14" text-anchor="middle" fill="#18212f">USB plug</text>
+<rect x="233.23000000000025" y="263.49" width="63.0" height="46.800000000000026" rx="3" fill="#bed0df" stroke="#64748b" stroke-width="1.8"/>
+<text x="264.73000000000025" y="291.8900000000001" font-size="14" text-anchor="middle" fill="#18212f">BAT</text>
+<rect x="117.1749999999999" y="238.96499999999992" width="79.6500000000002" height="53.10000000000005" rx="3" fill="#adb7c9" stroke="#64748b" stroke-width="1.8"/>
+<text x="157.0" y="270.51499999999993" font-size="14" text-anchor="middle" fill="#18212f">Power</text>
+<path d="M 444.73000000000025 357 v -60 m -6 9 l 6 -9 l 6 9" fill="none" stroke="#583d1f" stroke-width="3"/>
+<text x="67" y="420" font-size="13" text-anchor="start" fill="#794c91">3 key positions removed</text>
+<text x="32" y="910" font-size="16" text-anchor="start" fill="#18212f">Dashed outlines: removed keys. Orange: module envelope.</text>
+<text x="32" y="939" font-size="14" text-anchor="start" fill="#18212f">Fit trial only: actual thickness, socket position and RF remain unverified.</text>
+</g>
+</svg>

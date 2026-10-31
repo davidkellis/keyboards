@@ -1,0 +1,158 @@
+24
+SMT
+
+
+
+
+Holiday Notice: JLCPCB factories will be closed on Sep. 25, Sep. 27 & Oct. 1–4. Please order 3–5 days early to prevent delays. Learn more>
+
+
+
+
+24-hour PCB production. Fast Delivery to United States.
+ Coupons
+ Download APP
+USD 
+JLCPCB
+Products
+Capabilities
+Support 
+About Us 
+5
+Order Now
+My Account 
+tkl-v9-gerbers 
+Automatically saved, last updated on 26 September, 11:38
+PCB
+Bill of Materials
+Component Placements
+Quote & Order
+°
+3D
+2D
+3D
+Simplify Model
+TopBottom
+Select all bottom parts
+Bottom Designator	JLCPCB Part #	Comment	Footprint
+D1,D2,D3,D4,D5,D6,D7,D8,D10,D11,D12,D13,D14,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86
+	
+C54110
+	
+BAT46W
+	
+SOD-123
+
+
+J1
+	
+C131337
+	
+B2B-PH-K-S(LF)(SN)
+	
+JSTPH2.00mmTHTvertical
+
+
+LED1,LED2,LED3,LED4,LED5,LED6
+	
+C575513
+	
+LTW-C230DS
+	
+1206reverse-mount
+
+
+Q1
+	
+C332302
+	
+DMN2056U-7
+	
+SOT-23
+
+
+R1,R2,R3,R4,R5,R6
+	
+C21190
+	
+0603WAF1001T5E
+	
+0603
+
+
+R9
+	
+C25803
+	
+0603WAF1003T5E
+	
+0603
+
+
+SW87
+	
+C221841
+	
+PCM12SMTR
+	
+PCM12SMTSPDT
+NEXT
+Online Chat >
+Chat with our live agent for fast reply.
+Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8
+Email Us >
+Contact us at supportjlcpcb.com
+Typically reply within hours.
+Help Center >
+Get instant answers.
+24/7 Available.
+PCB Service
+FR-4 PCBs
+Flexible PCBs
+Metal Core PCBs
+High-Frequency PCBs
+PCBA Service
+PCB Layout
+SMT Stencil
+Flex Heater
+Support
+Help Center
+Contact Us
+Community
+Shipping Guide
+Payment Methods
+How to Order
+How to Track
+After-Sales Service
+Blog
+Company
+About Us
+Quality Assurance
+How We Work
+Certifications
+Security
+Environment
+JLCAPI
+News
+Cooperation
+Electronics
+EasyEDA
+JLCPCB
+JLCDFM
+LCSC
+OSHWLAB
+Mechanical
+JLC3DP
+JLCCNC
+JLCMC
+Order on JLCONE Desktop, Save $1–$20 Every Time
+Windows
+MAC
+Android
+IOS
+CONNECT WITH US
+© 2026 JLCPCB.COM All Rights Reserved.
+Privacy Policy
+Terms & Conditions
+Cookies Policy
+Do Not Sell or Share My Personal Information

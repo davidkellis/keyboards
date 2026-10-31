@@ -1,0 +1,139 @@
+{
+  "source_pcb_sha256": "65e2174e98ead5943edefd6495f585c8cfae72e7c583e97b4ddd4e4b0e03fe74",
+  "nominal_step_sha256": "f436694bc19dc3443669c2af4ee230f411354d83f4757ec06b028946b927c6f8",
+  "diameter_extra_mm": 0.4,
+  "radial_extra_mm": 0.2,
+  "enlarged_holes": 361,
+  "switch_holes": 332,
+  "module_holes": 29,
+  "pin_centers_unchanged": true,
+  "board_outline_and_thickness_unchanged": true,
+  "expected_removed_volume_mm3": 859.5636763918214,
+  "actual_removed_volume_mm3": 859.5636763927323,
+  "hole_sizes": [
+    {
+      "nominal_diameter_mm": 1.0922,
+      "print_diameter_mm": 1.4922,
+      "count": 29
+    },
+    {
+      "nominal_diameter_mm": 1.2,
+      "print_diameter_mm": 1.6,
+      "count": 166
+    },
+    {
+      "nominal_diameter_mm": 1.6,
+      "print_diameter_mm": 2.0,
+      "count": 83
+    },
+    {
+      "nominal_diameter_mm": 5.05,
+      "print_diameter_mm": 5.45,
+      "count": 83
+    }
+  ],
+  "meshes": [
+    {
+      "file": "pcb-bare-easy-fit.stl",
+      "dimensions_mm": [
+        350.760009765625,
+        129.19000244140625,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "solid_shells": 1,
+      "volume_mm3": 68229.19731493361,
+      "source_crop_origin_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "090dec392688d1d53bfae4d23dfbc9d5497399e1dfef4ee1b26da52a18f523ae"
+    },
+    {
+      "file": "pcb-left-easy-fit.stl",
+      "dimensions_mm": [
+        182.52000427246094,
+        129.19000244140625,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "solid_shells": 1,
+      "volume_mm3": 34384.33772919955,
+      "source_crop_origin_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "d6bbe263407d1e753da1e611dc04727b7d631be6f28f9e6303e30a4a37c3630b"
+    },
+    {
+      "file": "pcb-right-easy-fit.stl",
+      "dimensions_mm": [
+        182.52749633789062,
+        129.19000244140625,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "solid_shells": 1,
+      "volume_mm3": 33844.85645227421,
+      "source_crop_origin_mm": [
+        168.23250000000002,
+        0.0,
+        0.0
+      ],
+      "sha256": "47cfdcb88778228d8d2465a2aa807bf16355e4597d0fb405cc82f9025e5a7776"
+    },
+    {
+      "file": "fit-coupon-pcb-easy-fit.stl",
+      "dimensions_mm": [
+        61.7599983215332,
+        51.189998626708984,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "solid_shells": 1,
+      "volume_mm3": 4819.647920737739,
+      "source_crop_origin_mm": [
+        289.0,
+        78.0,
+        0.0
+      ],
+      "sha256": "f28802a0a3c629962426c88d1d0b32b08b45833e516242bad7e7e74881e8a592"
+    },
+    {
+      "file": "rim-coupon-pcb-easy-fit.stl",
+      "dimensions_mm": [
+        57.599998474121094,
+        29.600000381469727,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "solid_shells": 1,
+      "volume_mm3": 2584.312983168646,
+      "source_crop_origin_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "sha256": "2662a927f6c5a93ffecccf912be0512f5b6269a7025fe84fae66e0fff20ec80b"
+    },
+    {
+      "file": "single-switch-easy-fit.stl",
+      "dimensions_mm": [
+        18.0,
+        18.0,
+        1.600000023841858
+      ],
+      "watertight": true,
+      "solid_shells": 1,
+      "volume_mm3": 469.6270723795638,
+      "source_crop_origin_mm": [
+        2.0700000000000003,
+        102.09,
+        0.0
+      ],
+      "sha256": "abd39cebd74be6de5a4aed7f0e19d922ad331d1f419300884a0bb58dee9fc4d2"
+    }
+  ]
+}

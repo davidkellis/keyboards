@@ -1,0 +1,66 @@
+{
+  "url": "https://cart.jlcpcb.com/quote?cartAccessId=REDACTED&changeType=4",
+  "services": [
+    {
+      "code": "S15",
+      "label": "Bake Components",
+      "value": "No"
+    },
+    {
+      "code": "S06",
+      "label": "Photo Confirmation",
+      "value": "No"
+    },
+    {
+      "code": "S02",
+      "label": "Board Cleaning",
+      "value": "No"
+    },
+    {
+      "code": "S01",
+      "label": "Conformal Coating (cleaning included)",
+      "value": "No"
+    },
+    {
+      "code": "S016",
+      "label": "Special stencil",
+      "value": "No"
+    },
+    {
+      "code": "S03",
+      "label": "Packaging",
+      "value": "Antistatic bubble film"
+    },
+    {
+      "code": "S05",
+      "label": "Depanel boards & edge rail before delivery",
+      "value": "No"
+    },
+    {
+      "code": "S010",
+      "label": "Solder Paste",
+      "value": "High temp."
+    },
+    {
+      "code": "S20",
+      "label": "Flying Probe Test",
+      "value": "No"
+    },
+    {
+      "code": "S19",
+      "label": "Nitrogen reflow soldering",
+      "value": "Yes (for Economic)"
+    },
+    {
+      "code": "S25",
+      "label": "Function test",
+      "value": "No"
+    },
+    {
+      "code": "S07",
+      "label": "Assembly remark",
+      "value": "Yes"
+    }
+  ],
+  "remark": "Assembly remark\nv9: lead-free HASL supersedes OSP in uploaded notes. Economic bottom assembly, 99 placements / 7 groups. LED1-LED6: LTW-C230DS reverse-mount, emit through PCB openings; review polarity and handling fees. Lead-free SMT and J1 through-hole solder. Single PCBs; no paid depanel/rail removal requested. Preserve 350.76 x 129.19 mm finished outline. U1 clone and key switches installed by customer. Prototype; no part substitutions without confirmation.\nEdit"
+}

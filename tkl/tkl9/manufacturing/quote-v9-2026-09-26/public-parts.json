@@ -1,0 +1,464 @@
+[
+  {
+    "code": "C332302",
+    "url": "https://jlcpcb.com/partdetail/C332302",
+    "rows": [
+      {
+        "componentCode": "C332302",
+        "startNumber": 1,
+        "endNumber": 99,
+        "productPrice": 0.0666
+      },
+      {
+        "componentCode": "C332302",
+        "startNumber": 100,
+        "endNumber": 299,
+        "productPrice": 0.054
+      },
+      {
+        "componentCode": "C332302",
+        "startNumber": 300,
+        "endNumber": 2999,
+        "productPrice": 0.0476
+      },
+      {
+        "componentCode": "C332302",
+        "startNumber": 3000,
+        "endNumber": 5999,
+        "productPrice": 0.0389
+      },
+      {
+        "componentCode": "C332302",
+        "startNumber": 6000,
+        "endNumber": 8999,
+        "productPrice": 0.0351
+      },
+      {
+        "componentCode": "C332302",
+        "startNumber": 9000,
+        "endNumber": -1,
+        "productPrice": 0.0332
+      },
+      {
+        "componentModelEn": "DMN2056U-7",
+        "componentBrandEn": "Diodes Incorporated",
+        "componentCode": "C332302",
+        "assemblyMode": "smtWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": false,
+        "xrayFlag": false,
+        "componentLibraryType": "expand",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "DMN2056U-7",
+        "componentBrandEn": "Diodes Incorporated",
+        "componentCode": "C332302"
+      },
+      {
+        "componentCode": "C332302",
+        "componentModelEn": "DMN2056U-7",
+        "componentBrandEn": "Diodes Incorporated",
+        "overseasStockCount": 38969
+      }
+    ]
+  },
+  {
+    "code": "C54110",
+    "url": "https://jlcpcb.com/partdetail/C54110",
+    "rows": [
+      {
+        "componentCode": "C54110",
+        "startNumber": 1,
+        "endNumber": 199,
+        "productPrice": 0.0291
+      },
+      {
+        "componentCode": "C54110",
+        "startNumber": 200,
+        "endNumber": 599,
+        "productPrice": 0.0242
+      },
+      {
+        "componentCode": "C54110",
+        "startNumber": 600,
+        "endNumber": 2999,
+        "productPrice": 0.0215
+      },
+      {
+        "componentCode": "C54110",
+        "startNumber": 3000,
+        "endNumber": 8999,
+        "productPrice": 0.0195
+      },
+      {
+        "componentCode": "C54110",
+        "startNumber": 9000,
+        "endNumber": 20999,
+        "productPrice": 0.0181
+      },
+      {
+        "componentCode": "C54110",
+        "startNumber": 21000,
+        "endNumber": -1,
+        "productPrice": 0.0173
+      },
+      {
+        "componentModelEn": "BAT46W",
+        "componentBrandEn": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+        "componentCode": "C54110",
+        "assemblyMode": "smtWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": false,
+        "xrayFlag": false,
+        "componentLibraryType": "expand",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "BAT46W",
+        "componentBrandEn": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+        "componentCode": "C54110"
+      },
+      {
+        "componentCode": "C54110",
+        "componentModelEn": "BAT46W",
+        "componentBrandEn": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+        "overseasStockCount": 45713
+      }
+    ]
+  },
+  {
+    "code": "C575513",
+    "url": "https://jlcpcb.com/partdetail/C575513",
+    "rows": [
+      {
+        "componentCode": "C575513",
+        "startNumber": 1,
+        "endNumber": 99,
+        "productPrice": 0.0673
+      },
+      {
+        "componentCode": "C575513",
+        "startNumber": 100,
+        "endNumber": 299,
+        "productPrice": 0.0523
+      },
+      {
+        "componentCode": "C575513",
+        "startNumber": 300,
+        "endNumber": 2999,
+        "productPrice": 0.045
+      },
+      {
+        "componentCode": "C575513",
+        "startNumber": 3000,
+        "endNumber": 5999,
+        "productPrice": 0.0395
+      },
+      {
+        "componentCode": "C575513",
+        "startNumber": 6000,
+        "endNumber": 8999,
+        "productPrice": 0.035
+      },
+      {
+        "componentCode": "C575513",
+        "startNumber": 9000,
+        "endNumber": -1,
+        "productPrice": 0.0329
+      },
+      {
+        "componentModelEn": "LTW-C230DS",
+        "componentBrandEn": "Lite-On",
+        "componentCode": "C575513",
+        "assemblyMode": "smtWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": true,
+        "xrayFlag": false,
+        "componentLibraryType": "expand",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "LTW-C230DS",
+        "componentBrandEn": "Lite-On",
+        "componentCode": "C575513"
+      },
+      {
+        "componentCode": "C575513",
+        "componentModelEn": "LTW-C230DS",
+        "componentBrandEn": "Lite-On",
+        "overseasStockCount": 1043
+      }
+    ]
+  },
+  {
+    "code": "C131337",
+    "url": "https://jlcpcb.com/partdetail/C131337",
+    "rows": [
+      {
+        "componentCode": "C131337",
+        "startNumber": 1,
+        "endNumber": 199,
+        "productPrice": 0.0353
+      },
+      {
+        "componentCode": "C131337",
+        "startNumber": 200,
+        "endNumber": 999,
+        "productPrice": 0.028
+      },
+      {
+        "componentCode": "C131337",
+        "startNumber": 1000,
+        "endNumber": 1999,
+        "productPrice": 0.0244
+      },
+      {
+        "componentCode": "C131337",
+        "startNumber": 2000,
+        "endNumber": 9999,
+        "productPrice": 0.022
+      },
+      {
+        "componentCode": "C131337",
+        "startNumber": 10000,
+        "endNumber": 19999,
+        "productPrice": 0.021
+      },
+      {
+        "componentCode": "C131337",
+        "startNumber": 20000,
+        "endNumber": -1,
+        "productPrice": 0.0203
+      },
+      {
+        "componentModelEn": "B2B-PH-K-S(LF)(SN)",
+        "componentBrandEn": "JST",
+        "componentCode": "C131337",
+        "assemblyMode": "manualWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": false,
+        "xrayFlag": false,
+        "componentLibraryType": "expand",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "B2B-PH-K-S(LF)(SN)",
+        "componentBrandEn": "JST",
+        "componentCode": "C131337"
+      },
+      {
+        "componentCode": "C131337",
+        "componentModelEn": "B2B-PH-K-S(LF)(SN)",
+        "componentBrandEn": "JST",
+        "overseasStockCount": 86644
+      }
+    ]
+  },
+  {
+    "code": "C221841",
+    "url": "https://jlcpcb.com/partdetail/C221841",
+    "rows": [
+      {
+        "componentCode": "C221841",
+        "startNumber": 1,
+        "endNumber": 9,
+        "productPrice": 1.7815
+      },
+      {
+        "componentCode": "C221841",
+        "startNumber": 10,
+        "endNumber": 29,
+        "productPrice": 1.5152
+      },
+      {
+        "componentCode": "C221841",
+        "startNumber": 30,
+        "endNumber": 99,
+        "productPrice": 1.3495
+      },
+      {
+        "componentCode": "C221841",
+        "startNumber": 100,
+        "endNumber": 499,
+        "productPrice": 1.179
+      },
+      {
+        "componentCode": "C221841",
+        "startNumber": 500,
+        "endNumber": 999,
+        "productPrice": 1.0946
+      },
+      {
+        "componentCode": "C221841",
+        "startNumber": 1000,
+        "endNumber": -1,
+        "productPrice": 1.0621
+      },
+      {
+        "componentModelEn": "PCM12SMTR",
+        "componentBrandEn": "C&K",
+        "componentCode": "C221841",
+        "assemblyMode": "smtWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": false,
+        "xrayFlag": false,
+        "componentLibraryType": "expand",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "PCM12SMTR",
+        "componentBrandEn": "C&K",
+        "componentCode": "C221841"
+      },
+      {
+        "componentCode": "C221841",
+        "componentModelEn": "PCM12SMTR",
+        "componentBrandEn": "C&K",
+        "overseasStockCount": 1015
+      }
+    ]
+  },
+  {
+    "code": "C21190",
+    "url": "https://jlcpcb.com/partdetail/C21190",
+    "rows": [
+      {
+        "componentCode": "C21190",
+        "startNumber": 1,
+        "endNumber": 999,
+        "productPrice": 0.0026
+      },
+      {
+        "componentCode": "C21190",
+        "startNumber": 1000,
+        "endNumber": 4999,
+        "productPrice": 0.002
+      },
+      {
+        "componentCode": "C21190",
+        "startNumber": 5000,
+        "endNumber": 9999,
+        "productPrice": 0.0018
+      },
+      {
+        "componentCode": "C21190",
+        "startNumber": 10000,
+        "endNumber": 49999,
+        "productPrice": 0.0014
+      },
+      {
+        "componentCode": "C21190",
+        "startNumber": 50000,
+        "endNumber": 50199,
+        "productPrice": 0.0013
+      },
+      {
+        "componentCode": "C21190",
+        "startNumber": 50200,
+        "endNumber": -1,
+        "productPrice": 0.0013
+      },
+      {
+        "componentModelEn": "0603WAF1001T5E",
+        "componentBrandEn": "UNI-ROYAL(Uniroyal Elec)",
+        "componentCode": "C21190",
+        "assemblyMode": "smtWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": false,
+        "xrayFlag": false,
+        "componentLibraryType": "base",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "0603WAF1001T5E",
+        "componentBrandEn": "UNI-ROYAL(Uniroyal Elec)",
+        "componentCode": "C21190"
+      },
+      {
+        "componentCode": "C21190",
+        "componentModelEn": "0603WAF1001T5E",
+        "componentBrandEn": "UNI-ROYAL(Uniroyal Elec)",
+        "overseasStockCount": 23748831
+      }
+    ]
+  },
+  {
+    "code": "C25803",
+    "url": "https://jlcpcb.com/partdetail/C25803",
+    "rows": [
+      {
+        "componentCode": "C25803",
+        "startNumber": 1,
+        "endNumber": 999,
+        "productPrice": 0.0031
+      },
+      {
+        "componentCode": "C25803",
+        "startNumber": 1000,
+        "endNumber": 4999,
+        "productPrice": 0.0024
+      },
+      {
+        "componentCode": "C25803",
+        "startNumber": 5000,
+        "endNumber": 9999,
+        "productPrice": 0.0021
+      },
+      {
+        "componentCode": "C25803",
+        "startNumber": 10000,
+        "endNumber": 49999,
+        "productPrice": 0.0017
+      },
+      {
+        "componentCode": "C25803",
+        "startNumber": 50000,
+        "endNumber": 50199,
+        "productPrice": 0.0016
+      },
+      {
+        "componentCode": "C25803",
+        "startNumber": 50200,
+        "endNumber": -1,
+        "productPrice": 0.0016
+      },
+      {
+        "componentModelEn": "0603WAF1003T5E",
+        "componentBrandEn": "UNI-ROYAL(Uniroyal Elec)",
+        "componentCode": "C25803",
+        "assemblyMode": "smtWeld",
+        "componentProductType": 0,
+        "fixtureFlag": false,
+        "specialComponentFee": 0,
+        "needAuditFlag": false,
+        "xrayFlag": false,
+        "componentLibraryType": "base",
+        "assemblyComponentFlag": false
+      },
+      {
+        "componentModelEn": "0603WAF1003T5E",
+        "componentBrandEn": "UNI-ROYAL(Uniroyal Elec)",
+        "componentCode": "C25803"
+      },
+      {
+        "componentCode": "C25803",
+        "componentModelEn": "0603WAF1003T5E",
+        "componentBrandEn": "UNI-ROYAL(Uniroyal Elec)",
+        "overseasStockCount": 22823570
+      }
+    ]
+  }
+]

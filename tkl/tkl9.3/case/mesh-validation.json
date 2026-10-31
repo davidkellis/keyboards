@@ -1,0 +1,548 @@
+[
+  {
+    "file": "battery-pack-max-gauge-264x50x5.5-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      132.0,
+      50.0,
+      5.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-pack-max-gauge-264x50x5.5-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      132.0,
+      50.0,
+      5.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-pack-max-gauge-264x50x5.5.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      264.0,
+      50.0,
+      5.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-reserve-gauge-270x52x6.3-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      135.0,
+      52.0,
+      6.300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-reserve-gauge-270x52x6.3-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      135.0,
+      52.0,
+      6.300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-reserve-gauge-270x52x6.3.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      270.0,
+      52.0,
+      6.300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "case-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      180.67999267578125,
+      133.3522186279297,
+      20.600000381469727
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "case-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      180.67999267578125,
+      133.3522186279297,
+      20.600000381469727
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "case.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      355.55999755859375,
+      133.3522186279297,
+      20.600000381469727
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "fit-coupon-case.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      64.16000366210938,
+      53.337284088134766,
+      20.600000381469727
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "fit-coupon-pcb.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      61.7599983215332,
+      51.189998626708984,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "fit-coupon-upper.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      61.7599983215332,
+      51.189998626708984,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "keycap-envelopes-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      179.9250030517578,
+      117.01249694824219,
+      5.0
+    ],
+    "shells": 46,
+    "solid_shells": 46,
+    "internal_voids": 0
+  },
+  {
+    "file": "keycap-envelopes-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      179.9250030517578,
+      117.01249694824219,
+      5.0
+    ],
+    "shells": 38,
+    "solid_shells": 38,
+    "internal_voids": 0
+  },
+  {
+    "file": "led-diffuser.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      3.400000095367443,
+      3.400000095367429,
+      1.899999976158142
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "led-fit-coupon.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      14.0,
+      14.0,
+      1.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "module-gap-gauge.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      20.0,
+      5.0,
+      1.0
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "mount-coupon-case.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      16.0,
+      16.31874656677246,
+      8.176352500915527
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "mount-coupon-pcb.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      14.0,
+      14.0,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "mount-coupon-upper.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      14.0,
+      14.0,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-bare.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52000427246094,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-populated-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52000427246094,
+      129.19000244140625,
+      3.299999952316284
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-populated-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52749633789062,
+      130.11500549316406,
+      10.600000381469727
+    ],
+    "shells": 3,
+    "solid_shells": 1,
+    "internal_voids": 2
+  },
+  {
+    "file": "pcb-populated.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      130.11500549316406,
+      10.600000381469727
+    ],
+    "shells": 3,
+    "solid_shells": 1,
+    "internal_voids": 2
+  },
+  {
+    "file": "pcb-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52749633789062,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      184.4199981689453,
+      128.88999938964844,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      184.42750549316406,
+      128.88999938964844,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      128.88999938964844,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "print-fit/fit-coupon-pcb-easy-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      61.7599983215332,
+      51.189998626708984,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "print-fit/pcb-bare-easy-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "print-fit/pcb-left-easy-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52000427246094,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "print-fit/pcb-right-easy-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52749633789062,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "print-fit/rim-coupon-pcb-easy-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      57.599998474121094,
+      29.600000381469727,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "print-fit/single-switch-easy-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      18.0,
+      18.0,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "rim-coupon-case.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      60.0,
+      32.0,
+      10.491548538208008
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "rim-coupon-pcb.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      57.599998474121094,
+      29.600000381469727,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "rim-coupon-plate.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      57.599998474121094,
+      29.299999237060547,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "single-switch-fit.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      18.0,
+      18.0,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "u1-envelope.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      19.0,
+      33.0,
+      5.03000020980835
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "usb_plug_external-envelope.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      11.5,
+      17.0,
+      6.630000114440918
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "usb_socket-envelope.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      9.5,
+      0.8399999737739563,
+      3.2300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  }
+]

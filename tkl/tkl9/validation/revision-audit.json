@@ -1,0 +1,29 @@
+{
+  "parent": "v7.5",
+  "revision": "v9",
+  "preserved_files_checked": 3137,
+  "unchanged_switch_positions_and_drills": 83,
+  "removed_switches": [
+    "SW9",
+    "SW15",
+    "SW16"
+  ],
+  "direct_rear_usb": true,
+  "copper_layers": 2,
+  "thickness_mm": 1.6,
+  "jlc_placements": 99,
+  "jlc_bom_groups": 7,
+  "assembly_side": "Bottom",
+  "user_installed_module": true,
+  "via_count": 120,
+  "filled_or_capped_vias": false,
+  "min_via_drill_to_smt_land_mm": 0.25821497351397604,
+  "hardware_tested": false,
+  "production_ready": false,
+  "holds": [
+    "Actual clone/socket dimensions, pin registration and direct USB insertion",
+    "Module charge current and cell-temperature protection",
+    "Custom firmware and prototype electrical/RF tests",
+    "Keycap and plate-mount stabilizer travel"
+  ]
+}

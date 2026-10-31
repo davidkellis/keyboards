@@ -1,0 +1,2 @@
+(version 1)
+(rule "Perimeter clearance" (condition "A.FootprintReference != 'LED*'") (constraint edge_clearance (min 0.5mm)))

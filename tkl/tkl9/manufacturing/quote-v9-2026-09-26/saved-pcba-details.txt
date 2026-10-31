@@ -1,0 +1,30 @@
+Product Detail
+PCBA Parameters
+Bill of Material
+Part Placement
+PCBA Type	Standard
+Assembly Side	Bottom Side
+PCBA Qty	5
+Edge Rails/Fiducials	Added by JLCPCB
+Confirm Parts Placement	Yes
+Bake Components	No
+Photo Confirmation	No
+Board Cleaning	No
+Conformal Coating (cleaning included)	No
+Special stencil	No
+Packaging	Antistatic bubble film
+Depanel boards & edge rail before delivery	Yes
+Solder Paste	High temp.
+Flying Probe Test	No
+Nitrogen reflow soldering	No
+Function test	No
+Assembly remark	Yes
+Remark: Quote five v9 boards: bottom assembly only, 99 placements/7 BOM groups. LED1-LED6 are LTW-C230DS reverse-mount LEDs emitting through PCB openings; please review orientation and any fixture/manual handling costs. Lead-free solder for SMT and J1 through-hole connector. Remove assembly rails before delivery. U1 module and key switches are customer-installed and excluded. This is a prototype quote; do not substitute parts without confirmation.
+
+File provided as	Complete File, just proceed with my own files
+Panel Format	1 * 1
+Build Time	4 - 5 days(add 1 day)
+Stencil Storage	No
+Fixture Storage	No
+Gross Weight	0.03 kg
+Product Description	Office Appliance and Accessories/Keyboard - HS Code 847330

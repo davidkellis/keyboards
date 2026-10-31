@@ -1,0 +1,110 @@
+{
+  "selected": [
+    "FR-4",
+    "2",
+    "Industrial/Consumer electronics",
+    "1",
+    "Single PCB",
+    "1.6mm",
+    "Green",
+    "White",
+    "FR4 TG135",
+    "OSP\nNew",
+    "1 oz",
+    "Tented",
+    "Not Specified",
+    "0.3mm/(0.4/0.45mm)",
+    "\u00b10.2mm(Regular)",
+    "Yes",
+    "Remove Mark",
+    "Flying Probe Fully Test",
+    "No",
+    "No",
+    "No",
+    "No",
+    "No",
+    "No",
+    "Standard",
+    "Bottom Side",
+    "5",
+    "Yes",
+    "No",
+    "No",
+    "By Customer (Self-Service)"
+  ],
+  "inputs": [
+    {
+      "name": "",
+      "value": "More"
+    },
+    {
+      "name": "stencilLength",
+      "value": "350.76"
+    },
+    {
+      "name": "stencilWidth",
+      "value": "139.19"
+    },
+    {
+      "name": "stencilCompany",
+      "value": "mm"
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": ""
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "Antistatic bubble film"
+    },
+    {
+      "name": "",
+      "value": "Yes"
+    },
+    {
+      "name": "",
+      "value": "High temp."
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "No"
+    },
+    {
+      "name": "",
+      "value": "Yes"
+    }
+  ],
+  "economicDisabled": true
+}

@@ -1,0 +1,118 @@
+Product Detail
+
+Gerber file:
+tkl-v9-gerbers_Y9
+
+Build Time:
+24 hours (PCBA Only)
+
+Base Material:
+FR-4
+
+Layers:
+2
+
+Dimension:
+350.76 mm* 139.19 mm
+
+PCB Qty:
+5
+
+Product Type:
+Industrial/Consumer electronics
+
+Different Design:
+1
+
+Delivery Format:
+Single PCB
+
+PCB Thickness:
+1.6mm
+
+Specify Stackup:
+no
+
+PCB Color:
+Green
+
+Silkscreen:
+White
+
+Material Type:
+FR4 TG135
+
+Via Covering:
+Tented
+
+Surface Finish:
+OSP
+
+Deburring/Edge rounding:
+No
+
+Outer Copper Weight:
+1 oz
+
+Gold Fingers:
+No
+
+Electrical Test:
+Flying Probe Fully Test
+
+Castellated Holes:
+no
+
+Edge Plating:
+No
+
+Mark on PCB:
+Remove Mark
+
+Blind Slot:
+No
+
+Min via hole size/diameter:
+0.3mm/(0.4/0.45mm)
+
+Via Plating Method:
+Not Specified
+
+4-Wire Kelvin Test:
+No
+
+Paper between PCBs:
+No
+
+Appearance Quality:
+IPC Class 2 Standard
+
+Confirm Production file:
+Yes 
+
+Silkscreen Technology:
+Ink-jet Printing Silkscreen
+
+Package Box:
+With JLCPCB logo
+
+Inspection Report:
+No
+
+Board Outline Tolerance:
+±0.2mm(Regular)
+
+Impedance Test Report:
+No
+
+UL Marking:
+No
+
+Countersink Hole:
+No
+
+Shortage Preference:
+Require Full Quantity
+
+Gross Weight:
+0.93kg

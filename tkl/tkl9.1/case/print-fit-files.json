@@ -1,0 +1,26 @@
+{
+  "diameter_extra_mm": 0.4,
+  "source_pcb_sha256": "65e2174e98ead5943edefd6495f585c8cfae72e7c583e97b4ddd4e4b0e03fe74",
+  "files": {
+    "pcb-bare.stl": {
+      "source": "print-fit/pcb-bare-easy-fit.stl",
+      "sha256": "090dec392688d1d53bfae4d23dfbc9d5497399e1dfef4ee1b26da52a18f523ae"
+    },
+    "pcb-left.stl": {
+      "source": "print-fit/pcb-left-easy-fit.stl",
+      "sha256": "d6bbe263407d1e753da1e611dc04727b7d631be6f28f9e6303e30a4a37c3630b"
+    },
+    "pcb-right.stl": {
+      "source": "print-fit/pcb-right-easy-fit.stl",
+      "sha256": "47cfdcb88778228d8d2465a2aa807bf16355e4597d0fb405cc82f9025e5a7776"
+    },
+    "fit-coupon-pcb.stl": {
+      "source": "print-fit/fit-coupon-pcb-easy-fit.stl",
+      "sha256": "f28802a0a3c629962426c88d1d0b32b08b45833e516242bad7e7e74881e8a592"
+    },
+    "single-switch-fit.stl": {
+      "source": "print-fit/single-switch-easy-fit.stl",
+      "sha256": "abd39cebd74be6de5a4aed7f0e19d922ad331d1f419300884a0bb58dee9fc4d2"
+    }
+  }
+}

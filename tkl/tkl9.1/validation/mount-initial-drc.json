@@ -1,0 +1,1163 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-27T23:30:02",
+    "ignored_checks": [
+        {
+            "description": "Footprint has no courtyard defined",
+            "key": "missing_courtyard"
+        },
+        {
+            "description": "Track endpoint not centered on via",
+            "key": "track_not_centered_on_via"
+        },
+        {
+            "description": "Tuning profile track geometries",
+            "key": "tuning_profile_track_geometries"
+        },
+        {
+            "description": "Footprint doesn't match symbol's footprint filters",
+            "key": "footprint_filters_mismatch"
+        },
+        {
+            "description": "Footprint component type doesn't match footprint pads",
+            "key": "footprint_type_mismatch"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.6",
+    "schematic_parity": [],
+    "source": "keyboard.kicad_pcb",
+    "unconnected_items": [
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [COL3] on F.Cu, length 9.7209 mm",
+                    "pos": {
+                        "x": 320.422043,
+                        "y": 30.1752
+                    },
+                    "uuid": "a3796f4c-80ec-4613-9d10-97d903f4cec2"
+                },
+                {
+                    "description": "Track [COL3] on F.Cu, length 32.6572 mm",
+                    "pos": {
+                        "x": 360.2952,
+                        "y": 30.1752
+                    },
+                    "uuid": "b5a678fe-4888-4527-a850-d6e034b9ead3"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [COL1] on F.Cu, length 80.8637 mm",
+                    "pos": {
+                        "x": 163.48637,
+                        "y": 25.7773
+                    },
+                    "uuid": "63355829-2013-45dc-badb-697667b59e2d"
+                },
+                {
+                    "description": "Track [COL1] on F.Cu, length 102.9127 mm",
+                    "pos": {
+                        "x": 273.48637,
+                        "y": 25.7773
+                    },
+                    "uuid": "d314f4e8-1f1b-455c-8da6-aab315c6e9da"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [COL1] on F.Cu, length 102.9127 mm",
+                    "pos": {
+                        "x": 273.48637,
+                        "y": 25.7773
+                    },
+                    "uuid": "d314f4e8-1f1b-455c-8da6-aab315c6e9da"
+                },
+                {
+                    "description": "Track [COL1] on F.Cu, length 47.9501 mm",
+                    "pos": {
+                        "x": 328.5237,
+                        "y": 25.7773
+                    },
+                    "uuid": "deef0c6d-3f47-424e-81b0-7d66020c06ed"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 19.0863 mm",
+                    "pos": {
+                        "x": 161.1922,
+                        "y": 126.7016
+                    },
+                    "uuid": "00fb401b-b45c-4801-94a7-2cc4a0de2a39"
+                },
+                {
+                    "description": "Track [ROW11] on F.Cu, length 49.9116 mm",
+                    "pos": {
+                        "x": 135.954116,
+                        "y": 126.7016
+                    },
+                    "uuid": "f5aae198-a25d-4798-a76b-44c1accafab9"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 23.1740 mm",
+                    "pos": {
+                        "x": 227.121806,
+                        "y": 128.950806
+                    },
+                    "uuid": "8ef10256-193d-4913-a2cb-8d5acf14d7c3"
+                },
+                {
+                    "description": "Track [ROW11] on F.Cu, length 58.8777 mm",
+                    "pos": {
+                        "x": 161.4385,
+                        "y": 126.9479
+                    },
+                    "uuid": "719cb75b-7680-4177-b9f1-c723ace46d85"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 51.7501 mm",
+                    "pos": {
+                        "x": 111.8624,
+                        "y": 26.2501
+                    },
+                    "uuid": "3c5a0213-99d7-45a0-a041-4e3cb9c0fadc"
+                },
+                {
+                    "description": "Track [GND] on F.Cu, length 103.1649 mm",
+                    "pos": {
+                        "x": 170.447548,
+                        "y": 26.2501
+                    },
+                    "uuid": "663229a2-18c8-42b7-b2ea-ac29d7a37796"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 57.3714 mm",
+                    "pos": {
+                        "x": 280.447548,
+                        "y": 26.2501
+                    },
+                    "uuid": "a6d672f4-858a-4753-ac75-5f797fcd140f"
+                },
+                {
+                    "description": "Track [GND] on F.Cu, length 103.1649 mm",
+                    "pos": {
+                        "x": 170.447548,
+                        "y": 26.2501
+                    },
+                    "uuid": "663229a2-18c8-42b7-b2ea-ac29d7a37796"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 0.6548 mm",
+                    "pos": {
+                        "x": 58.5635,
+                        "y": 125.8268
+                    },
+                    "uuid": "4b9e7ab7-c485-4a85-a80b-47a2ae9bf9e0"
+                },
+                {
+                    "description": "Track [ROW9] on F.Cu, length 40.0752 mm",
+                    "pos": {
+                        "x": 64.841668,
+                        "y": 125.8268
+                    },
+                    "uuid": "5b2142a5-372b-414c-910a-0cf9161258c4"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 30.7148 mm",
+                    "pos": {
+                        "x": 105.5639,
+                        "y": 126.2542
+                    },
+                    "uuid": "442901fe-83f7-4eb9-8a16-c550bddf5b33"
+                },
+                {
+                    "description": "Track [ROW9] on F.Cu, length 0.8268 mm",
+                    "pos": {
+                        "x": 141.781261,
+                        "y": 126.2542
+                    },
+                    "uuid": "d15a8cc3-a685-480a-acd0-fdb0ff2aa3ac"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 1.6214 mm",
+                    "pos": {
+                        "x": 221.197374,
+                        "y": 125.836
+                    },
+                    "uuid": "fefef8cd-6239-4c37-bfec-4f2c3cd6655e"
+                },
+                {
+                    "description": "Track [ROW9] on F.Cu, length 4.5484 mm",
+                    "pos": {
+                        "x": 230.411,
+                        "y": 125.836
+                    },
+                    "uuid": "4d193c34-eb81-4b53-8b46-70e9d016a48c"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 16.1807 mm",
+                    "pos": {
+                        "x": 293.0618,
+                        "y": 125.7962
+                    },
+                    "uuid": "4cb24f37-7cbd-41b7-b6a2-b2f88ab84e00"
+                },
+                {
+                    "description": "Track [ROW9] on F.Cu, length 37.7938 mm",
+                    "pos": {
+                        "x": 314.817491,
+                        "y": 125.7962
+                    },
+                    "uuid": "20782fb8-a504-4c90-9b9f-37d0317fa26f"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW4] on F.Cu, length 29.5194 mm",
+                    "pos": {
+                        "x": 204.2894,
+                        "y": 87.7411
+                    },
+                    "uuid": "7b9b3f20-1ecd-45f7-be48-82612056ae82"
+                },
+                {
+                    "description": "Track [ROW4] on F.Cu, length 1.1564 mm",
+                    "pos": {
+                        "x": 169.290038,
+                        "y": 87.7411
+                    },
+                    "uuid": "09c99af6-d7fc-4f5d-b93a-09b57a018d33"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW7] on B.Cu, length 81.7210 mm",
+                    "pos": {
+                        "x": 336.18,
+                        "y": 36.5
+                    },
+                    "uuid": "486458dd-390e-45dd-bf7e-358685cc8b6e"
+                },
+                {
+                    "description": "Track [ROW7] on B.Cu, length 15.1434 mm",
+                    "pos": {
+                        "x": 277.72549,
+                        "y": 94.954509
+                    },
+                    "uuid": "ec3f2163-f953-46e4-ae43-715f98d88ead"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW10] on B.Cu, length 7.0888 mm",
+                    "pos": {
+                        "x": 135.828571,
+                        "y": 130.2567
+                    },
+                    "uuid": "09ee7394-68b8-4bda-91c9-570b423a31e9"
+                },
+                {
+                    "description": "Track [ROW10] on B.Cu, length 11.3818 mm",
+                    "pos": {
+                        "x": 153.6132,
+                        "y": 130.2567
+                    },
+                    "uuid": "9cfd9c58-4e7d-4c6f-b3e4-fc77ec28ee5e"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        },
+        {
+            "description": "Missing connection between items",
+            "items": [
+                {
+                    "description": "Track [ROW10] on F.Cu, length 11.2622 mm",
+                    "pos": {
+                        "x": 226.295581,
+                        "y": 126.2708
+                    },
+                    "uuid": "93946999-3785-47af-bcf7-62a8eae610af"
+                },
+                {
+                    "description": "Track [ROW10] on F.Cu, length 19.8091 mm",
+                    "pos": {
+                        "x": 200.9553,
+                        "y": 126.2708
+                    },
+                    "uuid": "88ea6271-9508-461d-94dd-011fb962242a"
+                }
+            ],
+            "severity": "error",
+            "type": "unconnected_items"
+        }
+    ],
+    "violations": [
+        {
+            "description": "Items not allowed (keepout area 'H5 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H5",
+                    "pos": {
+                        "x": 62.03,
+                        "y": 91.59
+                    },
+                    "uuid": "14f9c9ad-81ed-417a-920a-2e06c939b3b1"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H11 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H11",
+                    "pos": {
+                        "x": 277.03,
+                        "y": 25.09
+                    },
+                    "uuid": "0983e8b5-fb12-4a58-84ad-72a7f1e6571f"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H8 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H8",
+                    "pos": {
+                        "x": 358.03,
+                        "y": 99.09
+                    },
+                    "uuid": "88234d9c-335b-496c-906f-da9b0ab71b5c"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H9 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H9",
+                    "pos": {
+                        "x": 57.03,
+                        "y": 25.09
+                    },
+                    "uuid": "bb8b1bdc-6fad-4d54-8729-d8dc78809ecf"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H7 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H7",
+                    "pos": {
+                        "x": 275.53,
+                        "y": 92.09
+                    },
+                    "uuid": "22e5c4b9-a370-4ecd-b962-47ce621fb43e"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H2 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H2",
+                    "pos": {
+                        "x": 139.03,
+                        "y": 128.59
+                    },
+                    "uuid": "84b9cf58-61aa-4a90-91b1-2c684da4c365"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H4 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H4",
+                    "pos": {
+                        "x": 312.03,
+                        "y": 128.09
+                    },
+                    "uuid": "5efd8749-7379-48c1-b9ce-f7dd7ad4fa06"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H1 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H1",
+                    "pos": {
+                        "x": 62.03,
+                        "y": 128.09
+                    },
+                    "uuid": "f16ccede-2331-4983-a9c6-a6285f6ae223"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H3 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H3",
+                    "pos": {
+                        "x": 223.53,
+                        "y": 128.59
+                    },
+                    "uuid": "77cf95a6-d11b-4992-ad4a-2d9c89b5de18"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H6 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H6",
+                    "pos": {
+                        "x": 172.03,
+                        "y": 90.09
+                    },
+                    "uuid": "6575786f-226a-4c67-afbf-e70c8c89d98e"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H12 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H12",
+                    "pos": {
+                        "x": 324.03,
+                        "y": 30.09
+                    },
+                    "uuid": "c755bc8f-4217-4a9c-94e5-4db20f6d9aeb"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area 'H10 mounting hardware clearance')",
+            "items": [
+                {
+                    "description": "NPTH pad of H10",
+                    "pos": {
+                        "x": 167.03,
+                        "y": 25.09
+                    },
+                    "uuid": "fdd2875c-34a7-4ee2-8f8b-b44af3aa3d9b"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H5",
+                    "pos": {
+                        "x": 62.03,
+                        "y": 91.59
+                    },
+                    "uuid": "15bb7139-b095-48d3-ba1e-41bf20723a58"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H11",
+                    "pos": {
+                        "x": 277.03,
+                        "y": 25.09
+                    },
+                    "uuid": "22c7086f-be5d-4da7-a6c2-5d9a6c384b46"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H8",
+                    "pos": {
+                        "x": 358.03,
+                        "y": 99.09
+                    },
+                    "uuid": "2e7baf5a-2828-490e-94ea-00e8ad68c02f"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H9",
+                    "pos": {
+                        "x": 57.03,
+                        "y": 25.09
+                    },
+                    "uuid": "324a42d6-c9e4-4b13-80dc-cb5681b34356"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H7",
+                    "pos": {
+                        "x": 275.53,
+                        "y": 92.09
+                    },
+                    "uuid": "34ed0206-279b-40cf-b082-627e3f058d54"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H2",
+                    "pos": {
+                        "x": 139.03,
+                        "y": 128.59
+                    },
+                    "uuid": "59aaad68-7923-460b-ae07-a4269f794b46"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H4",
+                    "pos": {
+                        "x": 312.03,
+                        "y": 128.09
+                    },
+                    "uuid": "61ccdee5-a8a1-4a93-84c8-9f5595102b32"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H1",
+                    "pos": {
+                        "x": 62.03,
+                        "y": 128.09
+                    },
+                    "uuid": "641df8c1-b4e5-41fd-9628-1212920d2575"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H3",
+                    "pos": {
+                        "x": 223.53,
+                        "y": 128.59
+                    },
+                    "uuid": "7ad60136-288b-48a6-b408-bc4d3204db30"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H6",
+                    "pos": {
+                        "x": 172.03,
+                        "y": 90.09
+                    },
+                    "uuid": "cc6f4421-d081-44c3-a87f-0ac329a097be"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H12",
+                    "pos": {
+                        "x": 324.03,
+                        "y": 30.09
+                    },
+                    "uuid": "d4afc899-8d21-4696-834b-4f6e34db0f28"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "The current configuration does not include the footprint library 'Local'",
+            "items": [
+                {
+                    "description": "Footprint H10",
+                    "pos": {
+                        "x": 167.03,
+                        "y": 25.09
+                    },
+                    "uuid": "fb1a39db-9546-4d01-a430-336a026168c2"
+                }
+            ],
+            "severity": "warning",
+            "type": "lib_footprint_issues"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL3] on F.Cu, length 9.7209 mm",
+                    "pos": {
+                        "x": 320.422043,
+                        "y": 30.1752
+                    },
+                    "uuid": "a3796f4c-80ec-4613-9d10-97d903f4cec2"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL3] on F.Cu, length 32.6572 mm",
+                    "pos": {
+                        "x": 360.2952,
+                        "y": 30.1752
+                    },
+                    "uuid": "b5a678fe-4888-4527-a850-d6e034b9ead3"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL1] on F.Cu, length 80.8637 mm",
+                    "pos": {
+                        "x": 163.48637,
+                        "y": 25.7773
+                    },
+                    "uuid": "63355829-2013-45dc-badb-697667b59e2d"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL1] on F.Cu, length 102.9127 mm",
+                    "pos": {
+                        "x": 273.48637,
+                        "y": 25.7773
+                    },
+                    "uuid": "d314f4e8-1f1b-455c-8da6-aab315c6e9da"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [COL1] on F.Cu, length 47.9501 mm",
+                    "pos": {
+                        "x": 328.5237,
+                        "y": 25.7773
+                    },
+                    "uuid": "deef0c6d-3f47-424e-81b0-7d66020c06ed"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 19.0863 mm",
+                    "pos": {
+                        "x": 161.1922,
+                        "y": 126.7016
+                    },
+                    "uuid": "00fb401b-b45c-4801-94a7-2cc4a0de2a39"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 58.8777 mm",
+                    "pos": {
+                        "x": 161.4385,
+                        "y": 126.9479
+                    },
+                    "uuid": "719cb75b-7680-4177-b9f1-c723ace46d85"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 23.1740 mm",
+                    "pos": {
+                        "x": 227.121806,
+                        "y": 128.950806
+                    },
+                    "uuid": "8ef10256-193d-4913-a2cb-8d5acf14d7c3"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW11] on F.Cu, length 49.9116 mm",
+                    "pos": {
+                        "x": 135.954116,
+                        "y": 126.7016
+                    },
+                    "uuid": "f5aae198-a25d-4798-a76b-44c1accafab9"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 51.7501 mm",
+                    "pos": {
+                        "x": 111.8624,
+                        "y": 26.2501
+                    },
+                    "uuid": "3c5a0213-99d7-45a0-a041-4e3cb9c0fadc"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 103.1649 mm",
+                    "pos": {
+                        "x": 170.447548,
+                        "y": 26.2501
+                    },
+                    "uuid": "663229a2-18c8-42b7-b2ea-ac29d7a37796"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 57.3714 mm",
+                    "pos": {
+                        "x": 280.447548,
+                        "y": 26.2501
+                    },
+                    "uuid": "a6d672f4-858a-4753-ac75-5f797fcd140f"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 37.7938 mm",
+                    "pos": {
+                        "x": 314.817491,
+                        "y": 125.7962
+                    },
+                    "uuid": "20782fb8-a504-4c90-9b9f-37d0317fa26f"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 30.7148 mm",
+                    "pos": {
+                        "x": 105.5639,
+                        "y": 126.2542
+                    },
+                    "uuid": "442901fe-83f7-4eb9-8a16-c550bddf5b33"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 0.6548 mm",
+                    "pos": {
+                        "x": 58.5635,
+                        "y": 125.8268
+                    },
+                    "uuid": "4b9e7ab7-c485-4a85-a80b-47a2ae9bf9e0"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 16.1807 mm",
+                    "pos": {
+                        "x": 293.0618,
+                        "y": 125.7962
+                    },
+                    "uuid": "4cb24f37-7cbd-41b7-b6a2-b2f88ab84e00"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 4.5484 mm",
+                    "pos": {
+                        "x": 230.411,
+                        "y": 125.836
+                    },
+                    "uuid": "4d193c34-eb81-4b53-8b46-70e9d016a48c"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 40.0752 mm",
+                    "pos": {
+                        "x": 64.841668,
+                        "y": 125.8268
+                    },
+                    "uuid": "5b2142a5-372b-414c-910a-0cf9161258c4"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 0.8268 mm",
+                    "pos": {
+                        "x": 141.781261,
+                        "y": 126.2542
+                    },
+                    "uuid": "d15a8cc3-a685-480a-acd0-fdb0ff2aa3ac"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW9] on F.Cu, length 1.6214 mm",
+                    "pos": {
+                        "x": 221.197374,
+                        "y": 125.836
+                    },
+                    "uuid": "fefef8cd-6239-4c37-bfec-4f2c3cd6655e"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW4] on F.Cu, length 1.1564 mm",
+                    "pos": {
+                        "x": 169.290038,
+                        "y": 87.7411
+                    },
+                    "uuid": "09c99af6-d7fc-4f5d-b93a-09b57a018d33"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW4] on F.Cu, length 29.5194 mm",
+                    "pos": {
+                        "x": 204.2894,
+                        "y": 87.7411
+                    },
+                    "uuid": "7b9b3f20-1ecd-45f7-be48-82612056ae82"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW7] on B.Cu, length 81.7210 mm",
+                    "pos": {
+                        "x": 336.18,
+                        "y": 36.5
+                    },
+                    "uuid": "486458dd-390e-45dd-bf7e-358685cc8b6e"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW7] on B.Cu, length 15.1434 mm",
+                    "pos": {
+                        "x": 277.72549,
+                        "y": 94.954509
+                    },
+                    "uuid": "ec3f2163-f953-46e4-ae43-715f98d88ead"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW10] on F.Cu, length 19.8091 mm",
+                    "pos": {
+                        "x": 200.9553,
+                        "y": 126.2708
+                    },
+                    "uuid": "88ea6271-9508-461d-94dd-011fb962242a"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW10] on F.Cu, length 11.2622 mm",
+                    "pos": {
+                        "x": 226.295581,
+                        "y": 126.2708
+                    },
+                    "uuid": "93946999-3785-47af-bcf7-62a8eae610af"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW10] on B.Cu, length 7.0888 mm",
+                    "pos": {
+                        "x": 135.828571,
+                        "y": 130.2567
+                    },
+                    "uuid": "09ee7394-68b8-4bda-91c9-570b423a31e9"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        },
+        {
+            "description": "Track has unconnected end",
+            "items": [
+                {
+                    "description": "Track [ROW10] on B.Cu, length 11.3818 mm",
+                    "pos": {
+                        "x": 153.6132,
+                        "y": 130.2567
+                    },
+                    "uuid": "9cfd9c58-4e7d-4c6f-b3e4-fc77ec28ee5e"
+                }
+            ],
+            "severity": "warning",
+            "type": "track_dangling"
+        }
+    ]
+}

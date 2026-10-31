@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-26",
+  "currency": "USD",
+  "pcb_quantity": 5,
+  "assembly_quantity": 5,
+  "status": "partial_live_fabrication_plus_assembly_estimate",
+  "live_v9_matched_assembly_quote_completed": false,
+  "live_fabrication": {
+    "price": 28.55,
+    "engineering": 4,
+    "board": 23.5,
+    "production_file_confirmation": 1.05,
+    "configured_size_with_rails_mm": [
+      350.76,
+      139.19
+    ],
+    "finished_size_mm": [
+      350.76,
+      129.19
+    ],
+    "layers": 2,
+    "thickness_mm": 1.6,
+    "finish": "OSP",
+    "copper_oz": 1,
+    "assembly_side": "bottom",
+    "via_drill_mm": 0.3,
+    "via_covering": "tented",
+    "via_plating": "not specified",
+    "economic_disabled_for_this_configuration": true
+  },
+  "components": [
+    {
+      "code": "C332302",
+      "mpn": "DMN2056U-7",
+      "installed": 5,
+      "assumed_purchased": 9,
+      "unit_price": 0.0666,
+      "cost": 0.5994,
+      "source": "https://jlcpcb.com/partdetail/C332302"
+    },
+    {
+      "code": "C54110",
+      "mpn": "BAT46W",
+      "installed": 415,
+      "assumed_purchased": 423,
+      "unit_price": 0.0242,
+      "cost": 10.2366,
+      "source": "https://jlcpcb.com/partdetail/C54110"
+    },
+    {
+      "code": "C575513",
+      "mpn": "LTW-C230DS",
+      "installed": 30,
+      "assumed_purchased": 32,
+      "unit_price": 0.0673,
+      "cost": 2.1536,
+      "source": "https://jlcpcb.com/partdetail/C575513"
+    },
+    {
+      "code": "C131337",
+      "mpn": "B2B-PH-K-S(LF)(SN)",
+      "installed": 5,
+      "assumed_purchased": 6,
+      "unit_price": 0.0353,
+      "cost": 0.2118,
+      "source": "https://jlcpcb.com/partdetail/C131337"
+    },
+    {
+      "code": "C221841",
+      "mpn": "PCM12SMTR",
+      "installed": 5,
+      "assumed_purchased": 5,
+      "unit_price": 1.7815,
+      "cost": 8.9075,
+      "source": "https://jlcpcb.com/partdetail/C221841"
+    },
+    {
+      "code": "C21190",
+      "mpn": "0603WAF1001T5E",
+      "installed": 30,
+      "assumed_purchased": 40,
+      "unit_price": 0.0026,
+      "cost": 0.104,
+      "source": "https://jlcpcb.com/partdetail/C21190"
+    },
+    {
+      "code": "C25803",
+      "mpn": "0603WAF1003T5E",
+      "installed": 5,
+      "assumed_purchased": 20,
+      "unit_price": 0.0031,
+      "cost": 0.062,
+      "source": "https://jlcpcb.com/partdetail/C25803"
+    }
+  ],
+  "component_estimate": 22.27,
+  "assembly_fee_estimate": {
+    "standard_single_side_setup": 25.56,
+    "stencil": 8.21,
+    "seven_group_feeder_loading": 10.71,
+    "smt_202_joints_times_5": 1.62,
+    "hand_solder_order_labor": 3.58,
+    "j1_manual_2_joints_times_5": 0.16,
+    "placement_confirmation": 0.45,
+    "packaging": 0.51,
+    "rail_removal_prior_quote_allowance": 3.31
+  },
+  "assembly_fees_total": 54.11,
+  "shipping_allowance_from_v7_4_quote": 45.37,
+  "estimated_batch_delivered_before_tax": 150.3,
+  "conditional_fixture_allowance": 16.42,
+  "estimated_batch_with_fixture_before_tax": 166.72,
+  "customer_installed_modules_separate": {
+    "quantity": 5,
+    "user_reported_unit_price": 4,
+    "additional_cost_if_purchased": 20
+  },
+  "excludes": [
+    "tax",
+    "unquoted engineering/manual handling charges",
+    "case",
+    "battery",
+    "keycaps",
+    "key switches",
+    "stabilizers",
+    "module mounting hardware"
+  ],
+  "next_step": "Sign in to isolated quote browser, upload BOM/CPL, match parts, quote shipping.",
+  "files": {
+    "tkl-v9-gerbers.zip": "b62d054e5ff7da0a47925175790b40df67afc54dcbc06cfe6c338322c04992a5",
+    "jlcpcb-bom.csv": "27478f9fc619a4a7673a572123d5f3cea00370eb58ad64dd6c57b9e4036e6c3b",
+    "jlcpcb-cpl.csv": "85319c61b3398722a3cc7b4c1df857230a8516dfc0c8939c7d513bbd3fab6069"
+  }
+}

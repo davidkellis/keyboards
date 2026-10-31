@@ -1,0 +1,21 @@
+{
+  "source_hashes_match_export": {
+    "kicad/keyboard.kicad_pcb": true,
+    "kicad/keyboard.kicad_sch": true,
+    "kicad/matrix.kicad_sch": true,
+    "kicad/power.kicad_sch": true,
+    "kicad/keyboard.kicad_pro": true,
+    "kicad/keyboard.kicad_dru": true,
+    "manufacturing/parts.json": true
+  },
+  "upload_sha256": {
+    "tkl-v9-gerbers.zip": "b62d054e5ff7da0a47925175790b40df67afc54dcbc06cfe6c338322c04992a5",
+    "jlcpcb-bom.csv": "27478f9fc619a4a7673a572123d5f3cea00370eb58ad64dd6c57b9e4036e6c3b",
+    "jlcpcb-cpl.csv": "85319c61b3398722a3cc7b4c1df857230a8516dfc0c8939c7d513bbd3fab6069"
+  },
+  "bom_groups": 7,
+  "placements": 99,
+  "assembly_side": "Bottom",
+  "hardware_tested": false,
+  "firmware_built": false
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-26",
+  "currency": "USD",
+  "revision": "v9",
+  "pcb_quantity": 5,
+  "assembly_quantity": 5,
+  "status": "live_checkout_quote_unsubmitted_with_review_costs_pending",
+  "quote_url": "https://cart.jlcpcb.com/smt-order/?pcbFileNo=REDACTED",
+  "pcb_reference": "Y9-5054573A",
+  "pcba_reference": "SMT026092661469-5054573A",
+  "finish": "OSP",
+  "layers": 2,
+  "assembly_side": "bottom",
+  "assembly_service": "Standard",
+  "matched_bom_groups": 7,
+  "placements_per_board": 99,
+  "stock_shortfalls_shown": 0,
+  "pcb_usd": 28.55,
+  "pcba_usd": 72.22,
+  "merchandise_usd": 100.77,
+  "pcba_breakdown_usd": {
+    "setup": 25.75,
+    "stencil": 8.27,
+    "components": 22.27,
+    "feeder_loading": 9.3,
+    "smt_assembly": 1.86,
+    "placement_confirmation": 0.45,
+    "hand_soldering_labor": 3.61,
+    "manual_assembly": 0.2,
+    "packaging": 0.51
+  },
+  "shipping": {
+    "destination_country": "United States Of America",
+    "scope": "only v9 batch selected",
+    "source": "live cart shipping estimate",
+    "method": "DHL Express (DDP)",
+    "usd": 45.75,
+    "weight_kg": 2.9,
+    "delivery_business_days": "2-4",
+    "alternatives_usd": {
+      "UPS Express Saver (DDP)": 46.48,
+      "FedEx Express (DDP)": 75.92
+    }
+  },
+  "cart_subtotal_usd": 146.52,
+  "rail_removal_after_review_usd": 3.31,
+  "comparable_delivered_before_tax_usd": 149.83,
+  "per_board_usd": 29.966,
+  "pending": "Reverse-mount LED fixture/manual handling remains Quote after review. Rail-removal charge and any additional fees may be recalculated/taxed during review. No Submit Order action or payment.",
+  "no_purchase": true,
+  "customer_installed_clone_cost_if_buying_five_usd": 20,
+  "files": {
+    "tkl-v9-gerbers.zip": "b62d054e5ff7da0a47925175790b40df67afc54dcbc06cfe6c338322c04992a5",
+    "jlcpcb-bom.csv": "27478f9fc619a4a7673a572123d5f3cea00370eb58ad64dd6c57b9e4036e6c3b",
+    "jlcpcb-cpl.csv": "85319c61b3398722a3cc7b4c1df857230a8516dfc0c8939c7d513bbd3fab6069"
+  },
+  "checkout": {
+    "method": "UPS Express Saver (DDP)",
+    "merchandise_usd": 100.77,
+    "shipping_usd": 50.6,
+    "customs_duties_and_taxes_usd": 39.77,
+    "displayed_grand_total_usd": 191.14,
+    "rail_removal_after_review_usd": 3.31,
+    "total_including_listed_rail_removal_usd": 194.45,
+    "per_board_usd": 38.89,
+    "destination": "user saved shipping address; not stored in repository",
+    "coupon_applied": false
+  }
+}
