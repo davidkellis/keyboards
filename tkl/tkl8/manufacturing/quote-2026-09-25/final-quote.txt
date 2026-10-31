@@ -1,0 +1,193 @@
+24
+SMT
+
+
+
+
+Holiday Notice: JLCPCB factories will be closed on Sep. 25, Sep. 27 & Oct. 1–4. Please order 3–5 days early to prevent delays. Learn more>
+
+
+
+
+24-hour PCB production. Fast Delivery to United States.
+ Coupons
+ Download APP
+USD 
+JLCPCB
+Products
+Capabilities
+Support 
+About Us 
+0
+Order Now
+My Account 
+tkl-v8.1-gerbers 
+Automatically saved, last updated on 25 September, 13:33
+PCB
+Bill of Materials
+Component Placements
+Quote & Order
+Charge Details
+PCB Price
+$151.75 
+Engineering fee:
+$25.00
+Via Covering:
+$22.60
+Surface Finish:
+$22.20
+Board:
+$30.10
+Material Type:
+$4.52
+Via Plating Method:
+$3.91
+4-Wire Kelvin Test:
+$19.77
+Min via hole size/diameter:
+$22.60
+Confirm Production file:
+$1.05
+Standard PCBA Price
+$248.11 
+Setup Fee:
+$51.50
+Stencil:
+$16.54
+Panel:
+$0.00
+Large Size:
+$0.00
+Components(31 items):
+$99.49
+Feeders Loading fee: 
+$46.50
+SMT Assembly 
+$4.21
+Confirm Parts Placement:
+$0.45
+Hand-soldering labor fee:
+$3.61
+Manual Assembly 
+$0.36
+PCB assembly fixture 
+$16.54
+X-Ray Inspection 
+$8.25
+Packaging fee:
+$0.51
+Special components fee: 
+$0.15
+Advanced Options: (The cost of the options below is not included in the ‘Total Price’. The final charge will be determined and paid after review.)
+Depanel boards & edge rail before delivery:
+$3.31
+Assembly remark:
+Quote after review
+Build Time: 
+PCB:
+3 days
+$0.00
+Assembly:
+ 5 - 6 days
+$0.00
+ 4 - 5 days
+$49.63
+ 3 - 4 days
+$99.25
+Add 1 more day (extended by advanced options)
+Total Price:
+$399.86
+Cost of some advanced options excluded 
+Weight 
+2.90kg
+Product Description 
+Remark
+SAVE TO CART
+
+By placing your order, you agree to the Terms and Conditions of JLCPCB assembly Service. .
+
+Online Chat >
+Chat with our live agent for fast reply.
+Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8
+Email Us >
+Contact us at supportjlcpcb.com
+Typically reply within hours.
+Help Center >
+Get instant answers.
+24/7 Available.
+PCB Service
+FR-4 PCBs
+Flexible PCBs
+Metal Core PCBs
+High-Frequency PCBs
+PCBA Service
+PCB Layout
+SMT Stencil
+Flex Heater
+Support
+Help Center
+Contact Us
+Community
+Shipping Guide
+Payment Methods
+How to Order
+How to Track
+After-Sales Service
+Blog
+Company
+About Us
+Quality Assurance
+How We Work
+Certifications
+Security
+Environment
+JLCAPI
+News
+Cooperation
+Electronics
+EasyEDA
+JLCPCB
+JLCDFM
+LCSC
+OSHWLAB
+Mechanical
+JLC3DP
+JLCCNC
+JLCMC
+Order on JLCONE Desktop, Save $1–$20 Every Time
+Windows
+MAC
+Android
+IOS
+CONNECT WITH US
+© 2026 JLCPCB.COM All Rights Reserved.
+Privacy Policy
+Terms & Conditions
+Cookies Policy
+Do Not Sell or Share My Personal Information
+Sensor\Controller\Precision Instrument
+Office Appliance and Accessories
+Audio and Video Appliance
+Smart Product and Accessories
+Reserch\Education\DIY\Entertainment
+Household Appliance
+Others
+musical instruments
+PC(Personal Computer) - HS Code 847330
+Keyboard - HS Code 847330
+SSD(Solid State Disk) - HS Code 847330
+Gateway - HS Code 851779
+Reader - HS Code 847330
+Versatile Signal Generator - HS Code 854390
+Router - HS Code 851779
+Printer - HS Code 844399
+Network Switch - HS Code 851779
+Calculator - HS Code 847321
+Scale - HS Code 842390
+Alarm - HS Code 853190
+Lock - HS Code 830160
+Doorbell - HS Code 851779
+Drink Dispenser - HS Code 847690
+LCD Board - HS Code 853190
+LED Board - HS Code 853190
+Others

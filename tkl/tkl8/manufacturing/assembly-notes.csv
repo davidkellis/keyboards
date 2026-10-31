@@ -1,0 +1,37 @@
+Designator,Assembly,Specification,Notes,Source
+U1,SMT,nRF52840; configuration 7; 1.8 V VDD,,https://www.lcsc.com/product-detail/C1851953.html
+U2,SMT,4.2 V 1S charger and power path,,https://www.lcsc.com/product-detail/C140288.html
+U3,SMT,USB ESD protection,,https://www.lcsc.com/product-detail/C7519.html
+Q1,SMT,N-channel MOSFET; Rds(on) specified at Vgs=1.8 V,,https://www.lcsc.com/product-detail/C332302.html
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86",SMT,Schottky; Vf <= 0.25 V at 0.1 mA,"JSCJ exact manufacturer replacement; Vf <= 0.25 V at 0.1 mA, cathode bar to pad 1/ROW. SOD-123 maximum height 1.25 mm fits existing 1.35 mm envelope. Do not substitute silicon diodes at 1.8 V. See COST_REDUCTION.md.",https://jlcpcb.com/partdetail/55127-BAT46W/C54110
+"LED1,LED2,LED3,LED4,LED5,LED6",SMT,White top-emitting LED; 130 degrees; same 1k resistors,"Top side, cathode pad 1 on BL. Six emitters between switch bodies.",https://jlcpcb.com/partdetail/LiteOn-LTWC191TS5/C125123
+"J1,J5",THT-bottom,2-position connector,Insert body from bottom; J1 pin 1 battery positive; J5 pin 1 TS.,https://www.lcsc.com/product-detail/C131337.html
+J3,SMT,USB2 receptacle,"Body bottom, mouth faces rear edge; solder mechanical tabs.",https://www.lcsc.com/product-detail/C2894897.html
+J4,SMT,50 ohm coaxial receptacle,,https://www.lcsc.com/product-detail/C88373.html
+SW87,SMT,300 mA slide switch,Rear-facing actuator; routes load power only.,https://www.lcsc.com/product-detail/C221841.html
+X1,SMT,32 MHz; CL 8 pF; C0 <=3 pF; ESR <=80 ohm; +/-10 ppm initial +/-20 ppm temperature,"Pins 1/3 oscillator, 2/4 GND. BLE packets <=200 bytes for 40 ppm crystal budget; validate frequency on prototype.",https://www.lcsc.com/product-detail/C718072.html
+X2,SMT,32.768 kHz; CL 9 pF; +/-20 ppm; ESR <=50 kohm,,https://www.lcsc.com/product-detail/C2848222.html
+"C1,C2,C17,C18",SMT,12 pF +/-2%; C0G; 50 V,,https://www.lcsc.com/product-detail/C161527.html
+C3,SMT,1.0 pF +/-0.05 pF; C0G; 50 V,,https://www.lcsc.com/product-detail/C72134.html
+C4,SMT,1.2 pF +/-0.05 pF; C0G; 50 V,,https://www.lcsc.com/product-detail/C76899.html
+"C5,C7,C8,C12",SMT,100 nF +/-10%; X7R; 16 V,,https://www.lcsc.com/product-detail/C1525.html
+"C6,C19,C20,C21,C23,C24",SMT,4.7 uF +/-10%; X7R; 10 V,,https://www.lcsc.com/product-detail/C913474.html
+C9,SMT,820 pF +/-5%; C0G; 50 V,Retained for compatibility with pre-Fxx nRF silicon.,https://www.lcsc.com/product-detail/C85943.html
+C11,SMT,100 pF +/-5%; C0G; 50 V,,https://www.lcsc.com/product-detail/C77177.html
+"C14,C15,C22",SMT,1 uF +/-10%; X7R; 16 V,"Replaces out-of-stock C597252; 1.60 x 0.80 mm, maximum body height 0.95 mm within existing 1.0 mm fit envelope. Retain all three placements.",https://jlcpcb.com/partdetail/Walsin_TechCorp-0603B105K160CT/C108463
+C16,SMT,47 nF +/-10%; X7R; 50 V,,https://www.lcsc.com/product-detail/C117757.html
+C25,SMT,100 nF +/-10%; X7R; 50 V,,https://www.lcsc.com/product-detail/C1591.html
+L1,SMT,4.7 nH +/-2%; wirewound RF; SRF 8 GHz min,,https://www.lcsc.com/product-detail/C412337.html
+"L2,L4",SMT,10 uH +/-20%; rated 100 mA; DCR <=1.365 ohm,Do not substitute a low-current RF 10 uH inductor; Nordic requires >=80 mA.,https://www.lcsc.com/product-detail/C713281.html
+L3,SMT,15 nH +/-5%; DC/DC filter,,https://www.lcsc.com/product-detail/C97979.html
+L5,SMT,2.2 nH +/-2%; wirewound RF; SRF 15.5 GHz min,,https://www.lcsc.com/product-detail/C412264.html
+"R1,R2,R3,R4,R5,R6",SMT,1 kohm +/-1%; 0.1 W,,https://www.lcsc.com/product-detail/C21190.html
+R9,SMT,100 kohm +/-1%; 0.1 W,,https://www.lcsc.com/product-detail/C25803.html
+R11,SMT,2 kohm +/-1%; 0.1 W; charge current ~445 mA,,https://www.lcsc.com/product-detail/C22975.html
+R12,SMT,3.48 kohm +/-1%; 0.1 W; ILIM backup setting,,https://www.lcsc.com/product-detail/C22996.html
+"R13,R14",SMT,5.1 kohm +/-1%; 0.1 W; USB-C Rd,,https://www.lcsc.com/product-detail/C23186.html
+"C10,C13",DNP,Nordic optional capacitors,Do not fit.,
+R10,DNP,10 kohm bench TS bypass,Do not fit; J5 must connect to battery-mounted 10k NTC.,
+J2,PCB-only,Bare SWD contact pattern,No header fitted. External programming cable required.,
+"FID1,FID2,FID3,FID4,FID5,FID6",PCB-only,Optical target,,
+"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16,SW17,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29,SW30,SW31,SW32,SW33,SW34,SW35,SW36,SW37,SW38,SW39,SW40,SW41,SW42,SW43,SW44,SW45,SW46,SW47,SW48,SW49,SW50,SW51,SW52,SW53,SW54,SW55,SW56,SW57,SW58,SW59,SW60,SW61,SW62,SW63,SW64,SW65,SW66,SW67,SW68,SW69,SW70,SW71,SW72,SW73,SW74,SW75,SW76,SW77,SW78,SW79,SW80,SW81,SW82,SW83,SW84,SW85,SW86",User-fit,Choc V2 switches; variant selected by user,Top side. Not in JLC BOM/CPL; arrange consignment explicitly if JLC is to fit these too.,

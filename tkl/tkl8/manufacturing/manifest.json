@@ -1,0 +1,28 @@
+{
+  "kicad_version": "10.0.6",
+  "revision": "v8.2",
+  "status": "Experimental prototype: hold production for stabilizer, keycap and battery fit validation",
+  "fitted_components": 142,
+  "smt_components": 140,
+  "tht_components": 2,
+  "validation": {
+    "numbered_pads": 578,
+    "unique_keys": 86,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "source_sha256": {
+    "kicad/keyboard.kicad_pcb": "c7ca703a1b9145b7d35de7b47038aee0fe468aff6631d53254d694c4b68767c4",
+    "kicad/keyboard.kicad_pro": "46ab07a2d339fe7757298210fb1c63918157af7a5c47b2d558cb2134652060fd",
+    "kicad/keyboard.kicad_dru": "f1db33804fad10f6b32ef5606865c392aa144ea59487fc3010d32d1cc9796511",
+    "kicad/keyboard.kicad_sch": "02c0e439d69428cc56d5af3441b40350dcac7bdefdc5f8e80390f9718a80f6df",
+    "kicad/matrix.kicad_sch": "538e068dfdf6e416ac3ed711f8feedf8435a3591416ea9f6ec2238372376bfa9",
+    "kicad/power.kicad_sch": "4c58539ac5d179f8334e6e779e225dea7cced283d9d2182c9a965a5caed1cb16",
+    "manufacturing/parts.json": "6d720bfc817967fb6cdfa4010a88aa88ce86845601440ec844a2074e4ffda6e2"
+  }
+}

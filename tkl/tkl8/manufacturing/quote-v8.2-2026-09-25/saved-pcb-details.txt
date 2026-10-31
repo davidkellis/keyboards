@@ -1,0 +1,137 @@
+Product Detail
+
+Gerber file:
+tkl-v8.2-gerbers_Y6
+
+Build Time:
+3 days (PCBA Only)
+
+Base Material:
+FR-4
+
+Layers:
+4
+
+Dimension:
+350.76 mm* 139.19 mm
+
+PCB Qty:
+5
+
+Product Type:
+Industrial/Consumer electronics
+
+Different Design:
+1
+
+Delivery Format:
+Single PCB
+
+PCB Thickness:
+1.6mm
+
+Specify Stackup:
+yes
+JLC04161H-7628
+
+Impedance Control:
+No requirement
+
+Layer Sequence:
+
+PCB Color:
+Green
+
+Silkscreen:
+White
+
+Material Type:
+FR4 TG135
+
+Via Covering:
+Epoxy Filled & Capped
+
+Surface Finish:
+ENIG
+Gold Thickness: 1 U"
+
+Deburring/Edge rounding:
+No
+
+Outer Copper Weight:
+1 oz
+
+Inner Copper Weight:
+0.5 oz
+
+Gold Fingers:
+No
+
+Remark:
+V8.2: 0.30/0.45mm and 0.3048/0.6096mm vias. Epoxy fill/planarize/copper cap all vias; no component holes filled. JLC04161H-7628. Ordinary flying-probe test. Manual file approval.
+
+Electrical Test:
+Flying Probe Fully Test
+
+Castellated Holes:
+no
+
+Press-Fit Hole:
+No
+
+Edge Plating:
+No
+
+Mark on PCB:
+Remove Mark
+
+Blind Slot:
+No
+
+Min via hole size/diameter:
+0.3mm/(0.4/0.45mm)
+
+Via Plating Method:
+Horizontal Electroless Copper Plating
+
+4-Wire Kelvin Test:
+No
+
+Paper between PCBs:
+No
+
+Appearance Quality:
+IPC Class 2 Standard
+
+Confirm Production file:
+Yes 
+
+Silkscreen Technology:
+Ink-jet Printing Silkscreen
+
+Package Box:
+With JLCPCB logo
+
+Inspection Report:
+No
+
+Board Outline Tolerance:
+±0.2mm(Regular)
+
+Impedance Test Report:
+No
+
+UL Marking:
+No
+
+Countersink Hole:
+No
+
+Backdrill:
+No
+
+Shortage Preference:
+Require Full Quantity
+
+Gross Weight:
+0.93kg

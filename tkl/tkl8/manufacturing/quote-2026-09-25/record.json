@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-25",
+  "status": "saved_cart_not_ordered",
+  "pcb_reference": "Y3-5054573A",
+  "pcba_reference": "SMT026092562919-5054573A",
+  "quantity_pcb": 5,
+  "quantity_pcba": 5,
+  "currency": "USD",
+  "pcb_subtotal": 151.75,
+  "pcba_subtotal": 248.11,
+  "displayed_total": 399.86,
+  "depaneled_rails_excluded_charge": 3.31,
+  "total_with_displayed_depanel_charge": 403.17,
+  "shipping_and_tax_included": false,
+  "assembly_remark_additional_charge": "determined after review",
+  "bom_groups_selected": 31,
+  "placements_per_board": 142,
+  "top_placements": 6,
+  "bottom_placements": 136,
+  "uploaded_file_sha256": {
+    "tkl-v8.1-gerbers.zip": "d48d6077c13ffb06bb7030c7971dda97ab8da16e8cc79504c0b0c9b95498deae",
+    "jlcpcb-bom.csv": "aaae2df8011cca032e3269bb999c37eee7e541075ed342820b6a6c2980c2371a",
+    "jlcpcb-cpl.csv": "5bece1b351431fe21772b06beca99f6809d3885f41ee7e7bb1b2da671016fbf8",
+    "assembly-top.pdf": "9efc6f9b76decd95feb36e15a6c2e688550c53305d88bd68ab7970d4f9985d6c",
+    "assembly-bottom.pdf": "66ac887bf1663a20dffbbd65ec96255a812f6da1eac73ea98f5c688e1fa5027b"
+  },
+  "shipping_estimate": 45.37,
+  "cart_subtotal_with_estimated_shipping": 445.23,
+  "total_with_estimated_shipping_and_depaneling": 448.54
+}

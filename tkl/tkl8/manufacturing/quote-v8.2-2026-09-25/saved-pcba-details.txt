@@ -1,0 +1,30 @@
+Product Detail
+PCBA Parameters
+Bill of Material
+Part Placement
+PCBA Type	Standard
+Assembly Side	Both Sides
+PCBA Qty	5
+Edge Rails/Fiducials	Added by JLCPCB
+Confirm Parts Placement	Yes
+Bake Components	No
+Photo Confirmation	No
+Board Cleaning	No
+Conformal Coating (cleaning included)	No
+Special stencil	No
+Packaging	Antistatic bubble film
+Depanel boards & edge rail before delivery	Yes
+Solder Paste	High temp.
+Flying Probe Test	No
+Nitrogen reflow soldering	No
+Function test	No
+Assembly remark	Yes
+Remark: TKL v8.2: 6 LEDs on TOP; 134 SMT parts on BOTTOM. J1/J5 THT bodies on BOTTOM. D1-D86 JSCJ BAT46W C54110, cathode pad 1. Check U1/U2 pin 1, diode/LED polarity and USB/switch direction against drawings. X-ray U1/U2 joints. Remove edge rails. Switches, battery, antenna and firmware excluded. Quote only; manual production confirmation required.
+
+File provided as	Complete File, just proceed with my own files
+Panel Format	1 * 1
+Build Time	5 - 6 days(add 1 day)
+Stencil Storage	No
+Fixture Storage	No
+Gross Weight	0.05 kg
+Product Description	Office Appliance and Accessories/Keyboard - HS Code 847330

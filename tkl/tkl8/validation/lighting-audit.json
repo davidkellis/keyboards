@@ -1,0 +1,34 @@
+{
+  "source_sha256": "7d32796656e05ba8bc9ae91830acc0c2a8064811787230b194bd3c491d7d972a",
+  "top_led_count": 6,
+  "led_slots": 0,
+  "non_lighting_tracks_unchanged": true,
+  "led_switch_clearances": [
+    {
+      "led": "LED1",
+      "courtyard_to_switch_body_mm": 5.607499999999959
+    },
+    {
+      "led": "LED2",
+      "courtyard_to_switch_body_mm": 11.839818938649364
+    },
+    {
+      "led": "LED3",
+      "courtyard_to_switch_body_mm": 0.5150000000000006
+    },
+    {
+      "led": "LED4",
+      "courtyard_to_switch_body_mm": 0.5150000000000148
+    },
+    {
+      "led": "LED5",
+      "courtyard_to_switch_body_mm": 0.5174999999999984
+    },
+    {
+      "led": "LED6",
+      "courtyard_to_switch_body_mm": 0.5175000000000125
+    }
+  ],
+  "light_uniformity": "not physically measured",
+  "applies_to": "Original v8 lighting conversion at source_sha256; v8.1 and v8.2 preserve LED locations, mechanical geometry and polarity, with other routing changes recorded in fabrication-cost-audit.json"
+}

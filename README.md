@@ -14,6 +14,7 @@ Each major version has one commit; decimal variants stay with their major versio
 | [v5](tkl/tkl5/) | PCB and case refinement |
 | [v6](tkl/tkl6/) | Controller-module board and case |
 | [v7](tkl/tkl7/README.md) | Integrated nRF52840 design and v7.x alternatives |
+| [v8](tkl/tkl8/README.md) | Top-mounted LED design |
 
 v7 alternatives: [v7.3](tkl/tkl7.3/README.md), [v7.4](tkl/tkl7.4/README.md),
 and [v7.5](tkl/tkl7.5/README.md).

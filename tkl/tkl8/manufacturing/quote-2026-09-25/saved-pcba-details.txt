@@ -1,0 +1,195 @@
+Product DetailPCBA Parameters Bill of Material Part Placement PCBA TypeStandardAssembly Side
+      Both Sides
+    PCBA Qty5Edge Rails/Fiducials
+      Added by JLCPCB
+    Confirm Parts PlacementYesBake Components
+        No
+        Photo Confirmation
+        No
+        Board Cleaning
+        No
+        Conformal Coating (cleaning included)
+        No
+        Special stencil
+        No
+        Packaging
+        Antistatic bubble film
+        Depanel boards & edge rail before delivery
+        Yes
+        Solder Paste
+        High temp.
+        Flying Probe Test
+        No
+        Nitrogen reflow soldering
+        No
+        Function test
+        No
+        Assembly remark
+        Yes
+        
+          Remark: TKL v8.1: 6 LEDs on TOP; 134 SMT parts and J1/J5 THT connectors on BOTTOM. Insert J1/J5 from bottom. Check U1/U2 pin 1, diode/LED polarity and USB/power-switch orientation against attached drawings. X-ray U1/U2 exposed-pad joints. Remove added edge rails before delivery. Switches, battery, antenna and firmware excluded. Quote/prototype only; production requires explicit confirmation after fit review.
+        File provided asComplete File, just proceed with my own filesPanel Format1 * 1Build Time5 - 6 days(add 1 day)Stencil Storage
+      No
+    Fixture Storage
+      No
+    Gross Weight
+      0.05 kg
+    Product Description
+      Office Appliance and Accessories/Keyboard - HS Code 847330
+      
+        Selected Parts(31 items)
+       Only those selected parts will be assembled on your boards. Download Selected Parts List  
+            Part Detail
+           
+            Selected by
+           
+            Top Designator
+           
+            Bottom Designator
+           
+            Qty
+           Source Ext. Price    
+                    PCM12SMTR
+                   Extended C221841 System 
+                
+               
+                
+                
+                SW87
+               
+                SW87
+                5 JLCPCB 
+                  $8.2255
+                     
+                    USBLC6-2SC6
+                   Extended C7519 System 
+                
+               
+                
+                
+                U3
+               
+                U3
+                7 JLCPCB 
+                  $1.2313
+                     
+                    0603WAF1003T5E
+                   Basic C25803 System 
+                
+               
+                
+                
+                R9
+               
+                R9
+                20 JLCPCB 
+                  $0.0620
+                     Qty. Unit Price     
+                    BAT46W-7-F
+                   Extended C83152 System 
+                
+               
+                
+                
+                D1,D2,D3,D4,D5,...
+               
+                D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86
+                435 JLCPCB 
+                  $39.6720
+                     
+                    B2B-PH-K-S(LF)(SN)
+                   Extended C131337 System 
+                
+               
+                
+                
+                J1,J5
+               
+                J1,J5
+                11 JLCPCB 
+                  $0.3883
+                     
+                    GRM1555C1H120GA01D
+                   Extended C161527 System 
+                
+               
+                
+                
+                C1,C2,C17,C18
+               
+                C1,C2,C17,C18
+                30 JLCPCB 
+                  $0.4500
+                     
+                    LTW-C191TS5
+                   Extended C125123 System 
+                LED1,LED2,LED3,...
+               
+                LED1,LED2,LED3,LED4,LED5,LED6
+                
+                
+               
+                
+                34 JLCPCB 
+                  $0.9996
+                     
+                    GRM1555C1H101JA01D
+                   Extended C77177 System 
+                
+               
+                
+                
+                C11
+               
+                C11
+                20 JLCPCB 
+                  $0.2160
+                     Qty. Unit Price     
+                    U.FL-R-SMT-1(10)
+                   Extended C88373 System 
+                
+               
+                
+                
+                J4
+               
+                J4
+                5 JLCPCB 
+                  $1.1085
+                     
+                    GRM188Z71A475KE15D
+                   Extended C913474 System 
+                
+               
+                
+                
+                C6,C19,C20,C21,...
+               
+                C6,C19,C20,C21,C23,C24
+                35 JLCPCB 
+                  $2.3765
+                     
+                    LQW15AN4N7G80D
+                   Extended C412337 System 
+                
+               
+                
+                
+                L1
+               
+                L1
+                9 JLCPCB 
+                  $0.6363
+                     
+                    GJM1555C1H1R2WB01D
+                   Extended C76899 System 
+                
+               
+                
+                
+                C4
+               
+                C4
+                20 JLCPCB 
+                  $0.6140
+                     Qty. Unit Price   Show All  Unselected Parts  Designator Comment Footprint Reason Qty   No data  Top  Bottom 
