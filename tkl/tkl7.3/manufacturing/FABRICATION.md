@@ -1,0 +1,153 @@
+# TKL v7.3 fabrication and assembly instructions
+
+**MECHANICAL HOLD:** the user confirmed that both the Durock V3 and TX AP
+stabilizers are plate mount. Their mounting features, clip fit and clearance/
+travel with Choc V2 and the actual keycaps remain unverified. The current PCB
+has no stabilizer attachment or housing relief cutouts. Quote only; resolve
+physical fit and the battery dimensions before production.
+
+Prototype revision, 2026-09-25. Use these notes with `tkl-v7.3-gerbers.zip`,
+`jlcpcb-bom.csv`, `jlcpcb-cpl.csv` and the two assembly PDFs. This package has
+passed digital design checks; factory preview and physical tests are pending.
+
+## PCB construction
+
+| Setting | Requirement |
+| --- | --- |
+| Outline | 350.76 × 129.19 mm; route actual Edge.Cuts contour |
+| Layers | 6: F.Cu / In1.Cu / In2.Cu / In3.Cu / In4.Cu / B.Cu |
+| Thickness | Nominal 1.6 mm option; JLC states 1.5544 mm actual, ±10%, for this stack |
+| Finish | OSP, lead-free; no ENIG or HASL substitution |
+| Solder | Lead-free solder paste and lead-free THT solder; standard high-temperature reflow |
+| Stackup | JLC06161H-7628; specify this construction, not the default 3313 stack |
+| Copper | Nominal 1 oz outer / 0.5 oz inner |
+| Smallest routed width/clearance | 0.127 mm / 0.127 mm |
+| Copper to edge | 0.5 mm perimeter; 0.2 mm at reverse-LED NPTH slots |
+| Smallest through via | 0.45 mm diameter / 0.30 mm finished drill |
+| Via treatment | Resin filled, planarized and copper capped for all via-in-pad locations; quote all vias filled/capped if selective treatment is unavailable |
+| Holes | Separate PTH and NPTH Excellon; NPTH includes six 2.1 × 2.8 mm LED slots |
+| Assembly | Standard PCBA; 140 bottom SMT placements + 2 bottom-inserted THT connectors |
+| Fiducials | FID1, FID2, FID3; 1 mm copper targets, no fitted parts |
+
+The inherited v7.2 via geometry uses **0.30 mm holes** while retaining
+0.45 mm copper lands. The 0.075 mm nominal annular ring meets JLC's published
+preferred POFV ring. Larger original 0.3048/0.6096 mm vias are retained.
+Select the **0.3 mm/(0.4/0.45 mm)** option, FR4 TG135 and ordinary flying-probe
+continuity testing; no optional four-wire Kelvin test. Retain epoxy fill/cap,
+OSP, and the specified stack. Local switch-hole routing and ground pours now
+have at least 0.20 mm hole clearance. Trace clearance remains 0.127 mm.
+See [COST_REDUCTION.md](COST_REDUCTION.md) for the rule source and pricing.
+
+The construction is JLC06161H-7628, nominal 1.6 mm. Copper is 0.035 mm on
+the outer layers and 0.0152 mm on each of the four inner layers. Dielectrics
+from top to bottom are 0.2104 mm 7628 prepreg / 0.4 mm core / 0.2028 mm 7628
+prepreg / 0.4 mm core / 0.2104 mm 7628 prepreg. These are the manufacturer's
+published nominal constituents, not a custom stack; confirm finished thickness
+and the actual stack before release. See [STACKUP.md](STACKUP.md).
+
+In1 is the original GND layer. In2 and In3 are new GND planes. In4 carries the
+original In2 signal routing and GND zones. The outer signal layers, all original
+tracks/vias, and 0.2104 mm outer-to-adjacent-layer spacing are preserved.
+The Nordic RF copper exclusion is present on **all four internal layers**.
+
+The USB pair is nominally 0.25 mm wide with 0.15 mm gap over In1 ground, with
+local connector/MCU breakouts. Request review for a **90 ohm differential**
+target. An impedance field solver and physical USB signal-integrity test have
+not been run. The radio follows Nordic's reference geometry; its RF impedance
+and matching also require verification on the selected stack and antenna.
+
+Filled and capped vias are necessary beneath the nRF package and charger
+thermal land. Tenting or ordinary mask plugging does not prevent solder loss
+into these holes. Preserve the drawn RF keepouts and the LED NPTH slots.
+Do not change trace geometry or substitute a two-layer stack.
+
+OSP is an organic solderability coating, not a metallic contact finish. Keep
+boards dry and sealed until use; solder programming leads and the user-installed
+switches promptly after opening, within the supplier's assembly/storage limits.
+The retained physical-fit checks must be completed before ordering, so boards
+are not stored while the plate/stabilizer design is still being worked out.
+Do not treat OSP as a recurring connector contact or select leaded solder.
+
+All Gerber, drill and placement coordinates use the same origin: the lower
+left of the outline, KiCad X=27.03 mm, Y=149.19 mm. Placement coordinates are
+millimetres, X right and Y up as viewed from the top. Bottom coordinates are
+**not X-mirrored**. The bottom assembly PDF is mirrored for direct underside
+inspection. `positions-kicad.csv` is the unmodified native export;
+`pad-coordinates.csv` records pad locations/nets for polarity review.
+
+## Assembly details
+
+Use JLC's service capable of this board size, the required via treatment,
+underside SMT and THT. All ordered components have exact MPNs and LCSC/JLC
+identifiers in the BOM. Availability, handling charges and sourcing eligibility
+must be checked in the quote; no inventory was reserved.
+
+- **U1:** Nordic NRF52840-QIAA-R / C190794 aQFN, not a QFN48 substitute. Use the exact
+  pad map and orientation in the drawing. X-ray the package and thermal pads.
+- **U2:** BQ24072RGTR, 3 × 3 mm VQFN, with its exposed ground pad soldered.
+  The four thermal vias in that land must be filled and capped.
+- **D1–D86:** JSCJ BAT46W / C54110 SOD-123. Pad 1 is cathode, connected to ROW.
+  Do not substitute a 1N4148-class silicon diode without rechecking 1.8 V
+  input-low voltage margin.
+- **LED1–LED6:** LTW-C230DS reverse-mount LEDs. Install on the bottom,
+  emitting through the oval holes toward the keys. Pad 1 is cathode on BL.
+  Quote the support fixture required for reverse-mount placement.
+- **J1 and J5:** genuine JST B2B-PH-K-S(LF)(SN), inserted from the bottom.
+  J1 pin 1 is VBAT positive; J1 pin 2 is GND. J5 is the external NTC connector:
+  pin 1 TS and pin 2 GND. Check mating cable polarity; JST housing style alone
+  does not specify battery lead polarity.
+- **J3 and SW87:** body on bottom, connector mouth/actuator toward the rear
+  edge. Solder the USB mechanical tabs as well as electrical pads.
+- **C10, C13 and R10:** DNP. Do not populate R10 as a substitute for the
+  battery temperature sensor in an assembled keyboard.
+- **C14/C15/C22:** Walsin 0603B105K160CT / C108463, 1 uF +/-10%, X7R,
+  16 V, 0603; replaces unavailable C597252. Keep all three placements.
+- **J2:** 0.7874 mm solder-wire programming pads, no fitted connector and no
+  solder paste. Retains TC2030 geometry only for mechanical compatibility.
+  **Do not rely on unsoldered OSP pads as pogo mating contacts.** Solder temporary
+  1.8 V SWD wires to pads 1–5 after receipt; leave pad 6 open. Remove the wires
+  before closing the case. Pad 1 is target-voltage sense, never a 3.3 V supply.
+- **FID1–FID3:** optical features, no fitted parts.
+- **SW1–SW86:** top-side Kailh Choc V2 soldered switches. They are excluded
+  from the JLC BOM/CPL because the switch variant is not selected. They may be
+  installed later or explicitly consigned and added to the assembly order.
+
+The CPL uses KiCad rotations. Supplier component-library rotations can differ,
+especially for the imported Nordic footprint and bottom parts. **Check the
+JLC placement preview against pin 1/polarity in the assembly PDFs and pad CSV**;
+this preview has not been performed. Do not infer orientation from MPN text.
+
+RF passives, crystals and DC/DC inductors require the listed electrical
+specifications. A generic 10 uH part with a few-mA rating is unsuitable for
+L2/L4; the selected parts are rated 100 mA. Crystal load capacitance and RF
+capacitor tolerance must be preserved. `parts.json` records these constraints.
+
+## Electrical operating conditions
+
+Battery: protected 1S Li-ion/LiPo, 3.7 V nominal, 4.2 V maximum. The target
+capacity is 10 Ah. No battery, antenna, thermistor lead, key switches, keycaps,
+case or programming cable is included in the PCBA BOM. Attach a Semitec
+103AT-2 or electrically compatible 10 kohm NTC to the cell and connect J5.
+
+The BQ24072 charge setting is approximately 445 mA (R11=2 kohm), with a fixed
+500 mA USB input limit. TMR is grounded to disable the charge timers for a
+large pack. TD is grounded to retain charge termination. TS monitoring remains
+active. The battery pack must provide its own protection circuit. Verify the
+exact pack's permitted charge current, temperature limits and NTC curve.
+
+USB power is assumed to come from a known 5 V source permitting at least
+500 mA. There is no USB enumeration/suspend current negotiation or BC/PD
+charger detection. Consequently this revision is **not a claim of strict
+USB 2.0 bus-current compliance**. Additional charger control would be needed
+for that requirement. USB data, radio performance and charge temperatures
+must be measured on the prototype.
+
+## Supplier references
+
+- [JLCPCB stackups](https://jlcpcb.com/impedance)
+- [JLCPCB via treatment](https://jlcpcb.com/help/article/pcb-via-covering)
+- [Nordic reference layout](https://nsscprodmedia.blob.core.windows.net/prod/software-and-other-downloads/reference-layouts/nrf52840/nrf52840-qiaa-reference-layout-1_3.zip)
+- [TI BQ24072 datasheet](https://www.ti.com/lit/ds/symlink/bq24072.pdf)
+- [JSCJ BAT46W specification](https://jlcpcb.com/partdetail/55127-BAT46W/C54110)
+- [Lite-On LED manufacturer drawing](https://docs.rs-online.com/6872/0900766b80e28fac.pdf)
+- [JLC LTW-C230DS assembly listing](https://jlcpcb.com/partdetail/liteon-LTWC230DS/C575513)

@@ -1,0 +1,32 @@
+{
+  "revision": "v7.3",
+  "parent_revision": "v7.2",
+  "parent_commit": "4cb332e",
+  "source_sha256": "b3647f725c0fe309c719ec4b547932c54e0f027c7a9b3da7c1b052ce1baa0e3b",
+  "preserved_old_files": 845,
+  "old_revisions_unchanged": true,
+  "layer_count": 6,
+  "stackup": "JLC06161H-7628",
+  "finish": "OSP",
+  "nominal_thickness_mm": 1.6,
+  "original_track_and_via_items": 4049,
+  "original_copper_and_vias_preserved": true,
+  "layer_remap": {
+    "In2.Cu": "In4.Cu"
+  },
+  "new_layers": [
+    "In2.Cu GND",
+    "In3.Cu GND"
+  ],
+  "new_zone_count": 6,
+  "rf_keepout_on_all_four_inner_layers": true,
+  "outer_reference_spacing_mm": 0.2104,
+  "via_count": 273,
+  "mechanical_geometry_identical": true,
+  "identical_mechanical_assets": 51,
+  "fitted_components": 142,
+  "bom_groups": 31,
+  "u1_candidate": "NRF52840-QIAA-R / C190794",
+  "j2_programming": "Solder temporary 1.8 V SWD leads; no bare-OSP pogo contact",
+  "impedance_note": "Outer signal/reference spacing and existing copper preserved; no field-solver or physical RF/USB qualification claimed."
+}

@@ -1,0 +1,336 @@
+{
+  "groups": [
+    {
+      "label": "Base Material",
+      "selected": [
+        "FR-4"
+      ]
+    },
+    {
+      "label": "Layers",
+      "selected": [
+        "4"
+      ]
+    },
+    {
+      "label": "Dimensions",
+      "selected": []
+    },
+    {
+      "label": "PCB Qty",
+      "selected": [
+        "5"
+      ]
+    },
+    {
+      "label": "Product Type",
+      "selected": [
+        "Industrial/Consumer electronics"
+      ]
+    },
+    {
+      "label": "Different Design",
+      "selected": [
+        "1"
+      ]
+    },
+    {
+      "label": "Delivery Format",
+      "selected": [
+        "Single PCB"
+      ]
+    },
+    {
+      "label": "PCB Thickness",
+      "selected": [
+        "1.6mm"
+      ]
+    },
+    {
+      "label": "PCB Color",
+      "selected": [
+        "Green"
+      ]
+    },
+    {
+      "label": "Silkscreen",
+      "selected": [
+        "White"
+      ]
+    },
+    {
+      "label": "Material Type",
+      "selected": [
+        "FR4 TG135"
+      ]
+    },
+    {
+      "label": "Surface Finish",
+      "selected": [
+        "OSP\nNew"
+      ]
+    },
+    {
+      "label": "Outer Copper Weight",
+      "selected": [
+        "1 oz"
+      ]
+    },
+    {
+      "label": "Inner Copper Weight",
+      "selected": [
+        "0.5 oz"
+      ]
+    },
+    {
+      "label": "Specify Layer Sequence",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Specify Stackup",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Layer Stackup",
+      "selected": [
+        "JLC04161H-7628"
+      ]
+    },
+    {
+      "label": "Impedance Control",
+      "selected": [
+        "No requirement"
+      ]
+    },
+    {
+      "label": "Via Covering",
+      "selected": [
+        "Epoxy Filled & Capped"
+      ]
+    },
+    {
+      "label": "Via Plating Method",
+      "selected": [
+        "Horizontal Electroless Copper Plating"
+      ]
+    },
+    {
+      "label": "Min via hole size/diameter",
+      "selected": [
+        "0.3mm/(0.4/0.45mm)"
+      ]
+    },
+    {
+      "label": "Board Outline Tolerance",
+      "selected": [
+        "±0.2mm(Regular)"
+      ]
+    },
+    {
+      "label": "Confirm Production file",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Mark on PCB",
+      "selected": [
+        "Remove Mark"
+      ]
+    },
+    {
+      "label": "Electrical Test",
+      "selected": [
+        "Flying Probe Fully Test"
+      ]
+    },
+    {
+      "label": "Gold Fingers",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Castellated Holes",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Press-Fit Hole",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Edge Plating",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Blind Slots",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "UL Marking",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Backdrill",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Humidity Indicator Card",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "4-Wire Kelvin Test",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Paper between PCBs",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Appearance Quality",
+      "selected": [
+        "IPC Class 2 Standard"
+      ]
+    },
+    {
+      "label": "Silkscreen Technology",
+      "selected": [
+        "Ink-jet Printing Silkscreen"
+      ]
+    },
+    {
+      "label": "Package Box",
+      "selected": [
+        "With JLCPCB logo"
+      ]
+    },
+    {
+      "label": "Inspection Report",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "PCBA Type",
+      "selected": [
+        "Standard"
+      ]
+    },
+    {
+      "label": "Assembly Side",
+      "selected": [
+        "Bottom Side"
+      ]
+    },
+    {
+      "label": "PCBA Qty",
+      "selected": [
+        "5"
+      ]
+    },
+    {
+      "label": "Edge Rails/Fiducials",
+      "selected": []
+    },
+    {
+      "label": "Confirm Parts Placement",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Stencil Storage",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Fixture Storage",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Parts Selection",
+      "selected": [
+        "By Customer (Self-Service)"
+      ]
+    }
+  ],
+  "selects": [
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "Antistatic bubble film",
+      "context": ""
+    },
+    {
+      "value": "Yes",
+      "context": ""
+    },
+    {
+      "value": "High temp.",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "No",
+      "context": ""
+    },
+    {
+      "value": "Yes",
+      "context": ""
+    }
+  ],
+  "dimensions": [
+    "350.76",
+    "139.19"
+  ]
+}

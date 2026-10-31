@@ -1,0 +1,62 @@
+{
+  "front_lip_mm": 7.3,
+  "rear_lip_mm": 20.6,
+  "original_lips_mm": [
+    7.0,
+    20.2
+  ],
+  "plate_thickness_mm": 1.5,
+  "plate_top_above_pcb_mm": 2.2,
+  "cover_gap_above_plate_mm": 0.4,
+  "cover_thickness_mm": 1.2,
+  "keycaps": {
+    "target": "XVX Skyline R2 low profile",
+    "advertised_height_mm": 5.0,
+    "assumed_1u_footprint_mm": [
+      18.0,
+      17.0
+    ],
+    "assumed_socket_insertion_mm": 3.0,
+    "underside_measured": false,
+    "source": "User-supplied product screenshots, 2026-09-24"
+  },
+  "battery": {
+    "candidate": "Maximum-capacity protected 1S retail pack sought; wide rear bay is a fit envelope, no pack selected",
+    "purchased_or_approved": false,
+    "pack_max_dimensions_mm": [
+      264.0,
+      50.0,
+      5.5
+    ],
+    "reserved_dimensions_mm": [
+      270.0,
+      52.0,
+      6.3
+    ],
+    "origin_xy_case_mm": [
+      6.0,
+      78.5
+    ],
+    "padding_below_mm": 0.5,
+    "datasheet": null,
+    "requested_model": "9858102 protected 1S 10000mAh",
+    "requested_nominal_pack_dimensions_mm": [
+      104.0,
+      58.0,
+      9.8
+    ],
+    "requested_model_fits": false,
+    "requested_datasheet": "https://www.dnkpower.com/wp-content/uploads/2023/11/DNK9858102-3.7V-10000mAh-Lipo-Battery-Specification.pdf",
+    "capacity_mah": null
+  },
+  "fixed_lips_mm": [
+    7.3,
+    20.6
+  ],
+  "floor_component_clearance_mm": 0.4,
+  "minimum_floor_thickness_mm": 0.8,
+  "fixed_footprint_mm": [
+    355.56,
+    133.35221193128154
+  ]
+}

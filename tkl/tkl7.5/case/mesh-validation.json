@@ -1,0 +1,366 @@
+[
+  {
+    "file": "battery-pack-max-gauge-264x50x5.5-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      132.0,
+      50.0,
+      5.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-pack-max-gauge-264x50x5.5-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      132.0,
+      50.0,
+      5.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-pack-max-gauge-264x50x5.5.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      264.0,
+      50.0,
+      5.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-reserve-gauge-270x52x6.3-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      135.0,
+      52.0,
+      6.300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-reserve-gauge-270x52x6.3-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      135.0,
+      52.0,
+      6.300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "battery-reserve-gauge-270x52x6.3.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      270.0,
+      52.0,
+      6.300000190734863
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "case-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      177.77999877929688,
+      133.3522186279297,
+      19.27345085144043
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "case-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      177.77999877929688,
+      133.3522186279297,
+      19.27345085144043
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "case.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      355.55999755859375,
+      133.3522186279297,
+      19.27345085144043
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "cover-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      180.17999267578125,
+      134.1334991455078,
+      1.200000047683714
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "cover-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      175.3800048828125,
+      134.1334991455078,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "cover.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      355.55999755859375,
+      134.1334991455078,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "keycap-envelopes-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      179.9250030517578,
+      117.01249694824219,
+      5.0
+    ],
+    "shells": 46,
+    "solid_shells": 46,
+    "internal_voids": 0
+  },
+  {
+    "file": "keycap-envelopes-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      179.9250030517578,
+      117.01249694824219,
+      5.0
+    ],
+    "shells": 41,
+    "solid_shells": 41,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-bare.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52000427246094,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-populated-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52000427246094,
+      129.19000244140625,
+      3.299999952316284
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "pcb-populated-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52749633789062,
+      130.11500549316406,
+      11.399999618530273
+    ],
+    "shells": 3,
+    "solid_shells": 1,
+    "internal_voids": 2
+  },
+  {
+    "file": "pcb-populated.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      130.11500549316406,
+      11.399999618530273
+    ],
+    "shells": 3,
+    "solid_shells": 1,
+    "internal_voids": 2
+  },
+  {
+    "file": "pcb-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52749633789062,
+      129.19000244140625,
+      1.600000023841858
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate-flat-1.5mm.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      129.19000244140625,
+      1.5
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate-supported-left.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52000427246094,
+      129.19000244140625,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate-supported-right.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      182.52749633789062,
+      129.19000244140625,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "plate-supported.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      350.760009765625,
+      129.19000244140625,
+      2.200000047683716
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "u1-envelope.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      33.84000015258789,
+      19.0,
+      4.03000020980835
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "usb_male-envelope.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      17.0,
+      11.5,
+      4.53000020980835
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "usb_male-reported-6.6mm-gauge.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      17.0,
+      11.5,
+      6.599999904632568
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  },
+  {
+    "file": "usb_rear-envelope.stl",
+    "watertight": true,
+    "positive_volume": true,
+    "extents_mm": [
+      25.0,
+      20.0,
+      6.0
+    ],
+    "shells": 1,
+    "solid_shells": 1,
+    "internal_voids": 0
+  }
+]

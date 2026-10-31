@@ -1,0 +1,201 @@
+{
+  "groups": [
+    {
+      "label": "Base Material",
+      "selected": [
+        "FR-4"
+      ]
+    },
+    {
+      "label": "Layers",
+      "selected": [
+        "6 "
+      ]
+    },
+    {
+      "label": "Dimensions",
+      "selected": []
+    },
+    {
+      "label": "PCB Qty",
+      "selected": [
+        "\n            5\n          "
+      ]
+    },
+    {
+      "label": "Product Type",
+      "selected": [
+        "Industrial/Consumer electronics"
+      ]
+    },
+    {
+      "label": "Different Design",
+      "selected": [
+        "1"
+      ]
+    },
+    {
+      "label": "Delivery Format",
+      "selected": [
+        "Single PCB"
+      ]
+    },
+    {
+      "label": "PCB Thickness",
+      "selected": [
+        "1.6mm"
+      ]
+    },
+    {
+      "label": "PCB Color",
+      "selected": [
+        "Green"
+      ]
+    },
+    {
+      "label": "Silkscreen",
+      "selected": [
+        "White"
+      ]
+    },
+    {
+      "label": "Material Type",
+      "selected": [
+        "FR4 TG135"
+      ]
+    },
+    {
+      "label": "Surface Finish",
+      "selected": [
+        "OSP\nNew"
+      ]
+    },
+    {
+      "label": "Outer Copper Weight",
+      "selected": [
+        "1 oz"
+      ]
+    },
+    {
+      "label": "Inner Copper Weight",
+      "selected": [
+        "0.5 oz"
+      ]
+    },
+    {
+      "label": "Specify Stackup",
+      "selected": [
+        "Yes"
+      ]
+    },
+    {
+      "label": "Layer Stackup",
+      "selected": [
+        "JLC06161H-7628"
+      ]
+    },
+    {
+      "label": "Impedance Control",
+      "selected": [
+        "No requirement"
+      ]
+    },
+    {
+      "label": "Via Covering",
+      "selected": [
+        "Epoxy Filled & Capped"
+      ]
+    },
+    {
+      "label": "Min via hole size/diameter",
+      "selected": [
+        "0.3mm/(0.4/0.45mm)"
+      ]
+    },
+    {
+      "label": "Board Outline Tolerance",
+      "selected": [
+        "\u00b10.2mm(Regular)"
+      ]
+    },
+    {
+      "label": "Confirm Production file",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Mark on PCB",
+      "selected": [
+        "Remove Mark"
+      ]
+    },
+    {
+      "label": "Electrical Test",
+      "selected": [
+        "Flying Probe Fully Test"
+      ]
+    },
+    {
+      "label": "Gold Fingers",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Castellated Holes",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Press-Fit Hole",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Edge Plating",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Blind Slots",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "UL Marking",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Backdrill",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Humidity Indicator Card",
+      "selected": [
+        "No"
+      ]
+    }
+  ],
+  "dimensions": [
+    "350.76",
+    "139.19"
+  ],
+  "observed_date": "2026-09-25",
+  "estimate_scope": "Unsaved fabrication calculator only; no Gerber upload or assembly quote",
+  "stackup_dialog": {
+    "economic_assembly_supported": false,
+    "stated_actual_thickness_mm": 1.5544,
+    "thickness_tolerance_percent": 10
+  },
+  "fabrication_usd": 97.58,
+  "stackup_fee_usd": 33.08
+}

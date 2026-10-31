@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-25",
+  "status": "cart_saved_not_ordered",
+  "current_cart_option": "v7.1_two_assembled_five_fabricated",
+  "current_pcb_reference": "Y5-5054573A",
+  "current_pcba_reference": "SMT026092562988-5054573A",
+  "pcb_quantity": 5,
+  "pcba_quantity": 2,
+  "assembly_service": "Standard",
+  "assembly_side": "Bottom",
+  "bom_groups_selected": 31,
+  "placements_per_board": 142,
+  "currency": "USD",
+  "v7_five": {
+    "pcb": 151.75,
+    "pcba": 198.69,
+    "merchandise": 350.44,
+    "shipping_estimate": 45.37,
+    "depaneling_excluded": 3.31,
+    "estimated_total": 399.12
+  },
+  "v7_two_plus_three_bare": {
+    "pcb": 151.75,
+    "pcba": 136.59,
+    "merchandise": 288.34,
+    "shipping_estimate": 39.9,
+    "depaneling_excluded": 2.32,
+    "estimated_total": 330.56
+  },
+  "v8_five": {
+    "pcb": 151.75,
+    "pcba": 248.11,
+    "merchandise": 399.86,
+    "shipping_estimate": 45.37,
+    "depaneling_excluded": 3.31,
+    "estimated_total": 448.54
+  },
+  "tax_and_unquoted_assembly_remark_charges_included": false,
+  "economic_blocker": "U1 NRF52840-QIAA-R7 / C1851953 marked Standard Only by JLCPCB",
+  "uploaded_file_sha256": {
+    "tkl-v7.1-gerbers.zip": "c0bbe39945b78917c2c1eeb82d5e635e7651ce07a4cb15342a1813ead325eca7",
+    "jlcpcb-bom.csv": "781eb45c421697af15ec7acc5d0b6dd44feab51f234e3fd3ce549f6d64331d53",
+    "jlcpcb-cpl.csv": "18d68fa02cdd5b405fc83f8b57ef654fe5210023cb5ee0743d56ee564f35661b",
+    "assembly-top.pdf": "940bbb2fd6ac156b97a60c4ee7e9cf20b4451e148e0a076cbe113ad5c0fd6e0c",
+    "assembly-bottom.pdf": "f6ee9528acda24aee5675298e027bc4bee0954805a2106db0109608c7b19b947"
+  }
+}

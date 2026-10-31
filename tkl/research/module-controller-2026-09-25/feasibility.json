@@ -1,0 +1,25 @@
+{
+  "pins": {
+    "matrix": 20,
+    "lighting": 1,
+    "official_module_available": 21,
+    "clone_pin_mapping_verified": false,
+    "note": "User confirms extra pads; prior question misnamed two of them. Correct official pads: P1.01/P1.02/P1.07."
+  },
+  "case": {
+    "external_dimensions_change_proposed": false,
+    "front_rear_lips_mm": [
+      7.3,
+      20.6
+    ],
+    "nominal_vertical_floor_to_pcb_clearance_by_board_y_mm": {
+      "96": 10.44,
+      "120": 12.822
+    },
+    "floor_thickness_mm": 1.2,
+    "battery_reserve_x_end_case_mm": 276.0,
+    "candidate_region": "underside at rear right, outside battery reserve",
+    "module_fit_validated": false,
+    "note": "Plane-to-floor space only, before switch tails, carrier parts, insulation, mounts and antenna clearance. No module STEP/mesh or collision test yet."
+  }
+}

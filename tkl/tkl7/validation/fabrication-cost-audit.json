@@ -1,0 +1,61 @@
+{
+  "revision": "v7.2",
+  "baseline_commit": "12a14e4",
+  "baseline_revision": "v7.1",
+  "changed_existing_routing_items": 246,
+  "added_segments": 262,
+  "minimum_via_drill_mm": 0.3,
+  "minimum_via_pad_mm": 0.45,
+  "minimum_annular_ring_mm": 0.075,
+  "minimum_hole_clearance_mm": 0.2,
+  "copper_clearance_mm": 0.127,
+  "via_rule_source": "https://jlcpcb.com/news/free-via-in-pad-6-20-layer-pcbs-pofv",
+  "diode_replacement": {
+    "before": "Diodes Inc BAT46W-7-F / C83152",
+    "after": "JSCJ BAT46W / C54110",
+    "vf_max_at_0p1ma_v": 0.25,
+    "body_height_max_mm": 1.25,
+    "existing_case_envelope_mm": 1.35,
+    "reviewed_datasheet_sha256": "05528d6e16c48d86b04b70e8183f52b3d0ee438e7dabac11322d1ff6621fb7c7",
+    "reviewed_datasheet_revision": "Jiangsu Changjiang Electronics, E Mar 2015, downloaded from JLC C54110 listing"
+  },
+  "routing_note": "Drill enlargement leaves via copper lands and controller routing unchanged; local switch-hole traces moved outward to meet 0.20 mm hole clearance. Ground pours refilled.",
+  "live_quote_verified": true,
+  "source_sha256": "b3e4306501c04c6109a43bf4401a2a20836ebfe2fd93e6d52d637700bcefa449",
+  "mechanical_geometry_identical": true,
+  "diode_envelopes_identical": true,
+  "component_positions_and_drills_identical": true,
+  "rf_signal_tracks_identical": true,
+  "validation": {
+    "numbered_pads": 578,
+    "unique_keys": 86,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "via_histogram": [
+    {
+      "drill_mm": 0.3,
+      "pad_mm": 0.45,
+      "count": 180
+    },
+    {
+      "drill_mm": 0.3048,
+      "pad_mm": 0.6096,
+      "count": 93
+    }
+  ],
+  "via_count": 273,
+  "cpl_identical": true,
+  "component_placements": 142,
+  "bom_groups": 31,
+  "exported_npth_program_identical": true,
+  "npth_comparison_note": "Excludes generated timestamps/comments",
+  "via_to_component_drill_clearance_check": "No via hole comes within 0.50 mm of a component hole on v8.2 (conservative enclosing circles for slots); both retain shared switch and connector geometry.",
+  "quote_record": "manufacturing/quote-v7.2-2026-09-25/record.json",
+  "quoted_total_including_shipping_and_rail_removal_usd": 323.17
+}

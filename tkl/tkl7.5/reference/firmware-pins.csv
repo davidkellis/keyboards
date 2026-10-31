@@ -1,0 +1,22 @@
+Signal,CurrentV74GPIO,CandidateNiceNanoV2GPIO,Connection
+BL_EN,P0.31,P0.31,edge pin
+COL0,P0.06,P0.06,edge pin
+COL1,P0.08,P0.08,edge pin
+COL2,P0.17,P0.17,edge pin
+COL3,P0.20,P0.20,edge pin
+COL4,P0.22,P0.22,edge pin
+COL5,P0.24,P0.24,edge pin
+COL6,P1.00,P1.00,edge pin
+COL7,P0.11,P0.11,edge pin
+COL8,P1.04,P1.04,edge pin
+ROW0,P1.06,P1.06,edge pin
+ROW1,P0.13,P0.09,edge pin
+ROW2,P0.15,P0.10,edge pin
+ROW3,P1.11,P1.11,edge pin
+ROW4,P1.13,P1.13,edge pin
+ROW5,P1.15,P1.15,edge pin
+ROW6,P0.02,P0.02,edge pin
+ROW7,P0.29,P0.29,edge pin
+ROW9,P1.01,P1.01,auxiliary solder pad
+ROW10,P1.02,P1.02,auxiliary solder pad
+ROW11,P1.07,P1.07,auxiliary solder pad

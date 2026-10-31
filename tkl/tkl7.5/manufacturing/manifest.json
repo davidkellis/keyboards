@@ -1,0 +1,30 @@
+{
+  "revision": "v7.5",
+  "parent": "v7.4",
+  "copper_layers": 2,
+  "finish": "OSP",
+  "solder": "lead-free",
+  "status": "Prototype; exact clone, cable, battery/charging, RF and mechanical verification pending",
+  "source_sha256": {
+    "kicad/keyboard.kicad_pcb": "ba2138aa8f39bebd550c81621e351fbf79cfd58eedca34168943a11d0e0dd394",
+    "kicad/keyboard.kicad_sch": "b4d000ce21c5f8e45435955834468a5e331d4b1530ec62c389dae226f72ad9ba",
+    "kicad/matrix.kicad_sch": "358a4caf5c76582387d5bab294c11dfa3b2083f71cc63149ad98e07afcd50e95",
+    "kicad/power.kicad_sch": "a06c18651f1decae6cee9322f2068377cb2211db1ec5f4bb7e564c38e6d59a53",
+    "kicad/keyboard.kicad_pro": "c08dfe069bc0ab0cfc72a7da41b3a196d0da5cd7a2ebd553b97238051aaaed26",
+    "kicad/keyboard.kicad_dru": "90bc46c6c4f53a8128cb38ce93a641f1db4f16843fa7e41040c90e7855beecb4",
+    "manufacturing/parts.json": "6ddd8ed5eb544d99c2cc2cebcdb0726f8d6662bd11a2e88b6e6f64a1ce4aa59b"
+  },
+  "validation": {
+    "numbered_pads": 407,
+    "unique_keys": 86,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "jlc_bom_groups": 7,
+  "jlc_placements": 102
+}

@@ -1,0 +1,1 @@
+Historical placement/router tools, retained for reference only. Do not execute here; their paths belong to the old layout workflow. Use ../../scripts/derive_v7_4.py to derive the four-layer OSP board from the preserved routed parent.

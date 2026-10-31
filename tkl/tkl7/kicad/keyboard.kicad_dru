@@ -1,0 +1,11 @@
+(version 1)
+
+# Reverse-mount LED pad lands intentionally approach their optical NPTH slot.
+# Keep the board-perimeter clearance at 0.5 mm everywhere else.
+(rule "Board perimeter copper clearance"
+  (condition "A.FootprintReference != 'LED*'")
+  (constraint edge_clearance (min 0.5mm)))
+
+# v7.2: 0.30 mm drill / 0.45 mm via land gives 0.075 mm annular ring.
+# JLC POFV preferred ring, https://jlcpcb.com/news/free-via-in-pad-6-20-layer-pcbs-pofv
+# Resin fill + planarize + copper cap is mandatory. Copper clearance remains 0.127 mm.

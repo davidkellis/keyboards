@@ -1,0 +1,101 @@
+[
+  {
+    "cells": [
+      "",
+      "UPS Express Saver(DDP)",
+      "$46.11",
+      "2-4 business days",
+      "--",
+      "≤10000kg\n≤270cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "DHL Express (DDP)",
+      "$45.37",
+      "2-4 business days",
+      "--",
+      "≤10000kg\n≤295x195cm"
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "",
+      "DHL Express",
+      "$45.37",
+      "2-4 business days",
+      "Details >",
+      "≤10000kg\n≤295x195cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "FedEx Express （DDP)",
+      "$75.18",
+      "2-5 business days",
+      "--",
+      "≤10000kg\n≤270cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "My DHL Account",
+      "$2.00",
+      "",
+      "Details >",
+      "≤10000kg\n≤295x195cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "My UPS Account",
+      "$2.00",
+      "",
+      "Details >",
+      "≤10000kg\n≤270cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "My FedEx Account",
+      "$2.00",
+      "",
+      "Details >",
+      "≤10000kg\n≤270cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "Global Standard Direct Line",
+      "—",
+      "—",
+      "Details >",
+      "≤1.5kg\n≤$59\n≤55x40cm"
+    ],
+    "selected": false
+  },
+  {
+    "cells": [
+      "",
+      "Sea Shipment",
+      "—",
+      "—",
+      "Details >",
+      "100-10000kg"
+    ],
+    "selected": false
+  }
+]

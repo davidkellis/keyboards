@@ -1,0 +1,71 @@
+(footprint "R5_R_0603_270"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "R5"
+		(at 0 -1.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f11f9802-e8ef-445d-baab-4470f1cd8263")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Value" "1k"
+		(at 0 1.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c3e87a5-00a9-4489-820a-c896d0a17c4d")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69f0f1e7-9748-4e3a-bdb3-b428f72430b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b91f24f2-a49a-4ec8-8ebc-1ea5932813c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(sheetname "Power")
+	(sheetfile "power.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(pad "1" smd roundrect
+		(at 0 -0.825)
+		(size 0.95 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "b3de1f10-3667-43dd-af31-87924df7901b")
+	)
+	(pad "2" smd roundrect
+		(at 0 0.825)
+		(size 0.95 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "5afcb079-f880-472c-b7f7-e9142d999b0a")
+	)
+	(embedded_fonts no)
+)

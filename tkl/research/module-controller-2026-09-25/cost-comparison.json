@@ -1,0 +1,243 @@
+{
+  "status": "line-item feasibility comparison, not a new JLCPCB quote",
+  "date": "2026-09-25",
+  "quantity": 5,
+  "baseline_revision": "v7.4",
+  "baseline_delivered_estimate_usd": "300.22",
+  "module_prices": "User-supplied assumptions: $4 clone or $25 genuine, excluding separate freight/tax",
+  "assumptions": [
+    "User installs modules; no JLC module procurement or assembly cost is assumed.",
+    "Only complete BOM group removal is credited, preserving quoted attrition prices.",
+    "Remaining group quantities/attrition and feeder charges need a new JLC quote.",
+    "No credit for PCB, X-ray, placement, freight, USB hand-solder or other fees.",
+    "No allowance for new carrier interface, power integration or mounting hardware.",
+    "Module charger scenario is conditional on battery/thermal/charge-safety validation.",
+    "Retaining the carrier charger requires an engineered power/USB interface, not parallel chargers."
+  ],
+  "inputs_sha256": {
+    "manufacturing/quote-v7.4-2026-09-25/bom-matches.json": "5d099766950d7ccc1902c4268c7d59820c297ea6c5f11d7847f5bbda6c1faba2",
+    "manufacturing/quote-v7.4-2026-09-25/record.json": "84c06847c56a7ea7086c362d3a42b6a5ea652a511d68c03c7648b13ad8883829",
+    "reference/firmware-pins.json": "adafc1d6118142ce73972b44863fce134199384460b62db07fc3c22b28eed7dd"
+  },
+  "scenarios": [
+    {
+      "scenario": "controller_only_keep_carrier_charger_and_usb",
+      "whole_groups_removed": 15,
+      "groups_remaining": 16,
+      "removed_parts_usd": "38.44",
+      "removed_feeder_fees_usd": "22.50",
+      "gross_removed_cost_usd": "60.94",
+      "net_saving_after_five_4_dollar_clones_usd": "40.94",
+      "net_saving_after_five_25_dollar_genuine_modules_usd": "-64.06",
+      "whole_group_details": [
+        {
+          "references": "C1,C2,C17,C18",
+          "quoted_parts_usd": "0.4500"
+        },
+        {
+          "references": "C3",
+          "quoted_parts_usd": "0.6640"
+        },
+        {
+          "references": "C4",
+          "quoted_parts_usd": "0.6140"
+        },
+        {
+          "references": "C5,C7,C8,C12",
+          "quoted_parts_usd": "0.1350"
+        },
+        {
+          "references": "C9",
+          "quoted_parts_usd": "0.1460"
+        },
+        {
+          "references": "C11",
+          "quoted_parts_usd": "0.2160"
+        },
+        {
+          "references": "C16",
+          "quoted_parts_usd": "0.2380"
+        },
+        {
+          "references": "J4",
+          "quoted_parts_usd": "1.1085"
+        },
+        {
+          "references": "L1",
+          "quoted_parts_usd": "0.6363"
+        },
+        {
+          "references": "L2,L4",
+          "quoted_parts_usd": "1.4574"
+        },
+        {
+          "references": "L3",
+          "quoted_parts_usd": "0.5700"
+        },
+        {
+          "references": "L5",
+          "quoted_parts_usd": "0.7038"
+        },
+        {
+          "references": "U1",
+          "quoted_parts_usd": "29.5800"
+        },
+        {
+          "references": "X1",
+          "quoted_parts_usd": "0.7665"
+        },
+        {
+          "references": "X2",
+          "quoted_parts_usd": "1.1555"
+        }
+      ],
+      "partial_groups_no_savings_credited": [
+        {
+          "removed_references": [
+            "C19",
+            "C20",
+            "C6"
+          ],
+          "retained_references": [
+            "C21",
+            "C23",
+            "C24"
+          ],
+          "unchanged_group_cost_usd": "2.3765",
+          "credited_saving_usd": "0"
+        },
+        {
+          "removed_references": [
+            "C14",
+            "C15"
+          ],
+          "retained_references": [
+            "C22"
+          ],
+          "unchanged_group_cost_usd": "0.4025",
+          "credited_saving_usd": "0"
+        }
+      ]
+    },
+    {
+      "scenario": "controller_plus_module_usb_and_charger_conditional",
+      "whole_groups_removed": 24,
+      "groups_remaining": 7,
+      "removed_parts_usd": "48.69",
+      "removed_feeder_fees_usd": "36.00",
+      "gross_removed_cost_usd": "84.69",
+      "net_saving_after_five_4_dollar_clones_usd": "64.69",
+      "net_saving_after_five_25_dollar_genuine_modules_usd": "-40.31",
+      "whole_group_details": [
+        {
+          "references": "C1,C2,C17,C18",
+          "quoted_parts_usd": "0.4500"
+        },
+        {
+          "references": "C3",
+          "quoted_parts_usd": "0.6640"
+        },
+        {
+          "references": "C4",
+          "quoted_parts_usd": "0.6140"
+        },
+        {
+          "references": "C5,C7,C8,C12",
+          "quoted_parts_usd": "0.1350"
+        },
+        {
+          "references": "C6,C19,C20,C21,C23,C24",
+          "quoted_parts_usd": "2.3765"
+        },
+        {
+          "references": "C9",
+          "quoted_parts_usd": "0.1460"
+        },
+        {
+          "references": "C11",
+          "quoted_parts_usd": "0.2160"
+        },
+        {
+          "references": "C14,C15,C22",
+          "quoted_parts_usd": "0.4025"
+        },
+        {
+          "references": "C16",
+          "quoted_parts_usd": "0.2380"
+        },
+        {
+          "references": "C25",
+          "quoted_parts_usd": "0.1740"
+        },
+        {
+          "references": "J3",
+          "quoted_parts_usd": "0.4980"
+        },
+        {
+          "references": "J4",
+          "quoted_parts_usd": "1.1085"
+        },
+        {
+          "references": "L1",
+          "quoted_parts_usd": "0.6363"
+        },
+        {
+          "references": "L2,L4",
+          "quoted_parts_usd": "1.4574"
+        },
+        {
+          "references": "L3",
+          "quoted_parts_usd": "0.5700"
+        },
+        {
+          "references": "L5",
+          "quoted_parts_usd": "0.7038"
+        },
+        {
+          "references": "R11",
+          "quoted_parts_usd": "0.0480"
+        },
+        {
+          "references": "R12",
+          "quoted_parts_usd": "0.0560"
+        },
+        {
+          "references": "R13,R14",
+          "quoted_parts_usd": "0.0300"
+        },
+        {
+          "references": "U1",
+          "quoted_parts_usd": "29.5800"
+        },
+        {
+          "references": "U2",
+          "quoted_parts_usd": "5.4325"
+        },
+        {
+          "references": "U3",
+          "quoted_parts_usd": "1.2313"
+        },
+        {
+          "references": "X1",
+          "quoted_parts_usd": "0.7665"
+        },
+        {
+          "references": "X2",
+          "quoted_parts_usd": "1.1555"
+        }
+      ],
+      "partial_groups_no_savings_credited": [
+        {
+          "removed_references": [
+            "J5"
+          ],
+          "retained_references": [
+            "J1"
+          ],
+          "unchanged_group_cost_usd": "0.3883",
+          "credited_saving_usd": "0"
+        }
+      ]
+    }
+  ]
+}

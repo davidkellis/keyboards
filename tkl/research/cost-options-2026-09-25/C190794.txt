@@ -1,0 +1,240 @@
+24-hour PCB production. Fast Delivery to United States.
+Coupons
+APP Download
+USD
+Assembly Parts Lib
+For PCBA Only
+Upload BOM
+0
+Parts Cart
+My Account
+Products
+In Stock Parts
+Bom Tool
+Request a Quote
+Support
+JLCPCB
+Parts Library
+All Components
+RF and Wireless
+RF Transceiver ICs
+NRF52840-QIAA-R
+
+* Images are for reference only
+
+NRF52840-QIAA-R
+Extended
+Manufacturer
+Nordic Semicon
+MFR.Part #
+NRF52840-QIAA-R
+JLCPCB Part #
+C190794
+Package
+AQFN-73-EP(7x7)
+Description
+-95dBm 1.7V~5.5V 2.4GHz 2.4GHz~2.4835GHz 2Mbps 4.82mA 6.26mA 8dBm SPI、USB、UART、ADC、I2S、PWM ZigBee、Bluetooth、LoRa、ISM transceiver AQFN-73-EP(7x7) RF Transceiver ICs ROHS
+EasyEDA Libraries
+PCB Footprint or Symbol
+ECCN
+5A991g
+Datasheet
+Download
+Source
+JLCPCB
+Assembly Type
+SMT Assembly
+PCBA Type
+Economic and Standard
+MSL Level
+MSL 3
+X-ray Inspection
+Required
+
+Note: The purchased components are stored in your JLCPCB parts library for future PCBA orders only, and cannot be shipped separately.
+
+Specifications
+PCB Assembly Tips
+Documents
+PCB Footprint/Symbol
+NRF52840-QIAA-R Specifications
+
+NRF52840-QIAA-R technical specifications, attributes, and parameters.
+
+Report an Error?
+	Attributes	Value
+
+	Category	RF and Wireless/RF Transceiver ICs
+
+	Manufacturer	Nordic Semicon
+
+	Package	AQFN-73-EP(7x7)
+
+	Frequency Range	2.4GHz~2.4835GHz
+
+	Type	transceiver
+
+	Sensitivity	-95dBm
+
+	Output Power	8dBm
+
+	Data Rate	2Mbps
+
+	Applications	ZigBee、Bluetooth、LoRa、ISM
+
+	Voltage - Supply	1.7V~5.5V
+
+	Receive Current	6.26mA
+
+	Typical Application Frequency	2.4GHz
+
+	Features	Supports RSSI function
+
+	Current Of Transmitting	4.82mA
+
+	Interface	SPI、USB、UART、ADC、I2S、PWM
+Results remaining: 3623
+View Similar
+PCB Assembly Tips
+
+From components to fully assembled PCBs. JLCPCB supports PCB assembly for the NRF52840-QIAA-R. Sign up to receive and start your assembly today →
+
+1
+
+Step 1 - Pre-order the parts you need from JLCPCB.
+
+2
+
+Step 2 - Place a PCBA order to have those parts assembled onto your boards.
+
+3
+
+Step 3 - JLCPCB manufactures and assembles your boards in as fast as 3 days.
+
+Learn more about JLCPCB Assembly
+NRF52840-QIAA-R Documents
+
+NRF52840-QIAA-R datasheets or manufacturer documentation.
+
+Datasheet: NRF52840-QIAA-R Datasheet (PDF)
+
+NRF52840-QIAA-R Schematic Symbol & PCB Footprint
+
+The NRF52840-QIAA-R schematic symbol and PCB footprint are available in the EasyEDA PCB design tool.
+
+In Stock: 49,292
+
+Minimum: 1
+Full Reel: 3000
+$5.92
+Save $30.00
+Add to My Part Lib for Assembly
+
+Available Order Qty: 49,004
+
+Qty
+Unit Price
+1+
+$5.9160
+10+
+$5.2567
+30+
+$4.8361
+100+
+$4.1573
+Related Products
+
+NRF52840-QIAA-T
+
+Nordic Semicon
+
+$6.0671
+
+NRF52840-QIAA-R7
+
+Nordic Semicon
+
+$6.0654
+
+NRF52840-QFAA-R
+
+Nordic Semicon
+
+$4.5730
+
+nRF52833-QIAA-R
+
+Nordic Semicon
+
+$5.9371
+
+EZR32HG220F32R61G-C0
+
+SKYWORKS/SILICON LABS
+
+$4.0696
+
+EFR32MG14P732F256IM32-BR
+
+SKYWORKS/SILICON LABS
+
+$5.2973
+
+Online Chat >
+Chat with our live agent for fast reply.
+Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8
+Email Us >
+Contact us at support@jlcpcb.com
+Typically reply within hours.
+Help Center >
+Get instant answers.
+24/7 Available.
+Services & Tools
+Electronic Parts
+BOM Tool
+Request a Quote
+Manufacturers
+PCB Assembly
+Support
+Contact Us
+How to Order
+User Guides
+Sourcing Tips
+Payment Methods
+Company
+About Us
+Quality Assurance
+How We Work
+Certifications
+Security
+JLCAPI
+News
+Cooperation
+Careers
+Electronics
+EasyEDA
+JLCPCB
+JLCDFM
+LCSC
+OSHWLAB
+Mechanical
+JLC3DP
+JLCCNC
+JLCMC
+
+Download JLCONE Desktop—Get $524 Exclusive Coupons
+
+Windows
+MAC
+Android
+IOS
+
+CONNECT WITH US
+
+© 2026 JLCPCB.COM All Rights Reserved.
+Privacy Policy
+Terms & Conditions
+Cookies Policy
+Do Not Sell or Share My Personal Information
+Welcome back, may I help you?
+Chat Now

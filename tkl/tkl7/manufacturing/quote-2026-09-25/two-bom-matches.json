@@ -1,0 +1,436 @@
+[
+  {
+    "cells": [
+      "C1,C2,C17,C18",
+      "GRM1555C1H120GA01D",
+      "0402",
+      "GRM1555C1H120GA01D\nC161527\n12pF 50V C0G ±2% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.3000",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C3",
+      "GJM1555C1H1R0WB01D",
+      "0402",
+      "GJM1555C1H1R0WB01D\nC72134\n1pF 50V C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.6640",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C4",
+      "GJM1555C1H1R2WB01D",
+      "0402",
+      "GJM1555C1H1R2WB01D\nC76899\n1.2pF 50V C0G 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.6140",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C5,C7,C8,C12",
+      "CL05B104KO5NNNC",
+      "0402",
+      "CL05B104KO5NNNC\nC1525\n100nF 16V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Basic",
+      "$0.0900",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C6,C19,C20,C21,C23,C24",
+      "GRM188Z71A475KE15D",
+      "0603",
+      "GRM188Z71A475KE15D\nC913474\n10V 4.7uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "17",
+      "JLCPCB",
+      "Extended",
+      "$1.1543",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C9",
+      "GRM1555C1H821JA01D",
+      "0402",
+      "GRM1555C1H821JA01D\nC85943\n50V 820pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.1460",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C11",
+      "GRM1555C1H101JA01D",
+      "0402",
+      "GRM1555C1H101JA01D\nC77177\n100pF 50V C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.2160",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C14,C15,C22",
+      "0603B105K160CT",
+      "0603",
+      "0603B105K160CT\nC108463\n16V 1uF X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.3220",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C16",
+      "GRM155R71H473KE14D",
+      "0402",
+      "GRM155R71H473KE14D\nC117757\n47nF 50V X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.2380",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "C25",
+      "CL10B104KB8NNNC",
+      "0603",
+      "CL10B104KB8NNNC\nC1591\n100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.1740",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D70,D71,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D83,D84,D85,D86",
+      "BAT46W-7-F",
+      "SOD-123",
+      "BAT46W-7-F\nC83152\n-55℃~+125℃ 1 Independent 100V 150mA 2uA@75V 450mV@10mA 750mA SOD-123 Schottky Diodes ROHS",
+      "177",
+      "JLCPCB",
+      "Extended",
+      "$16.1424",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "J1,J5",
+      "B2B-PH-K-S(LF)(SN)",
+      "JSTPH2.00mmTHTvertical",
+      "B2B-PH-K-S(LF)(SN)\nC131337\n-25℃~+85℃ 1 100V 1x2P 2 2A 2P 2mm 4.5mm 5.9mm 6mm Brass K Pin PA66 PH Through Hole Tin UL94V-0 White 插件,P=2mm Wire To Board Connector ROHS",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$0.1765",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "J3",
+      "HC-TYPE-C-16P-01A",
+      "USB-C16-pinSMThybrid",
+      "HC-TYPE-C-16P-01A\nC2894897 \n-55℃~+85℃ 1 16P 20V 5A 7.35mm Black Female Surface Mount, Right Angle Type-C SMD USB Connectors ROHS",
+      "2",
+      "JLCPCB",
+      "Extended",
+      "$0.1992",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "J4",
+      "U.FL-R-SMT-1(10)",
+      "U.FLSMT",
+      "U.FL-R-SMT-1(10)\nC88373\n-40℃~+90℃ 1 1.25mm 2mm 50Ω 6GHz Board Side IPEX Male Pin SMD Coaxial Connectors (RF) ROHS",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$1.1085",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "L1",
+      "LQW15AN4N7G80D",
+      "0402",
+      "LQW15AN4N7G80D\nC412337\n1.2A 4.7nH 71mΩ Unshielded Inductor ±2% 0402 Power Inductors ROHS",
+      "6",
+      "JLCPCB",
+      "Extended",
+      "$0.4242",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "L2,L4",
+      "LQM18DN100M70L",
+      "0603",
+      "LQM18DN100M70L\nC713281\n1.365Ω 100mA 10uH 300mA 32MHz ±20% 0603 Inductors (SMD) ROHS",
+      "8",
+      "JLCPCB",
+      "Extended",
+      "$0.8328",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "L3",
+      "LQG15HN15NJ02D",
+      "0402",
+      "LQG15HN15NJ02D\nC97979\n15nH 2.3GHz 400mA 450mΩ 8@100MHz ±5% 0402 Inductors (SMD) ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.5700",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "L5",
+      "LQW15AN2N2G80D",
+      "0402",
+      "LQW15AN2N2G80D\nC412264\n2.2nH 2.53A 22mΩ Unshielded Inductor ±2% 0402 Power Inductors ROHS",
+      "6",
+      "JLCPCB",
+      "Extended",
+      "$0.4692",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "LED1,LED2,LED3,LED4,LED5,LED6",
+      "LTW-C230DS",
+      "1206reverse-mount",
+      "LTW-C230DS\nC575513 \n-30℃~+85℃ 130° 20mA 3.2V 315mcd 72mW Discrete Diode Reverse Mount White Yellow Lens 1206 LED Indication - Discrete ROHS",
+      "14",
+      "JLCPCB",
+      "Extended",
+      "$0.9422",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "Q1",
+      "DMN2056U-7",
+      "SOT-23",
+      "DMN2056U-7\nC332302\n-55℃~+150℃ 1 N-channel 1V 20V 339pF 34pF 4.3nC@4.5V 45mΩ@2.5V 47pF 4A 940mW N-Channel SOT-23 MOSFETs ROHS",
+      "6",
+      "JLCPCB",
+      "Extended",
+      "$0.3996",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "R1,R2,R3,R4,R5,R6",
+      "0603WAF1001T5E",
+      "0603",
+      "0603WAF1001T5E\nC21190\n-55℃~+155℃ 100mW 1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "22",
+      "JLCPCB",
+      "Basic",
+      "$0.0572",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "R9",
+      "0603WAF1003T5E",
+      "0603",
+      "0603WAF1003T5E\nC25803\n-55℃~+155℃ 100kΩ 100mW 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "20",
+      "JLCPCB",
+      "Basic",
+      "$0.0620",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "R11",
+      "0603WAF2001T5E",
+      "0603",
+      "0603WAF2001T5E\nC22975\n-55℃~+155℃ 100mW 2kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "20",
+      "JLCPCB",
+      "Basic",
+      "$0.0480",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "R12",
+      "0603WAF3481T5E",
+      "0603",
+      "0603WAF3481T5E\nC22996\n-55℃~+155℃ 100mW 3.48kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "20",
+      "JLCPCB",
+      "Extended",
+      "$0.0560",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "R13,R14",
+      "0603WAF5101T5E",
+      "0603",
+      "0603WAF5101T5E\nC23186\n-55℃~+155℃ 100mW 5.1kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS",
+      "20",
+      "JLCPCB",
+      "Basic",
+      "$0.0300",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "SW87",
+      "PCM12SMTR",
+      "PCM12SMTSPDT",
+      "PCM12SMTR\nC221841\n-20℃~+85℃ 6V PC Pin Rectangular Columnar SPDT Surface Mount,Vertical SMD Slide Switches ROHS",
+      "2",
+      "JLCPCB",
+      "Extended",
+      "$3.2902",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "U1",
+      "NRF52840-QIAA-R7",
+      "aQFN73-7x7",
+      "NRF52840-QIAA-R7\nC1851953\n-95dBm 1.7V~5.5V 2.4GHz 2.4GHz~2.4835GHz 2Mbps 4.82mA 6.26mA 8dBm SPI、USB、UART、I2S、PDM、PWM ZigBee、Bluetooth transceiver AQFN-73-EP(7x7) RF Transceiver ICs ROHS",
+      "2",
+      "JLCPCB",
+      "Extended",
+      "$12.1308",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "U2",
+      "BQ24072RGTR",
+      "VQFN16-3x3-EP",
+      "BQ24072RGTR\nC140288\n-40℃~+125℃ 1 1.5A 1.5mA 4.2V 4.35V~6.6V Charging IC Lithium Battery Support QFN-16-EP(3x3) Battery Management ROHS",
+      "2",
+      "JLCPCB",
+      "Extended",
+      "$2.1730",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "U3",
+      "USBLC6-2SC6",
+      "SOT-23-6",
+      "USBLC6-2SC6\nC7519\n-40℃~+125℃ 150nA 17V 2 3.5pF 5.25V 5A 6V ESD IEC 61000-4-2 Unidirectional SOT-23-6L ESD and Surge Protection (TVS/ESD) ROHS",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$0.8795",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "X1",
+      "X201632MKB4SI",
+      "2016-4P",
+      "X201632MKB4SI\nC718072\n-40℃~+85℃ 32MHz 80Ω 8pF Crystal Oscillator ±10ppm ±20ppm SMD2016-4P Crystals ROHS",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$0.5475",
+      ""
+    ],
+    "selected": true
+  },
+  {
+    "cells": [
+      "X2",
+      "FC31M2-32.768-N09LLDT",
+      "3215-2P",
+      "FC31M2-32.768-N09LLDT\nC2848222\n-40℃~+85℃ 32.768kHz 50kΩ 9pF Crystal Oscillator ±20ppm ±20ppm SMD3215-2P Crystals ROHS",
+      "5",
+      "JLCPCB",
+      "Extended",
+      "$1.1555",
+      ""
+    ],
+    "selected": true
+  }
+]

@@ -1,0 +1,1 @@
+Historical v7 placement tools, retained as reference only. Do not execute here: their paths and four-layer stack belong to the old layout workflow. Use ../../scripts/derive_v7_3.py to derive the six-layer board from the preserved routed parent.

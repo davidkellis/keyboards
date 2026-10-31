@@ -1,0 +1,8 @@
+{
+  "observed_date": "2026-09-25",
+  "economic_disabled": true,
+  "selected": "Standard",
+  "tooltips": [
+    "The PCB specs you chose are not supported for Economic PCBA, \n                  check the available PCB specs for Economic PCBA.\n                "
+  ]
+}

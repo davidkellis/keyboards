@@ -1,0 +1,232 @@
+24-hour PCB production. Fast Delivery to United States.
+Coupons
+APP Download
+USD
+Assembly Parts Lib
+For PCBA Only
+Upload BOM
+0
+Parts Cart
+My Account
+Products
+In Stock Parts
+Bom Tool
+Request a Quote
+Support
+JLCPCB
+Parts Library
+All Components
+IoT/Communication Modules
+Bluetooth Modules
+E73-2G4M08S1C
+
+* Images are for reference only
+
+E73-2G4M08S1C
+Extended
+Manufacturer
+Chengdu Ebyte Elec Tech
+MFR.Part #
+E73-2G4M08S1C
+JLCPCB Part #
+C356849
+Package
+SMD,18x13mm
+Description
+-103dBm、-95dBm -40℃~+85℃ 120m 17.05mA 3.3V 8.27mA 8dBm Bluetooth 5.0、Bluetooth 4.2 PWM、SPI、ADC、USB、I2C、ISP、JTAG、DMA nRF52840 Chip SMD,18x13mm Bluetooth Modules ROHS
+EasyEDA Libraries
+PCB Footprint or Symbol
+ECCN
+EAR99
+Datasheet
+Download
+Source
+JLCPCB
+Assembly Type
+SMT Assembly
+PCBA Type
+Standard Only
+X-ray Inspection
+Required
+
+Note: The purchased components are stored in your JLCPCB parts library for future PCBA orders only, and cannot be shipped separately.
+
+Specifications
+PCB Assembly Tips
+Documents
+PCB Footprint/Symbol
+E73-2G4M08S1C Specifications
+
+E73-2G4M08S1C technical specifications, attributes, and parameters.
+
+Report an Error?
+	Attributes	Value
+
+	Category	IoT/Communication Modules/Bluetooth Modules
+
+	Manufacturer	Chengdu Ebyte Elec Tech
+
+	Package	SMD,18x13mm
+
+	Operating Temperature	-40℃~+85℃
+
+	Sensitivity	-103dBm、-95dBm
+
+	Output Power(Max)	8dBm
+
+	Voltage - Supply	3.3V
+
+	Communication Distance	120m
+
+	Utilized IC / Part	nRF52840 Chip
+
+	Interface Type	PWM、SPI、ADC、USB、I2C、ISP、JTAG、DMA
+
+	Send Current	17.05mA
+
+	Receive Current	8.27mA
+
+	Wireless Standard	Bluetooth 5.0、Bluetooth 4.2
+Results remaining: 1139
+View Similar
+PCB Assembly Tips
+
+From components to fully assembled PCBs. JLCPCB supports PCB assembly for the E73-2G4M08S1C. Sign up to receive and start your assembly today →
+
+1
+
+Step 1 - Pre-order the parts you need from JLCPCB.
+
+2
+
+Step 2 - Place a PCBA order to have those parts assembled onto your boards.
+
+3
+
+Step 3 - JLCPCB manufactures and assembles your boards in as fast as 3 days.
+
+Learn more about JLCPCB Assembly
+E73-2G4M08S1C Documents
+
+E73-2G4M08S1C datasheets or manufacturer documentation.
+
+Datasheet: E73-2G4M08S1C Datasheet (PDF)
+
+E73-2G4M08S1C Schematic Symbol & PCB Footprint
+
+The E73-2G4M08S1C schematic symbol and PCB footprint are available in the EasyEDA PCB design tool.
+
+In Stock: 1,806
+
+Minimum: 1
+Full Reel: 1000
+$7.63
+Save $30.00
+Add to My Part Lib for Assembly
+
+Available Order Qty: 1,405
+
+Qty
+Unit Price
+1+
+$7.6260
+10+
+$7.4685
+16+
+$7.0479
+Related Products
+
+E73-2G4M08S1E
+
+Chengdu Ebyte Elec Tech
+
+$0.0007
+
+E73-2G4M08S1CX
+
+Chengdu Ebyte Elec Tech
+
+$6.3188
+
+E73-2G4M08S1F
+
+Chengdu Ebyte Elec Tech
+
+$5.6513
+
+E73-2G4M08S1EX
+
+Chengdu Ebyte Elec Tech
+
+$6.3951
+
+EWM104-BT5125(SPDIF)
+
+Chengdu Ebyte Elec Tech
+
+$10.8122
+
+STM32WB5MMG
+
+STMicroelectronics
+
+$13.5274
+
+Online Chat >
+Chat with our live agent for fast reply.
+Mon-Fri: 24 hours, Sat: 9am-6pm, GMT+8
+Email Us >
+Contact us at support@jlcpcb.com
+Typically reply within hours.
+Help Center >
+Get instant answers.
+24/7 Available.
+Services & Tools
+Electronic Parts
+BOM Tool
+Request a Quote
+Manufacturers
+PCB Assembly
+Support
+Contact Us
+How to Order
+User Guides
+Sourcing Tips
+Payment Methods
+Company
+About Us
+Quality Assurance
+How We Work
+Certifications
+Security
+JLCAPI
+News
+Cooperation
+Careers
+Electronics
+EasyEDA
+JLCPCB
+JLCDFM
+LCSC
+OSHWLAB
+Mechanical
+JLC3DP
+JLCCNC
+JLCMC
+
+Download JLCONE Desktop—Get $524 Exclusive Coupons
+
+Windows
+MAC
+Android
+IOS
+
+CONNECT WITH US
+
+© 2026 JLCPCB.COM All Rights Reserved.
+Privacy Policy
+Terms & Conditions
+Cookies Policy
+Do Not Sell or Share My Personal Information
+Welcome back, may I help you?
+Chat Now

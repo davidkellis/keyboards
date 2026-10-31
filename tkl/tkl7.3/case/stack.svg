@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+<rect width="1100" height="650" fill="#f7f9fc"/>
+<style>text{font-family:Arial,sans-serif;fill:#203044}.title{font-size:26px;font-weight:bold}.body{font-size:18px}.small{font-size:15px}.line{stroke:#40546a;stroke-width:1.5}</style>
+<text x="35" y="44" class="title">TKL — separate plate / PCB / cover fit prototype</text>
+<text x="35" y="74" class="body">Dimensions perpendicular to PCB. Diagram not to scale.</text>
+<rect x="80" y="110" width="180" height="58" rx="12" fill="#9aa8bc"/>
+<text x="520" y="143" class="body">XVX Skyline R2: advertised 5 mm cap height</text>
+<path d="M270 139H500" class="line"/><text x="520" y="168" class="small">Socket insertion and underside still unmeasured</text>
+<rect x="148" y="168" width="44" height="35" fill="#3d526b"/>
+<rect x="113" y="203" width="114" height="109" rx="8" fill="#c0c7ce"/>
+<text x="520" y="210" class="body">Choc V2 stem top: 8.6 mm above PCB</text>
+<path d="M240 195H500" class="line"/>
+<path d="M65 250H110V273H65Z M230 250H430V273H230Z" fill="#dedede"/>
+<text x="520" y="259" class="body">Cover: 1.2 mm, with key clearance opening</text>
+<path d="M442 260H500" class="line"/>
+<text x="520" y="288" class="small">0.4 mm gap between plate top and cover underside</text>
+<path d="M75 303H112V331H75Z M228 303H430V331H228Z" fill="#477dc0"/>
+<text x="520" y="321" class="body">Plate: 1.5 mm; TOP 2.2 mm above PCB</text>
+<path d="M442 315H500" class="line"/>
+<rect x="385" y="331" width="24" height="14" fill="#477dc0"/>
+<text x="520" y="350" class="small">0.7 mm feet/air space underneath plate</text>
+<rect x="75" y="345" width="355" height="31" fill="#34794f"/>
+<text x="520" y="377" class="body">PCB: 1.6 mm; actual drill locations retained</text>
+<path d="M442 363H500" class="line"/>
+<rect x="385" y="376" width="24" height="124" fill="#657387"/>
+<rect x="92" y="429" width="256" height="56" fill="#d7ae62"/>
+<text x="520" y="445" class="body">Battery reserve: 270 × 52 × 6.3 mm</text>
+<path d="M355 449H500" class="line"/>
+<text x="520" y="472" class="small">0.5 mm padding allowance below; prototype locating corners</text>
+<rect x="92" y="485" width="256" height="15" fill="#eee1be"/>
+<rect x="65" y="500" width="385" height="22" fill="#657387"/>
+<text x="520" y="516" class="body">Case: 1.2 mm floor + PCB support bosses</text>
+<path d="M462 510H500" class="line"/>
+<text x="35" y="570" class="body">Assembled lip: 7.3 mm front / 20.6 mm rear; tilt 5.70°. Key tops sit higher.</text>
+<text x="35" y="603" class="small">Stabilizer bodies/wire and keycap travel are unverified. Print the 2u and 6.25u samples first.</text>
+<text x="35" y="628" class="small">Battery target: 264 × 50 × 5.5 mm; expansion and charging-temperature requirements remain unverified.</text>
+</svg>

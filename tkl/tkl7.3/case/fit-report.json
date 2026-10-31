@@ -1,0 +1,390 @@
+{
+  "source_sha256": "b3647f725c0fe309c719ec4b547932c54e0f027c7a9b3da7c1b052ce1baa0e3b",
+  "units": "mm",
+  "pcb_size": [
+    350.76,
+    129.19,
+    1.6
+  ],
+  "case_size": [
+    355.56,
+    133.35221193128154,
+    20.6
+  ],
+  "front_lip": 7.3,
+  "rear_lip": 20.6,
+  "tilt_degrees": 5.695609528003503,
+  "pcb_underside_front_origin_z": 2.1125750051177867,
+  "support_count": 14,
+  "support_xy_board": [
+    [
+      57,
+      9
+    ],
+    [
+      102,
+      9
+    ],
+    [
+      192,
+      9
+    ],
+    [
+      12,
+      34
+    ],
+    [
+      102,
+      34
+    ],
+    [
+      237,
+      34
+    ],
+    [
+      342,
+      34
+    ],
+    [
+      12,
+      59
+    ],
+    [
+      57,
+      59
+    ],
+    [
+      147,
+      59
+    ],
+    [
+      192,
+      59
+    ],
+    [
+      282,
+      59
+    ],
+    [
+      342,
+      59
+    ],
+    [
+      282,
+      84
+    ]
+  ],
+  "rear_notches": [
+    {
+      "ref": "J3",
+      "x": 341.37,
+      "width": 13.0,
+      "bottom_z": 9.99001567766068
+    },
+    {
+      "ref": "SW87",
+      "x": 323.37,
+      "width": 9.0,
+      "bottom_z": 11.630183744555813
+    }
+  ],
+  "cover_support_count": 1,
+  "min_floor_clearance": {
+    "mm": 0.4,
+    "reference": "D77"
+  },
+  "min_unrelieved_floor_clearance": {
+    "mm": 0.035932274600201985,
+    "reference": "D77"
+  },
+  "floor_relief_pockets": [
+    {
+      "ref": "D77",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D78",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D79",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D80",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D81",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D82",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D83",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D84",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D85",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    },
+    {
+      "ref": "D86",
+      "floor_thickness_mm": 0.8359322746002019,
+      "component_bottom_z": 1.235932274600202,
+      "clearance_mm": 0.4
+    }
+  ],
+  "collisions": [],
+  "pcb_case_overlap_mm3": 0.0,
+  "seam_xy_board": [
+    [
+      178.948125,
+      0
+    ],
+    [
+      178.948125,
+      20.6025
+    ],
+    [
+      177.7575,
+      20.6025
+    ],
+    [
+      177.7575,
+      39.6525
+    ],
+    [
+      168.23250000000002,
+      39.6525
+    ],
+    [
+      168.23250000000002,
+      58.7025
+    ],
+    [
+      182.51999999999998,
+      58.7025
+    ],
+    [
+      182.51999999999998,
+      77.7525
+    ],
+    [
+      172.995,
+      77.7525
+    ],
+    [
+      172.995,
+      99.18375
+    ],
+    [
+      182.51999999999998,
+      99.18375
+    ],
+    [
+      182.51999999999998,
+      129.19
+    ]
+  ],
+  "battery": {
+    "candidate": "Maximum-capacity protected 1S retail pack sought; wide rear bay is a fit envelope, no pack selected",
+    "purchased_or_approved": false,
+    "pack_max_dimensions_mm": [
+      264.0,
+      50.0,
+      5.5
+    ],
+    "reserved_dimensions_mm": [
+      270.0,
+      52.0,
+      6.3
+    ],
+    "origin_xy_case_mm": [
+      6.0,
+      78.5
+    ],
+    "padding_below_mm": 0.5,
+    "datasheet": null,
+    "requested_model": "9858102 protected 1S 10000mAh",
+    "requested_nominal_pack_dimensions_mm": [
+      104.0,
+      58.0,
+      9.8
+    ],
+    "requested_model_fits": false,
+    "requested_datasheet": "https://www.dnkpower.com/wp-content/uploads/2023/11/DNK9858102-3.7V-10000mAh-Lipo-Battery-Specification.pdf",
+    "capacity_mah": null,
+    "position_xyz_case_mm": [
+      6.0,
+      78.5,
+      1.7
+    ],
+    "minimum_reserved_volume_clearance_mm": 0.4940705367966264,
+    "nearest_reference": "LED3"
+  },
+  "requested_battery_fit": {
+    "model": "9858102 protected 1S 10000mAh",
+    "nominal_dimensions_mm": [
+      104.0,
+      58.0,
+      9.8
+    ],
+    "datasheet": "https://www.dnkpower.com/wp-content/uploads/2023/11/DNK9858102-3.7V-10000mAh-Lipo-Battery-Specification.pdf",
+    "orientation": "flat on padded case floor",
+    "best_possible_front_edge_y_mm": 73.35221193128154,
+    "optimistic_bare_pcb_height_above_padding_mm": 7.489056189939299,
+    "nominal_thickness_shortfall_mm": 2.310943810060702,
+    "rejected_even_without_underside_components": true,
+    "note": "Necessary geometric bound only; passing it would not establish pack fit."
+  },
+  "stack": {
+    "pcb_top_z": 1.6,
+    "plate_bottom_z": 2.3000000000000003,
+    "plate_top_z": 3.8000000000000003,
+    "plate_support_xy": [
+      [
+        57,
+        9
+      ],
+      [
+        102,
+        9
+      ],
+      [
+        102,
+        34
+      ],
+      [
+        237,
+        34
+      ],
+      [
+        342,
+        34
+      ],
+      [
+        12,
+        59
+      ],
+      [
+        57,
+        59
+      ],
+      [
+        147,
+        59
+      ],
+      [
+        192,
+        59
+      ],
+      [
+        282,
+        59
+      ],
+      [
+        342,
+        59
+      ]
+    ],
+    "cover_bottom_z": 4.2,
+    "cover_top_z": 5.4,
+    "switch_stem_top_z": 10.2
+  },
+  "stabilizers": [
+    {
+      "reference": "SW31",
+      "xy": [
+        268.245,
+        87.2775
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW57",
+      "xy": [
+        265.86375,
+        49.1775
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW64",
+      "xy": [
+        22.97625,
+        30.1275
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW70",
+      "xy": [
+        261.10125,
+        30.1275
+      ],
+      "nominal_span_mm": 23.8,
+      "verified": false
+    },
+    {
+      "reference": "SW79",
+      "xy": [
+        142.03875,
+        11.0775
+      ],
+      "nominal_span_mm": 100.0,
+      "verified": false
+    }
+  ],
+  "keycaps": {
+    "target": "XVX Skyline R2 low profile",
+    "advertised_height_mm": 5.0,
+    "assumed_1u_footprint_mm": [
+      18.0,
+      17.0
+    ],
+    "assumed_socket_insertion_mm": 3.0,
+    "underside_measured": false,
+    "source": "User-supplied product screenshots, 2026-09-24",
+    "assumed_unpressed_bottom_z": 7.199999999999999,
+    "travel_checked": false
+  },
+  "fit_config_sha256": "41e751981fedec8911852738219be1236432d9a6f1084496400ee3f41dfeba11",
+  "limitations": [
+    "Plate uses generic stabilizer slots; no actual stabilizer solids, PCB relief or travel clearance is approved.",
+    "XVX cap height is 5 mm; 18 x 17 mm footprint and 3 mm socket insertion are unmeasured. Cap travel not checked.",
+    "Component envelopes are conservative approximations, not vendor CAD.",
+    "Cable bends, adhesive, battery swelling and FDM tolerance require physical checks.",
+    "Bare-board STL has nominal drills; ream printed holes, do not scale the board.",
+    "Populated mockup needs support below the PCB when components face down."
+  ],
+  "geometry_reused_from_source_sha256": "b3e4306501c04c6109a43bf4401a2a20836ebfe2fd93e6d52d637700bcefa449",
+  "geometry_reuse_evidence": "../validation/revision-audit.json: exact mechanical geometry and model asset comparison"
+}

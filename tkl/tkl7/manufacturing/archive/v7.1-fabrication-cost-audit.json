@@ -1,0 +1,2955 @@
+{
+  "revision": "v7.1",
+  "baseline_commit": "1c7bf4b",
+  "baseline_source_sha256": "6b2778ac59df899f80f2a2939a320516e215919910450a696fb579d4098c8c0e",
+  "routing_ported_from": "tkl/tkl8/validation/fabrication-cost-audit.json",
+  "upgraded_vias": 58,
+  "changed_routing_items": {
+    "e409e723-8136-4106-8a34-1b46e35ff34e": {
+      "before": {
+        "type": "segment",
+        "net": "COL6",
+        "start": [
+          352.25,
+          96.75
+        ],
+        "end": [
+          352.3,
+          96.7
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "COL6",
+        "start": [
+          352.25,
+          96.55
+        ],
+        "end": [
+          352.3,
+          96.7
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "1c31d4df-8bb0-4091-ab3c-179bf84533aa": {
+      "before": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          280.5195,
+          79.357
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          280.5195,
+          79.357
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "25ed68d2-0dc1-46f2-99f4-3abc4fb0ed69": {
+      "before": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          280.5195,
+          84.0257
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          280.5195,
+          84.0257
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "6383f8cc-8ab9-4609-abb2-df60b4b6247d": {
+      "before": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          290.0868,
+          41.1856
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          290.0868,
+          41.1856
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "d32f2ec4-d07e-4325-8bcd-f226f96cc697": {
+      "before": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          352.25,
+          96.75
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          352.25,
+          96.55
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "fa118039-710c-49c2-8b19-59cbd23858e1": {
+      "before": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          290.0868,
+          36.5368
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL6",
+        "at": [
+          290.0868,
+          36.5368
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "221f37f8-a626-4aa2-b9da-1a0cfb87f34a": {
+      "before": {
+        "type": "via",
+        "net": "BL",
+        "at": [
+          312.0,
+          119.06
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "BL",
+        "at": [
+          312.0,
+          119.06
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "52c1bee4-0ce6-4412-b386-a050a0bfc1c2": {
+      "before": {
+        "type": "via",
+        "net": "BL",
+        "at": [
+          202.89,
+          119.06
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "BL",
+        "at": [
+          202.89,
+          119.06
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "ebe4825a-d6a4-4c99-8c92-ab03c7950ad3": {
+      "before": {
+        "type": "via",
+        "net": "COL0",
+        "at": [
+          346.675,
+          100.25
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL0",
+        "at": [
+          346.675,
+          100.25
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "3bb4ae5c-eb40-4469-a486-ee4c19c04b25": {
+      "before": {
+        "type": "via",
+        "net": "COL2",
+        "at": [
+          123.824999,
+          56.0125
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL2",
+        "at": [
+          123.824999,
+          56.0125
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "fb75cbe9-55e3-4777-8887-bf798456fe9f": {
+      "before": {
+        "type": "via",
+        "net": "COL2",
+        "at": [
+          349.85,
+          90.6
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL2",
+        "at": [
+          349.85,
+          90.6
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "17c15809-6bb4-43af-b367-45745aef125c": {
+      "before": {
+        "type": "via",
+        "net": "COL3",
+        "at": [
+          171.45,
+          75.0625
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL3",
+        "at": [
+          171.45,
+          75.0625
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "b08d45e1-3e64-47bf-990b-5766033b8909": {
+      "before": {
+        "type": "via",
+        "net": "COL3",
+        "at": [
+          191.1962,
+          88.6538
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL3",
+        "at": [
+          191.1962,
+          88.6538
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "8c10c12e-cb28-463b-b3dd-01d0d97144aa": {
+      "before": {
+        "type": "via",
+        "net": "COL8",
+        "at": [
+          353.0259,
+          85.3337
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL8",
+        "at": [
+          353.0259,
+          85.3337
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "0e5d00c9-f2db-4547-bb56-18a192a840b3": {
+      "before": {
+        "type": "segment",
+        "net": "COL1",
+        "start": [
+          341.0,
+          96.79
+        ],
+        "end": [
+          341.0,
+          96.8
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "COL1",
+        "start": [
+          341.03,
+          96.77
+        ],
+        "end": [
+          341.0,
+          96.8
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "fc140615-50eb-4829-9723-d223e6d1188b": {
+      "before": {
+        "type": "via",
+        "net": "COL1",
+        "at": [
+          341.0,
+          96.79
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL1",
+        "at": [
+          341.03,
+          96.77
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "fcd5336e-e3b0-4cff-8105-11702aad22a6": {
+      "before": {
+        "type": "segment",
+        "net": "COL1",
+        "start": [
+          340.05,
+          97.74
+        ],
+        "end": [
+          341.0,
+          96.79
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "COL1",
+        "start": [
+          340.05,
+          97.74
+        ],
+        "end": [
+          341.03,
+          96.77
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "26f419a7-d823-43ec-b095-be562fb43e92": {
+      "before": {
+        "type": "via",
+        "net": "COL7",
+        "at": [
+          347.25,
+          99.0
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "COL7",
+        "at": [
+          347.21,
+          99.0
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "8469eb72-ab3d-41e3-a055-fc94e7b0d9ae": {
+      "before": {
+        "type": "segment",
+        "net": "COL7",
+        "start": [
+          346.0594,
+          97.8094
+        ],
+        "end": [
+          347.25,
+          99.0
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "COL7",
+        "start": [
+          346.0594,
+          97.8094
+        ],
+        "end": [
+          347.21,
+          99.0
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "c699be2f-87ac-4e26-b543-dfb1c95ab284": {
+      "before": {
+        "type": "segment",
+        "net": "COL7",
+        "start": [
+          347.22674,
+          99.0
+        ],
+        "end": [
+          347.25,
+          99.0
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "COL7",
+        "start": [
+          347.22674,
+          99.0
+        ],
+        "end": [
+          347.21,
+          99.0
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "e7ebc4d5-a5a7-4d94-8aa5-b874d72e1a77": {
+      "before": {
+        "type": "segment",
+        "net": "ROW11",
+        "start": [
+          352.75,
+          99.5
+        ],
+        "end": [
+          352.7,
+          99.5
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW11",
+        "start": [
+          352.79,
+          99.5
+        ],
+        "end": [
+          352.7,
+          99.5
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "a43741dc-9cf4-4272-9d6f-56344a0d2684": {
+      "before": {
+        "type": "via",
+        "net": "ROW11",
+        "at": [
+          352.75,
+          99.5
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW11",
+        "at": [
+          352.79,
+          99.5
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "3e67cc86-7fe8-4d87-8258-af6a8aa1f126": {
+      "before": {
+        "type": "segment",
+        "net": "ROW11",
+        "start": [
+          352.75,
+          99.5
+        ],
+        "end": [
+          352.81568,
+          99.5
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW11",
+        "start": [
+          352.79,
+          99.5
+        ],
+        "end": [
+          352.81568,
+          99.5
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "23ae158c-12b7-4b29-b1dd-ef2d2f01a92f": {
+      "before": {
+        "type": "via",
+        "net": "VDDH",
+        "at": [
+          94.79,
+          118.235
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VDDH",
+        "at": [
+          94.79,
+          118.235
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "bb3829e0-efe9-4d93-8a39-8efcf69de202": {
+      "before": {
+        "type": "via",
+        "net": "VDDH",
+        "at": [
+          332.225,
+          35.0
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VDDH",
+        "at": [
+          332.225,
+          35.0
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "4f9f7a68-741e-43ea-8759-26dd33e236e4": {
+      "before": {
+        "type": "segment",
+        "net": "BL_EN",
+        "start": [
+          149.9,
+          93.8
+        ],
+        "end": [
+          149.3,
+          93.2
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "BL_EN",
+        "start": [
+          149.9,
+          93.8
+        ],
+        "end": [
+          149.3,
+          93.23
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "7fb50d14-c79b-497b-965d-adb045313fe2": {
+      "before": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          123.0,
+          72.6
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          123.0,
+          72.6
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "88b625ad-7686-44c3-9e45-172e4f6186c4": {
+      "before": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          89.0625,
+          50.95
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          89.0625,
+          50.95
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "9bd40bf3-09f1-46cc-9b5a-5cb65078710d": {
+      "before": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          348.82,
+          109.3
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          348.82,
+          109.3
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "be049986-fc12-4a1f-b668-97ea9656e537": {
+      "before": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          149.3,
+          93.2
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "BL_EN",
+        "at": [
+          149.3,
+          93.23
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "4b072c08-0f7e-4969-80c0-2cfe8428a188": {
+      "before": {
+        "type": "segment",
+        "net": "BL_EN",
+        "start": [
+          149.3,
+          93.2
+        ],
+        "end": [
+          148.9,
+          92.8
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "BL_EN",
+        "start": [
+          149.3,
+          93.23
+        ],
+        "end": [
+          148.9,
+          92.8
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "2dd51f5a-28b0-448e-83e6-8edc03e44944": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          324.5625,
+          24.25
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          324.5625,
+          24.25
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "562064cc-4088-4ad0-b7c9-21a555d35af0": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.4,
+          24.6
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.4,
+          24.6
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "71062712-10db-4ef6-b8be-1b7061803a12": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          359.825,
+          25.2
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          359.825,
+          25.2
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "7c8478a3-12eb-454f-86a9-ad1929f584d2": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.75,
+          26.4375
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.75,
+          26.4375
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "a2108967-a37e-42f5-a0a5-834ad424279d": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.6,
+          25.4
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.6,
+          25.4
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "ad1ced68-7443-40f8-9fab-12b049f6a4b5": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.4,
+          25.4
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.4,
+          25.4
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "b635130d-4e13-41f8-b26a-0541e8d55c27": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.6,
+          24.6
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.6,
+          24.6
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "df1fa0f5-a65f-4732-ad4d-56b6f00d88fc": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          359.0,
+          30.1375
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          359.0,
+          30.1375
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "e02430d7-6bc8-4c24-ab7a-26fcd818dfac": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.75,
+          23.5625
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.75,
+          23.5625
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "e559df9b-7e22-4b1f-966f-69a548bd9a91": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.25,
+          23.5625
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          325.25,
+          23.5625
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "fc8efacd-ed63-448d-8f7d-5f30741e9832": {
+      "before": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.25,
+          26.4375
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "GND",
+        "at": [
+          326.25,
+          26.4375
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "f8008245-c003-4b35-b8bb-0b175d472d0f": {
+      "before": {
+        "type": "via",
+        "net": "ROW3",
+        "at": [
+          351.5,
+          102.75
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW3",
+        "at": [
+          351.5,
+          102.79
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "d7f58f22-7f7c-48c6-b135-54a981c37399": {
+      "before": {
+        "type": "segment",
+        "net": "ROW3",
+        "start": [
+          351.5,
+          102.75
+        ],
+        "end": [
+          351.5,
+          102.7
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW3",
+        "start": [
+          351.5,
+          102.79
+        ],
+        "end": [
+          351.5,
+          102.7
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "9fe01c38-2b5e-4405-aa34-779386f59a24": {
+      "before": {
+        "type": "via",
+        "net": "ROW1",
+        "at": [
+          348.75,
+          96.197499
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW1",
+        "at": [
+          348.81,
+          96.197499
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "cb973c49-7009-42a0-b723-aa537e763a77": {
+      "before": {
+        "type": "segment",
+        "net": "ROW1",
+        "start": [
+          348.7,
+          96.2
+        ],
+        "end": [
+          348.75,
+          96.197499
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW1",
+        "start": [
+          348.7,
+          96.2
+        ],
+        "end": [
+          348.81,
+          96.197499
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "f9afc372-5ed5-4180-a9b2-2753684954f1": {
+      "before": {
+        "type": "via",
+        "net": "ROW9",
+        "at": [
+          352.75,
+          98.0
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW9",
+        "at": [
+          352.779,
+          97.97
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "c7869523-e42b-498f-bff9-74f47bf81658": {
+      "before": {
+        "type": "segment",
+        "net": "ROW9",
+        "start": [
+          352.75,
+          98.0
+        ],
+        "end": [
+          352.84925,
+          98.0
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW9",
+        "start": [
+          352.779,
+          97.97
+        ],
+        "end": [
+          352.84925,
+          98.0
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "ccf08eb5-eb7b-40d8-bdd3-c7599fae83f5": {
+      "before": {
+        "type": "segment",
+        "net": "ROW9",
+        "start": [
+          351.95,
+          98.8
+        ],
+        "end": [
+          352.75,
+          98.0
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW9",
+        "start": [
+          351.95,
+          98.8
+        ],
+        "end": [
+          352.779,
+          97.97
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "17613d74-6583-4ad5-b618-4048daa9c70b": {
+      "before": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.215,
+          109.45
+        ],
+        "end": [
+          349.215,
+          109.561
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.24,
+          109.45
+        ],
+        "end": [
+          349.24,
+          109.561
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "2c7761c2-457f-4e8c-b631-f99c461df486": {
+      "before": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.215,
+          109.561
+        ],
+        "end": [
+          349.0555,
+          109.7205
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.24,
+          109.561
+        ],
+        "end": [
+          349.0555,
+          109.7205
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "88b3e829-51e2-4065-b0dc-bda1284da94e": {
+      "before": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.215,
+          103.28499
+        ],
+        "end": [
+          349.25,
+          103.25
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.24,
+          103.28499
+        ],
+        "end": [
+          349.25,
+          103.25
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "d578e34d-6c05-49a9-9dec-9713fb8415f4": {
+      "before": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.215,
+          103.28499
+        ],
+        "end": [
+          349.215,
+          109.45
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "ROW7",
+        "start": [
+          349.24,
+          103.28499
+        ],
+        "end": [
+          349.24,
+          109.45
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "99fbbade-3317-4aab-9fa0-8e408ae8233e": {
+      "before": {
+        "type": "via",
+        "net": "VSYS",
+        "at": [
+          325.75,
+          22.8
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VSYS",
+        "at": [
+          325.75,
+          22.8
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "2e383a7f-45a5-41b8-8d8d-11df6c88ae7d": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          359.95,
+          28.2
+        ],
+        "end": [
+          359.95,
+          27.8625
+        ],
+        "width": [
+          0.2
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          359.95,
+          28.2
+        ],
+        "end": [
+          359.95,
+          27.9
+        ],
+        "width": [
+          0.2
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "978276ce-c1b7-421f-86c5-e2028e4e8354": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          366.75,
+          26.35
+        ],
+        "end": [
+          366.75,
+          27.2
+        ],
+        "width": [
+          0.2
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          366.75,
+          26.9
+        ],
+        "end": [
+          366.75,
+          27.2
+        ],
+        "width": [
+          0.2
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "b53905bb-d92e-42a7-8784-656be3ba7806": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          365.75,
+          26.35
+        ],
+        "end": [
+          366.75,
+          26.35
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          365.75,
+          26.9
+        ],
+        "end": [
+          366.75,
+          26.9
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "2b7cd7f0-f575-48f3-a9f7-31e29e98a6bb": {
+      "before": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          359.95,
+          27.8625
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          359.95,
+          27.9
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "4ecbb961-3e4c-4ac8-a87f-ddd02bf03366": {
+      "before": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          365.75,
+          26.35
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          365.75,
+          26.9
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "84770209-10c3-4897-85b7-0b7cae0f2828": {
+      "before": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          359.95,
+          30.7375
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          359.95,
+          30.7375
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "ad34555e-c36e-42bc-ba07-016db8ebd0d9": {
+      "before": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          366.75,
+          26.35
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          366.75,
+          26.9
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "af2e2f4b-b0f6-4784-869d-256cd38f0845": {
+      "before": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          349.2,
+          90.0
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DP",
+        "at": [
+          349.2,
+          90.0
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "a6580757-1520-4805-b32f-a2208fba9637": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          365.75,
+          26.145
+        ],
+        "end": [
+          365.75,
+          26.35
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          365.75,
+          26.145
+        ],
+        "end": [
+          365.75,
+          26.9
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "aa8e8067-0ab4-4b26-a79c-998d942c984b": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          366.75,
+          26.145
+        ],
+        "end": [
+          366.75,
+          26.35
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          366.75,
+          26.145
+        ],
+        "end": [
+          366.75,
+          26.9
+        ],
+        "width": [
+          0.15
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "b8d9662b-e97f-4e78-a62a-a29b3f0366ca": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          359.95,
+          27.8625
+        ],
+        "end": [
+          359.95,
+          30.1375
+        ],
+        "width": [
+          0.18
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DP",
+        "start": [
+          359.95,
+          27.9
+        ],
+        "end": [
+          359.95,
+          30.1375
+        ],
+        "width": [
+          0.18
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "5f6cd7a1-db81-48a1-ba04-faa7302bd750": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          358.05,
+          28.6
+        ],
+        "end": [
+          358.05,
+          27.8625
+        ],
+        "width": [
+          0.2
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          358.05,
+          28.6
+        ],
+        "end": [
+          358.05,
+          27.9
+        ],
+        "width": [
+          0.2
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "70069c59-84fd-4347-a657-7fb5a2f722eb": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          348.475,
+          89.3
+        ],
+        "end": [
+          348.475,
+          89.55
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "F.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          348.475,
+          89.3
+        ],
+        "end": [
+          348.525,
+          89.75
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "F.Cu"
+      }
+    },
+    "10881c6c-83a2-4f65-8491-4aa99de872ef": {
+      "before": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          348.475,
+          89.55
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          348.525,
+          89.75
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "49f213a9-df50-4e3f-8087-c0db8d2ffd0b": {
+      "before": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          358.05,
+          27.8625
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          358.05,
+          27.9
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "b55a4c43-8e1f-469d-9a41-1b769bc32c5c": {
+      "before": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          365.25,
+          28.8
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          365.25,
+          28.8
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "d9479f19-2095-4b2b-8d91-cea73b977c93": {
+      "before": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          358.05,
+          30.1375
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "USB_DM",
+        "at": [
+          358.05,
+          30.1375
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "4e486114-597c-4f85-bef0-01a54ed6821a": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          358.05,
+          27.8625
+        ],
+        "end": [
+          358.05,
+          30.1375
+        ],
+        "width": [
+          0.18
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          358.05,
+          27.9
+        ],
+        "end": [
+          358.05,
+          30.1375
+        ],
+        "width": [
+          0.18
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "7cd0d4cc-bf18-4e6b-96d6-48c5e4b7f8dc": {
+      "before": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          348.475,
+          89.55
+        ],
+        "end": [
+          348.475,
+          90.58
+        ],
+        "width": [
+          0.18
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "USB_DM",
+        "start": [
+          348.525,
+          89.75
+        ],
+        "end": [
+          348.475,
+          90.58
+        ],
+        "width": [
+          0.18
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "44e20dab-ac8e-403f-85aa-ae8121b1afa9": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          330.0,
+          25.5375
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          330.0,
+          25.5375
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "546ed1c5-7943-4626-af97-a97a2284be35": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          358.175,
+          25.2
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          358.175,
+          25.2
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "7924d783-b5e1-40b6-8dc2-22a81c2b531e": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          359.0,
+          27.8625
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          359.0,
+          27.9
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "b1b60922-c4ac-44ba-b754-1c165882b70d": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          348.049988,
+          94.324973
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          348.02,
+          94.324973
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "bf9d860f-9f8e-4f50-90c5-dc719256c66a": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          326.75,
+          27.3
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          326.75,
+          27.3
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "c7834167-5d3e-463c-9877-da78bf45af0c": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          363.6,
+          26.145
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          363.6,
+          26.145
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "c87a5b51-abe8-4afd-a246-ba8d1b3223c6": {
+      "before": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          368.4,
+          26.145
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "VBUS",
+        "at": [
+          368.4,
+          26.145
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "0295bb77-f76f-4381-bb6b-ec43e8f92178": {
+      "before": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          359.0,
+          27.8625
+        ],
+        "end": [
+          359.0,
+          26.025
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "B.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          359.0,
+          27.9
+        ],
+        "end": [
+          359.0,
+          26.025
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "B.Cu"
+      }
+    },
+    "0b03653e-3e3a-4065-a997-aaf4df8b32a2": {
+      "before": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          358.6,
+          28.3
+        ],
+        "end": [
+          65.9,
+          28.3
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          358.6,
+          28.3
+        ],
+        "end": [
+          358.5,
+          28.4
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "5399fe9e-58b2-41ba-afb4-bf11c0a125fb": {
+      "before": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          348.0,
+          94.3
+        ],
+        "end": [
+          348.049988,
+          94.324973
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          348.0,
+          94.3
+        ],
+        "end": [
+          348.02,
+          94.324973
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "c7a2fc11-ee27-428f-8692-dc177962c319": {
+      "before": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          359.0,
+          27.8625
+        ],
+        "end": [
+          359.0,
+          27.9
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "VBUS",
+        "start": [
+          359.0,
+          27.9
+        ],
+        "end": [
+          359.0,
+          27.9
+        ],
+        "width": [
+          0.25
+        ],
+        "layer": "In2.Cu"
+      }
+    },
+    "24e8acbe-9b63-43f5-849e-42c48b44ac32": {
+      "before": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          349.24999,
+          96.75
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          349.24999,
+          96.75
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "268d5a53-9c5e-4d6b-8080-31987cca146e": {
+      "before": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          351.2,
+          85.2
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          351.2,
+          85.2
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "ad54bead-b8fe-44f5-b47b-d720fd76a437": {
+      "before": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          352.5,
+          97.2
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          352.5,
+          97.2
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "bda8cb78-a899-4c3d-82fd-b08d2378b9b8": {
+      "before": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          347.7706,
+          73.1978
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "ROW2",
+        "at": [
+          347.7706,
+          73.1978
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "7fdcfe8e-66e7-4985-8721-734f67aae42a": {
+      "before": {
+        "type": "via",
+        "net": "RESET",
+        "at": [
+          350.0,
+          97.25
+        ],
+        "size": [
+          0.35
+        ],
+        "drill": [
+          0.15
+        ]
+      },
+      "after": {
+        "type": "via",
+        "net": "RESET",
+        "at": [
+          350.0,
+          97.21
+        ],
+        "size": [
+          0.45
+        ],
+        "drill": [
+          0.2
+        ]
+      }
+    },
+    "608e53ff-5ada-4fdf-a2aa-1c65bc8cf039": {
+      "before": {
+        "type": "segment",
+        "net": "RESET",
+        "start": [
+          349.6434,
+          97.25
+        ],
+        "end": [
+          350.0,
+          97.25
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      },
+      "after": {
+        "type": "segment",
+        "net": "RESET",
+        "start": [
+          349.6434,
+          97.25
+        ],
+        "end": [
+          350.0,
+          97.21
+        ],
+        "width": [
+          0.127
+        ],
+        "layer": "In2.Cu"
+      }
+    }
+  },
+  "added_routing_items": {
+    "0c5683ee-68a3-502d-8f47-61eb49e34563": {
+      "type": "segment",
+      "net": "VBUS",
+      "start": [
+        357.4,
+        28.4
+      ],
+      "end": [
+        357.3,
+        28.3
+      ],
+      "width": [
+        0.25
+      ],
+      "layer": "In2.Cu"
+    },
+    "29631d0c-0480-56c6-9823-6c07f3f7e090": {
+      "type": "segment",
+      "net": "VBUS",
+      "start": [
+        357.3,
+        28.3
+      ],
+      "end": [
+        65.9,
+        28.3
+      ],
+      "width": [
+        0.25
+      ],
+      "layer": "In2.Cu"
+    },
+    "6c070d73-7f06-5ea4-bf09-9a7f40ee8199": {
+      "type": "segment",
+      "net": "VBUS",
+      "start": [
+        358.5,
+        28.4
+      ],
+      "end": [
+        357.4,
+        28.4
+      ],
+      "width": [
+        0.25
+      ],
+      "layer": "In2.Cu"
+    }
+  },
+  "v8_only_led_vias_not_imported": [
+    "9c7ab5eb-e4a9-46ef-a6cc-2cab79f70c2c",
+    "9f4df334-6d57-4d56-acd3-b26c22bd5c68",
+    "91406c37-bf7e-47e0-84e9-13deda85f159",
+    "a9697407-873d-43a4-9cdc-73d5673f99f7",
+    "68d1be40-687b-43cd-b699-9ddbd548b488",
+    "c7c784eb-f161-4990-a70e-cabc5f9a2dc3",
+    "b9a5ead0-6fe0-44e8-960d-6db9492bbb00",
+    "9a8174bc-9a47-45b1-9509-4063c44da90c"
+  ],
+  "live_quote_verified": false,
+  "source_sha256": "1cdfe6adc1ad38bda01bd11e0c7cdcdfdab605831ea4bd4d017f3c33130762c7",
+  "minimum_via_drill_mm": 0.2,
+  "minimum_via_pad_mm": 0.45,
+  "via_count": 273,
+  "via_histogram": [
+    {
+      "drill_mm": 0.2,
+      "pad_mm": 0.45,
+      "count": 180
+    },
+    {
+      "drill_mm": 0.3048,
+      "pad_mm": 0.6096,
+      "count": 93
+    }
+  ],
+  "mechanical_geometry_identical": true,
+  "footprint_geometry_and_pad_nets_identical": true,
+  "keepouts_identical": true,
+  "rf_signal_nets_identical": [
+    "ANT",
+    "RF",
+    "RF_MATCH",
+    "VDD_NRF"
+  ],
+  "reverse_mount_leds_and_slots_identical": true,
+  "usb_trace_length_comparison": {
+    "USB_DM": {
+      "all_segment_lengths_before_mm": 104.96624400909597,
+      "all_segment_lengths_after_mm": 104.89551792624233,
+      "change_mm": -0.07072608285363913
+    },
+    "USB_DP": {
+      "all_segment_lengths_before_mm": 103.1647579603501,
+      "all_segment_lengths_after_mm": 103.6397579603501,
+      "change_mm": 0.4749999999999943
+    }
+  },
+  "usb_note": "Sum includes connector branches, not a single routed path. Local breakouts changed; long coupled routing is preserved. Not an impedance or signal-integrity certification.",
+  "validation": {
+    "numbered_pads": 578,
+    "unique_keys": 86,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "cpl_identical": true,
+  "component_placements": 142,
+  "assembly_side": "Bottom",
+  "bom_groups": 31,
+  "exported_drill_minimum_mm": 0.2,
+  "exported_small_via_count": 180,
+  "exported_npth_program_identical": true
+}

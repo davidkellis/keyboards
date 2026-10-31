@@ -1,0 +1,214 @@
+{
+  "groups": [
+    {
+      "label": "Base Material",
+      "selected": [
+        "FR-4"
+      ]
+    },
+    {
+      "label": "Layers",
+      "selected": [
+        "6 "
+      ]
+    },
+    {
+      "label": "Dimensions",
+      "selected": []
+    },
+    {
+      "label": "PCB Qty",
+      "selected": [
+        "\n            5\n          "
+      ]
+    },
+    {
+      "label": "Product Type",
+      "selected": [
+        "Industrial/Consumer electronics"
+      ]
+    },
+    {
+      "label": "Different Design",
+      "selected": [
+        "1"
+      ]
+    },
+    {
+      "label": "Delivery Format",
+      "selected": [
+        "Single PCB"
+      ]
+    },
+    {
+      "label": "PCB Thickness",
+      "selected": [
+        "1.6mm"
+      ]
+    },
+    {
+      "label": "PCB Color",
+      "selected": [
+        "Green"
+      ]
+    },
+    {
+      "label": "Silkscreen",
+      "selected": [
+        "White"
+      ]
+    },
+    {
+      "label": "Material Type",
+      "selected": [
+        "FR4 TG135"
+      ]
+    },
+    {
+      "label": "Surface Finish",
+      "selected": [
+        "ENIG"
+      ]
+    },
+    {
+      "label": "Gold Thickness",
+      "selected": [
+        "1 U\""
+      ]
+    },
+    {
+      "label": "Outer Copper Weight",
+      "selected": [
+        "1 oz"
+      ]
+    },
+    {
+      "label": "Inner Copper Weight",
+      "selected": [
+        "0.5 oz"
+      ]
+    },
+    {
+      "label": "Specify Stackup",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Via Covering",
+      "selected": [
+        "Epoxy Filled & Capped"
+      ]
+    },
+    {
+      "label": "Min via hole size/diameter",
+      "selected": [
+        "0.3mm/(0.4/0.45mm)"
+      ]
+    },
+    {
+      "label": "Board Outline Tolerance",
+      "selected": [
+        "±0.2mm(Regular)"
+      ]
+    },
+    {
+      "label": "Confirm Production file",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Mark on PCB",
+      "selected": [
+        "Remove Mark"
+      ]
+    },
+    {
+      "label": "Electrical Test",
+      "selected": [
+        "Flying Probe Fully Test"
+      ]
+    },
+    {
+      "label": "Gold Fingers",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Castellated Holes",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Press-Fit Hole",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Edge Plating",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Blind Slots",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "UL Marking",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Backdrill",
+      "selected": [
+        "No"
+      ]
+    },
+    {
+      "label": "Humidity Indicator Card",
+      "selected": [
+        "No"
+      ]
+    }
+  ],
+  "inputs": [
+    {
+      "type": "text",
+      "placeholder": "Select",
+      "value": "More",
+      "checked": false
+    },
+    {
+      "type": "text",
+      "placeholder": "X",
+      "value": "350.76",
+      "checked": false
+    },
+    {
+      "type": "text",
+      "placeholder": "Y",
+      "value": "139.19",
+      "checked": false
+    },
+    {
+      "type": "text",
+      "placeholder": "Select",
+      "value": "mm",
+      "checked": false
+    },
+    {
+      "type": "text",
+      "placeholder": "",
+      "value": "",
+      "checked": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+(footprint "SW_SLIDE"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "B.Cu")
+	(descr "SPST slide switch, 2.54 mm pitch")
+	(property "Reference" "REF**"
+		(at 1.2 -4.2 0)
+		(layer "B.SilkS")
+		(uuid "11111111-1111-4111-8111-111111111301")
+		(effects (font (size 0.8 0.8) (thickness 0.12)) (justify mirror))
+	)
+	(property "Value" "SW_SLIDE"
+		(at 1.2 3.4 0)
+		(layer "B.Fab")
+		(uuid "11111111-1111-4111-8111-111111111302")
+		(effects (font (size 0.8 0.8) (thickness 0.12)) (hide yes))
+	)
+	(attr through_hole)
+	(pad "1" thru_hole circle (at 0 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
+	(pad "2" thru_hole circle (at 2.54 0) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
+	(embedded_fonts no)
+)

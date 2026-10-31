@@ -1,0 +1,86 @@
+{
+  "BL_EN": {
+    "pad": "A8",
+    "gpio": "AIN7/P0.31_A8"
+  },
+  "COL0": {
+    "pad": "L1",
+    "gpio": "P0.06_L1"
+  },
+  "COL1": {
+    "pad": "N1",
+    "gpio": "P0.08_N1"
+  },
+  "COL2": {
+    "pad": "AD12",
+    "gpio": "P0.17_AD12"
+  },
+  "COL3": {
+    "pad": "AD16",
+    "gpio": "P0.20_AD16"
+  },
+  "COL4": {
+    "pad": "AD18",
+    "gpio": "P0.22_AD18"
+  },
+  "COL5": {
+    "pad": "AD20",
+    "gpio": "P0.24_AD20"
+  },
+  "COL6": {
+    "pad": "AD22",
+    "gpio": "TRACEDATA0/P1.00_AD22"
+  },
+  "COL7": {
+    "pad": "T2",
+    "gpio": "TRACEDATA2/P0.11_T2"
+  },
+  "COL8": {
+    "pad": "U24",
+    "gpio": "P1.04_U24"
+  },
+  "ROW0": {
+    "pad": "R24",
+    "gpio": "P1.06_R24"
+  },
+  "ROW1": {
+    "pad": "AD8",
+    "gpio": "P0.13_AD8"
+  },
+  "ROW2": {
+    "pad": "AD10",
+    "gpio": "P0.15_AD10"
+  },
+  "ROW3": {
+    "pad": "B19",
+    "gpio": "P1.11_B19"
+  },
+  "ROW4": {
+    "pad": "A16",
+    "gpio": "P1.13_A16"
+  },
+  "ROW5": {
+    "pad": "A14",
+    "gpio": "P1.15_A14"
+  },
+  "ROW6": {
+    "pad": "A12",
+    "gpio": "AIN0/P0.02_A12"
+  },
+  "ROW7": {
+    "pad": "A10",
+    "gpio": "AIN5/P0.29_A10"
+  },
+  "ROW9": {
+    "pad": "Y23",
+    "gpio": "P1.01_Y23"
+  },
+  "ROW10": {
+    "pad": "W24",
+    "gpio": "P1.02_W24"
+  },
+  "ROW11": {
+    "pad": "P23",
+    "gpio": "P1.07_P23"
+  }
+}

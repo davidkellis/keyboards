@@ -1,0 +1,32 @@
+{
+  "kicad_version": "10.0.6",
+  "revision": "v7.3",
+  "copper_layers": 6,
+  "stackup": "JLC06161H-7628",
+  "surface_finish": "OSP",
+  "solder": "lead-free",
+  "status": "Experimental prototype: hold production for stabilizer, keycap and battery fit validation",
+  "fitted_components": 142,
+  "smt_components": 140,
+  "tht_components": 2,
+  "validation": {
+    "numbered_pads": 578,
+    "unique_keys": 86,
+    "circuit_issues": [],
+    "erc_errors": 0,
+    "erc_warnings": 0,
+    "drc_errors": 0,
+    "drc_warnings": 0,
+    "unconnected_items": 0,
+    "schematic_parity_issues": 0
+  },
+  "source_sha256": {
+    "kicad/keyboard.kicad_pcb": "b3647f725c0fe309c719ec4b547932c54e0f027c7a9b3da7c1b052ce1baa0e3b",
+    "kicad/keyboard.kicad_pro": "ef89763b780647e5254d8cc6194940a8c8c9ce943ad0c816c402a08c4581c679",
+    "kicad/keyboard.kicad_dru": "03260cdb69149d59f50b92d9d069fbda76e2d8b89340df194d2b86ceade12991",
+    "kicad/keyboard.kicad_sch": "92bfe75f1ba8685acccef6a7f9bcf4d79463b5d7831961d84a33c3e177596c5b",
+    "kicad/matrix.kicad_sch": "190791a63705fb3c8071d94168f99676c925473f5c2d3399062910b384cd25b8",
+    "kicad/power.kicad_sch": "bb3bd886dabbefc9ddb3dd93ba13c7d346cf4e3c69dc54f3bf45a05fde1b48c8",
+    "manufacturing/parts.json": "552023260a768efaca2f00475a5bcfb95ca0b7ca3234ad416169b7c9351b4091"
+  }
+}

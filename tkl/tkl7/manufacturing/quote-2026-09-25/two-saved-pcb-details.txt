@@ -1,0 +1,68 @@
+Product Detail Gerber file: tkl-v7.1-gerbers_Y5
+            tkl-v7.1-gerbers_Y5
+           Build Time: 
+          3 days
+            Base Material: FR-4  Layers: 4 Dimension: 
+          350.76
+          mm*
+          139.19
+          mm
+         PCB Qty: 5  Product Type: 
+          Industrial/Consumer electronics
+         Different Design: 1 Delivery Format: 
+          Single PCB
+           PCB Thickness: 1.6mm  Specify Stackup: 
+          yes
+           
+          JLC04161H-7628
+           Impedance Control: No requirement Layer Sequence:  PCB Color: 
+          Green
+         Silkscreen: White Material Type: FR4 TG155  Via Covering: 
+          Epoxy Filled & Capped
+         Surface Finish: ENIG 
+          Gold Thickness: 1 U"
+         Deburring/Edge rounding: 
+          No
+         Outer Copper Weight: 1 oz  Inner Copper Weight: 0.5 oz Gold Fingers: 
+          No
+          Remark:  
+          V7.1: min via drill 0.20mm/pad 0.45mm. Review small-via/Kelvin fees. Epoxy fill/cap all 0.20/0.305mm vias, not component holes/LED slots. Stack JLC04161H-7628. Preserve six LED NPTH slots.
+        
+            V7.1: min via drill 0.20mm/pad 0.45mm. Review small-via/Kelvin fees. Epoxy fill/cap all 0.20/0.305mm vias, not component holes/LED slots. Stack JLC04161H-7628. Preserve six LED NPTH slots.
+           Electrical Test: Flying Probe Fully Test Castellated Holes: no  Press-Fit Hole: No Edge Plating: No Mark on PCB: 
+          Remove Mark
+         Blind Slot: 
+          No
+         Min via hole size/diameter: 
+          0.2mm/(0.3/0.35mm)
+          Via Plating Method: 
+          Horizontal Electroless Copper Plating
+          4-Wire Kelvin Test: 
+          Yes
+          Paper between PCBs: 
+          No
+          Appearance Quality: 
+          IPC Class 2 Standard
+          Confirm Production file: 
+          Yes
+           
+              Production will not start until we have your manual confirmation.
+            Silkscreen Technology: 
+          Ink-jet Printing Silkscreen
+          Package Box: 
+          With JLCPCB logo
+          Inspection Report: 
+          No
+          Board Outline Tolerance: 
+          ±0.2mm(Regular)
+          Impedance Test Report: 
+          No
+          UL Marking: 
+          No
+          Countersink Hole: 
+          No
+          Backdrill: 
+          No
+           Shortage Preference: 
+            Require Full Quantity
+            Gross Weight: 0.93kg  Layer Sequence   Beveling   

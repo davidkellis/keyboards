@@ -1,0 +1,302 @@
+[
+  {
+    "label": "Base Material",
+    "selected": [
+      "FR-4"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Layers",
+    "selected": [
+      "4"
+    ],
+    "inputs": [
+      "More"
+    ]
+  },
+  {
+    "label": "Dimensions",
+    "selected": [],
+    "inputs": [
+      "350.76",
+      "129.19",
+      "mm"
+    ]
+  },
+  {
+    "label": "PCB Qty",
+    "selected": [
+      "5"
+    ],
+    "inputs": [
+      ""
+    ]
+  },
+  {
+    "label": "Product Type",
+    "selected": [
+      "Industrial/Consumer electronics"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Different Design",
+    "selected": [
+      "1"
+    ],
+    "inputs": [
+      ""
+    ]
+  },
+  {
+    "label": "Delivery Format",
+    "selected": [
+      "Single PCB"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCB Thickness",
+    "selected": [
+      "1.6mm"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCB Color",
+    "selected": [
+      "Green"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Silkscreen",
+    "selected": [
+      "White"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Material Type",
+    "selected": [
+      "FR4 TG155"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Surface Finish",
+    "selected": [
+      "ENIG"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Gold Thickness",
+    "selected": [
+      "1 U\""
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Outer Copper Weight",
+    "selected": [
+      "1 oz"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Inner Copper Weight",
+    "selected": [
+      "0.5 oz"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Specify Layer Sequence",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Specify Stackup",
+    "selected": [
+      "Yes"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Layer Stackup",
+    "selected": [
+      "JLC04161H-7628"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Impedance Control",
+    "selected": [
+      "No requirement"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Via Covering",
+    "selected": [
+      "Epoxy Filled & Capped"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Via Plating Method",
+    "selected": [
+      "Horizontal Electroless Copper Plating"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Min via hole size/diameter",
+    "selected": [
+      "0.2mm/(0.3/0.35mm)"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Board Outline Tolerance",
+    "selected": [
+      "±0.2mm(Regular)"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Confirm Production file",
+    "selected": [
+      "Yes"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Mark on PCB",
+    "selected": [
+      "Remove Mark"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Electrical Test",
+    "selected": [
+      "Flying Probe Fully Test"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Gold Fingers",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Castellated Holes",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Press-Fit Hole",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Edge Plating",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Blind Slots",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "UL Marking",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Backdrill",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Humidity Indicator Card",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCBA Type",
+    "selected": [
+      "Economic"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Assembly Side",
+    "selected": [
+      "Bottom Side"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "PCBA Qty",
+    "selected": [
+      "5"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Tooling holes",
+    "selected": [],
+    "inputs": []
+  },
+  {
+    "label": "Confirm Parts Placement",
+    "selected": [
+      "Yes"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Stencil Storage",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Fixture Storage",
+    "selected": [
+      "No"
+    ],
+    "inputs": []
+  },
+  {
+    "label": "Parts Selection",
+    "selected": [
+      "By Customer (Self-Service)"
+    ],
+    "inputs": []
+  }
+]
